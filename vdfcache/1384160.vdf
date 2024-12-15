@@ -1,0 +1,480 @@
+"1384160"
+{
+	"common"
+	{
+		"name"		"GUILTY GEAR -STRIVE-"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"1476fe8b90f26531a5963b4a9fcdad608cfca18d"
+		"logo_small"		"1476fe8b90f26531a5963b4a9fcdad608cfca18d_thumb"
+		"icon"		"7f533439eee06521bb022a7afba5e6eb3f604003"
+		"clienticon"		"9ba9925e7c37710a4e165916dd01e10c2eded18f"
+		"clienttga"		"8b6321fd960b4df86c63bae3bba9ef2415499b06"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1657065600"
+			"tested_build_id"		"8994567"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"metacritic_name"		"Guilty Gear -Strive-"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"71efb3115aa40f6eb155d9c427e61b09564cd881/capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_hero_blur"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"24.583757863931623"
+				"height_pct"		"40.43906171666801"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image2x"
+				{
+					"english"		"a12acd145aa20c20b388080ec0d079c4031b977f/library_600x900_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"a12acd145aa20c20b388080ec0d079c4031b977f/library_600x900.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image2x"
+				{
+					"english"		"3dc1f6b07ce905817c390c77c059225cc8325fda/library_hero_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"3dc1f6b07ce905817c390c77c059225cc8325fda/library_hero.jpg"
+				}
+			}
+			"library_hero_blur"
+			{
+				"image"
+				{
+					"english"		"3dc1f6b07ce905817c390c77c059225cc8325fda/library_hero_blur.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image2x"
+				{
+					"english"		"66e58a4fc47b5d6762ab7380a3659c42f107f82f/logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"24.583757863931623"
+					"height_pct"		"40.43906171666801"
+				}
+				"image"
+				{
+					"english"		"66e58a4fc47b5d6762ab7380a3659c42f107f82f/logo.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"0726de37fefbcbbcacd222c5884988b4b31af884/library_header.jpg"
+				}
+				"image2x"
+				{
+					"english"		"0726de37fefbcbbcacd222c5884988b4b31af884/library_header_2x.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1731305977"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Arc System Works"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Arc System Works"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Guilty Gear"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_23"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1623394680"
+		"metacritic_score"		"85"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/guilty-gear--strive-?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1384160"
+		"store_tags"
+		{
+			"0"		"1743"
+			"1"		"4736"
+			"2"		"1756"
+			"3"		"4085"
+			"4"		"1775"
+			"5"		"4975"
+			"6"		"1773"
+			"7"		"3854"
+			"8"		"3859"
+			"9"		"19"
+			"10"		"3871"
+			"11"		"1742"
+			"12"		"4191"
+			"13"		"7368"
+			"14"		"1684"
+			"15"		"3993"
+			"16"		"4145"
+			"17"		"44868"
+			"18"		"5984"
+			"19"		"597"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Arc System Works"
+		"publisher"		"Arc System Works"
+		"listofdlc"		"1544400,1544401,1544402,1544403,1544404,1544405,1544406,1544407,1544408,1649880,1652890,1652891,1652892,2081050,2081051,2081052,2081053,2081054,2081055,2081056,2410760,2410761,2524030,2524040,2524050,2524060,2524070,2524090,2524100,2524110,2524120,3060720"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"GUILTY GEAR STRIVE"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GGST.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"BetaKey"		"debug"
+				}
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"1"
+		"1384161"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3201133687679288069"
+					"size"		"29451946618"
+					"download"		"28102137056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steamevaluation"
+				{
+					"gid"		"56E179FF36910AD9839FD777771CDE70"
+					"size"		"733F75D4380DE1990B6F4C3D25F4C992"
+					"download"		"22223F3373C0E10231132BF1E62F9FB0"
+				}
+				"steamtest_debug"
+				{
+					"gid"		"0B7ED1D45433244538A3E65C44C05B32"
+					"size"		"71634BCDB15F1BF5C50DC77D9B4431C4"
+					"download"		"4779493530D28BCB3FB76F74D1CDF2DF"
+				}
+				"temp"
+				{
+					"gid"		"AE8A5587EF4DF1D30943A96A5DD1FB5B"
+					"size"		"079BF37B94E7BBC8C78C9EE6D61D0103"
+					"download"		"E32376B8C9DD687B269A125409E8EFFC"
+				}
+				"debug"
+				{
+					"gid"		"4D57FF3E398AFB999E2044566787E8D9"
+					"size"		"2D3FEF51DE86B3B95E8B201B88026E65"
+					"download"		"E5A3C21A9181417CEF090AD090A6846B"
+				}
+				"debug2"
+				{
+					"gid"		"4981CFD10173C80E5F538724F9C0A35A"
+					"size"		"69FE3450E3DAC6280B8A8AD2D44D2097"
+					"download"		"A88EEBD7E609C02C6CFE049603C1DADC"
+				}
+				"hayashi_test"
+				{
+					"gid"		"D39465D18FF10F90C42FE59CC710EDEC"
+					"size"		"96789DC80C6BFC778AC3AE6AE1902EA9"
+					"download"		"044551A157EE720E9D71A60F0FE2BEDE"
+				}
+				"release"
+				{
+					"gid"		"84E521CC9AA1345FDDE1EFC6B78E20F3"
+					"size"		"35F30676A40BA4EC7102281D2142E8B6"
+					"download"		"183170430B4E70A4173223EEA861B14A"
+				}
+				"test"
+				{
+					"gid"		"FA5625F3C6E2B15C212B1E30898F772A"
+					"size"		"66622E4CF80C3A4FAA56C28A35E9F7CA"
+					"download"		"79EAA51D31A5B6431C1062EF67015056"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16319766"
+				"timeupdated"		"1732086395"
+			}
+			"steamevaluation"
+			{
+				"buildid"		"6812200"
+				"pwdrequired"		"1"
+				"timeupdated"		"1622802369"
+			}
+			"steamtest_debug"
+			{
+				"buildid"		"8928066"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655170600"
+			}
+			"temp"
+			{
+				"buildid"		"6790175"
+				"pwdrequired"		"1"
+				"timeupdated"		"1622514959"
+			}
+			"debug"
+			{
+				"buildid"		"16688377"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733798800"
+			}
+			"debug2"
+			{
+				"buildid"		"16160302"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729745157"
+			}
+			"hayashi_test"
+			{
+				"buildid"		"14182855"
+				"pwdrequired"		"1"
+				"timeupdated"		"1718778568"
+			}
+			"release"
+			{
+				"buildid"		"16688233"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733798127"
+			}
+			"test"
+			{
+				"buildid"		"15203184"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729153629"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"200"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"GGST/Saved/SaveGames/{Steam3AccountID}"
+				"pattern"		"*"
+			}
+		}
+	}
+}

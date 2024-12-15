@@ -1,0 +1,513 @@
+"1989270"
+{
+	"common"
+	{
+		"name"		"Slay the Princess — The Pristine Cut"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"83b6a29b4ecbf33f43d7680a739bb6c98f0d0e57"
+		"clienttga"		"fbd292a163d572c62a28e640a55346cae8983968"
+		"icon"		"aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1711670400"
+			"tested_build_id"		"13861454"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
+		"metacritic_name"		"Slay the Princess"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"e47c28b4d5f592ad6fd9c9bc3053d33226bef433/capsule_231x87.jpg"
+			"tchinese"		"8f9f63146f5648a98024920bf225aac5089770b7/capsule_231x87_tchinese.jpg"
+			"schinese"		"4289a12742928f0173893282a4e0c2539c7bcc39/capsule_231x87_schinese.jpg"
+			"japanese"		"a6223c9329f4279a296a7b9cab5783bb442cfd86/capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"34.66819221967964"
+				"height_pct"		"53.799391921051296"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"UpperCenter"
+					"width_pct"		"34.66819221967964"
+					"height_pct"		"53.799391921051296"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1730131463"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Black Tabby Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Black Tabby Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Serenity Forge"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Black Tabby Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1698069537"
+		"metacritic_score"		"90"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/slay-the-princess?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1989270"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"6426"
+			"2"		"1721"
+			"3"		"1667"
+			"4"		"4486"
+			"5"		"1742"
+			"6"		"11014"
+			"7"		"9551"
+			"8"		"4947"
+			"9"		"1698"
+			"10"		"21"
+			"11"		"3854"
+			"12"		"4474"
+			"13"		"5900"
+			"14"		"122"
+			"15"		"3839"
+			"16"		"599"
+			"17"		"1751"
+			"18"		"5923"
+			"19"		"6815"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Black Tabby Games"
+		"publisher"		"Black Tabby Games"
+		"homepage"		"https://www.blacktabbygames.com/"
+		"listofdlc"		"2642210"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Slay the Princess"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SlaythePrincess.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SlaythePrincess.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"SlaythePrincess.sh"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamcontrollertouchtemplateindex"		"9"
+	}
+	"depots"
+	{
+		"1989271"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1512334958318995855"
+					"size"		"12972809102"
+					"download"		"12316375104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"legacybuild"
+				{
+					"gid"		"04206E7EA2EF57ED5906D034F15237D0"
+					"size"		"31276567D56A3955A7575148DB459290"
+					"download"		"8B883095178AD9EA0D418D5D2A87BD31"
+				}
+				"endofeverthingupdate"
+				{
+					"gid"		"16B58E0F1078DE7D1FEDF017A69D1558"
+					"size"		"065F76199DD9BEDBB4D5AFE1AACDAF09"
+					"download"		"285E4062B8CC82D1FE47F18229CB1991"
+				}
+				"press"
+				{
+					"gid"		"EA4819BFCF8D4E7B8AFFC762A75AABF5"
+					"size"		"D27ACADC60986D41AADA742699720F2B"
+					"download"		"CEB3358DEC0DEEEF91FFCC3040DADFAC"
+				}
+				"waitforevertest"
+				{
+					"gid"		"3E63026C7BA3FD8129112B95CCD648D6"
+					"size"		"6940A7D70E3FE596D8454224D41BF03E"
+					"download"		"EF8B803029B30C1C024B19CA9C4F7839"
+				}
+			}
+		}
+		"1989272"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2491764113538269831"
+					"size"		"11266322769"
+					"download"		"8547722720"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"legacybuild"
+				{
+					"gid"		"04B2832967CE1F05129871C70F75EAA6"
+					"size"		"3BCB66DD315E7ECDC25A26FA80A2A7B3"
+					"download"		"62C101233BE64847CCFD0D9D7D86DEB8"
+				}
+				"endofeverthingupdate"
+				{
+					"gid"		"C2F0D7C0CC506BA035C7781CB23F333F"
+					"size"		"C94E6DC34F96DF9CD8A6043BE1283462"
+					"download"		"D93487AE9567DCE4D81B5B9FA0815DD8"
+				}
+				"press"
+				{
+					"gid"		"D9CA174664D9448CBC843653C8E7CC1F"
+					"size"		"EBF8B595FC770C1EF4DA77CDFB33CE40"
+					"download"		"C67B62AEEC753BD388F70F9397E5732F"
+				}
+				"waitforevertest"
+				{
+					"gid"		"B06638E7E796B98749356400D3A8B750"
+					"size"		"98026B8397F4DE7927B6A88520E5B466"
+					"download"		"1EEAAAB47687966A86E2DC02A2B9C05D"
+				}
+			}
+		}
+		"1989273"
+		{
+			"dlcappid"		"2642210"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1475979213442814800"
+					"size"		"8507804466"
+					"download"		"8256453424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"legacybuild"
+				{
+					"gid"		"7CE7E49A320D8C52DFCB77C3310A2B6D"
+					"size"		"6E9F64BA9479CBE1848E9AB6F619C1DB"
+					"download"		"21B855823019962BCFCBC0135D0229B3"
+				}
+				"endofeverthingupdate"
+				{
+					"gid"		"13A5F664C4F16C7AC3915C7EB6E1C3F4"
+					"size"		"90DF3D99B430745EC0089E5BFC592386"
+					"download"		"8EB0FA17B23802AB4893023B6E57AE0D"
+				}
+				"press"
+				{
+					"gid"		"6341E40CCED73D6CF95B36395F59E2E5"
+					"size"		"9755B19AE3D952BEF557110938AEB2CB"
+					"download"		"5E7C6C72732837F17A92FDBA34E90C84"
+				}
+				"waitforevertest"
+				{
+					"gid"		"5CDF516820D223DBCDF1354A0FAB8C6C"
+					"size"		"C94772D5F0F73A2DEBEE38DE384D2E73"
+					"download"		"28E96F92C24BFD4F326F52413A56E625"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16313218"
+				"timeupdated"		"1730891042"
+			}
+			"legacybuild"
+			{
+				"buildid"		"13846936"
+				"pwdrequired"		"1"
+				"timeupdated"		"1711390880"
+			}
+			"endofeverthingupdate"
+			{
+				"buildid"		"16168659"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729789181"
+			}
+			"press"
+			{
+				"buildid"		"16309867"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730869053"
+			}
+			"waitforevertest"
+			{
+				"buildid"		"16265657"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730471312"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves/"
+				"pattern"		"*"
+			}
+		}
+	}
+}

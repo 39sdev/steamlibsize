@@ -1,0 +1,329 @@
+"1962920"
+{
+	"common"
+	{
+		"name"		"けものフレンズ Cellien May Cry"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"name_localized"
+		{
+			"english"		"Kemono Friends Cellien May Cry"
+			"schinese"		"兽娘动物园 Cellien May Cry"
+			"tchinese"		"動物朋友 Cellien May Cry"
+			"koreana"		"케모노 프렌즈 Cellien May Cry"
+			"thai"		"เคะโมะโนะเฟรนด์ส Cellien May Cry"
+		}
+		"clienticon"		"616a9e8a111e36dba04141e63aabc29d29b7a4b5"
+		"clienttga"		"00e55357e7bef08be050434db98275b74cf633f0"
+		"icon"		"78c1d6313e00fe671fdfb23be8bf8146f085cbc7"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"koreana"		"1"
+			"schinese"		"1"
+			"japanese"		"1"
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+					"japanese"		"library_600x900_japanese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+					"japanese"		"library_600x900_japanese_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"50"
+					"height_pct"		"50"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+					"japanese"		"logo_japanese.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+					"japanese"		"logo_japanese_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1649871873"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"坂本龍"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"霧雨前線"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1651410630"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1962920"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"1646"
+			"2"		"19"
+			"3"		"7208"
+			"4"		"4231"
+			"5"		"4191"
+			"6"		"4726"
+			"7"		"1697"
+			"8"		"4085"
+			"9"		"3835"
+			"10"		"1684"
+			"11"		"17894"
+			"12"		"4182"
+			"13"		"30358"
+			"14"		"1669"
+			"15"		"113"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"坂本龍"
+		"publisher"		"霧雨前線"
+		"homepage"		"https://freegame-mugen.jp/action/game_9372.html"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"KemonoFriendsCMC"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"KemonoFriendsCMC.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Start Game (Windows)"
+					"schinese"		"开始游戏（Windows）"
+					"japanese"		"ゲームを開始する（Windows）"
+				}
+				"description"		"Start Game (Windows)"
+			}
+			"2"
+			{
+				"executable"		"ReadMe_EN.txt"
+				"type"		"manual"
+				"description_loc"
+				{
+					"english"		"Readme (English)"
+					"schinese"		"使用说明（英文）"
+					"japanese"		"説明書（英語）"
+				}
+				"description"		"Readme (English)"
+			}
+			"5"
+			{
+				"executable"		"KemonoFriendsCMC.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Start Game (Mac)"
+					"schinese"		"开始游戏（Mac）"
+					"japanese"		"ゲームを開始する（Mac）"
+				}
+				"description"		"Start Game (Mac)"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,schinese,japanese"
+		"1962921"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7789146425734198882"
+					"size"		"2062902512"
+					"download"		"1464883648"
+				}
+			}
+		}
+		"1962922"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1200307065852008313"
+					"size"		"2189164662"
+					"download"		"1526067472"
+				}
+			}
+		}
+		"1962923"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5466045812256659173"
+					"size"		"2056168959"
+					"download"		"1462935504"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13688970"
+				"timeupdated"		"1709969588"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"200000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"KirisameZensen/KemonoFriendsCMC"
+				"pattern"		"*.savedata.json"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}

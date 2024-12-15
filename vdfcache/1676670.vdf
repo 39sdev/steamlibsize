@@ -1,0 +1,234 @@
+"1676670"
+{
+	"common"
+	{
+		"name"		"东方有顶天梦"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"0edf9bc979898c75fecd2fefd499f15ba998bbaf"
+		"clienticon"		"b36d857179377931bf6cd2741d4008bf21ac389f"
+		"icon"		"332cbcf45505c9c3c3d7388f010cc2ef10c2d966"
+		"logo"		"a856c9dd5477c2effc7063251596dace06e81ce7"
+		"logo_small"		"a856c9dd5477c2effc7063251596dace06e81ce7_thumb"
+		"name_localized"
+		{
+			"english"		"The Top of The Dream"
+			"japanese"		"東方有頂天夢"
+			"tchinese"		"東方有頂天夢"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"60.618279569892486"
+				"height_pct"		"78.81944444444444"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"60.618279569892486"
+					"height_pct"		"78.81944444444444"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"96cd7ab15ce3cfbb7992560565aef0979a198a05/library_header.jpg"
+				}
+				"image2x"
+				{
+					"english"		"96cd7ab15ce3cfbb7992560565aef0979a198a05/library_header_2x.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1732294164"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"东方有顶天制作组"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Crestruction"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1626510480"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1676670"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"4885"
+			"1"		"1774"
+			"2"		"3871"
+			"3"		"21"
+			"4"		"7250"
+			"5"		"4085"
+			"6"		"1684"
+			"7"		"4057"
+			"8"		"7208"
+			"9"		"3942"
+			"10"		"492"
+			"11"		"5984"
+			"12"		"122"
+			"13"		"597"
+			"14"		"4182"
+			"15"		"3993"
+			"16"		"180368"
+		}
+		"review_score"		"5"
+		"review_percentage"		"57"
+	}
+	"extended"
+	{
+		"developer"		"东方有顶天制作组"
+		"publisher"		"Crestruction"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TheTopofTheDream"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game/TheTopofTheDream.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"1676671"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8268358930145259818"
+					"size"		"834353876"
+					"download"		"429801696"
+				}
+			}
+		}
+		"workshopdepot"		"1676670"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16672843"
+				"timeupdated"		"1733670085"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"256"
+	}
+}

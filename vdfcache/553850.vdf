@@ -1,0 +1,2654 @@
+"553850"
+{
+	"common"
+	{
+		"name"		"HELLDIVERS™ 2"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"bc677582e8f758a167e84be4becc7475bbc82906"
+		"clienttga"		"50d2d820e04b149fc26d602b89d6812b835d58b5"
+		"icon"		"c3dff088e090f81d6e3d88eabbb67732647c69cf"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"553850_eula_0"
+				"name"		"HELLDIVERS™ 2 EULA (RoW)"
+				"url"		"https://store.steampowered.com/eula/553850_eula_0"
+				"version"		"4"
+				"countries"		"AR,AS,BO,BR,CA,CL,CN,CO,CR,EC,GT,GU,HK,HN,ID,MP,MX,MY,NI,PA,PE,PH,PR,PY,SG,SV,TH,TW,US,UY,VI,VN"
+			}
+			"1"
+			{
+				"id"		"553850_eula_1"
+				"name"		"HELLDIVERS™ 2 EULA (EMEA)"
+				"url"		"https://store.steampowered.com/eula/553850_eula_1"
+				"countries"		"AD,AE,AT,AU,BE,BG,BH,CH,CY,CZ,DE,DK,ES,FI,FR,GB,GR,HR,HU,IE,IL,IN,IS,IT,KW,LB,LI,LU,MT,NL,NO,NZ,OM,PL,PT,QA,RO,RS,RU,SA,SE,SI,SK,TR,UA,ZA"
+				"version"		"1"
+			}
+			"2"
+			{
+				"id"		"553850_eula_2"
+				"name"		"HELLDIVERS™ 2 EULA (JP)"
+				"url"		"https://store.steampowered.com/eula/553850_eula_2"
+				"countries"		"JP"
+				"version"		"1"
+			}
+			"3"
+			{
+				"id"		"553850_eula_3"
+				"name"		"HELLDIVERS™ 2 EULA (KR)"
+				"url"		"https://store.steampowered.com/eula/553850_eula_3"
+				"countries"		"KR"
+				"version"		"1"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1724284800"
+			"tested_build_id"		"15437709"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"2097f73bc73e84ff9928e8e65b6328800054da57/capsule_231x87.jpg"
+			"german"		"64b33b2f9ae3f963dc9cdf3c667f1cb789f640bf/capsule_231x87_german.jpg"
+			"spanish"		"dbfec593ac09065b64bb449b84953f22665b8024/capsule_231x87_spanish.jpg"
+			"latam"		"ea7cecc355db0ddf9bd23cac629112df4661f748/capsule_231x87_latam.jpg"
+			"french"		"04ea7d2ffc72efe645af9459a0c2c65584936906/capsule_231x87_french.jpg"
+			"italian"		"62ca1c9ddbdb02d53f4cbc4ed090fb7faedd2507/capsule_231x87_italian.jpg"
+			"japanese"		"4e16ca9699478d7c71d5cfb955c40af30e6556b8/capsule_231x87_japanese.jpg"
+			"koreana"		"ea0af309470e02ba22b96a569f76873d21e015c1/capsule_231x87_koreana.jpg"
+			"polish"		"53c5cbfddf06ba910fb823bd7093af257b375243/capsule_231x87_polish.jpg"
+			"brazilian"		"26691a9d855562d1307cc7b323df399b9daf5516/capsule_231x87_brazilian.jpg"
+			"portuguese"		"57ce184c8547652a63748b35ea21a0474128ffa6/capsule_231x87_portuguese.jpg"
+			"russian"		"d53cd2c41c34f03233df665dac931688ccc072a9/capsule_231x87_russian.jpg"
+			"turkish"		"e3538a08918064da8f7e9c2d782da401166a3c3c/capsule_231x87_turkish.jpg"
+			"schinese"		"68a503b957454c4df757660d45efa3b7e3f40491/capsule_231x87_schinese.jpg"
+			"tchinese"		"34b18812f756f2f1b9f293d15195843071288620/capsule_231x87_tchinese.jpg"
+			"arabic"		"362a4305575228a0271c89174c44f588a48cbe6d/capsule_231x87_arabic.jpg"
+			"sc_schinese"		"4b556bfe591dc6b8fd76d798a28cee341218902a/capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"spanish"		"header_spanish.jpg"
+			"latam"		"header_latam.jpg"
+			"french"		"header_french.jpg"
+			"italian"		"header_italian.jpg"
+			"japanese"		"header_japanese.jpg"
+			"german"		"header_german.jpg"
+			"koreana"		"header_koreana.jpg"
+			"polish"		"header_polish.jpg"
+			"brazilian"		"header_brazilian.jpg"
+			"portuguese"		"header_portuguese.jpg"
+			"russian"		"header_russian.jpg"
+			"turkish"		"header_turkish.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"dutch"		"header_dutch.jpg"
+			"arabic"		"header_arabic.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,de,es,es-419,fr,it,ja,ko,pl,pt-br,pt,ru,tr,zh-cn,zh-tw"
+			"library_hero"		"en"
+			"library_hero_blur"		"en"
+			"library_logo"		"de,es,es-419,fr,it,ja,ko,pl,pt-br,pt,ru,tr,zh-cn,zh-tw,en"
+			"library_header"		"de,en,es,es-419,fr,it,ja,ko,pl,pt-br,pt,ru,tr,zh-cn,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.78143026174567"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"5259b231045b7630600400fdb98f94dd6493dd2c/library_600x900.jpg"
+					"german"		"library_600x900_german.jpg"
+					"spanish"		"library_600x900_spanish.jpg"
+					"latam"		"library_600x900_latam.jpg"
+					"french"		"library_600x900_french.jpg"
+					"italian"		"library_600x900_italian.jpg"
+					"japanese"		"library_600x900_japanese.jpg"
+					"koreana"		"library_600x900_koreana.jpg"
+					"polish"		"library_600x900_polish.jpg"
+					"brazilian"		"library_600x900_brazilian.jpg"
+					"portuguese"		"library_600x900_portuguese.jpg"
+					"russian"		"library_600x900_russian.jpg"
+					"turkish"		"library_600x900_turkish.jpg"
+					"schinese"		"library_600x900_schinese.jpg"
+					"tchinese"		"library_600x900_tchinese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"5259b231045b7630600400fdb98f94dd6493dd2c/library_600x900_2x.jpg"
+					"german"		"library_600x900_german_2x.jpg"
+					"spanish"		"library_600x900_spanish_2x.jpg"
+					"latam"		"library_600x900_latam_2x.jpg"
+					"french"		"library_600x900_french_2x.jpg"
+					"italian"		"library_600x900_italian_2x.jpg"
+					"japanese"		"library_600x900_japanese_2x.jpg"
+					"koreana"		"library_600x900_koreana_2x.jpg"
+					"polish"		"library_600x900_polish_2x.jpg"
+					"brazilian"		"library_600x900_brazilian_2x.jpg"
+					"portuguese"		"library_600x900_portuguese_2x.jpg"
+					"russian"		"library_600x900_russian_2x.jpg"
+					"turkish"		"library_600x900_turkish_2x.jpg"
+					"schinese"		"library_600x900_schinese_2x.jpg"
+					"tchinese"		"library_600x900_tchinese_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"3c5c8beed3c26efd8ad5f961b1b0cbd47ab1af26/library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"3c5c8beed3c26efd8ad5f961b1b0cbd47ab1af26/library_hero_2x.jpg"
+				}
+			}
+			"library_hero_blur"
+			{
+				"image"
+				{
+					"english"		"3c5c8beed3c26efd8ad5f961b1b0cbd47ab1af26/library_hero_blur.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"german"		"logo_german.png"
+					"spanish"		"logo_spanish.png"
+					"latam"		"logo_latam.png"
+					"french"		"logo_french.png"
+					"italian"		"logo_italian.png"
+					"japanese"		"logo_japanese.png"
+					"koreana"		"logo_koreana.png"
+					"polish"		"logo_polish.png"
+					"brazilian"		"logo_brazilian.png"
+					"portuguese"		"logo_portuguese.png"
+					"russian"		"logo_russian.png"
+					"turkish"		"logo_turkish.png"
+					"schinese"		"logo_schinese.png"
+					"tchinese"		"logo_tchinese.png"
+					"english"		"dc06cdddb7ff1633581c3595b18c5053a5c3181e/logo.png"
+				}
+				"image2x"
+				{
+					"german"		"logo_german_2x.png"
+					"spanish"		"logo_spanish_2x.png"
+					"latam"		"logo_latam_2x.png"
+					"french"		"logo_french_2x.png"
+					"italian"		"logo_italian_2x.png"
+					"japanese"		"logo_japanese_2x.png"
+					"koreana"		"logo_koreana_2x.png"
+					"polish"		"logo_polish_2x.png"
+					"brazilian"		"logo_brazilian_2x.png"
+					"portuguese"		"logo_portuguese_2x.png"
+					"russian"		"logo_russian_2x.png"
+					"turkish"		"logo_turkish_2x.png"
+					"schinese"		"logo_schinese_2x.png"
+					"tchinese"		"logo_tchinese_2x.png"
+					"english"		"dc06cdddb7ff1633581c3595b18c5053a5c3181e/logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"38.78143026174567"
+					"height_pct"		"100"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"german"		"library_header_german.jpg"
+					"english"		"74eb23f93484e0368a7888a1f67d075eae2ccbb2/library_header.jpg"
+					"spanish"		"library_header_spanish.jpg"
+					"latam"		"library_header_latam.jpg"
+					"french"		"library_header_french.jpg"
+					"italian"		"library_header_italian.jpg"
+					"japanese"		"library_header_japanese.jpg"
+					"koreana"		"library_header_koreana.jpg"
+					"polish"		"library_header_polish.jpg"
+					"brazilian"		"library_header_brazilian.jpg"
+					"portuguese"		"library_header_portuguese.jpg"
+					"russian"		"library_header_russian.jpg"
+					"turkish"		"library_header_turkish.jpg"
+					"schinese"		"library_header_schinese.jpg"
+					"tchinese"		"library_header_tchinese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"74eb23f93484e0368a7888a1f67d075eae2ccbb2/library_header_2x.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1734098174"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Arrowhead Game Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PlayStation Publishing LLC"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"HELLDIVERS™"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"PlayStation Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_55"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_35"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1707382200"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"553850"
+		"store_tags"
+		{
+			"0"		"3843"
+			"1"		"6730"
+			"2"		"3859"
+			"3"		"3814"
+			"4"		"19"
+			"5"		"1774"
+			"6"		"1685"
+			"7"		"3942"
+			"8"		"4845"
+			"9"		"1755"
+			"10"		"1199779"
+			"11"		"1697"
+			"12"		"1719"
+			"13"		"4345"
+			"14"		"4667"
+			"15"		"1756"
+			"16"		"4026"
+			"17"		"1721"
+			"18"		"4182"
+			"19"		"1695"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Arrowhead Game Studios"
+		"publisher"		"PlayStation Publishing LLC"
+		"listofdlc"		"2506210,2506220,2506240,2506250,2506260,2506270,2506280,2506300,2514120,2514130,2521690,2765950,3118530"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Helldivers 2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin\\helldivers2.exe"
+				"arguments"		"--bundle-dir data --release"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"7"
+			{
+				"executable"		"bin\\dev\\stingray_win64_dev.exe"
+				"arguments"		"--bundle-dir data"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"1999180"
+				}
+				"description_loc"
+				{
+					"english"		"development"
+				}
+				"description"		"development"
+			}
+			"8"
+			{
+				"executable"		"bin\\release\\stingray_win64_release.exe"
+				"arguments"		"--bundle-dir data --release"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"1999180"
+				}
+				"description_loc"
+				{
+					"english"		"stingray_win64_release.exe"
+				}
+				"description"		"stingray_win64_release.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,portuguese,polish,dutch,brazilian,latam"
+		"hasdepotsindlc"		"0"
+		"553851"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3660072645429726034"
+					"size"		"88742431"
+					"download"		"73618496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a_mixed_bag"
+				{
+					"gid"		"4472E8FB3F0AC248E1014A66D7A1356D"
+					"size"		"4D284E331BF32C84771FB00AD976F151"
+					"download"		"51C0EFC527D19C7777560F373BFAE3C9"
+				}
+				"audio_testing_branch"
+				{
+					"gid"		"8B34DC44269EFBCDF142EF5561CDFE48"
+					"size"		"C2896514B2F746BF99FAAC41CDB29406"
+					"download"		"7D46539A89A2CE07D327BC0C899DD1FF"
+				}
+				"granola_bar"
+				{
+					"gid"		"3273E9D75F7055770F21A569D28CB7D6"
+					"size"		"90D3215B101998E0A5E4C60E2F8731EE"
+					"download"		"E811AC3403E8BC83EA8AB02DA22A661D"
+				}
+				"pineapple_soup_is_delicious"
+				{
+					"gid"		"E4EE75F7D1F377D865A8B01496BA5B97"
+					"size"		"14DB5C4B12C578429ECDD989C483CBF1"
+					"download"		"2AB83070674D09ADA3DBDD5E727CF80D"
+				}
+				"nixxes"
+				{
+					"gid"		"24AA30DA919DEA0EEB70E4E0615B91C2"
+					"size"		"45DCBD0ECCD3D15884014A996574D519"
+					"download"		"B5A7CD50E2E16BB8EB3CA77FFAEF70EB"
+				}
+				"public_beta"
+				{
+					"gid"		"A4FD7AAC61BB29C337ACD3E66748628A"
+					"size"		"DAB866A5D3442CCEF7A6F29C4FCF3933"
+					"download"		"6A95E90841816E92663E71BEBEA83A22"
+				}
+				"meta_game_wargames"
+				{
+					"gid"		"DF60785AFC36BFCEAF5AF4128EC35C3D"
+					"size"		"0D562F74F5858B1993CA3E40BB7974D3"
+					"download"		"E54ABCB5DAE08D86B890F22489061643"
+				}
+				"tech_stingray_crs_temp"
+				{
+					"gid"		"A2D31B521A6D3E664A2387111CF57200"
+					"size"		"6388E09F53A28978290EA148EAB7ED48"
+					"download"		"86A7A7AB6044BAB7EF01B4878510B63A"
+				}
+				"playtest_branch"
+				{
+					"gid"		"59A5D29DE6AE238F51E03A687B0F25B4"
+					"size"		"35B9DA19D7FA91CEE77569F25B4E2F19"
+					"download"		"C38232F69E52DA5F748AE8C473C60B16"
+				}
+				"gameplay_illuminates"
+				{
+					"gid"		"0793D0C190263789F3BF811B4BFA3804"
+					"size"		"076EE2F3E4D9A0505FB768D7D7D5CA33"
+					"download"		"0778BA6357B420AB380F920DF9344C11"
+				}
+				"gameplay_factions"
+				{
+					"gid"		"ADAAA3A3357496C7EDB93080AF498909"
+					"size"		"9B590EAF8AFF0B397CA87F484F9830EB"
+					"download"		"4AD20FB4066A36AAC71A68C8F1B955A0"
+				}
+				"gameplay_worlds"
+				{
+					"gid"		"861887F9407CF124F4175F931E14A122"
+					"size"		"4449E5E3CFBAD3AAFC55006483BF50E5"
+					"download"		"2CA62538B56F0438295EC0172026711C"
+				}
+				"mod_1"
+				{
+					"gid"		"F3097C96A72449EFAAEE25AE0F4FC894"
+					"size"		"923A8C819E18A6F2C98E30C570A1312B"
+					"download"		"4E7AAA3A4ABC150B119FCCBBD78797D7"
+				}
+				"mod_2"
+				{
+					"gid"		"204B303F2EF99A708F692C05CF6EAC16"
+					"size"		"2C3FEFE7DB7363D7D4144358497495F8"
+					"download"		"F6E0E4953D622FFE5970758D46736B2D"
+				}
+				"tech_stingray"
+				{
+					"gid"		"CFB80D35916D3DBBBF1F7A0A01C14D68"
+					"size"		"F30FCB26416D92D37E2C3970F1CDF82A"
+					"download"		"D7BF6AA77E677CDA0FDA911F62420C09"
+				}
+				"tech_warmind"
+				{
+					"gid"		"5BC36E01C91AEF2C9FC220E548399DAB"
+					"size"		"8D2CD7A20AD80510CAB254F561DA945B"
+					"download"		"1B5694795ADCBE27619B3780EE4FDAD1"
+				}
+				"nix_backup"
+				{
+					"gid"		"F236B73348EE0D470FC9E16E1B4A7CB1"
+					"size"		"EFE307ACE5B64E8559FD278578DF8DED"
+					"download"		"E6C0EFBFDEE23B47901F79C688E130E0"
+				}
+				"nix_main"
+				{
+					"gid"		"F897B51820845F35E936387EEB27124E"
+					"size"		"8F195957980FA5EFEB27995A039DF23D"
+					"download"		"F899D2D1AC746CE77D353E99B64C44B4"
+				}
+				"orion"
+				{
+					"gid"		"6822A5E13D875EA9F61E323D193952C1"
+					"size"		"B4B489AF76B45FCF093FA1C49435C2AE"
+					"download"		"D5DA0A63F2187AF776A56D459AF7C6CA"
+				}
+				"quasar"
+				{
+					"gid"		"F2905A0FE1B5ACFF44DA83ACB0362E65"
+					"size"		"9F44A0A6FADA3C9C39899D450AF13581"
+					"download"		"E3682109450DD99F63160FCCE9153FBF"
+				}
+				"wushu"
+				{
+					"gid"		"34320F7334BA986988E6E5669BFB224F"
+					"size"		"BDDD53ACFCED05C42CE0946C97095238"
+					"download"		"EB45C60B912FBD8324001A1080D29A67"
+				}
+				"discogarage"
+				{
+					"gid"		"6E2C437CB3F1C58FE1205D341083D291"
+					"size"		"6057A8849BD2887F798379A6DFC87EB7"
+					"download"		"A0B4A2882382B82488950BC9B6A56291"
+				}
+				"release_1_backup"
+				{
+					"gid"		"29080F0C65B17EED17AB80DA1405940C"
+					"size"		"ED62E7594465EC52C5185797B112C71B"
+					"download"		"558CB3B1B9F9FFF4218B256EC058EE5E"
+				}
+				"release_1_latest"
+				{
+					"gid"		"9CA4FF61834ABC7AD30D4C65314F2F46"
+					"size"		"1419FB3E48061818CC00D27AAD3E18B7"
+					"download"		"BB786D7967D148882F075ED8F5902CDF"
+				}
+				"studio_playtest"
+				{
+					"gid"		"64B8F76A0F7BF30C5A9FAE90C6D05CA3"
+					"size"		"4B1BD13E49A1654C1A1842527A6DDC97"
+					"download"		"41E08D7590303B0A8112C92A943604CC"
+				}
+				"use_this_to_go_live"
+				{
+					"gid"		"9FDCCD5C6525954629B233CFEC2269C7"
+					"size"		"2671C98A3087D3526F6A9528CF4E6270"
+					"download"		"A7EAB03C883C44EFA497EC981F71AB87"
+				}
+			}
+		}
+		"553852"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"1999180"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3788520467050778216"
+					"size"		"1719961241"
+					"download"		"603895312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a_mixed_bag"
+				{
+					"gid"		"CAA33D0D2820236008A66B898FBC277E"
+					"size"		"29A8A864B35AEB347082AA1D15D840A7"
+					"download"		"F6062942CDE798D22DA92C6024BE6AD2"
+				}
+				"audio_testing_branch"
+				{
+					"gid"		"EE1F1AFCFC118C91005F49F8E62A532A"
+					"size"		"BDC2AB756AB66B100F700B4279F02D40"
+					"download"		"F9F731F77B7D957F5EB3F57357605B21"
+				}
+				"granola_bar"
+				{
+					"gid"		"494A3FFF21AAECE041EFA4C1D331D71F"
+					"size"		"77698FEE34B2B557FE4F6158CE7258E3"
+					"download"		"C5C0C7235070DC7DFD4EAC789DC9EFF0"
+				}
+				"pineapple_soup_is_delicious"
+				{
+					"gid"		"7997E15FE8C09BF197BD7EE58491900D"
+					"size"		"3ACFAA7416CC311C425EB71B4F05806A"
+					"download"		"8F55E659D67349202C56373B7E750749"
+				}
+				"nixxes"
+				{
+					"gid"		"89B44E166557E9AF6C22F512DC25E2D6"
+					"size"		"7F89DB6FF37EC186ABA465E6431C9DC5"
+					"download"		"E63D4111F00F52021FB5452A85678CA8"
+				}
+				"public_beta"
+				{
+					"gid"		"03E3B9F9FA6679D0DC1507FDCF4DF1F0"
+					"size"		"BA38965C687B8344631129BD774C5C49"
+					"download"		"D0913370E822094DEDB890C5B3759CDF"
+				}
+				"meta_game_wargames"
+				{
+					"gid"		"7C63582D03E6E5F137E387D83E46CE01"
+					"size"		"58B22079CDB3D1C8097DF8D6332016AF"
+					"download"		"C56349F6BC0232F1FA887EEA499A11B7"
+				}
+				"tech_stingray_crs_temp"
+				{
+					"gid"		"03DF99794D4DFC3F51A4267C6D70DAAD"
+					"size"		"9D3C41373E3629E6DCAFFAF684FE0EE3"
+					"download"		"11DF509399612200900407743BB723FE"
+				}
+				"playtest_branch"
+				{
+					"gid"		"F0FDEC8BC6100312F29D190FEAC3B15E"
+					"size"		"5325A76456491BC7C71348494C7A4238"
+					"download"		"6F38581EF5C416B8464FD3706E16B0E2"
+				}
+				"gameplay_illuminates"
+				{
+					"gid"		"1DE449F06503D57DDF16B15961BA8CFF"
+					"size"		"46995682B3626DFFE6EA504FFEBB9951"
+					"download"		"86CE5DBAD81FE945B3C348B03F88DF5F"
+				}
+				"gameplay_factions"
+				{
+					"gid"		"2F8B8C4ABF25E26F2E9CA10F6A64E35D"
+					"size"		"71340C3604B6C1A256CE74FFC46885CA"
+					"download"		"AF95172BE201BBFCA2F20D3A29A7F9F4"
+				}
+				"gameplay_worlds"
+				{
+					"gid"		"0843FE6C01DBFE683C9DEB2A87A3DA11"
+					"size"		"69095FF17554FF4635EBB8B70DB86B0A"
+					"download"		"C332701E5B89B5B5C632684945E02962"
+				}
+				"mod_1"
+				{
+					"gid"		"804333C2C1938F6B8DA3BD087CFB9FA5"
+					"size"		"C76DBE0632C39FA08E069538CF28F654"
+					"download"		"304AAB2F71956E94CF3CF12C99E75C30"
+				}
+				"mod_2"
+				{
+					"gid"		"8803C1A84CF20A170A5BEDB0A604943A"
+					"size"		"1DF16FA4AB7F4AE3CC8C690EBAB5C949"
+					"download"		"2F648AAC76549C32EB012EE1F0AA227E"
+				}
+				"tech_stingray"
+				{
+					"gid"		"3FCB2B3CAAB098C2EDC40197DE0CF524"
+					"size"		"28FBBD0D7EAF8ED21F94841A721BB217"
+					"download"		"C870332D60236F598802295068394551"
+				}
+				"tech_warmind"
+				{
+					"gid"		"FF44771CA3B6077C586B467E503FFC75"
+					"size"		"951DEF93C1B82D5AA9B12005A909FE2C"
+					"download"		"35569052EE274EB7E0E9501FDD65C362"
+				}
+				"nix_backup"
+				{
+					"gid"		"DD57A01D673316F3E13F8ADAAC5712C1"
+					"size"		"9595A86E9DC27FA2BBBD760A96710B5E"
+					"download"		"9448698B430C49317C1641AF78C97701"
+				}
+				"nix_main"
+				{
+					"gid"		"8E0306DB74576E3EF7B723B6A26A5FBB"
+					"size"		"8AB4C06D74B5B1AC9EBBAFCBC0652E84"
+					"download"		"13F16B203836F04FF45E94B073E9AD08"
+				}
+				"orion"
+				{
+					"gid"		"7EB3B17F03438A8ADC88268F92E303AE"
+					"size"		"17CEE6F1E986E993B4C1BB6A7A2A20F4"
+					"download"		"91ABDEC2B31789C03E8503F90824C944"
+				}
+				"quasar"
+				{
+					"gid"		"72083AD4B95DE127CD20A49F0610D8B4"
+					"size"		"02C9EB115F72A532EE643F7FB5DFA839"
+					"download"		"DBCF09EEF87EE3481440F5F4C7960460"
+				}
+				"wushu"
+				{
+					"gid"		"A1CF2574E3EFF8F53205E69923CC09CE"
+					"size"		"DFB7062136739C6294AF04A0576FE51C"
+					"download"		"560C5CB2BC87D46D6D8DC5B3CDDB2DC4"
+				}
+				"discogarage"
+				{
+					"gid"		"E8E1EFB675E340FB192C234A163B9ECB"
+					"size"		"ABF18092320B02EC9F3479E81E8F4E4C"
+					"download"		"1A771DBE02706B51FD0BDF2BD26C0AF7"
+				}
+				"release_1_backup"
+				{
+					"gid"		"3F0B12AF3EC3273B2B94AD0F7823B199"
+					"size"		"1BDC76CA59543E38685FDF46F01250BA"
+					"download"		"C915B624FA51A7D719247217FCE2586A"
+				}
+				"release_1_latest"
+				{
+					"gid"		"48927D3A3B9693D7D5AC792F42C99D94"
+					"size"		"EA52B6BE20FA5C993D2D036D075CC96A"
+					"download"		"BD5F383140296F4B82064470ACB16462"
+				}
+				"studio_playtest"
+				{
+					"gid"		"9B5A0B16C6B8A794832BB42E079B4528"
+					"size"		"C77AD41B9CEC5D745A4D7073E4FE44D9"
+					"download"		"EDFFFDB16BE16B03F7B12109FBA22B26"
+				}
+				"use_this_to_go_live"
+				{
+					"gid"		"26B4EC9F74C837F39013F4023D0CD36A"
+					"size"		"4B9A0FCC9FB565144032B82E34A49655"
+					"download"		"CA832930C204903B4B9F63252B42481A"
+				}
+			}
+		}
+		"553853"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8900590353849423418"
+					"size"		"86261771077"
+					"download"		"25357609728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a_mixed_bag"
+				{
+					"gid"		"74F97F174E61442852CFDF8F1F967FC2"
+					"size"		"42E61560EF48718ECA88100D5F3D5F09"
+					"download"		"7A01719CDCF58AA364F24D87ADBE1FB1"
+				}
+				"audio_testing_branch"
+				{
+					"gid"		"ABCF280A5074100DCACCE72D1527BA8D"
+					"size"		"9F625D575B0ED34B5BEE25AAFB07CEB0"
+					"download"		"F9791172594ECEF265D7C4D1027757B4"
+				}
+				"granola_bar"
+				{
+					"gid"		"8FFB2F9C85A906603C6040F3DF3447D5"
+					"size"		"22801B55576A75AF87D349276F915BF4"
+					"download"		"6F652C21338153CCE3663243B774AD4D"
+				}
+				"pineapple_soup_is_delicious"
+				{
+					"gid"		"D9B9DB798BE9205E00CD5ED26B0F6DE5"
+					"size"		"D81E411FB660CAA3CABB8393471E7F14"
+					"download"		"CF7AA3A7D6DF416840CF18710842163B"
+				}
+				"nixxes"
+				{
+					"gid"		"B5766C1951D17AF015021D4DEAB572BC"
+					"size"		"F6D49253AD9C76CE89AD1ADD1334F2CB"
+					"download"		"017420A61F54D65766ABC90D31F6D56C"
+				}
+				"public_beta"
+				{
+					"gid"		"6F3F469A87843ABFC72A3D8A7A318B38"
+					"size"		"F7B601F10FCB37A7BB5C67E64F39FF75"
+					"download"		"64959BB1B159E286ECD606FF0BCCC4A7"
+				}
+				"meta_game_wargames"
+				{
+					"gid"		"0AA11EF8DBAB85ADC68D463FFF613D83"
+					"size"		"8F11C3C8C8EA6B3BF82A77823F6F39A7"
+					"download"		"0D67D97565C84D486C49F5919849F765"
+				}
+				"tech_stingray_crs_temp"
+				{
+					"gid"		"598BEBDA2FE15F5116A9276A1EB2F054"
+					"size"		"B158340962468F2A4992734315076A63"
+					"download"		"95AAF53B41614BF21EFF38E068A973A8"
+				}
+				"playtest_branch"
+				{
+					"gid"		"3DB84FB0F15A4360AE785AA4C5544409"
+					"size"		"3B595DE3A4399021B594A55B2CA22DB5"
+					"download"		"B4CF161C5531580FDC73AE84184FEC3B"
+				}
+				"gameplay_illuminates"
+				{
+					"gid"		"9E326AF9C99393AE001189EB421D50B3"
+					"size"		"3A05C0F80974107A2EE8586B53A1011C"
+					"download"		"9CE1B7FC75ED523913C4E6C3AAACF228"
+				}
+				"gameplay_factions"
+				{
+					"gid"		"218250E189C31FF37F70B83A153E0269"
+					"size"		"798970D41D3746C202323D251CC8B2A7"
+					"download"		"926F41B26248B41DC988507A2C130BA5"
+				}
+				"gameplay_worlds"
+				{
+					"gid"		"6B27012DDB0C7F6B57FDA9C87FD773EA"
+					"size"		"B786A496B8B5128B63C03DE7ACA7A059"
+					"download"		"0DA30EB8550CA0C80E079934FA427214"
+				}
+				"mod_1"
+				{
+					"gid"		"681751AA9506DEF45E46251A3637C9E4"
+					"size"		"8698867C5E4B7D6D3872C879A466EEEA"
+					"download"		"18484931BB6131C0090BDDBAF5D57C21"
+				}
+				"mod_2"
+				{
+					"gid"		"3960C7B9A91B790EB08793BF6CA7F592"
+					"size"		"39EB7614FFA60D69AE4C65BDAD5E9697"
+					"download"		"C293820AE8D4B81E0ADE6F8097F7FCA9"
+				}
+				"tech_stingray"
+				{
+					"gid"		"5FDAE0010CB012BE492F10D30ECE212B"
+					"size"		"BE5725B0E799BDFBC17F6F2867394302"
+					"download"		"BDF65B98FD06E0E100CE99ADE447C0B4"
+				}
+				"tech_warmind"
+				{
+					"gid"		"F87DC443EE150713E81BFE23EEB32F7E"
+					"size"		"320F90B358516FBFB2DFC50BE4663576"
+					"download"		"8EE9F2957C0497C7A3C8F90315F6E59D"
+				}
+				"nix_backup"
+				{
+					"gid"		"F916FDE9ADC7D7E7336D9F1D54BBBAF5"
+					"size"		"8DEC61D38AD8023904E5DD0131808556"
+					"download"		"FEF06B881B58887F60751A5E43AB917E"
+				}
+				"nix_main"
+				{
+					"gid"		"C156C0AA1BDF17C37B274FF72B09039D"
+					"size"		"7EAB8E90EAE426B4297038A9ECD2DDC2"
+					"download"		"431E9213BBF0F7FE7DDA0CB23901B4E7"
+				}
+				"orion"
+				{
+					"gid"		"0C5F7840EAE12346FA7B45A9A7FA36F9"
+					"size"		"3FAF4D856702736B8894DC52E9C2BC37"
+					"download"		"AF86A2BB8DE86D8CC2CF81C67E26E2F3"
+				}
+				"quasar"
+				{
+					"gid"		"E3755A01678FB5F1E08382288CE6C580"
+					"size"		"D157A8EE2C8EA28F220AFC7BB08910FD"
+					"download"		"C8C7AB33DA27FC6F6F8212F81011CDA5"
+				}
+				"wushu"
+				{
+					"gid"		"C92032A1522367DFA2435DF5A971A429"
+					"size"		"BDD4C24EDDEC0B5D7DC8E4A29DDD945D"
+					"download"		"A85525CBA0EEFFC0E10B4D6F3478A218"
+				}
+				"discogarage"
+				{
+					"gid"		"D52BDA8CE1D96E35EF7D01EF8F90D213"
+					"size"		"EA57F822D51296D6E5362D46017DE75F"
+					"download"		"48C2BEB790A3CFD4264A328DE12323D7"
+				}
+				"release_1_backup"
+				{
+					"gid"		"22A37D26ECA176014124446AF9A66768"
+					"size"		"7F489A5BB66E37C87BE3A3E0562C1EF0"
+					"download"		"C260BA9706B09C38FC5F072B97DF8FAE"
+				}
+				"release_1_latest"
+				{
+					"gid"		"1BB29A2FD70D3AD93697622BF000B862"
+					"size"		"B528862E9C4B8F11C6758EBA882F267E"
+					"download"		"02F96E337D6969635D95FDE5AA55B880"
+				}
+				"studio_playtest"
+				{
+					"gid"		"09621D160DF8E71A2EE13212A71DE19F"
+					"size"		"7717E8CB8BE901030DD7E20A788A9D2E"
+					"download"		"8DB494179A2EFAF6433DFC1A50394663"
+				}
+				"use_this_to_go_live"
+				{
+					"gid"		"2FF8C9D188296FC2D787043172BF3A44"
+					"size"		"C0872401E1C239DA1C211CEC66717105"
+					"download"		"FB92EC4501BE7A9DB36D04C6E097AA38"
+				}
+			}
+		}
+		"553854"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5295166431079989758"
+					"size"		"348464780"
+					"download"		"329186688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a_mixed_bag"
+				{
+					"gid"		"0A68ACD37B534C4E475BD51496CAF6F7"
+					"size"		"84CD39CA848B88413A2DBF0CAB419665"
+					"download"		"BBADCA176F7B747A4E504BD28E162CB0"
+				}
+				"audio_testing_branch"
+				{
+					"gid"		"DC012273117ABD696CE5E1BC19681F8A"
+					"size"		"E0F645CBB624728F721A4159E8001D09"
+					"download"		"5A5F8CCC3A5A3AA5F9494C2BA4309377"
+				}
+				"granola_bar"
+				{
+					"gid"		"0C718C634C08EF58C366EFAD8A10849F"
+					"size"		"BA1915DAC5B9AC3ADE765BB8801FF01D"
+					"download"		"3DB5963957F1B798F35D3B6EA2D4BB87"
+				}
+				"pineapple_soup_is_delicious"
+				{
+					"gid"		"B700EAAE1B9FFBB559237F476000B646"
+					"size"		"F5EA3063F3FCE9FA2EF91EFC97C32446"
+					"download"		"044E4B6E67396430596A318F6B2FC545"
+				}
+				"nixxes"
+				{
+					"gid"		"6F6C1137F51E918F32D17FF3A4C39BC3"
+					"size"		"D823915F482C7C8F026BCA1153402787"
+					"download"		"BB815947883F2CCE709323E4F870EE9E"
+				}
+				"public_beta"
+				{
+					"gid"		"3CD39169971A220F7290446E90B2E640"
+					"size"		"C4AB7A004CD9838B08FEFE741AD4306E"
+					"download"		"8AC6D3546CBAB250188B21511A645BDC"
+				}
+				"meta_game_wargames"
+				{
+					"gid"		"5BACB3275AA8C276F3225EA5AAD91EDC"
+					"size"		"E262EF19618812924FC156B1CF979CC2"
+					"download"		"0EB49740AF48D48303DD2723051333CB"
+				}
+				"tech_stingray_crs_temp"
+				{
+					"gid"		"B0B266B4E945F4A63B81500F0BE0B19E"
+					"size"		"EF4D0A77040CC0000D8CCAE68AB37181"
+					"download"		"5F911B848424C7FDCA1DF88E1E76EC0D"
+				}
+				"playtest_branch"
+				{
+					"gid"		"82B29940D3D403C010690AFAE86349F6"
+					"size"		"7818C746DA1365DD91DCE112C0C72FE2"
+					"download"		"43005E664C992B2879AC75A3783ABABB"
+				}
+				"gameplay_illuminates"
+				{
+					"gid"		"2786525A61327297E1DF07C18B294DF6"
+					"size"		"621F33BFBAE7AAD4CF4E1415CB581ED5"
+					"download"		"354325D3FCAE0B7778FEBFD30F7B16CC"
+				}
+				"gameplay_factions"
+				{
+					"gid"		"179AAE505CCDB2B7053195009B1456EF"
+					"size"		"0F19BA15D1C70E92605537AE17A6D5FB"
+					"download"		"2D661522389B8B93425717B1F6080783"
+				}
+				"gameplay_worlds"
+				{
+					"gid"		"E4EC7A384415770A8D616FB5BA696A9C"
+					"size"		"314403D61DE6DC72D8B358AFE79F1C31"
+					"download"		"D281759DFFB42D0C9B4BDC7A555F3D8B"
+				}
+				"mod_1"
+				{
+					"gid"		"9B7B5097DC52C85CB48B66AC09CAEBB3"
+					"size"		"34C85C29CD98802288618EF01ADB579F"
+					"download"		"1A029E2623436CF772155D625F7D7C86"
+				}
+				"mod_2"
+				{
+					"gid"		"57602F69E881B0D2182DAACA3A32E549"
+					"size"		"FE7FA8C92D07BB32B58266C91093500B"
+					"download"		"5F7D129E91B3F3F07F7F37B2D88A6A42"
+				}
+				"tech_stingray"
+				{
+					"gid"		"03693003908F1A9AA12DF4724D2FFE57"
+					"size"		"C50E3AFB2EF28D3BE0601D6CCD8218F6"
+					"download"		"9FFAF2771381E24FE631893DFBDDB22F"
+				}
+				"tech_warmind"
+				{
+					"gid"		"B50C988283784B864E9C9FA50F5BD6FF"
+					"size"		"90D153056E7213B44BD05E115E211E2D"
+					"download"		"45C48D281A265BDCEEF243983A3176C3"
+				}
+				"nix_backup"
+				{
+					"gid"		"67C2B11231E8C35ED46EB56E46D5E4C9"
+					"size"		"9A94B7FC586FFBA1D153F1C6CFEC2EAE"
+					"download"		"FC3B08B9FCED0EDF5048961D8ED83705"
+				}
+				"nix_main"
+				{
+					"gid"		"776157EAE8F15F822A40957C567B5E23"
+					"size"		"AB196C9B90C08FD66D3E0CB6E4462E2C"
+					"download"		"BC4E4506F95129158A79BC75CB034D14"
+				}
+				"orion"
+				{
+					"gid"		"891B994954A051ABF7597EF821E20311"
+					"size"		"25179F9F8AA546A54BE14F988553A03F"
+					"download"		"F6E1A3C572835705D46B61629753F6C1"
+				}
+				"quasar"
+				{
+					"gid"		"33D5CF36BACE39BB6132222706007DF2"
+					"size"		"4A1B7238134B4E4FD25E6FD667D3CE53"
+					"download"		"1683090B6C22A8380D4C1738EF39CCC4"
+				}
+				"wushu"
+				{
+					"gid"		"7402C208165DA0DBB05FC878909D5796"
+					"size"		"5DCF56D7064164A2236FEF01A36ACE0A"
+					"download"		"64E65632AEB0B7D451FBB3B3F7433BB1"
+				}
+				"discogarage"
+				{
+					"gid"		"9A4B907D947330AD4E63F052756F66FA"
+					"size"		"79688A26EF482DF10FBCF079547B1589"
+					"download"		"5A195B82805D1E62FFA12D60D49DDCD6"
+				}
+				"release_1_backup"
+				{
+					"gid"		"16E0CACF5AA283DC1C6E7DD757D3E2C8"
+					"size"		"7BA6469472BB4901CA3EC10624C1AB4F"
+					"download"		"0541E5F8DD909869BD0F1E835606C924"
+				}
+				"release_1_latest"
+				{
+					"gid"		"5882F77F2A70B8C7DAECC8CD2D8066A7"
+					"size"		"8FC57E703AF1234D363C4340A1720E24"
+					"download"		"FFC45DEF9F204A7D06680EFDB8BEECD6"
+				}
+				"studio_playtest"
+				{
+					"gid"		"017B1A1310136FD2C0DAACA534B05E4A"
+					"size"		"7AE2463355A98DE6323D1EC933D560D5"
+					"download"		"DAC51FD2C1B92681828C289D70A2FCFE"
+				}
+				"use_this_to_go_live"
+				{
+					"gid"		"D887F363C39FDFD753952367157F3B12"
+					"size"		"8A3D055E300ECF01E13BBAB714E4072A"
+					"download"		"DFA944F643D425188C7943C93652DBFD"
+				}
+			}
+		}
+		"2506220"
+		{
+			"dlcappid"		"2506220"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8794422397263671727"
+					"size"		"351891702"
+					"download"		"332288016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a_mixed_bag"
+				{
+					"gid"		"1F1BB5024DE49E4B009B83A4175D5D74"
+					"size"		"7E94A3A12E4D3B093529AF11675502AE"
+					"download"		"4720CC1C6B2058DBF4969645CE236FD3"
+				}
+				"audio_testing_branch"
+				{
+					"gid"		"56F6915A1EC0426FF18D9160D627EE90"
+					"size"		"E0543A75385A49CC22ECAD4219FA8A25"
+					"download"		"C338343EBFF2033DFB3AD949E49143D2"
+				}
+				"granola_bar"
+				{
+					"gid"		"ADCAEA5A29B205035A862B7C9098987F"
+					"size"		"097C125E15443A12D72B7674917CCE7A"
+					"download"		"EAA9A6EAF2981A55E6C4E5947859F149"
+				}
+				"pineapple_soup_is_delicious"
+				{
+					"gid"		"85D32030F7CEDDB777F594C39A990A8A"
+					"size"		"2224BC42077B8C708D521670553D2894"
+					"download"		"5E02BF32A215219A7E17F7775F16D1F6"
+				}
+				"nixxes"
+				{
+					"gid"		"16E06C50972510D09C62786043B8C84F"
+					"size"		"08F14E8C3C6DAB73200A3A9AB6AD68A9"
+					"download"		"790B88C8125DE185EB872A0A6AB74643"
+				}
+				"public_beta"
+				{
+					"gid"		"EB6323EFDB9016289649C52D362FA162"
+					"size"		"E5A22F8DD50DD6A606DF10F9E97A8E29"
+					"download"		"AC6810E19F3CC16138598DB68B69D366"
+				}
+				"meta_game_wargames"
+				{
+					"gid"		"D661F50E15F048035BF74EA3D572F735"
+					"size"		"A4ABF2A22A718469B94362EC8444116F"
+					"download"		"E3A474464FA743CD8555F05E09424389"
+				}
+				"tech_stingray_crs_temp"
+				{
+					"gid"		"AC0A3C6F5DE41F5720F72ECB24E710D8"
+					"size"		"D2AA4513241C54B11E7F59A0FEAD5325"
+					"download"		"6395375E61515F7B04422DF4847C9BFE"
+				}
+				"playtest_branch"
+				{
+					"gid"		"F105F7597A2C713898FC4F162605702E"
+					"size"		"5093A5450E94F6FD71A87190EA733332"
+					"download"		"7D424B24A6D126F6FC1C359FEDA75113"
+				}
+				"gameplay_illuminates"
+				{
+					"gid"		"FEE506276CAE8AD6FCA015A397BA82F4"
+					"size"		"91447BBD3C6434358F7A50742C0CE981"
+					"download"		"00FB33B4C7BB674969A003896357A571"
+				}
+				"gameplay_factions"
+				{
+					"gid"		"E07DB9E739FF39C9378DEBC3E89EA479"
+					"size"		"CC50D6CCB56F619BC1505158850D84AE"
+					"download"		"9FE664E883A71C283AF98098A4B3366B"
+				}
+				"gameplay_worlds"
+				{
+					"gid"		"295FC392C8FD92E36EF8E9F6EA924A05"
+					"size"		"0C229EEA1E02D72D9C5E761D96EC6D17"
+					"download"		"06835D170736F7076BCB77648BE47F04"
+				}
+				"mod_1"
+				{
+					"gid"		"9DA5B99372F123E48233429573FDF073"
+					"size"		"DA6D12DB39160E6296A225A65ADCBA73"
+					"download"		"C527A35579E66643F4360BF36AA3E4C4"
+				}
+				"mod_2"
+				{
+					"gid"		"44022605FF32998A0088B3112AC71330"
+					"size"		"43A6022EF41E9964CFBC4C7C165A41C7"
+					"download"		"4A67D2208B14C22AB75C378A2BEBAF8A"
+				}
+				"tech_stingray"
+				{
+					"gid"		"17152EB32ED83A1A1C38531527157D63"
+					"size"		"0AD6C6A2C2BBB255CB2761F503A40E9D"
+					"download"		"20726405EC65C365491F0A7AD9BF965E"
+				}
+				"tech_warmind"
+				{
+					"gid"		"7ACBF122DD150791B22E115D3514E265"
+					"size"		"F6C65C3BDC6C212B5109621146CEC541"
+					"download"		"F2DA5A1C6F1152EC7DBFAD430872C142"
+				}
+				"nix_backup"
+				{
+					"gid"		"B0529E738CD9D595D2EF5C5F866944AB"
+					"size"		"B0674DB9FAA7E095CDD37B3C0C5A52EE"
+					"download"		"707CCE183DDCE3F367EE23D670F60D0D"
+				}
+				"nix_main"
+				{
+					"gid"		"4B3730FDE1A3B4C5E8706CB0392D87BA"
+					"size"		"66CCABAEF233AAE715EFEBD45A72B3E8"
+					"download"		"39952772B081AAAE64E5C253FDCCF7ED"
+				}
+				"orion"
+				{
+					"gid"		"2F380724F4AA23DACCAA258B10198EB2"
+					"size"		"85CF3E72DE245BABAA92FF13550D3F07"
+					"download"		"1A16AA0C88242BA059C0B12575E5E656"
+				}
+				"quasar"
+				{
+					"gid"		"BAC1B9D729102362624D4AB840C84C4C"
+					"size"		"51ECF90765CB9B0F3C90F677BEC96813"
+					"download"		"85AE3E870B12CEAA9BC8BBD8B8E9AA3A"
+				}
+				"wushu"
+				{
+					"gid"		"2154A5863AC2F71A5C2A3008A41A6811"
+					"size"		"24BE9A112170E7C4C1F2E5A1BA8075E1"
+					"download"		"379F6B2EA810334E13771CC3236E699D"
+				}
+				"discogarage"
+				{
+					"gid"		"ED9E4FE8D21D03C3D5E673D42BAE6122"
+					"size"		"5B5658A3444522BE5C9F4D7C1F042A58"
+					"download"		"3517390AC186006A7920A0EDEAB8727A"
+				}
+				"release_1_backup"
+				{
+					"gid"		"3407FE997E6157110FC0A9320AB3509A"
+					"size"		"10D199E4CE56617C90E127CB86F75896"
+					"download"		"246FA5244C32C3FB4875121C4867F2F5"
+				}
+				"release_1_latest"
+				{
+					"gid"		"757C3A251C0FB783FCFE49A49C3A995E"
+					"size"		"E886560B8DBE8CF9AD1569E87D1FDBB5"
+					"download"		"79E546130D0F59F8B74F266E38192D01"
+				}
+				"studio_playtest"
+				{
+					"gid"		"1BDDC2E91D94717609FA327A479F263D"
+					"size"		"A32CC52D0EF193ADA446293CC3E4D3EC"
+					"download"		"3D66D92664B23B9D6C9849D7F6B767DF"
+				}
+				"use_this_to_go_live"
+				{
+					"gid"		"6397DCD677D6840C484C7FC13F552580"
+					"size"		"DEBEF84CC4FC073BD84A95A224684FB3"
+					"download"		"D42C3FDAB5D7DB9FF9C1A4F956E4524C"
+				}
+			}
+			"config"
+			{
+				"optionaldlc"		"2506220"
+			}
+		}
+		"2506210"
+		{
+			"dlcappid"		"2506210"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"463173511915220930"
+					"size"		"349960616"
+					"download"		"330359584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a_mixed_bag"
+				{
+					"gid"		"5343E49B72504F71C4D709E84FBCBE16"
+					"size"		"5EC61730744176B9E317748CE0F088B7"
+					"download"		"8AA11D1B612134ADF1FBAC01497F8825"
+				}
+				"audio_testing_branch"
+				{
+					"gid"		"315A13F84F7BBFC72062CBB7B0E7B582"
+					"size"		"031667699EC559A0553421104948D73F"
+					"download"		"C316D1ACB348981A88A0A0A1A1C111CF"
+				}
+				"granola_bar"
+				{
+					"gid"		"643CEC35F9F4A01217F827F6A6B013DC"
+					"size"		"57A452A57DC63DAB278B6332159CE9AA"
+					"download"		"8A619BD25A472068B20030EDE1627236"
+				}
+				"pineapple_soup_is_delicious"
+				{
+					"gid"		"A79A26097D368611FC3CFAF944EE9F8E"
+					"size"		"F12B41ABF8699B4B3840E225AD87C49F"
+					"download"		"A436B596E610C8DCE0BD16E2414F90B9"
+				}
+				"nixxes"
+				{
+					"gid"		"8E9AD8B2BE3E1AFABF8E2F644592A03F"
+					"size"		"6FB66893592DE5937BA4E790BDD8C06D"
+					"download"		"2ED683AD049B0FD8AED2B8F14333C0B0"
+				}
+				"public_beta"
+				{
+					"gid"		"278D9AF136011C995CCA142C7B6EF322"
+					"size"		"25FDF75D687176FDFC3BB013259787AA"
+					"download"		"7AA0800B4E3E894616DA0DA052073C48"
+				}
+				"meta_game_wargames"
+				{
+					"gid"		"E53B3D5F5B361099E035DE418B75CF44"
+					"size"		"CE2BE184A8E9F7C175B484790B6C8822"
+					"download"		"C25EC9C35128DDA766917186DAEC4C61"
+				}
+				"tech_stingray_crs_temp"
+				{
+					"gid"		"8E69566326FEB365920D795E3F7045E4"
+					"size"		"C97E9E1E20FD3E8B30A5628C8AB0EE4C"
+					"download"		"582C43E72EE4F28C40D2D715BFB3C1F7"
+				}
+				"playtest_branch"
+				{
+					"gid"		"1E52923BECF8141FABE7ACC8321EDBC1"
+					"size"		"73AF5BCA165B7ED69ED3E3C16A024595"
+					"download"		"5F49D17056F9513A88E0006D79D54BDD"
+				}
+				"gameplay_illuminates"
+				{
+					"gid"		"AB709489E76E2ED0B1AC840BE21A9D6F"
+					"size"		"7CB72C683864970402DCDE005D255D80"
+					"download"		"A1592419EBA9A1B68FF131BE51A01686"
+				}
+				"gameplay_factions"
+				{
+					"gid"		"AEBDFC6241BE20F9C9B7D4754955E42B"
+					"size"		"019BAE62FBE09AE9B5AF679E9547A349"
+					"download"		"BC496F3B9A42F5ABB6A97470E3BD0EA2"
+				}
+				"gameplay_worlds"
+				{
+					"gid"		"D69377AA34DCF7539C09B467B0E32977"
+					"size"		"2C15A78440C3A0F4DAC91C70702DECE6"
+					"download"		"81A4819CC784AAFC2F4A2B4D919844FD"
+				}
+				"mod_1"
+				{
+					"gid"		"3BE363437772A420700585953FCDFE74"
+					"size"		"06F25B1003EA9F832A7354FA9F0A5E56"
+					"download"		"EC7B2E9C1670AC63851A481518415838"
+				}
+				"mod_2"
+				{
+					"gid"		"94E99863B6E40635907E563AF85D03ED"
+					"size"		"AE4CE0E4D7B3E0FB1918B62182E15B24"
+					"download"		"73C3662A4E712D2A9FAA862C42761BB1"
+				}
+				"tech_stingray"
+				{
+					"gid"		"7B6733C8470352C24F0E55D9D82D0848"
+					"size"		"F853F99171C57642CD884A6D5BD94B7E"
+					"download"		"DE1BB26ABFE075A75A5922B66C28432B"
+				}
+				"tech_warmind"
+				{
+					"gid"		"ADABD1B18D97C98F81790B802EF2752A"
+					"size"		"B8289000D3A475F627B5DCE1219DF460"
+					"download"		"62A41E9F4B080792A95DD8EF09CF9757"
+				}
+				"nix_backup"
+				{
+					"gid"		"7539F6B2D5B9518335142DA27F51F971"
+					"size"		"5EE40F96DE30EAFC7E9709FC256ABE7C"
+					"download"		"F6859E4CFE73C334460E64E089A1E184"
+				}
+				"nix_main"
+				{
+					"gid"		"B8F7B3BA75B3857FAED7856A5F3D4104"
+					"size"		"58C95F46AECBDB875E58CCC663AFE01B"
+					"download"		"8A6A83C16E401E12F4F99D7BC35CEABF"
+				}
+				"orion"
+				{
+					"gid"		"570C856C8D066AB32D6081DB19CDC71C"
+					"size"		"9F06F2E273DDDAF5A9038EE36A761E88"
+					"download"		"9617C39B2B6BFC99D9D440545AA012BF"
+				}
+				"quasar"
+				{
+					"gid"		"E2633E1D06CEF6FFF0DDB325725FD39E"
+					"size"		"C1AD3B5C943A017B0AD633B6C09AEDE0"
+					"download"		"0C0B135DAAD5C3D88AEB3DD7421834CC"
+				}
+				"wushu"
+				{
+					"gid"		"C516AE58F4B2150345CCC1ECCCF5D28A"
+					"size"		"5F0E2B2639358B8534B1E70854F399CD"
+					"download"		"512F275EA43EDE25249C7CDB8E888A17"
+				}
+				"discogarage"
+				{
+					"gid"		"3E3A2534DFBB6F8971193B1EB7A1AAC5"
+					"size"		"354059D963E91D813261FC3813E9EDC9"
+					"download"		"3920F1F573F852F65C1359E19D73C42C"
+				}
+				"release_1_backup"
+				{
+					"gid"		"D0B2D22D5E921A10D9347F06134C43AA"
+					"size"		"C304C1ED0E4869172D8D21DF9D64154A"
+					"download"		"A9E891C3E23C27DEB08FC6B8DBADA6DF"
+				}
+				"release_1_latest"
+				{
+					"gid"		"DAF76817C758F01BDC86DF5872C83AEB"
+					"size"		"D8AC86CE882579D87A9453FA1D67F9D2"
+					"download"		"4B1045869EB9419AAEBA6F1D3E88C5C2"
+				}
+				"studio_playtest"
+				{
+					"gid"		"1634A4DFE2507CA7040BA3DF385F43D2"
+					"size"		"288ABC47423DAA32B25DF323300F84DC"
+					"download"		"BF688CBD34F8CB4B526DD08AE4026108"
+				}
+				"use_this_to_go_live"
+				{
+					"gid"		"4D05B1274121C51B811146C13BDF9893"
+					"size"		"BD76EDC7A1BBA347A9E5FFB28821EB85"
+					"download"		"3134984529E3D4AACA740EBD3BF4C3E4"
+				}
+			}
+			"config"
+			{
+				"optionaldlc"		"2506210"
+			}
+		}
+		"2506280"
+		{
+			"dlcappid"		"2506280"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4042597764697997963"
+					"size"		"349838589"
+					"download"		"330184800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a_mixed_bag"
+				{
+					"gid"		"140E23997DEBFA50C85FEB9009161543"
+					"size"		"8F588F9D5C664418F49E5C4C168AB28A"
+					"download"		"9B9BDEF28DE189897C502AA805C075D3"
+				}
+				"audio_testing_branch"
+				{
+					"gid"		"4DEC27E74C6BB69CA0BE4F7BADAAC9F4"
+					"size"		"3DB95417740E0FFEFA1C3774128B1128"
+					"download"		"6DEF468EEAB2834317CBD09C5BE1FA02"
+				}
+				"granola_bar"
+				{
+					"gid"		"FFBF72897B7F8D2AB8326959CBBE9705"
+					"size"		"61800AEC1DB4569684C188E1CA44D889"
+					"download"		"6AA696283654ECDB6F90FE506D54DD6C"
+				}
+				"pineapple_soup_is_delicious"
+				{
+					"gid"		"E20F81DF4576426C617E6C41499507EE"
+					"size"		"F9AD7FC4B27AF06AC8BA65C0EE4C5B12"
+					"download"		"71F19606CBFE4C7FA1C7F28E65DE133B"
+				}
+				"nixxes"
+				{
+					"gid"		"A570E0E7B749DA7E87EC8DCDE6B1EDC3"
+					"size"		"57791132B76257E8BA9B896908763C33"
+					"download"		"42BFF63D21C3FB963CC37ABFBB380138"
+				}
+				"public_beta"
+				{
+					"gid"		"28E513C7240976A0E7F7185F32024C15"
+					"size"		"878F18F90A700676D0455AFDAB044EF0"
+					"download"		"D778243D221BA6361A6EB92B4E12EBEE"
+				}
+				"meta_game_wargames"
+				{
+					"gid"		"7DFAAE808FCF792EB5510FE85138B534"
+					"size"		"F43ADA6673348773649DD8E9928597DB"
+					"download"		"97C355B8BA03868063A922418B235E8C"
+				}
+				"tech_stingray_crs_temp"
+				{
+					"gid"		"80430E6DDC169073218B3622513C6EFB"
+					"size"		"98507364E773F31F026162FAADDB3ECD"
+					"download"		"3E4AA7E22D66A9957813015D6E402C7F"
+				}
+				"playtest_branch"
+				{
+					"gid"		"646414101032FA95917D57E1F6C11A4E"
+					"size"		"E7ACD87842975F458639FA362D59EEDE"
+					"download"		"6179811AA862778C4FF36E34B72DA3E5"
+				}
+				"gameplay_illuminates"
+				{
+					"gid"		"AE47B96C11D5D169100FB74665BF2837"
+					"size"		"3C1A1DBAC584F9A3B3A13E0D77E326FF"
+					"download"		"F149C7E46F1E1E74F366C933F4E1FC62"
+				}
+				"gameplay_factions"
+				{
+					"gid"		"D76703211D10BFD4477AFBFCACE1D9D5"
+					"size"		"588064D5FB4AAA3D2987170312FFCAE2"
+					"download"		"E6322BDA46653469192A0220408BCDF8"
+				}
+				"gameplay_worlds"
+				{
+					"gid"		"68D75815FBCC665B6C57A39222E85C02"
+					"size"		"7E6FA5FE6CC8357BD1AF9F37AB2335FF"
+					"download"		"B99D493F37FE33D83453A0AAB55821E2"
+				}
+				"mod_1"
+				{
+					"gid"		"C3B38F44FF7A7C5EE53C1E3074834047"
+					"size"		"802C3B5D2FFC2BD3CE2F84AF2929C749"
+					"download"		"E4336250E1C2738DC683F120A6891A9B"
+				}
+				"mod_2"
+				{
+					"gid"		"1D827D5B3F213256CEAC87821BC35D01"
+					"size"		"330FB7C5675C6F8BF29411510980CC5A"
+					"download"		"D299A13287A027F781DE5AFF16A8706B"
+				}
+				"tech_stingray"
+				{
+					"gid"		"F1720E130F58A3CE10792C4E664BF0BE"
+					"size"		"986BF6BE1C3D8D47378B33F8D0289859"
+					"download"		"A2043A13144B46CA57896E1878397191"
+				}
+				"tech_warmind"
+				{
+					"gid"		"F2A6693300CBD9E2B3F3DAEE1FE894E9"
+					"size"		"F1C55B42FB9A1B02560AA67DF27DDB30"
+					"download"		"2E83564836BFD0C1D6695BE2758ED592"
+				}
+				"nix_backup"
+				{
+					"gid"		"180685B8B11C6FFBD8A0C3BCA5AE246B"
+					"size"		"2AE8AF5172DE7F85E93916D81AD1D3EE"
+					"download"		"88FC454609BC455140B513E867DBC53C"
+				}
+				"nix_main"
+				{
+					"gid"		"8CFE6EAD84ABE5E3F353414AFD7B0471"
+					"size"		"48BB20E13DE20F837F3076E6B86B4A7E"
+					"download"		"5843040CE6056F30143342772A1AD533"
+				}
+				"orion"
+				{
+					"gid"		"63B2D65E04150CCD86E24F20934CCCBC"
+					"size"		"183E2F63D3D36454741F8916BC70AB16"
+					"download"		"97F5C70E1436E71228348174CBF414E3"
+				}
+				"quasar"
+				{
+					"gid"		"738F58EE17601341BB15FD6FA42C2390"
+					"size"		"9A04456673096DE7D9865D02AD7ECAD4"
+					"download"		"3DF36B7E989F681128B4C049CDAE8478"
+				}
+				"wushu"
+				{
+					"gid"		"F4AC857EE341DA08D67270AA053F46F1"
+					"size"		"C5865D60D7A2F1F5906B7F57EB73CFE9"
+					"download"		"4B0D095122A23BAD76B070E93FA37896"
+				}
+				"discogarage"
+				{
+					"gid"		"9FF05FD28515F39840E90162F3A5CF95"
+					"size"		"068D9FDCB5110B49B9457D1CB1B45B45"
+					"download"		"470E0F8C421F76E5F6AFC85DC48D43FC"
+				}
+				"release_1_backup"
+				{
+					"gid"		"AF6BFFE49F6831D3A69E9B747BCE5422"
+					"size"		"244FB555C451A8061D7AF3C35BCABBDB"
+					"download"		"1E061E6F3C97F0C78CA590E9C433E804"
+				}
+				"release_1_latest"
+				{
+					"gid"		"78058EE8E41AAB08F0573E5E2170DEE7"
+					"size"		"3361CD7E7E5A1FE76BF14EBECD4DBDC2"
+					"download"		"32426EACDB072090C91D668107F26AA1"
+				}
+				"studio_playtest"
+				{
+					"gid"		"51356683D3F06BE631AD35C57D985839"
+					"size"		"6E56D1D3BC63BEA26AC97B56B336A3A5"
+					"download"		"F8337E9DE1AF594558DDB85AA42D28DB"
+				}
+				"use_this_to_go_live"
+				{
+					"gid"		"AABA11B83A614BFC02B7E810EDCC0CB0"
+					"size"		"13B5622E34ACAE880170A44B29E899CC"
+					"download"		"646775F0B85DA745021E1B45378666DA"
+				}
+			}
+			"config"
+			{
+				"optionaldlc"		"2506280"
+			}
+		}
+		"2506270"
+		{
+			"dlcappid"		"2506270"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6426817992298642478"
+					"size"		"343207133"
+					"download"		"323725440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a_mixed_bag"
+				{
+					"gid"		"594CF9F2B3E70ACB0A10F8FFA253B488"
+					"size"		"A4671B5364BDBD59D7B85FE23C7CC80D"
+					"download"		"600A090A7E360D6446F20C6808A91E20"
+				}
+				"audio_testing_branch"
+				{
+					"gid"		"54D68324250340169DDE789C34A05D9A"
+					"size"		"0A1144D183C090E0464B92EA154C18AA"
+					"download"		"A04D0E0420C6A118BC0280BAF2E9FB55"
+				}
+				"granola_bar"
+				{
+					"gid"		"60D56672B4C62CDB9D896C457C0BC318"
+					"size"		"D4A3C15ECAE53BF1B88BFE59A21E8DD0"
+					"download"		"B48731DD5624783E0AB1D7A74155838B"
+				}
+				"pineapple_soup_is_delicious"
+				{
+					"gid"		"69328302FF2EF65B5D508E495CBB609A"
+					"size"		"851C5E830979B52A152AEA713C033E32"
+					"download"		"6A18F9C37E228CA28CEA4B114D628570"
+				}
+				"nixxes"
+				{
+					"gid"		"947ECBB055DE0E0AB0FC2D6CC982D3A7"
+					"size"		"520FE3FAC143F33CFC5AFE2BEFEA54C6"
+					"download"		"F7B9823B73DE149FAB5D28A0E2F71D69"
+				}
+				"public_beta"
+				{
+					"gid"		"2666D215089043C0C06CE410E5511777"
+					"size"		"01C063209BF0FC22373B864B83B21B3D"
+					"download"		"72AE2CE34CFCD45ABECB39D469DF8A34"
+				}
+				"meta_game_wargames"
+				{
+					"gid"		"C81810BEE5675A9FE53B653A5F6895C7"
+					"size"		"89770D5CD6B8B6EACCC133EE6BF39D63"
+					"download"		"E1A19A4E38BA809ECCBAFBAA41BE39EA"
+				}
+				"tech_stingray_crs_temp"
+				{
+					"gid"		"CDF24278449357BC6051DBF3393B46D1"
+					"size"		"7B4F0A7E521B4A5E9B2FF6E0517647E6"
+					"download"		"0542635C95E2B241898E638CC29732CF"
+				}
+				"playtest_branch"
+				{
+					"gid"		"B8102F9AFF55743570C93012A3526159"
+					"size"		"CE7567D7A103FAAD3CAAAD24584AB579"
+					"download"		"79E2D99BFF586CB389F46CCCA037E99A"
+				}
+				"gameplay_illuminates"
+				{
+					"gid"		"23190A1BD3CFE0AAA5E015D068C2DF25"
+					"size"		"9AB4169922D8EE1299A47E4A4A5D9BEC"
+					"download"		"FB98D33183D5634F48699ACF49F72232"
+				}
+				"gameplay_factions"
+				{
+					"gid"		"3C23B13171095B03E8186FDD0BE3807E"
+					"size"		"86A888D43004CBE7D6BA296CCDFB4987"
+					"download"		"C6A0F401AA0DA051B83AC505A96A0607"
+				}
+				"gameplay_worlds"
+				{
+					"gid"		"87BC8E1EFE7618F2CA94A356A9EA3496"
+					"size"		"5116696A36B0F38D7244F975F5135A12"
+					"download"		"8DB9542E4399E98BA954F41125C05AF5"
+				}
+				"mod_1"
+				{
+					"gid"		"08A71CA8A08A12C77A6480595D6A98A6"
+					"size"		"E91547FE9ABBE5CD9346E15356CA267B"
+					"download"		"E57BCF1681BDA9C3B348DB99828AE6F8"
+				}
+				"mod_2"
+				{
+					"gid"		"12ADAB0CC7C68BC73D2F34357FB6DE3B"
+					"size"		"B065B046E8ABEB2927E72C579BC49048"
+					"download"		"451D8CF44CED173A5640B3EBF5F8F7E0"
+				}
+				"tech_stingray"
+				{
+					"gid"		"67C3239757AAC0058D9BBEBD173D5883"
+					"size"		"7800CE5BCB4273999F11D2ED21FEED21"
+					"download"		"54E942BA00A71B06C5C7075484BB9B0B"
+				}
+				"tech_warmind"
+				{
+					"gid"		"6D0D408A8B078EB92A9C40AEC5AE9C75"
+					"size"		"5D55665EEF4E9FE8154FBABE2EA092B2"
+					"download"		"23E5FCEBE6084CB89419D4CB076A8745"
+				}
+				"nix_backup"
+				{
+					"gid"		"A1584F0E0A4300EDEE993E597F678162"
+					"size"		"DCDD4B3567B65271E8E757D0E85D92E8"
+					"download"		"89BC8D4DE2D54C1B68459E329B6B6113"
+				}
+				"nix_main"
+				{
+					"gid"		"AC5E9A7C5AFEC886373D479D8B00476E"
+					"size"		"0F5771FA1AC8F077FA7D4CF0A228A7B3"
+					"download"		"8460782D53863E32C2C9485BE5B9B9BD"
+				}
+				"orion"
+				{
+					"gid"		"E85F4F621BE31E8C45B36E8578CBC2C3"
+					"size"		"7900AA9DF5833FDA643E9127750C4395"
+					"download"		"595C2525FC9B1B3CE863624A98F18416"
+				}
+				"quasar"
+				{
+					"gid"		"38D3316484B7E2D4608B8B1BDF31BAEA"
+					"size"		"26F85348FF49BC1ACFD08B2D5F8C61DF"
+					"download"		"FC4EF7F7F49C5C3E867FAFED9B169E3A"
+				}
+				"wushu"
+				{
+					"gid"		"5317623466DB86B5432F96A48AFDF30F"
+					"size"		"BBC962593FEEB450D4D2BBF58AA6214D"
+					"download"		"5A4BF4BABB6A154849430F5B8C9310DA"
+				}
+				"discogarage"
+				{
+					"gid"		"8682D82C527238A57656E2D36EEE6134"
+					"size"		"EB63D7102C715AC0EC2F4D96D73C8DFB"
+					"download"		"53B220AA6877FC0691643D8C176A9D69"
+				}
+				"release_1_backup"
+				{
+					"gid"		"6D49B9029C53236FB4B6FAF6FE7752EA"
+					"size"		"85EF483A772C7216E6D4D929ADF89834"
+					"download"		"570AE574C0CBA24E64C1ED2AE9629D05"
+				}
+				"release_1_latest"
+				{
+					"gid"		"7565E49894CAD13EE13520DF2B10E7F1"
+					"size"		"FBB1EA12D89E9F0C991C6D83129F0E5F"
+					"download"		"A85F79D01091028FA9B7C00AEFDF1B26"
+				}
+				"studio_playtest"
+				{
+					"gid"		"B6E11187D269255BD15601828D99BA37"
+					"size"		"963C898275D0AE09F6E5D0B54C41DE44"
+					"download"		"5D5B242563FB4CACCCFA6D0907F32161"
+				}
+				"use_this_to_go_live"
+				{
+					"gid"		"D4AA86BA63CA942AC2E1A2AA4B18981A"
+					"size"		"3B07030E15554F8F187BEE3D984B0F94"
+					"download"		"86F34476423987BD39877CB7F3022C53"
+				}
+			}
+			"config"
+			{
+				"optionaldlc"		"2506270"
+			}
+		}
+		"2506250"
+		{
+			"dlcappid"		"2506250"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7370927945609520736"
+					"size"		"350016131"
+					"download"		"330723472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a_mixed_bag"
+				{
+					"gid"		"B0EAD59A38459F819332EC39D16F03DD"
+					"size"		"F0BA4E7EF465020AAAA30AD354BF71D9"
+					"download"		"5B940384E13737380FC7B994D9942C42"
+				}
+				"audio_testing_branch"
+				{
+					"gid"		"CFFF316C5DF7BA7A4F702036F044CFE5"
+					"size"		"36B49A70FF838CC061A803754021DAC6"
+					"download"		"E3543ACD1A1F98ACD1EFDF96C8EAC1E3"
+				}
+				"granola_bar"
+				{
+					"gid"		"9C66A1EBB327FB439D9D0E0D5458C4C5"
+					"size"		"36BE8637E64E27F4A560B3037DF2F203"
+					"download"		"346038291D7A7E3CE7AEB547BCC4DE18"
+				}
+				"pineapple_soup_is_delicious"
+				{
+					"gid"		"4E42F38B9605F098AB45FE89864DFDC5"
+					"size"		"FC738FB45ED2C69DBA5990C0EBDC107E"
+					"download"		"DCD038E254EC2085B5BFAE69DA7D92A3"
+				}
+				"nixxes"
+				{
+					"gid"		"D48B6B27EA131641DF21EB1DB9FFD126"
+					"size"		"55BD748AFDABAE24484F24FA35488D87"
+					"download"		"961DBCE21A9CD4B2FF399E054F7BE6DE"
+				}
+				"public_beta"
+				{
+					"gid"		"FE24DC06039B91C25F3833734F5F1B1F"
+					"size"		"D6E952CDD8F5A06AC646E4C3C5772BAB"
+					"download"		"AD6A6A98FFD1A376117FB0EF3D489900"
+				}
+				"meta_game_wargames"
+				{
+					"gid"		"01FCBD86F892D322885D68A1FA3E77D0"
+					"size"		"EFDFF9E389179B8786E81E54C94CB36D"
+					"download"		"C2F8CDCDBB491A2A83487ED0AC3FC95E"
+				}
+				"tech_stingray_crs_temp"
+				{
+					"gid"		"882E9FA0628F090CD1939B6D83FF39B8"
+					"size"		"57F1ECBE5AF8140A2B70C67A28D2D12B"
+					"download"		"53A25242780E9C26414F79CC17660646"
+				}
+				"playtest_branch"
+				{
+					"gid"		"5BC751CE6B671591DDC6AB33580A6DC9"
+					"size"		"8A3F597A571DD909CC4DDDFFFEC1896D"
+					"download"		"0AABBC3EED99AFB888B8DA32589A9A13"
+				}
+				"gameplay_illuminates"
+				{
+					"gid"		"604CA6895E3592ED1C7C3840BED9CC84"
+					"size"		"D4CBB15E6CB6EA27E438062FE7A01058"
+					"download"		"07B13E2003D5C0C3DA522325C8CDF39F"
+				}
+				"gameplay_factions"
+				{
+					"gid"		"858FDE757F914E0916C4584308A86593"
+					"size"		"01E8AC9A727E22E74FF674024ECE6C0B"
+					"download"		"B8021D547B550C600D3E2CB68F37A61B"
+				}
+				"gameplay_worlds"
+				{
+					"gid"		"40E4BC91D856C49E82453FDF6BFF629F"
+					"size"		"C54A4F2FD2C693A7CB782466B6EA5210"
+					"download"		"BB82776CBB0ACFB4A1FF0E93A42AB92C"
+				}
+				"mod_1"
+				{
+					"gid"		"59795BFFDE1940A527AC96688AA9EA0A"
+					"size"		"B9E03C0EBD176A1FFBDA6C78C371CF36"
+					"download"		"0802E9DCEA4C6F40FFED860826B6B0FA"
+				}
+				"mod_2"
+				{
+					"gid"		"746F3FA6104CBB02F0A6B895A985913B"
+					"size"		"9CCB0FF9BF858F6B41F1BC3D3212A252"
+					"download"		"6EE1BFD4FE31C5E2B453AEA3E509C9AE"
+				}
+				"tech_stingray"
+				{
+					"gid"		"DC93EEA031851649DE491A4668999072"
+					"size"		"11DCBF2779C4E69264D464DE1D6CD5EE"
+					"download"		"279FD3AAC65E75D965F22AA813DB35D4"
+				}
+				"tech_warmind"
+				{
+					"gid"		"F8D7F0F98B9DBFE81D7E3B4F68BCB7F5"
+					"size"		"A9F2F3A13581F1A1F86256B8A246FB63"
+					"download"		"D51873E129F060666DC3C85DE9B7F72A"
+				}
+				"nix_backup"
+				{
+					"gid"		"5957CE55EBE555543C736998F7892741"
+					"size"		"7A5BFDC0A5575B1D42038AF1D6C3EEF7"
+					"download"		"C4B4EF4BF634026C40F68ECB204891CB"
+				}
+				"nix_main"
+				{
+					"gid"		"1B1DBFADA4803A613FCF6B03EE435A51"
+					"size"		"A3433B1905FFA56A0F62D57349BC8210"
+					"download"		"6B9EC265A7206BC457EF69ACA27EB7D9"
+				}
+				"orion"
+				{
+					"gid"		"6ABC6936A3F9A8E62073AF20EFBF431E"
+					"size"		"5563FF32108D075639ABC086A6C219ED"
+					"download"		"64080D329DF328EC1DA7535340DEA779"
+				}
+				"quasar"
+				{
+					"gid"		"9922CF7BFC5D3FBE3B118A3BC9A8FF37"
+					"size"		"1676546AD6E6B969E18661FD23998445"
+					"download"		"35B8D5888BB90D58BF93930E2AD74360"
+				}
+				"wushu"
+				{
+					"gid"		"260A424D8150DAE4BDF3F316BB82AB51"
+					"size"		"5982C56E92760502AAA18182EEDF7EC9"
+					"download"		"E03F839837E0F975D6C78EBF9280215A"
+				}
+				"discogarage"
+				{
+					"gid"		"BD19DDBA8B12A9B8A5AB90E683ACD6BC"
+					"size"		"54AEA30F2C153C10149D750655E542D8"
+					"download"		"9156DAAC3983FCFA66D336853CD8282D"
+				}
+				"release_1_backup"
+				{
+					"gid"		"D0334690ABABDBB128ABCB0C73F53ACC"
+					"size"		"51A922A378E043D31A1FE596BBEFE8E7"
+					"download"		"C161B07A8B64463DBD4E84B4E3E3406C"
+				}
+				"release_1_latest"
+				{
+					"gid"		"B23CC5C76EAAFB6299BA711C9398E278"
+					"size"		"5AC6D6C6E72178698559B58C4C023C98"
+					"download"		"D2BE2842C1E0283E72160362B7FCC2E5"
+				}
+				"studio_playtest"
+				{
+					"gid"		"15B637CD7BE1CA130D180ABE4F838CA1"
+					"size"		"DE4BDDB7C044D8602A0C74F9A0A6F767"
+					"download"		"13D54648C7F2F1EC45C919CCA2B430C8"
+				}
+				"use_this_to_go_live"
+				{
+					"gid"		"5B48C93A0877C6A969ABA75070B2ECE6"
+					"size"		"08F4350569A3B1DD569C247445C70982"
+					"download"		"E011D9399BF8BEC1B117BF9F5BC0CF9E"
+				}
+			}
+			"config"
+			{
+				"optionaldlc"		"2506250"
+			}
+		}
+		"2506260"
+		{
+			"dlcappid"		"2506260"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9005332598743329232"
+					"size"		"351157962"
+					"download"		"331307744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a_mixed_bag"
+				{
+					"gid"		"A58D39E865A409CA708ACD130E372C64"
+					"size"		"C5841DF401BC1062DA98A9A12246A9F6"
+					"download"		"A2456903A88B0201297F1E2E78B47E63"
+				}
+				"audio_testing_branch"
+				{
+					"gid"		"3CBE195F8686FA0EEEDA3E0A63880854"
+					"size"		"D931C86D77ADF9E0BC51D2EB397B5D33"
+					"download"		"222AB31EEB62741F3AFBF4F7CDC647B1"
+				}
+				"granola_bar"
+				{
+					"gid"		"3520093344647D669E6FAA96AAAE91CE"
+					"size"		"D82499113AB0FA570608F8A06DB3BE8D"
+					"download"		"E241E2F8E2FD649CE0B892DB8C0D35CC"
+				}
+				"pineapple_soup_is_delicious"
+				{
+					"gid"		"B67389343CE971B50428F3AC0BA08CE7"
+					"size"		"B38CAA0007E07AC0B152B82AE0026A0A"
+					"download"		"B0D1E5312FBD2ADE5B4B102B13D09406"
+				}
+				"nixxes"
+				{
+					"gid"		"2A4205FE815D4FE63942D5B53EC7D7C2"
+					"size"		"6D1A00699E0015CEB0ED7DC3D653A7EE"
+					"download"		"6928309206226A10B54934D6AFFE56A2"
+				}
+				"public_beta"
+				{
+					"gid"		"2F88027126295BF3F34DD6E6BF28B974"
+					"size"		"C9A9CA42BECEC1FD91ABA99155C2463C"
+					"download"		"2A1254A48CD3B82168EBC2195B00CE5D"
+				}
+				"meta_game_wargames"
+				{
+					"gid"		"6A9BC904ED9E31BC9996C9B8B4AAA3AD"
+					"size"		"E4692626F41060FD3FF304AB5E937AF2"
+					"download"		"3285EAED5EDD887A795079FDD9E59B29"
+				}
+				"tech_stingray_crs_temp"
+				{
+					"gid"		"D77D0562A930CBECB630C725ECE47957"
+					"size"		"EB9983F10DE28D2B34BF4A76DD276719"
+					"download"		"EB6AA4DC3355B551D589090C27EC663B"
+				}
+				"playtest_branch"
+				{
+					"gid"		"9AC696CF45A6B411D2C2A5A34F0BF650"
+					"size"		"2A1635095FEF0645A2C3EEB5F263FE98"
+					"download"		"395C7DD25BB0EB82FF826CD18E65F891"
+				}
+				"gameplay_illuminates"
+				{
+					"gid"		"E4E7F9A7DA12D112CDB31EDAB25754C8"
+					"size"		"0554C1A5E20C9C2A0754997AE23C7887"
+					"download"		"E413D32C47131E9332F3F2465A32E8E3"
+				}
+				"gameplay_factions"
+				{
+					"gid"		"C173382C32112F2BC2E9C28C442BDD50"
+					"size"		"95B3F89275202D4ECFFD7F10FA43D0F8"
+					"download"		"7B552FA4744B5DD83624C3730A2F9685"
+				}
+				"gameplay_worlds"
+				{
+					"gid"		"89491BB8D9BD4B722F97B859B526AA43"
+					"size"		"D8F87618AC31D6A60575733F0EA1BF5C"
+					"download"		"CDD1DD52C645C381725F62936F61FE3E"
+				}
+				"mod_1"
+				{
+					"gid"		"D8362D087228396DD9B4FD6CE32E7328"
+					"size"		"87DA2BB68F9239F7D0635FCC439CEC4E"
+					"download"		"57FEE3F94B02051C27C2058C13DE3ABC"
+				}
+				"mod_2"
+				{
+					"gid"		"8E650DC92C67D3990A7C53BB264D3EC1"
+					"size"		"6023922F4236B3C7117D8CD717E2F4E0"
+					"download"		"3F8EDFF3135ED901524D2EA3F8A63CCE"
+				}
+				"tech_stingray"
+				{
+					"gid"		"7092CC41CBC870545FE14927D5123E99"
+					"size"		"4A26B3B25CD0CCA821E77CA619A3D4AC"
+					"download"		"034CC6097912E32F6820BB5B3E1502AF"
+				}
+				"tech_warmind"
+				{
+					"gid"		"671A9B1D143903FFB41152B09A69A570"
+					"size"		"AF4835C273B941083AFA5AD23D6BA16D"
+					"download"		"628F0F0C043D664AE36DE52DAB51344C"
+				}
+				"nix_backup"
+				{
+					"gid"		"B05CAFD0EF806175522906DAF445FC9B"
+					"size"		"65BD5F40BBABC0D981D38920990F94DE"
+					"download"		"CA088CAD68FED52A34D4ADC1FA71F500"
+				}
+				"nix_main"
+				{
+					"gid"		"5FF8627A890F263DCE97FBF3CCEB06AF"
+					"size"		"33473EBDC8EAC6178C26104BBD5699DC"
+					"download"		"DCED04967B125C28BD316DC24A0F1AEB"
+				}
+				"orion"
+				{
+					"gid"		"8BADBC8EC5E311DA40C589E447F9C092"
+					"size"		"15F3B9AABE3F17C9E413A2C9166F243E"
+					"download"		"E2D8C89A2B905302F2007AC88C2191A6"
+				}
+				"quasar"
+				{
+					"gid"		"6377AFC8A5ACBB3456BAC19D6A1116B5"
+					"size"		"8F11765E1C2F1EAE1415B30DAA398C91"
+					"download"		"2DB2433AB162939C140C8597DCAE89B8"
+				}
+				"wushu"
+				{
+					"gid"		"195B7A328664D2EE769B54A57F28BBEE"
+					"size"		"C532EAD4BB974DA8C727AD146DBBEACF"
+					"download"		"F10A5E0BADFA1353A73C65DFC13562CE"
+				}
+				"discogarage"
+				{
+					"gid"		"521BEA5B9C01DFABAE854F18C1B193DF"
+					"size"		"769EC4A600B64B7AC690FC6200EA9717"
+					"download"		"A3E8794975B76BA6534515292C1135D6"
+				}
+				"release_1_backup"
+				{
+					"gid"		"1CD7AB65DC8A0A171D0DF078FA0571B0"
+					"size"		"11BA0BDD6E90F0EAC89D471A16D16D85"
+					"download"		"E3E8BF1B4A096605A0A8E645233E7DDF"
+				}
+				"release_1_latest"
+				{
+					"gid"		"40DBD4FACE0EA9115E4D8FBC0AA982D8"
+					"size"		"3406A7157B2E1B12495A658A7CFA84C8"
+					"download"		"F8D7F7036F11E3CE6603E3343E720F7C"
+				}
+				"studio_playtest"
+				{
+					"gid"		"45DCFA779B04BC222222A4FD4DABAE2F"
+					"size"		"8DB32515A70EDA6D51CE73B06DD53CDC"
+					"download"		"F8431E03EC6AC22C977EEEF063CAC155"
+				}
+				"use_this_to_go_live"
+				{
+					"gid"		"58B0EC96233074E577D92BA28F7D9BA4"
+					"size"		"B33D99563E882CF225AB417FEA5FBDFC"
+					"download"		"22092DD59A6BD630341EC6D5A2EC30CB"
+				}
+			}
+			"config"
+			{
+				"optionaldlc"		"2506260"
+			}
+		}
+		"2506240"
+		{
+			"dlcappid"		"2506240"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6614023053709698033"
+					"size"		"361210570"
+					"download"		"341184032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a_mixed_bag"
+				{
+					"gid"		"79B495E2F5F519795772134DBC123073"
+					"size"		"89E3322E428925923E4FE908541FC4CD"
+					"download"		"8BFFDFDCA0752969BDC486352960A1CA"
+				}
+				"audio_testing_branch"
+				{
+					"gid"		"86DD7FA016E5D3DC702362F50C481DBB"
+					"size"		"15B0880CC9ADB6F1A6BAAD3006099C1E"
+					"download"		"DE0467E1167B3AD9702561B6E9BD8A8C"
+				}
+				"granola_bar"
+				{
+					"gid"		"B731E61ABCBB72790DCAE48792D0DBFB"
+					"size"		"08535EC81250E0540E3DE850998CD99F"
+					"download"		"BF541455B91085D3EAC6D090CD7D3B4C"
+				}
+				"pineapple_soup_is_delicious"
+				{
+					"gid"		"2840835D96695CC7E8F807A45DE0D2FE"
+					"size"		"5A2F3E9503D9B577B5D9585D40AC5786"
+					"download"		"3E96C2D349CDF2186818E83B1EF39A6A"
+				}
+				"nixxes"
+				{
+					"gid"		"CD320BF9BDFD6E2B8A26F46C9AFC3175"
+					"size"		"F141DFFF8F47887E4B25FAEADAD9096E"
+					"download"		"0DD59BBBD08BE3061107E7383A5649C7"
+				}
+				"public_beta"
+				{
+					"gid"		"85C5F42CBA0DD2A944DBBED1AE649CD7"
+					"size"		"CEBE1C2A0BA58496BF13838D19677943"
+					"download"		"8DE766E247FD76980C8AC325CEBF1978"
+				}
+				"meta_game_wargames"
+				{
+					"gid"		"99CE4B74DCB390A78A4084E3EF8E4605"
+					"size"		"BEF1E8720D1F61C0E54A690C8F230F6D"
+					"download"		"07C720E1A5AA0552FDD45967483C3C78"
+				}
+				"tech_stingray_crs_temp"
+				{
+					"gid"		"5A22D10817EE1235C482C255FA35ABFE"
+					"size"		"31811A13D3910271D13F7B8791CF3E02"
+					"download"		"46A2BDAE340F58C045D8B31E92E0846F"
+				}
+				"playtest_branch"
+				{
+					"gid"		"B7E93A017BA4EBAE61B332D1A12E4BD8"
+					"size"		"041C557C903892F9BE2619FB225BD556"
+					"download"		"65D51D16829EE4532F39C944BD3F715D"
+				}
+				"gameplay_illuminates"
+				{
+					"gid"		"055909E01178071FCF851DA220C91AD1"
+					"size"		"DA812D2C3D743A0F334EB9AE194DE1BC"
+					"download"		"99369B4669394F4FB2CC79B503746A26"
+				}
+				"gameplay_factions"
+				{
+					"gid"		"B6647AEC64311E07FF87F40A1A5A9C6B"
+					"size"		"5DED675A521A391223E86658F8FB95A0"
+					"download"		"622F795912175B153B0F1FED71137EB3"
+				}
+				"gameplay_worlds"
+				{
+					"gid"		"BAF1BBDD57CA59BF90332B39684F80FA"
+					"size"		"41BD3101F58D00DC5FA075CE46BA4E6E"
+					"download"		"2F84205A5CA6591568EAF9DEBC02CEE9"
+				}
+				"mod_1"
+				{
+					"gid"		"500544C6F8BD694F7083984482BA1097"
+					"size"		"2A7E246F3CD5388B77B99DC01B89517A"
+					"download"		"CDDDA48856E9A7496DF7F81D5E80C4E3"
+				}
+				"mod_2"
+				{
+					"gid"		"13EA8CAC6F25D7EA259E8357E1B68099"
+					"size"		"2BA33A59E4574A9182CFD9B4CBFB91D5"
+					"download"		"8B8D3757DAD077FD5C0E8D071119A943"
+				}
+				"tech_stingray"
+				{
+					"gid"		"9D43BEA55E751CDBC577D100E61DADA2"
+					"size"		"4C3E057735B6C2CA69E4D6C5BC157731"
+					"download"		"F9D9EF6A4E919B5A597257211D0D789D"
+				}
+				"tech_warmind"
+				{
+					"gid"		"DBBD2FD74877ADE63AB3071255D61F29"
+					"size"		"EB7D012BAE7B6E39F80407A162E3EB74"
+					"download"		"3966D7C61E1B3ABA8BC98A1090284186"
+				}
+				"nix_backup"
+				{
+					"gid"		"EDB12C18443ADB1A338F1DA07C3C6026"
+					"size"		"E1D3FEB7EB91D5A96948514BDCB8F248"
+					"download"		"C6330099DE1AF7B468E238DA17B4D6E6"
+				}
+				"nix_main"
+				{
+					"gid"		"5FD7869EC474B78FEE994D4A9ACF6F87"
+					"size"		"7D13BEBC5C074F78C6DC6B374C387E5F"
+					"download"		"814991719035C7EE181A78747F87BC0C"
+				}
+				"orion"
+				{
+					"gid"		"47DD6DB6E6170C7821C0D6659103130D"
+					"size"		"233AB1001252016FA63A2EA4F090B889"
+					"download"		"1247ECEDB57A42CBA10D21C8D9ED9120"
+				}
+				"quasar"
+				{
+					"gid"		"F10253CB8EC629C0F509A199E118F15F"
+					"size"		"18BE43FB2BC2365F2FEB037999CE3A79"
+					"download"		"964D624B4D5DC083E2B8AC98039C660B"
+				}
+				"wushu"
+				{
+					"gid"		"3292617214C59D7D57C2DF2C24A298FC"
+					"size"		"FA6BCAF11AFAFF63809DBE8AB8FCFE85"
+					"download"		"DC5A858EDDD1BF9B80491AC8853F81C0"
+				}
+				"discogarage"
+				{
+					"gid"		"2A63836DF5199340366F9321CC893377"
+					"size"		"C041E8925BBB422DBB0E27759F41D222"
+					"download"		"BF9B7728F861D354D7C6BBC56EA4987B"
+				}
+				"release_1_backup"
+				{
+					"gid"		"43862FC61276F8727E942D7A12F7CF4E"
+					"size"		"76A30CA2EC78298B5543BA948C1BE918"
+					"download"		"27CE2C1797019B1BA4BACE11E7F47975"
+				}
+				"release_1_latest"
+				{
+					"gid"		"DD9EF305E596403EFA13EC4AA5694AD9"
+					"size"		"7EA084B8E070D3EF6DDDEB1A02872B9A"
+					"download"		"BC7CB77B74105C9E168D6ADA88B4A356"
+				}
+				"studio_playtest"
+				{
+					"gid"		"049822E33BEE828C6D954278779F5C30"
+					"size"		"5F727CD0CA6F232DF6875B28B515F769"
+					"download"		"198B7A8466AC760057B2B675E7CF410E"
+				}
+				"use_this_to_go_live"
+				{
+					"gid"		"13D240EC2BF178F7D593DD9F996A2B10"
+					"size"		"B73386F90390B7E4072322216ACEADE0"
+					"download"		"B3690D2D8470351FDFDF8B10EAA2C413"
+				}
+			}
+			"config"
+			{
+				"optionaldlc"		"2506240"
+			}
+		}
+		"1999180"
+		{
+			"dlcappid"		"1999180"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16661160"
+				"timeupdated"		"1734056390"
+			}
+			"a_mixed_bag"
+			{
+				"buildid"		"16615513"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733303714"
+			}
+			"audio_testing_branch"
+			{
+				"buildid"		"16224836"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730276472"
+			}
+			"granola_bar"
+			{
+				"buildid"		"16684175"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733918096"
+			}
+			"pineapple_soup_is_delicious"
+			{
+				"buildid"		"16583174"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733126043"
+			}
+			"nixxes"
+			{
+				"buildid"		"16689870"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733811220"
+			}
+			"public_beta"
+			{
+				"buildid"		"16140097"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729673971"
+			}
+			"meta_game_wargames"
+			{
+				"buildid"		"16684175"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733995496"
+			}
+			"tech_stingray_crs_temp"
+			{
+				"buildid"		"16003268"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729603585"
+			}
+			"playtest_branch"
+			{
+				"buildid"		"16002994"
+				"pwdrequired"		"1"
+				"timeupdated"		"1728634217"
+			}
+			"gameplay_illuminates"
+			{
+				"buildid"		"16490662"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732268929"
+			}
+			"gameplay_factions"
+			{
+				"buildid"		"16604859"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733212013"
+			}
+			"gameplay_worlds"
+			{
+				"buildid"		"16425527"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731940331"
+			}
+			"mod_1"
+			{
+				"buildid"		"16681192"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733908615"
+			}
+			"mod_2"
+			{
+				"buildid"		"16528197"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732618965"
+			}
+			"tech_stingray"
+			{
+				"buildid"		"16560736"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732785536"
+			}
+			"tech_warmind"
+			{
+				"buildid"		"16223244"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730221002"
+			}
+			"nix_backup"
+			{
+				"buildid"		"16343127"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734011599"
+			}
+			"nix_main"
+			{
+				"buildid"		"16730041"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734058741"
+			}
+			"orion"
+			{
+				"buildid"		"16730336"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734061113"
+			}
+			"quasar"
+			{
+				"buildid"		"16729662"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734056124"
+			}
+			"wushu"
+			{
+				"buildid"		"16652910"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733480909"
+			}
+			"discogarage"
+			{
+				"buildid"		"16725790"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734030568"
+			}
+			"release_1_backup"
+			{
+				"buildid"		"16649006"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733473450"
+			}
+			"release_1_latest"
+			{
+				"buildid"		"16739340"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734115775"
+			}
+			"studio_playtest"
+			{
+				"buildid"		"16681192"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733909272"
+			}
+			"use_this_to_go_live"
+			{
+				"buildid"		"16661160"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733758208"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"4"
+	}
+}

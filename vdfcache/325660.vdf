@@ -1,0 +1,91 @@
+"325660"
+{
+	"common"
+	{
+		"name"		"Oblivious Garden ~Carmina Burana Finn Vinnet DLC"
+		"type"		"DLC"
+		"parent"		"323490"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"logo"		"aec7ae8a3a334da6026f9c779bb50e26fd110756"
+		"logo_small"		"aec7ae8a3a334da6026f9c779bb50e26fd110756_thumb"
+		"icon"		"a701c265bf0579f9f882b607b9991727869a47cd"
+		"metacritic_name"		"Oblivious Garden ~Carmina Burana Finn Vinnet DLC"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_b321f638504a7907633452e1432f079d95e2ec21.jpg"
+		"store_asset_mtime"		"1413546243"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CorypheeSoft"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"D.E.Z. Studio"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"D.E.Z. Studio "
+			}
+		}
+		"primary_genre"		"0"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1418408940"
+		"gameid"		"325660"
+		"store_tags"
+		{
+			"0"		"3799"
+		}
+	}
+	"extended"
+	{
+		"dlcforappid"		"323490"
+		"mustownapptopurchase"		"323490"
+		"developer"		"CorypheeSoft"
+		"publisher"		"D.E.Z. Studio "
+		"homepage"		"http://corypheesoft.net/"
+	}
+}

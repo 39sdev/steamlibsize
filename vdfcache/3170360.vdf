@@ -1,0 +1,232 @@
+"3170360"
+{
+	"common"
+	{
+		"name"		"The Adventure of a Tramp"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"clienttga"		"b7d4ae83ae1411619d09aa21a57216aba14978f3"
+		"clienticon"		"72884915688a39b2483077bcefcee124d24537da"
+		"name_localized"
+		{
+			"russian"		"Приключение Бродяги"
+			"hungarian"		"Csavargó Kalandja"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"28f8b99f12cc8509ea2f0557bd6226a221dcb43a"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"4"
+			"4"		"5"
+		}
+		"restricted_countries"		"CN,DE"
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"0e60fd10d71054193db80e927c71645320c359e1/capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"50"
+					"height_pct"		"50"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_header_2x.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1726763785"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Anonymous Almighty"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Anonymous Almighty"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1726902126"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"3170360"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"17894"
+			"2"		"3799"
+			"3"		"11014"
+			"4"		"4106"
+			"5"		"9551"
+			"6"		"4094"
+			"7"		"4305"
+			"8"		"3964"
+			"9"		"1751"
+			"10"		"4975"
+			"11"		"6815"
+			"12"		"13190"
+			"13"		"4845"
+			"14"		"5030"
+			"15"		"4166"
+			"16"		"1647"
+			"17"		"6971"
+			"18"		"6426"
+			"19"		"1616"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Anonymous Almighty"
+		"publisher"		"Anonymous Almighty"
+		"listofdlc"		"3324220"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Adventure of a Tramp"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheadventureofaTramp-1.3.12-win\\TheadventureofaTramp.exe"
+			}
+			"1"
+			{
+				"executable"		"TheadventureofaTramp-1.4.4-win\\TheadventureofaTramp.exe"
+				"config"
+				{
+					"ownsdlc"		"3324220"
+				}
+				"description_loc"
+				{
+					"english"		"The Adventure of a Tramp - Halloween"
+					"russian"		"Приключение Бродяги - Хэллоуин"
+					"hungarian"		"Csavargó Kalandja - Halloween"
+				}
+				"description"		"The Adventure of a Tramp - Halloween"
+			}
+		}
+	}
+	"depots"
+	{
+		"3170361"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5874491112925903430"
+					"size"		"100577568"
+					"download"		"53754096"
+				}
+			}
+		}
+		"baselanguages"		"english,russian,hungarian"
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16672225"
+				"timeupdated"		"1733660030"
+			}
+		}
+	}
+}

@@ -1,0 +1,185 @@
+"2111850"
+{
+	"common"
+	{
+		"name"		"Gunfire Reborn - Visitors of Spirit Realm"
+		"type"		"DLC"
+		"parent"		"1217060"
+		"ReleaseState"		"released"
+		"name_localized"
+		{
+			"schinese"		"枪火重生 - 灵界来客"
+			"tchinese"		"槍火重生 - 靈界來客"
+		}
+		"clienttga"		"41f56c44c5359a5a639dc8b86c39d93913cd3cae"
+		"clienticon"		"9c74bb8013b76618f35183c445841564041f1cd3"
+		"icon"		"a0eaf2378293609808eaf7d32371fcb43195fd28"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"store_screenshot"		"ss_8fd4cdd294adb6dbb7f67c082a74ceb58b665a99.jpg"
+		"store_asset_mtime"		"1661824541"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Duoyi Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Duoyi Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1661756187"
+		"gameid"		"2111850"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"492"
+			"3"		"122"
+			"4"		"1663"
+			"5"		"1716"
+			"6"		"3843"
+			"7"		"3959"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"dlcforappid"		"1217060"
+		"mustownapptopurchase"		"1217060"
+		"developer"		"Duoyi Games"
+		"publisher"		"Duoyi Games"
+		"homepage"		"https://gfr.luckycalf.com"
+		"DLCAvailableOnStore"		"1"
+	}
+}

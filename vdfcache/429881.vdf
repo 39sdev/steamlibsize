@@ -1,0 +1,32 @@
+"429881"
+{
+	"common"
+	{
+		"name"		"Unturned - Early Access"
+		"type"		"DLC"
+		"parent"		"304930"
+		"ReleaseState"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"32b7ea686e0fb11e24008e4dab179a40a6b2eb09"
+		"logo_small"		"32b7ea686e0fb11e24008e4dab179a40a6b2eb09_thumb"
+		"icon"		"be840104523d10c478f21e124c9d9e2d27a813c2"
+		"associations"
+		{
+		}
+		"gameid"		"429881"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"113"
+			"3"		"492"
+			"4"		"597"
+		}
+	}
+	"extended"
+	{
+		"dlcforappid"		"304930"
+		"mustownapptopurchase"		"304930"
+	}
+}

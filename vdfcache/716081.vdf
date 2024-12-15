@@ -1,0 +1,86 @@
+"716081"
+{
+	"common"
+	{
+		"name"		"Trouble Witches Origin,additional character : Conon"
+		"type"		"DLC"
+		"parent"		"460630"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"da7c09965e59909a19116ef4a260ae8b531392aa"
+		"logo_small"		"da7c09965e59909a19116ef4a260ae8b531392aa_thumb"
+		"icon"		"c1d17c5b492efc25e4839f17801584b1947f2df7"
+		"metacritic_name"		"Trouble Witches Origin,additional character : Conon"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_d5ba4b14a0884fb3e1848806f095fcadb72cba85.jpg"
+		"store_asset_mtime"		"1512226770"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio SiestA"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rocket-Engine Co.,Ltd."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1513843200"
+		"steam_release_date"		"1513912752"
+		"gameid"		"716081"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+		}
+	}
+	"extended"
+	{
+		"dlcforappid"		"460630"
+		"mustownapptopurchase"		"460630"
+		"developer"		"Studio SiestA"
+		"publisher"		"Rocket-Engine Co.,Ltd."
+		"homepage"		"http://studio-siesta.mails.ne.jp/two/web-en/index.html"
+		"dlcavailableonstore"		"1"
+	}
+}

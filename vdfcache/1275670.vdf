@@ -1,0 +1,394 @@
+"1275670"
+{
+	"common"
+	{
+		"name"		"Outcore"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"2fc3ded9dfc51138494ab73a5327425b045d5678"
+		"clienttga"		"7dbb673e1cb94098036bf244e1be322cc8316c6c"
+		"icon"		"06df4895a914fdef89610d2efba7ea0e484b386e"
+		"logo"		"c70a6956ce53e1d9868fe9dfb3e5af9f89f93b70"
+		"logo_small"		"c70a6956ce53e1d9868fe9dfb3e5af9f89f93b70_thumb"
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"100"
+					"height_pct"		"100"
+				}
+			}
+		}
+		"store_asset_mtime"		"1714584910"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Doctor Shinobi"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Doctor Shinobi"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+			"5"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hebrew"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664175620"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1275670"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"113"
+			"2"		"1721"
+			"3"		"1742"
+			"4"		"1719"
+			"5"		"6129"
+			"6"		"3834"
+			"7"		"6426"
+			"8"		"1664"
+			"9"		"4305"
+			"10"		"4726"
+			"11"		"4136"
+			"12"		"3964"
+			"13"		"4182"
+			"14"		"5608"
+			"15"		"492"
+			"16"		"1625"
+			"17"		"3871"
+			"18"		"19"
+			"19"		"122"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"disableoverlay"		"1"
+		"developer"		"Doctor Shinobi"
+		"publisher"		"Doctor Shinobi"
+		"homepage"		"https://www.outcoregame.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"2128470,2133270"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Outcore"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Outcore.exe"
+				"arguments"		"-force-d3d11-bitblt-model"
+				"description_loc"
+				{
+					"english"		"Outcore: Desktop Adventure"
+				}
+				"description"		"Outcore: Desktop Adventure"
+			}
+			"1"
+			{
+				"executable"		"Outcore_Data\\StreamingAssets\\BlackWindowFix.bat"
+				"description_loc"
+				{
+					"english"		"\"Choose this if your desktop shows up as a black screen\" edition"
+				}
+				"description"		"\"Choose this if your desktop shows up as a black screen\" edition"
+			}
+			"2"
+			{
+				"executable"		"Outcore.exe"
+				"arguments"		"-force-opengl"
+				"description_loc"
+				{
+					"english"		"\"Choose this if the other options don't work\" edition"
+				}
+				"description"		"\"Choose this if the other options don't work\" edition"
+			}
+			"3"
+			{
+				"executable"		"Outcore_Data\\StreamingAssets\\CuteAnimalsLauncher.bat"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"\"Choose this if the game works correctly, but instead of playing it, you prefer to see cute animals with clown noses\" edition"
+				}
+				"description"		"\"Choose this if the game works correctly, but instead of playing it, you prefer to see cute animals with clown noses\" edition"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian"
+		"1275671"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6930366390020575940"
+					"size"		"1511207724"
+					"download"		"573894608"
+				}
+				"beta"
+				{
+					"gid"		"6930366390020575940"
+					"size"		"1511207724"
+					"download"		"573894608"
+				}
+				"test1"
+				{
+					"gid"		"466349402012792289"
+					"size"		"1532116289"
+					"download"		"578654560"
+				}
+				"italian_spiderman"
+				{
+					"gid"		"4687651413531479501"
+					"size"		"1442436275"
+					"download"		"568824896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"48F2F667911CEB245B0E4BC9A051A0D0"
+					"size"		"8BB258D796D497668B05800470434527"
+					"download"		"F128F5A62356C41E5A6EEC70E0B9F91E"
+				}
+			}
+		}
+		"2133270"
+		{
+			"dlcappid"		"2133270"
+		}
+		"2128470"
+		{
+			"dlcappid"		"2128470"
+		}
+		"2133260"
+		{
+			"dlcappid"		"2133260"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16662178"
+				"timeupdated"		"1733564658"
+			}
+			"alpha"
+			{
+				"buildid"		"15204164"
+				"pwdrequired"		"1"
+				"timeupdated"		"1722370284"
+			}
+			"beta"
+			{
+				"buildid"		"16662178"
+				"description"		"A branch for testing builds before they reach the public branch"
+				"timeupdated"		"1733522642"
+			}
+			"test1"
+			{
+				"buildid"		"16051389"
+				"description"		"Bug testing branch #1"
+				"timeupdated"		"1728994707"
+			}
+			"italian_spiderman"
+			{
+				"buildid"		"14342034"
+				"description"		"A branch for testing the Italian translations"
+				"timeupdated"		"1715526841"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2000000"
+		"maxnumfiles"		"3"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"DoctorShinobi/Outcore"
+				"pattern"		"*.me"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"DoctorShinobi/Idle Game"
+				"pattern"		"*.me"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}

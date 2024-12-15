@@ -1,0 +1,328 @@
+"2224410"
+{
+	"common"
+	{
+		"name"		"Torii Soundtrack"
+		"type"		"Music"
+		"parent"		"1589680"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"icon"		"75f51bbf27030878a700e5dbcb6b193341a7c851"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_111611580e61bd3b6c41716aaea48d81cf82be6b.jpg"
+		"store_asset_mtime"		"1674923981"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Joaquín Castro"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Adriano Martino"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Joaquín Castro"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1677594273"
+		"gameid"		"2224410"
+		"exfgls"		"6"
+	}
+	"extended"
+	{
+		"musicalbumforappid"		"1589680"
+		"developer"		"Joaquín Castro"
+		"publisher"		"Joaquín Castro"
+		"musicalbumavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Torii Soundtrack"
+	}
+	"depots"
+	{
+		"2224411"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7099002811318941287"
+					"size"		"16623052"
+					"download"		"16248224"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10733110"
+				"timeupdated"		"1678395343"
+			}
+		}
+	}
+	"albummetadata"
+	{
+		"cdn_assets"
+		{
+			"album_cover"		"af978bd7eddc4f41823b7014d793969d512d2bed"
+		}
+		"metadata"
+		{
+			"artist"
+			{
+				"german"		""
+				"bulgarian"		""
+				"czech"		""
+				"schinese"		""
+				"tchinese"		""
+				"koreana"		""
+				"danish"		""
+				"spanish"		"Adriano Martino"
+				"latam"		"Adriano Martino"
+				"finnish"		""
+				"french"		""
+				"greek"		""
+				"dutch"		""
+				"hungarian"		""
+				"english"		"Adriano Martino"
+				"italian"		""
+				"japanese"		""
+				"norwegian"		""
+				"polish"		""
+				"brazilian"		""
+				"portuguese"		""
+				"romanian"		""
+				"russian"		""
+				"swedish"		""
+				"thai"		""
+				"turkish"		""
+				"ukrainian"		""
+				"vietnamese"		""
+				"arabic"		""
+			}
+			"composer"
+			{
+				"german"		""
+				"bulgarian"		""
+				"czech"		""
+				"schinese"		""
+				"tchinese"		""
+				"koreana"		""
+				"danish"		""
+				"spanish"		"Adriano Martino"
+				"latam"		"Adriano Martino"
+				"finnish"		""
+				"french"		""
+				"greek"		""
+				"dutch"		""
+				"hungarian"		""
+				"english"		"Adriano Martino"
+				"italian"		""
+				"japanese"		""
+				"norwegian"		""
+				"polish"		""
+				"brazilian"		""
+				"portuguese"		""
+				"romanian"		""
+				"russian"		""
+				"swedish"		""
+				"thai"		""
+				"turkish"		""
+				"ukrainian"		""
+				"vietnamese"		""
+				"arabic"		""
+			}
+			"label"
+			{
+				"german"		""
+				"bulgarian"		""
+				"czech"		""
+				"schinese"		""
+				"tchinese"		""
+				"koreana"		""
+				"danish"		""
+				"spanish"		"Adriano Martino"
+				"latam"		"Adriano Martino"
+				"finnish"		""
+				"french"		""
+				"greek"		""
+				"dutch"		""
+				"hungarian"		""
+				"english"		"Adriano Martino"
+				"italian"		""
+				"japanese"		""
+				"norwegian"		""
+				"polish"		""
+				"brazilian"		""
+				"portuguese"		""
+				"romanian"		""
+				"russian"		""
+				"swedish"		""
+				"thai"		""
+				"turkish"		""
+				"ukrainian"		""
+				"vietnamese"		""
+				"arabic"		""
+			}
+			"othercredits"
+			{
+				"german"		""
+				"bulgarian"		""
+				"czech"		""
+				"schinese"		""
+				"tchinese"		""
+				"koreana"		""
+				"danish"		""
+				"spanish"		""
+				"latam"		""
+				"finnish"		""
+				"french"		""
+				"greek"		""
+				"dutch"		""
+				"hungarian"		""
+				"english"		""
+				"italian"		""
+				"japanese"		""
+				"norwegian"		""
+				"polish"		""
+				"brazilian"		""
+				"portuguese"		""
+				"romanian"		""
+				"russian"		""
+				"swedish"		""
+				"thai"		""
+				"turkish"		""
+				"ukrainian"		""
+				"vietnamese"		""
+				"arabic"		""
+			}
+		}
+		"tracks"
+		{
+			"0"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"1"
+				"originalname"		"One Soul (Pizzicato)"
+				"m"		"0"
+				"s"		"48"
+			}
+			"1"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"2"
+				"originalname"		"Welcome Back"
+				"m"		"5"
+				"s"		"27"
+			}
+			"2"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"3"
+				"originalname"		"Prism (Abstract)"
+				"m"		"3"
+				"s"		"12"
+			}
+			"3"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"4"
+				"originalname"		"Open Concept"
+				"m"		"4"
+				"s"		"48"
+			}
+			"4"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"5"
+				"originalname"		"Cube (Concrete)"
+				"m"		"1"
+				"s"		"38"
+			}
+			"5"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"6"
+				"originalname"		"Rebirth"
+				"m"		"3"
+				"s"		"36"
+			}
+			"6"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"7"
+				"originalname"		"Frustration"
+				"m"		"7"
+				"s"		"43"
+			}
+			"7"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"8"
+				"originalname"		"One Soul (Campanas_2.0)"
+				"m"		"0"
+				"s"		"51"
+			}
+			"8"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"9"
+				"originalname"		"One Soul (Grand Finale)"
+				"m"		"2"
+				"s"		"30"
+			}
+			"9"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"10"
+				"originalname"		"Extra One Soul (Solo piano)"
+				"m"		"0"
+				"s"		"54"
+			}
+			"10"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"11"
+				"originalname"		"Extra PipeTown Theme"
+				"m"		"0"
+				"s"		"55"
+			}
+			"11"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"12"
+				"originalname"		"Extra Puzzle Theme"
+				"m"		"0"
+				"s"		"16"
+			}
+			"12"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"13"
+				"originalname"		"Extra Welcome Back (Piano Version)"
+				"m"		"1"
+				"s"		"55"
+			}
+		}
+	}
+}

@@ -1,0 +1,86 @@
+"715740"
+{
+	"common"
+	{
+		"name"		"Trouble Witches Origin,additional character : Cynfi"
+		"type"		"DLC"
+		"parent"		"460630"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"c4879d9a3c9ceb6684ca68c97b9940b6c4854c04"
+		"logo_small"		"c4879d9a3c9ceb6684ca68c97b9940b6c4854c04_thumb"
+		"icon"		"8027591756579a166ccaed9fc092b53621d3ea86"
+		"metacritic_name"		"Trouble Witches Origin,additional character : Cynfi"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_728be8c0aa84a30026f9d4d583b190efbf0d6bad.jpg"
+		"store_asset_mtime"		"1512226536"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio SiestA"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rocket-Engine Co.,Ltd."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1513843200"
+		"steam_release_date"		"1513912680"
+		"gameid"		"715740"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+		}
+	}
+	"extended"
+	{
+		"dlcforappid"		"460630"
+		"mustownapptopurchase"		"460630"
+		"developer"		"Studio SiestA"
+		"publisher"		"Rocket-Engine Co.,Ltd."
+		"homepage"		"http://studio-siesta.mails.ne.jp/two/web-en/index.html"
+		"dlcavailableonstore"		"1"
+	}
+}

@@ -1,0 +1,93 @@
+"716082"
+{
+	"common"
+	{
+		"name"		"Trouble Witches Origin,additional character : Raya"
+		"type"		"DLC"
+		"parent"		"460630"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"797e8844d3543a473bc980a25ca907b473880598"
+		"logo_small"		"797e8844d3543a473bc980a25ca907b473880598_thumb"
+		"icon"		"e4fe17ee607f3cfcdddc57de916703fc437e96f5"
+		"metacritic_name"		"Trouble Witches Origin,additional character : Raya"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_2066155ee81c63478626564993d21d600e4d582e.jpg"
+		"store_asset_mtime"		"1512226723"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio SiestA"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rocket-Engine Co.,Ltd."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1513843200"
+		"steam_release_date"		"1513912932"
+		"gameid"		"716082"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"1756"
+			"3"		"1774"
+			"4"		"3798"
+			"5"		"3871"
+			"6"		"3964"
+			"7"		"4182"
+			"8"		"4885"
+		}
+	}
+	"extended"
+	{
+		"dlcforappid"		"460630"
+		"mustownapptopurchase"		"460630"
+		"developer"		"Studio SiestA"
+		"publisher"		"Rocket-Engine Co.,Ltd."
+		"homepage"		"http://studio-siesta.mails.ne.jp/two/web-en/index.html"
+		"DLCAvailableOnStore"		"1"
+	}
+}

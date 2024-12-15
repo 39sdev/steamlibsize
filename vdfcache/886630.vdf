@@ -1,0 +1,291 @@
+"886630"
+{
+	"common"
+	{
+		"name"		"GlitchPets"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"logo"		"fa284f6d64e5aead13089da12132b8126d82981c"
+		"logo_small"		"fa284f6d64e5aead13089da12132b8126d82981c_thumb"
+		"icon"		"11725ed169a5eda6111c169eed23f4ce1d5cb2a2"
+		"clienticon"		"40fd0b4b155eb4d7d610262b02427c952cf56de9"
+		"clienttga"		"f0c9884c4f09daea4d7efd82fc44880accc99ab0"
+		"ReleaseState"		"released"
+		"osextended"		""
+		"metacritic_name"		"GlitchPets"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"24.09568261376897"
+				"height_pct"		"45.060790502633324"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"24.09568261376897"
+					"height_pct"		"45.060790502633324"
+				}
+			}
+		}
+		"store_asset_mtime"		"1675311427"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cool and Normal Entertainment"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Cool and Normal Entertainment"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Cool and Normal Entertainment"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"28"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_48"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1531738816"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"886630"
+		"store_tags"
+		{
+			"0"		"1625"
+			"1"		"13782"
+			"2"		"1710"
+			"3"		"1738"
+			"4"		"1714"
+			"5"		"7208"
+			"6"		"599"
+			"7"		"493"
+			"8"		"492"
+			"9"		"21"
+			"10"		"4975"
+			"11"		"1667"
+			"12"		"3834"
+			"13"		"4166"
+			"14"		"1684"
+			"15"		"4136"
+			"16"		"1659"
+			"17"		"1664"
+			"18"		"5900"
+			"19"		"5379"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Cool and Normal Entertainment"
+		"publisher"		"Cool and Normal Entertainment"
+		"homepage"		"https://coolandnormalgames.com"
+	}
+	"config"
+	{
+		"installdir"		"GlitchPets"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GP_UE5.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Glitched_Pets.sh"
+				"description"		"Linux"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese"
+		"hasdepotsindlc"		"1"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"886634"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7450264627921908952"
+					"size"		"6643987602"
+					"download"		"5839650816"
+				}
+				"linux"
+				{
+					"gid"		"2997874270958594508"
+					"size"		"3386427237"
+					"download"		"2961298272"
+				}
+				"gpbeta"
+				{
+					"gid"		"1427579784529918518"
+					"size"		"2209307397"
+					"download"		"1723941312"
+				}
+			}
+		}
+		"1031455"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"886639"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"linux"
+				{
+					"gid"		"1817821304370561849"
+					"size"		"3869499971"
+					"download"		"3086878464"
+				}
+			}
+		}
+		"886638"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7606228"
+				"timeupdated"		"1635305233"
+			}
+			"linux"
+			{
+				"buildid"		"3881962"
+				"timeupdated"		"1559532131"
+			}
+			"gpbeta"
+			{
+				"buildid"		"15107668"
+				"description"		"not live build"
+				"timeupdated"		"1721615679"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}

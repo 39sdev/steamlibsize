@@ -1,0 +1,515 @@
+"1737870"
+{
+	"common"
+	{
+		"name"		"REKA"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"logo"		"c83b7ea16c15bf646dc23d497361bedfd90e12e9"
+		"logo_small"		"c83b7ea16c15bf646dc23d497361bedfd90e12e9_thumb"
+		"clienticon"		"fd332d6c022179b18ebe36fe871fcf60a3b604ba"
+		"clienttga"		"6601738954198f2cb6f4d15c59568909410b41ab"
+		"icon"		"9ebf666f1391cc48a53b5f73c2f07e15a6f220a3"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"33.528251469764385"
+				"height_pct"		"83.35320522968944"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"33.528251469764385"
+					"height_pct"		"83.35320522968944"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1726141259"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Emberstorm Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fireshine Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Fireshine Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_55"		"1"
+			"category_57"		"1"
+			"category_56"		"1"
+			"category_58"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1726131236"
+		"community_hub_visible"		"1"
+		"gameid"		"1737870"
+		"store_tags"
+		{
+			"0"		"1643"
+			"1"		"492"
+			"2"		"4747"
+			"3"		"4182"
+			"4"		"3834"
+			"5"		"4166"
+			"6"		"1702"
+			"7"		"4604"
+			"8"		"21"
+			"9"		"3810"
+			"10"		"4057"
+			"11"		"97376"
+			"12"		"1721"
+			"13"		"1695"
+			"14"		"597"
+			"15"		"1742"
+			"16"		"3854"
+			"17"		"1684"
+			"18"		"3920"
+			"19"		"7332"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Emberstorm Entertainment"
+		"publisher"		"Fireshine Games"
+		"homepage"		"https://www.emberstorm.de/"
+	}
+	"config"
+	{
+		"installdir"		"Reka"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Reka.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1737871"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6901022974071246813"
+					"size"		"5490185640"
+					"download"		"2741462064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"capture"
+				{
+					"gid"		"BD283AFA33F92C5FABCF324DD7CE04F5"
+					"size"		"B0C713792F664E925310302B97949F3A"
+					"download"		"A13F8BC06CF137ED1917FEC5C9426212"
+				}
+				"compat"
+				{
+					"gid"		"F169C9749BD8F2A44B46492AC48FCE8E"
+					"size"		"671574ED5D2426EB29B7FBE08D53AB47"
+					"download"		"9933616302D03E44AF94EB697852606F"
+				}
+				"demo"
+				{
+					"gid"		"FA0A30F2F6440F6120B2A21FC85E231B"
+					"size"		"526901905A50787D1A4DC601A7214067"
+					"download"		"C84A449B1D98F5F16AD3AE0477B5B38F"
+				}
+				"earlyaccesslaunch"
+				{
+					"gid"		"76F9370BEF541416BBFF2A76A0F0017F"
+					"size"		"350EBA0484B66D31CA7F954B0544F863"
+					"download"		"938B52CBFB653A9F2C8E0824110C6516"
+				}
+				"external"
+				{
+					"gid"		"E111F3B5EDAC96E23A5D2BE24832317A"
+					"size"		"78249E8039F3622233BB5C48D7E94E4E"
+					"download"		"A92F5CB1F46EF11351A33F5067FE23B9"
+				}
+				"lqa-testing"
+				{
+					"gid"		"281FDF28A3A15BB2BD7A541CF99E72B0"
+					"size"		"0108E6351C512D542C75F60C79D95821"
+					"download"		"5949CDFC1D98E0A8C1609FDFDAA1ADE2"
+				}
+				"marketing"
+				{
+					"gid"		"945EF7E8F3B95C9124A634A42990A029"
+					"size"		"FC07216200419289916873EAE26D88F4"
+					"download"		"63950CDFA47F8BA356039E46F54875CC"
+				}
+				"narrative"
+				{
+					"gid"		"201683B1AE04FFE331DB1D4CC143224B"
+					"size"		"BE083BDD940587B717D6194CE636F48B"
+					"download"		"C2097E839DE5B3E9B4755486F9B3CAF2"
+				}
+				"playtesting"
+				{
+					"gid"		"4D90ECD7F51F23CA4CA8A6D396E99AFA"
+					"size"		"A4D91D1BBFD9C4BFC6BA2C744585ECF6"
+					"download"		"BAAE9D9DDE33FB8398B713A8C2951806"
+				}
+				"press"
+				{
+					"gid"		"E036C53A5C50437DDBC18F7534EF15AB"
+					"size"		"517430F979E92B159F2DE1F0CAD08DB8"
+					"download"		"79AD86A3D003D38CB56296E2A47724E7"
+				}
+				"publisher"
+				{
+					"gid"		"AAAB1ED26E0659710AFF1352666BB453"
+					"size"		"7888918AE16B38C4721B7C65F3CE95C2"
+					"download"		"77DB2317028ADD6602BFE9F784AD2BFF"
+				}
+				"review"
+				{
+					"gid"		"CCCE2ECC7F7F6557EB0745C7D400430A"
+					"size"		"25918DC6C4ECAEDBC050F54A7471D717"
+					"download"		"D2C2AA902D483FB35ED6394B64B6F4AD"
+				}
+				"sound-debug"
+				{
+					"gid"		"85FFE807D82A30BDC4E24D7475F327CF"
+					"size"		"D978278AFDC1EF757FD7608B343B0436"
+					"download"		"16083B25F6D2C0D5924BF738F4C93FBB"
+				}
+				"tinyteams"
+				{
+					"gid"		"66958A2578E7D6D8D9A0C4192FFC2CED"
+					"size"		"46BA1485B255E02D76361F8E17BF8FC6"
+					"download"		"EB007F0E2C540B3F05B5B7CADB3EF3A9"
+				}
+				"translation"
+				{
+					"gid"		"255C14A8CDAA6D6A1973F80FBCD9831B"
+					"size"		"8F2D97CBDC504BE70EA712CC48292217"
+					"download"		"6BA2DD91B8DED897CE559B8CFD655DC5"
+				}
+				"user-testing"
+				{
+					"gid"		"5E858719CB330BA3E71B9755202D540B"
+					"size"		"32896E7387D24ABBF47E89DC4E9D7C8C"
+					"download"		"3E9FA2CBF4A0B298B238E8E016D09A53"
+				}
+				"fqa-testing"
+				{
+					"gid"		"BA6151D3EBC2ABB13C524533FC7CF988"
+					"size"		"40031E86AF99956AD6D8124018F24D2B"
+					"download"		"C7C7B46A22297DFCCC7343FA234C4276"
+				}
+				"fqa-unsafe"
+				{
+					"gid"		"B335EB2A2ECA108C7BCEB72B1EF376FA"
+					"size"		"5C0499DC02BFE4E51BE1634E2F0E7752"
+					"download"		"F47EC9B10FA8DABFEE11475123A605E1"
+				}
+				"open_beta"
+				{
+					"gid"		"42855CDE2709F7A818437C1CA6BBC72D"
+					"size"		"542C4A74837C05FE1F930569580EB02C"
+					"download"		"1CCD8363F41B392971FE95B7BCF0BA5F"
+				}
+				"beta2"
+				{
+					"gid"		"19FE055ED7C8A194F8B9BF0FD0833891"
+					"size"		"BE16F2773B7EED2B794BC91B09052704"
+					"download"		"8129244F2B8E7B5525892EACB91CDEA9"
+				}
+				"beta"
+				{
+					"gid"		"6C69BDB077D36BF43FED9B9051145D28"
+					"size"		"FAF7575ECE5E3F6C6BAD5CEBCADCFD76"
+					"download"		"31545E127D8F7793E95ED22876468AA1"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16180996"
+				"timeupdated"		"1730111827"
+			}
+			"capture"
+			{
+				"buildid"		"16140435"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729621673"
+			}
+			"compat"
+			{
+				"buildid"		"15279103"
+				"pwdrequired"		"1"
+				"timeupdated"		"1722960955"
+			}
+			"demo"
+			{
+				"buildid"		"14471756"
+				"pwdrequired"		"1"
+				"timeupdated"		"1716551863"
+			}
+			"earlyaccesslaunch"
+			{
+				"buildid"		"16151981"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729768174"
+			}
+			"external"
+			{
+				"buildid"		"13141913"
+				"pwdrequired"		"1"
+				"timeupdated"		"1705431669"
+			}
+			"lqa-testing"
+			{
+				"buildid"		"16129642"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729558364"
+			}
+			"marketing"
+			{
+				"buildid"		"12198914"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702292156"
+			}
+			"narrative"
+			{
+				"buildid"		"13522397"
+				"pwdrequired"		"1"
+				"timeupdated"		"1709652879"
+			}
+			"playtesting"
+			{
+				"buildid"		"15077280"
+				"pwdrequired"		"1"
+				"timeupdated"		"1722358970"
+			}
+			"press"
+			{
+				"buildid"		"10411240"
+				"pwdrequired"		"1"
+				"timeupdated"		"1723646077"
+			}
+			"publisher"
+			{
+				"buildid"		"15414525"
+				"pwdrequired"		"1"
+				"timeupdated"		"1724032420"
+			}
+			"review"
+			{
+				"buildid"		"14966121"
+				"pwdrequired"		"1"
+				"timeupdated"		"1720454429"
+			}
+			"sound-debug"
+			{
+				"buildid"		"15622000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1725664650"
+			}
+			"tinyteams"
+			{
+				"buildid"		"10411240"
+				"pwdrequired"		"1"
+				"timeupdated"		"1720522820"
+			}
+			"translation"
+			{
+				"buildid"		"12892804"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701889196"
+			}
+			"user-testing"
+			{
+				"buildid"		"14190136"
+				"pwdrequired"		"1"
+				"timeupdated"		"1714305551"
+			}
+			"fqa-testing"
+			{
+				"buildid"		"16725560"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734097241"
+			}
+			"fqa-unsafe"
+			{
+				"buildid"		"16736037"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734097168"
+			}
+			"open_beta"
+			{
+				"buildid"		"16180996"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730123692"
+			}
+			"beta2"
+			{
+				"buildid"		"16734994"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734091882"
+			}
+			"beta"
+			{
+				"buildid"		"16723315"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734017528"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"200000000"
+		"maxnumfiles"		"30"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"RekaGame/Saves/{64BitSteamID}/"
+				"pattern"		"*.xml"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}

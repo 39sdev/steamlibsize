@@ -1,0 +1,164 @@
+"645700"
+{
+	"common"
+	{
+		"name"		"502nd JFW BRAVE WITCHES VR Operation Baba-Yaga"
+		"type"		"Application"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"controllervr"
+		{
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+		}
+		"languages"
+		{
+			"english"		"1"
+		}
+		"logo"		"4e9e1a2a25c12781e31788bb8072b28ca75606ae"
+		"logo_small"		"4e9e1a2a25c12781e31788bb8072b28ca75606ae_thumb"
+		"icon"		"68465c8e3555caf610e97a7efaf14bef9fd97827"
+		"clienticon"		"8bef1f73c141eac9ad8f9156015ac9ed68be64e1"
+		"clienttga"		"f0e2171826154bc6f49250d7b91bf8c014fbd011"
+		"openvrsupport"		"1"
+		"app_retired_publisher_request"		"1"
+		"metacritic_name"		"第502統合戦闘航空団 ブレイブウィッチーズ VR-Operation Baba_yaga-雪中迎撃戦"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_4d842fa8cbd099c78b6c59e4152c538173de35af.jpg"
+		"store_asset_mtime"		"1496977660"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ブレイブウィッチーズVR製作委員会"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"株式会社プロダクション・アイジー"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"72"
+			"1"		"57"
+		}
+		"category"
+		{
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1496991600"
+		"steam_release_date"		"1496975100"
+		"community_hub_visible"		"1"
+		"gameid"		"645700"
+		"exfgls"		"6"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"6650"
+			"1"		"87"
+			"2"		"4085"
+			"3"		"21978"
+		}
+		"review_score"		"5"
+		"review_percentage"		"44"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"ブレイブウィッチーズVR製作委員会"
+		"publisher"		"株式会社プロダクション・アイジー"
+	}
+	"config"
+	{
+		"installdir"		"BraveWitchesVR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BraveWitchesVR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"japanese"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"645701"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6720620257337358825"
+					"size"		"1965804979"
+					"download"		"439927632"
+				}
+			}
+		}
+		"645702"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2527941"
+				"timeupdated"		"1518686371"
+			}
+		}
+	}
+}

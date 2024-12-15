@@ -1,0 +1,100 @@
+"534840"
+{
+	"common"
+	{
+		"name"		"Go! Go! Nippon! 2016"
+		"type"		"DLC"
+		"parent"		"251870"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"4f61ceb688e6b846dd0f657472c6f04ca44cb2ef"
+		"logo_small"		"4f61ceb688e6b846dd0f657472c6f04ca44cb2ef_thumb"
+		"icon"		"6b7822d4c6ae0dfd046881c983d27848eca3845e"
+		"clienticon"		"7c860c77dd6446cb04c0ccc1bec89c4e821910f2"
+		"clienttga"		"6f7019a7acb559f15a6e5c846075e2d6ca305c0b"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"metacritic_name"		"Go! Go! Nippon! 2016"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_30c4b5a14b663bc1de3500dddb2ea1355074d9cb.jpg"
+		"store_asset_mtime"		"1474611832"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"OVERDRIVE"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MangaGamer"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"MangaGamer"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1478908942"
+		"gameid"		"534840"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"3799"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"dlcforappid"		"251870"
+		"mustownapptopurchase"		"251870"
+		"developer"		"OVERDRIVE"
+		"publisher"		"MangaGamer"
+		"homepage"		"https://www.mangagamer.com/detail.php?goods_type=1&amp;product_code=55"
+		"DLCAvailableOnStore"		"1"
+	}
+}

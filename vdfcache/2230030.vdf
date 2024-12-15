@@ -1,0 +1,328 @@
+"2230030"
+{
+	"common"
+	{
+		"name"		"Resultarias"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"b4c872d58a47908bf8a4e87d7ba8265191517a71"
+		"clienttga"		"af2954f06de2f4152c93855c95f8c3430fa3cd0e"
+		"clienticon"		"0d14836934b948d9124a5950af1eae179270141b"
+		"ReleaseState"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"greek"		"1"
+			"ukrainian"		"1"
+			"latam"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.400233372228705"
+				"height_pct"		"57.59914509617667"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"51.400233372228705"
+					"height_pct"		"57.59914509617667"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1709953192"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Enigmatic Comma"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"chrisjogos.com"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Enigmatic Comma"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_59"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1674517536"
+		"community_hub_visible"		"1"
+		"gameid"		"2230030"
+		"store_tags"
+		{
+			"0"		"3834"
+			"1"		"1628"
+			"2"		"1710"
+			"3"		"4085"
+			"4"		"21"
+			"5"		"1667"
+			"6"		"7208"
+			"7"		"5900"
+			"8"		"4486"
+			"9"		"4726"
+			"10"		"6426"
+			"11"		"597"
+			"12"		"1714"
+			"13"		"1721"
+			"14"		"1697"
+			"15"		"4252"
+			"16"		"4166"
+			"17"		"6625"
+			"18"		"4191"
+			"19"		"4342"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Enigmatic Comma"
+		"publisher"		"Enigmatic Comma"
+		"homepage"		"https://chrisjogos.com/resultarias"
+	}
+	"config"
+	{
+		"installdir"		"Resultarias"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Resultarias.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,spanish,schinese,russian,thai,japanese,polish,turkish,brazilian,ukrainian,latam"
+		"hasdepotsindlc"		"0"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2230031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5815721145231574056"
+					"size"		"401642741"
+					"download"		"150265520"
+				}
+				"alpha"
+				{
+					"gid"		"5815721145231574056"
+					"size"		"401642741"
+					"download"		"150265520"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"14750272"
+				"timeupdated"		"1718685523"
+			}
+			"alpha"
+			{
+				"buildid"		"14750338"
+				"description"		"Alpha version of the game. Very buggy, but contains newer content."
+				"timeupdated"		"1718686088"
+			}
+		}
+		"privatebranches"		"1"
+	}
+	"ufs"
+	{
+		"quota"		"256000000"
+		"maxnumfiles"		"256"
+		"savefiles"
+		{
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"ChrisDBHR/resultarias/SavesDir"
+				"pattern"		"*.json"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}

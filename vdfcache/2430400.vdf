@@ -1,0 +1,202 @@
+"2430400"
+{
+	"common"
+	{
+		"name"		"Gunfire Reborn - Artisan and Magician"
+		"type"		"DLC"
+		"parent"		"1217060"
+		"ReleaseState"		"released"
+		"name_localized"
+		{
+			"schinese"		"枪火重生 - 神谋巧匠"
+			"tchinese"		"槍火重生 - 神謀巧匠"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"41f56c44c5359a5a639dc8b86c39d93913cd3cae"
+		"clienticon"		"9c74bb8013b76618f35183c445841564041f1cd3"
+		"icon"		"daea6cb00d0cbe66aa21b22a81bf27052973405e"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"tchinese"		"header_tchinese.jpg"
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_88353c6f2e551843789afe922c673ba7378089a7.jpg"
+		"store_asset_mtime"		"1686623865"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Duoyi Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Duoyi Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1685588176"
+		"gameid"		"2430400"
+		"store_tags"
+		{
+			"0"		"3959"
+			"1"		"1663"
+			"2"		"3843"
+			"3"		"1685"
+			"4"		"1716"
+			"5"		"3859"
+			"6"		"492"
+			"7"		"353880"
+			"8"		"19"
+			"9"		"21"
+			"10"		"122"
+			"11"		"1774"
+			"12"		"42804"
+			"13"		"3839"
+			"14"		"1720"
+			"15"		"4711"
+			"16"		"4182"
+			"17"		"493"
+			"18"		"1734"
+			"19"		"4236"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"dlcforappid"		"1217060"
+		"mustownapptopurchase"		"1217060"
+		"developer"		"Duoyi Games"
+		"publisher"		"Duoyi Games"
+		"homepage"		"https://gfr.luckycalf.com"
+		"DLCAvailableOnStore"		"1"
+	}
+}
