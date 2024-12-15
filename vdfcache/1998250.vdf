@@ -1,0 +1,206 @@
+"1998250"
+{
+	"common"
+	{
+		"name"		"Liminus: The Silent Guard"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"1bdd1b61fe98d140d0b4e7e1fd2c0f6f916ecb69"
+		"clienticon"		"360c3c39030b8195378d3eee3108273855b4de51"
+		"clienttga"		"30f858d740f4878bbfa53349d7cfa856a710f840"
+		"ReleaseState"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"58.73901686060323"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"100"
+					"height_pct"		"58.73901686060323"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1668482486"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BYU Animation"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BYU Center for Animation"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1668664514"
+		"community_hub_visible"		"1"
+		"gameid"		"1998250"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"21"
+			"2"		"5652"
+			"3"		"4252"
+			"4"		"1684"
+			"5"		"5350"
+			"6"		"3834"
+			"7"		"4191"
+			"8"		"4106"
+			"9"		"4145"
+			"10"		"1697"
+			"11"		"4166"
+			"12"		"5608"
+			"13"		"180368"
+			"14"		"30358"
+			"15"		"7481"
+			"16"		"7250"
+			"17"		"12057"
+			"18"		"4182"
+			"19"		"113"
+		}
+		"review_score"		"7"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"BYU Animation"
+		"publisher"		"BYU Center for Animation"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Liminus - The Silent Guard"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Liminus.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1998251"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7339578660936535562"
+					"size"		"7889207876"
+					"download"		"2207903312"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9824844"
+				"timeupdated"		"1666991554"
+			}
+		}
+	}
+}

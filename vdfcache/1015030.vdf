@@ -1,0 +1,111 @@
+"1015030"
+{
+	"common"
+	{
+		"name"		"Heroes of Hammerwatch: Pyramid of Prophecy"
+		"type"		"DLC"
+		"parent"		"677120"
+		"ReleaseState"		"released"
+		"logo"		"0c3e128e4aad6981ab764fbf5619e267b67b8cd4"
+		"logo_small"		"0c3e128e4aad6981ab764fbf5619e267b67b8cd4_thumb"
+		"icon"		"d2a391c438a1068802252ff72d15344b9da18ce1"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"metacritic_name"		"Pyramid of Prophecy"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"store_screenshot"		"ss_75a1151d8b1665c5ecacbd0288d8cc565d2fa2b2.jpg"
+		"store_asset_mtime"		"1553506868"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Crackshell"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Crackshell"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Surefire.Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Hammerwatch"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_38"		"1"
+			"category_33"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_30"		"1"
+			"category_17"		"1"
+			"category_9"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1552510720"
+		"gameid"		"1015030"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"122"
+			"2"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"dlcforappid"		"677120"
+		"mustownapptopurchase"		"677120"
+		"developer"		"Crackshell"
+		"publisher"		"Crackshell"
+		"homepage"		"http://www.heroesofhammerwatch.com"
+		"DLCAvailableOnStore"		"1"
+	}
+}

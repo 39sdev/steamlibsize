@@ -1,0 +1,404 @@
+"1478220"
+{
+	"common"
+	{
+		"name"		"Puzzle Together"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"clienticon"		"686d02ed91127aaef6c82908e08a29416a2f4bee"
+		"clienttga"		"1d5899ae7d8d477d6827dad4a76aae5d88636a4f"
+		"icon"		"fd919786b31b772758f4670ca9ef33f452b56129"
+		"logo"		"9978a95a641d54baf4a99e3e798b673ad1a760e3"
+		"logo_small"		"9978a95a641d54baf4a99e3e798b673ad1a760e3_thumb"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1478220_eula_0"
+				"name"		"Puzzle Together EULA"
+				"url"		"https://store.steampowered.com//eula/1478220_eula_0"
+				"version"		"1"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1670716800"
+			"tested_build_id"		"9535583"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.011598620713585"
+				"height_pct"		"62.67607484494901"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"28.011598620713585"
+					"height_pct"		"62.67607484494901"
+				}
+			}
+		}
+		"store_asset_mtime"		"1668704898"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"IronZog"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"IronZog"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1607532720"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1478220"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"597"
+			"2"		"3859"
+			"3"		"113"
+			"4"		"3843"
+			"5"		"1685"
+			"6"		"4182"
+			"7"		"5350"
+			"8"		"1770"
+			"9"		"15172"
+			"10"		"4191"
+			"11"		"492"
+			"12"		"8122"
+			"13"		"12057"
+			"14"		"17389"
+			"15"		"4791"
+			"16"		"1643"
+			"17"		"4305"
+			"18"		"1721"
+			"19"		"1775"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"IronZog"
+		"publisher"		"IronZog"
+		"homepage"		"https://puzzletogether.app/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2338660,2338680,2349050"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Puzzle Together"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Puzzle Together.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"PuzzleTogether.app\\Contents\\MacOS\\Puzzle Together"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"1478221"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1565089650115040237"
+					"size"		"214568024"
+					"download"		"69927104"
+				}
+				"win81_compat"
+				{
+					"gid"		"4492532112861226596"
+					"size"		"186044889"
+					"download"		"61454896"
+				}
+			}
+		}
+		"1478222"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1452923647667881387"
+					"size"		"251361994"
+					"download"		"78560448"
+				}
+				"win81_compat"
+				{
+					"gid"		"7313285201363740013"
+					"size"		"212167564"
+					"download"		"68227536"
+				}
+			}
+		}
+		"2338660"
+		{
+			"dlcappid"		"2338660"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6548356581523233456"
+					"size"		"0"
+					"download"		"0"
+				}
+				"win81_compat"
+				{
+					"gid"		"6548356581523233456"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"2338680"
+		{
+			"dlcappid"		"2338680"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7005532173079636095"
+					"size"		"0"
+					"download"		"0"
+				}
+				"win81_compat"
+				{
+					"gid"		"7005532173079636095"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"2349050"
+		{
+			"dlcappid"		"2349050"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5483120644448412897"
+					"size"		"0"
+					"download"		"0"
+				}
+				"win81_compat"
+				{
+					"gid"		"5483120644448412897"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"2471880"
+		{
+			"dlcappid"		"2471880"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3055113077722848588"
+					"size"		"0"
+					"download"		"0"
+				}
+				"win81_compat"
+				{
+					"gid"		"3055113077722848588"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16544465"
+				"timeupdated"		"1732662249"
+			}
+			"win81_compat"
+			{
+				"buildid"		"15797200"
+				"description"		"The last version of Puzzle Together that is compatible with Windows 8.1."
+				"timeupdated"		"1733159030"
+			}
+		}
+	}
+}

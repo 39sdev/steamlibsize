@@ -1,0 +1,214 @@
+"223710"
+{
+	"common"
+	{
+		"name"		"Cry of Fear"
+		"type"		"Game"
+		"oslist"		"windows"
+		"logo"		"2942d49a6943abd683b11de5a757ff1a3059d2da"
+		"logo_small"		"2942d49a6943abd683b11de5a757ff1a3059d2da_thumb"
+		"clienttga"		"f38a32e6941276c6e9be573f60898034bf58d546"
+		"icon"		"962637bf69fddc5466b042c748b6408d2901f25c"
+		"clienticon"		"f1c495e595cde31b510515c3224b165e76e2260f"
+		"restricted_countries"		"DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1648684800"
+			"tested_build_id"		"5821301"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Cry of Fear"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_06811c73bdf1e754ab15d5a0cc13fb431007cd4d.jpg"
+		"store_asset_mtime"		"1367355998"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team Psykskallar"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team Psykskallar"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_23"		"1"
+			"category_8"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+			}
+			"french"
+			{
+				"supported"		"1"
+			}
+			"spanish"
+			{
+				"supported"		"1"
+			}
+			"dutch"
+			{
+				"supported"		"1"
+			}
+			"norwegian"
+			{
+				"supported"		"1"
+			}
+			"swedish"
+			{
+				"supported"		"1"
+			}
+		}
+		"steam_release_date"		"1366909200"
+		"community_hub_visible"		"1"
+		"gameid"		"223710"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"113"
+			"2"		"3859"
+			"3"		"3978"
+			"4"		"1721"
+			"5"		"1685"
+			"6"		"4166"
+			"7"		"19"
+			"8"		"3839"
+			"9"		"492"
+			"10"		"5186"
+			"11"		"3843"
+			"12"		"4182"
+			"13"		"1663"
+			"14"		"21"
+			"15"		"1659"
+			"16"		"1662"
+			"17"		"1774"
+			"18"		"5348"
+			"19"		"128"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Team Psykskallar"
+		"gamedir"		"ValveTestApp223710"
+		"homepage"		"https://linktr.ee/andreas.ronnberg"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"thirdpartycdkey"		"1"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Team Psykskallar"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Cry of Fear"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CoFLaunchApp.exe"
+				"description"		"Launch with Console"
+			}
+		}
+	}
+	"depots"
+	{
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229003"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"preloadonly"		"1"
+		"223711"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3465817078078599269"
+					"size"		"4695601334"
+					"download"		"2609523792"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5821301"
+				"timeupdated"		"1605191529"
+			}
+		}
+	}
+}

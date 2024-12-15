@@ -1,0 +1,213 @@
+"104700"
+{
+	"common"
+	{
+		"name"		"Super Monday Night Combat"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"logo"		"6c57677925f8b3658e315d3e40c1f928a7653ddf"
+		"logo_small"		"6c57677925f8b3658e315d3e40c1f928a7653ddf_thumb"
+		"clienticon"		"a80c4168923cfe060db5ba71f93441564232308b"
+		"clienttga"		"c02dd5a5b86b84998934f158af4f1fbfc0a739e6"
+		"icon"		"5a5dd4420068a68f0d654edbfabf2bff5f8b3b0a"
+		"type"		"game"
+		"metacritic_name"		"Super Monday Night Combat"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_32252c39f404a18bcd3e4d6da545f59ae8c3fe68.jpg"
+		"store_asset_mtime"		"1363190863"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Uber Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Uber Entertainment"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"18"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_25"		"1"
+			"category_15"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1334818800"
+		"steam_release_date"		"1334836800"
+		"metacritic_score"		"76"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/super-monday-night-combat?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"104700"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"3859"
+			"3"		"1718"
+			"4"		"1774"
+			"5"		"3814"
+			"6"		"9"
+			"7"		"701"
+			"8"		"492"
+			"9"		"4136"
+			"10"		"3878"
+			"11"		"4747"
+			"12"		"128"
+			"13"		"1685"
+			"14"		"1697"
+			"15"		"1719"
+			"16"		"3839"
+			"17"		"21"
+			"18"		"4155"
+			"19"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Uber Entertainment"
+		"gamedir"		"SuperMNC"
+		"homepage"		"http://www.supermnc.com/"
+		"icon"		""
+		"installscript"		"InstallScript.vdf"
+		"isfreeapp"		"1"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"104701"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Uber Entertainment"
+		"listofdlc"		"212520,212521"
+	}
+	"config"
+	{
+		"installscriptsignature"		"4cd03651d99e3a380260f3dfeb2861b56172628be57a57b58cbe77c66464c01d1d4ad0fb23a5ce128c37af21252fa88051b1dca0ca4ce26894b2131ff45e8746e2795d32a6606624448640a28ac3ab012055988b61c5daaa85edd2124df6079f65e60ee7a1712dafea1659f5c4f191f7b9748e583b00844f14ce7dbf240790e4"
+		"installscriptoverride"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		".\\Binaries\\Win32\\SuperMNCGameClient.exe"
+				"description"		"Launch SMNC"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"SuperMNC"
+	}
+	"install"
+	{
+		"run process"
+		{
+			"dotnet35"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Uber\\SMNC\\Support\\dotnet35"
+				"process 1"		"%INSTALLDIR%\\MNCGame\\support\\dotNetFx35setup.exe"
+				"command 1"		""
+				"nocleanup"		"1"
+			}
+			"directx"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Uber\\SMNC\\Support\\dxsetup"
+				"process 1"		"%INSTALLDIR%\\MNCGame\\support\\dxwebsetup.exe"
+				"command 1"		"/q"
+				"nocleanup"		"1"
+				"ignoreexitcode"		"1"
+			}
+		}
+	}
+	"depots"
+	{
+		"104701"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9008905550174738672"
+					"size"		"3211050658"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"9136140285256444604"
+					"size"		"3211050668"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"mncbeta"
+				{
+					"gid"		"56BEEDAE728AF17D7B5460E5D745ED98"
+					"size"		"AC8C19DEAF851F6B998F9DBC68B451EF"
+					"download"		"9A251DF4AD8383B690D2583DB7C22A17"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"52100"
+			}
+			"local"
+			{
+				"buildid"		"52052"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+			}
+			"mncbeta"
+			{
+				"buildid"		"52100"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"hidecloudui"		"0"
+	}
+}

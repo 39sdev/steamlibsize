@@ -1,0 +1,139 @@
+"787340"
+{
+	"common"
+	{
+		"name"		"A Hat in Time - Seal the Deal"
+		"type"		"DLC"
+		"parent"		"253230"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"4e8a65f9b3c5f8cf3b1a188fc9d4e362b363a2c4"
+		"logo_small"		"4e8a65f9b3c5f8cf3b1a188fc9d4e362b363a2c4_thumb"
+		"icon"		"45b4a62eb8568a318156a93422e8c6e9eeabc7e6"
+		"metacritic_name"		"A Hat in Time - Seal the Deal"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_1fa9c4d8b82d4a28bb814b37f4857437943421ff.jpg"
+		"store_asset_mtime"		"1534363274"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gears for Breakfast"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gears for Breakfast"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_13"		"1"
+			"category_29"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_17"		"1"
+			"category_39"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1536861600"
+		"gameid"		"787340"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"4026"
+			"3"		"1756"
+			"4"		"5395"
+			"5"		"4726"
+			"6"		"7208"
+			"7"		"1721"
+			"8"		"1685"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"dlcforappid"		"253230"
+		"mustownapptopurchase"		"253230"
+		"developer"		"Gears for Breakfast"
+		"publisher"		"Gears for Breakfast"
+		"homepage"		"http://hatintime.com/"
+		"DLCAvailableOnStore"		"1"
+	}
+}

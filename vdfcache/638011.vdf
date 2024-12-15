@@ -1,0 +1,117 @@
+"638011"
+{
+	"common"
+	{
+		"name"		"Chess Ultra Santa Monica game pack"
+		"type"		"DLC"
+		"parent"		"518060"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"d2824f32509ec8cbdcc9f9173225e54c77cf8b28"
+		"clienticon"		"67467a14b6538161791f7a51bec0f4945de3e684"
+		"icon"		"da0ae6e93f1f44edf6937c8465f716d03968e789"
+		"metacritic_name"		"Chess Ultra - Beach Environment"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_32ea27d7a4481ce485c0f7a4724744715ff2406e.jpg"
+		"store_asset_mtime"		"1521121772"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ripstone"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ripstone"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"18"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_32"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1524756680"
+		"gameid"		"638011"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+			"2"		"597"
+			"3"		"599"
+			"4"		"701"
+		}
+		"review_score"		"7"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"dlcforappid"		"518060"
+		"mustownapptopurchase"		"518060"
+		"developer"		"Ripstone"
+		"publisher"		"Ripstone"
+		"homepage"		"http://playchessultra.com"
+		"dlcavailableonstore"		"1"
+	}
+}

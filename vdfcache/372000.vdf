@@ -1,0 +1,439 @@
+"372000"
+{
+	"common"
+	{
+		"name"		"Tree of Savior (English Ver.)"
+		"type"		"Game"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"372000_eula_0"
+				"name"		"Tree of Savior (English Ver.) EULA"
+				"url"		"http://store.steampowered.com//eula/372000_eula_0"
+			}
+		}
+		"oslist"		"windows"
+		"logo"		"9817a0cbc3e917a98df329e8c8f5571981e00721"
+		"logo_small"		"9817a0cbc3e917a98df329e8c8f5571981e00721_thumb"
+		"clienticon"		"3509278c6e31b3821a28495c968b5db940f9568f"
+		"clienttga"		"7d10d7b3e9fb97b6b5b29a54adb79e86daea03c5"
+		"icon"		"4c250d09c325ee3b05cc09189d4859aaf3bb3811"
+		"ReleaseState"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1645228800"
+			"tested_build_id"		"7879093"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Tree of Savior (English Ver.)"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"31"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"31"
+					"height_pct"		"100"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1727168533"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"IMCGAMES Co.,Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"IMCGAMES Co.,Ltd."
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"29"
+			"1"		"3"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_18"		"1"
+			"category_8"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1459173660"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"372000"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"1754"
+			"1"		"4085"
+			"2"		"122"
+			"3"		"128"
+			"4"		"1684"
+			"5"		"21"
+			"6"		"3859"
+			"7"		"4726"
+			"8"		"19"
+			"9"		"1695"
+			"10"		"5851"
+			"11"		"113"
+			"12"		"4231"
+			"13"		"1685"
+			"14"		"1646"
+			"15"		"1775"
+			"16"		"6730"
+			"17"		"10397"
+			"18"		"3834"
+			"19"		"4474"
+		}
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"IMCGAMES Co.,Ltd."
+		"publisher"		"IMCGAMES Co.,Ltd."
+		"homepage"		"https://treeofsavior.com/page/main/"
+		"isfreeapp"		"1"
+		"listofdlc"		"451280,451320,452430,463640,463650,472840,472841,472860,472861,474800,474801,474802,474803,474804,512910,512911,512912,512913,554270,554271,554272,554273,631450,682380,682390,682400,682410,716440,768700,768701,768702,768703,1279460,1873520,1920920"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"TreeOfSavior"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"release/patch/tos.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"372001"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1894077257338383895"
+					"size"		"43117499088"
+					"download"		"29892681312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D6888B025011A7D75DEB52C83350096B"
+					"size"		"FDA58664C0EDEE88781A4C462819B20C"
+					"download"		"9F92B5F9EB71015A82C77422A391B6F0"
+				}
+			}
+		}
+		"372002"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D8DE7C69635067750EFA7AD97214CB02"
+					"size"		"7C683A2926F9284C49F4D8A5419EC418"
+					"download"		"C5B4BAF2CFADB03FDD3AF19E07408C5C"
+				}
+			}
+		}
+		"451280"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"dlcappid"		"451280"
+		}
+		"451320"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"dlcappid"		"451320"
+		}
+		"372004"
+		{
+			"dlcappid"		"451280"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D7067D9FA12A9F9CEDE04C0691DBA7DD"
+					"size"		"97A67882897B897B35C7C5D1B131D35F"
+					"download"		"24738A2E2E72A7DDA6191E83701825C0"
+				}
+			}
+		}
+		"372005"
+		{
+			"dlcappid"		"451320"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2B6EE63541D5BDBF7A55AFC9826C4F8F"
+					"size"		"97A67882897B897B35C7C5D1B131D35F"
+					"download"		"24738A2E2E72A7DDA6191E83701825C0"
+				}
+			}
+		}
+		"463650"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"dlcappid"		"463650"
+		}
+		"463660"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"dlcappid"		"463660"
+		}
+		"372007"
+		{
+			"dlcappid"		"463650"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+		}
+		"372008"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+		}
+		"1687600"
+		{
+			"dlcappid"		"1687600"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+		}
+		"1873520"
+		{
+			"dlcappid"		"1873520"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16688467"
+				"timeupdated"		"1733811729"
+			}
+			"beta"
+			{
+				"buildid"		"7159769"
+				"pwdrequired"		"1"
+				"timeupdated"		"1628502952"
+			}
+		}
+	}
+}

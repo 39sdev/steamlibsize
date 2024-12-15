@@ -1,0 +1,514 @@
+"666860"
+{
+	"common"
+	{
+		"name"		"Bit Heroes"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"icon"		"4cc09ac82863b5b6bdb140d903eaf3ca76521630"
+		"logo"		"549623f2f0f11135b5723d07ba799e63d0b4fab2"
+		"logo_small"		"549623f2f0f11135b5723d07ba799e63d0b4fab2_thumb"
+		"clienticon"		"c5eded486bd5d867e43fd42b57d37ac8c00023f2"
+		"clienttga"		"256a089d86e1a965d34632a8dafe9847a23b4a09"
+		"clienticns"		"1a51b4a82b6d0ac0c384ab697e2b70866b8dcdb4"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1665014400"
+			"tested_build_id"		"9099602"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Bit Heroes"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"84.02804820840788"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"50"
+					"height_pct"		"84.02804820840788"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1689796193"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Juppiomenz"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kongregate"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"29"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_20"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_29"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1513188992"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"666860"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"3964"
+			"2"		"122"
+			"3"		"21"
+			"4"		"128"
+			"5"		"1754"
+			"6"		"1677"
+			"7"		"3871"
+			"8"		"3859"
+			"9"		"1720"
+			"10"		"597"
+			"11"		"19"
+			"12"		"4236"
+			"13"		"615955"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Juppiomenz"
+		"publisher"		"Kongregate"
+		"homepage"		"http://bitheroesgame.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Bit Heroes"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bit Heroes.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Bit Heroes.app/Contents/MacOS/Bit Heroes"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,portuguese"
+		"666861"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1942477712564169621"
+					"size"		"349580966"
+					"download"		"79202752"
+				}
+				"mac-beta"
+				{
+					"gid"		"1942477712564169621"
+					"size"		"349580966"
+					"download"		"79202752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"prerelease"
+				{
+					"gid"		"48B06AAA637BA58CABF0F9AF51637A6D"
+					"size"		"1126E7E24650D01B394C47563EB31F15"
+					"download"		"684D8A29F18AF0BB8FDEF3989033A2DD"
+				}
+				"unityupgrade"
+				{
+					"gid"		"FF78B53AC28ED787AE6175DE290AD58C"
+					"size"		"D90B2A3A94E9AC647E7C79CD1A7C9605"
+					"download"		"8DA965E8DD7EA8EDD04A22C4CA882FE8"
+				}
+				"cs-beta"
+				{
+					"gid"		"BDB9AA6923EBB9EC7DADD12AC91214C9"
+					"size"		"E8A1680C2F31619A30F7E3EFDE51BA22"
+					"download"		"78B11AEE991EBDED620734045B6AA72B"
+				}
+				"development"
+				{
+					"gid"		"575D4859C8FD16325B1923ABF132933B"
+					"size"		"5A14B621FAA2C2A15A45015F6DA673EC"
+					"download"		"E78E84EE797859D2C5C02975BAACD000"
+				}
+				"qa-ptw"
+				{
+					"gid"		"9F6A0399622C9CCDE3207B38312D6455"
+					"size"		"068E44AB682D09DC7FB39EAB5CEBACB2"
+					"download"		"BC476BB9C1C37E0788D07F1134C77E86"
+				}
+				"staging"
+				{
+					"gid"		"8B7DA679244F57AAA91623FDFABA70FE"
+					"size"		"25675335B68A7974EDA002E3351806FF"
+					"download"		"971530DBD6FCBCD993EF8C8377E5AD54"
+				}
+				"ub-demo"
+				{
+					"gid"		"A480988D2B9F6159595077F6738A4171"
+					"size"		"C925C9DBA5827CAD98D9A53A08AA3B74"
+					"download"		"DEB2DA07D8E1FD85568969D07F9A9091"
+				}
+				"ub-demo-2"
+				{
+					"gid"		"9683B121F14FFA5CB97348E2A6D38C04"
+					"size"		"9065FC432649842E4A01E5EC8175C59B"
+					"download"		"EF81E3E89E1729A4352D2F9EBF64E78C"
+				}
+				"ub-internal"
+				{
+					"gid"		"8B10E72F011F39D98819535A4DA9F78F"
+					"size"		"B59258FE6C2B51D4E395F916C736961D"
+					"download"		"06A470061BA9C7898F16CD6385DD89D1"
+				}
+				"ub-internal-2"
+				{
+					"gid"		"89AE6FDF94D34E4A6ABBAA8C4A08A3E5"
+					"size"		"7C0920E79B56066C71179BDE4A8CB5AC"
+					"download"		"96D9BD5EAF2C7E732549D09F97CE4BFA"
+				}
+				"ub-staging"
+				{
+					"gid"		"A73FC09DE87BFBB98267E90A6A567B2A"
+					"size"		"100C30BB49DD37E1DD2C07C41B6FC618"
+					"download"		"2A9C94731D1A506F60D341F3C1B874B8"
+				}
+				"ub-staging-2"
+				{
+					"gid"		"EB90DC40270C54EA6B3B4D9610C6D98D"
+					"size"		"D95B8A032288D2BC5A6961CD2C8A5C69"
+					"download"		"5D50F44FF5F1E1C0ECF8F92812817057"
+				}
+			}
+		}
+		"666862"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"mac-beta"
+				{
+					"gid"		"8044915423059023668"
+					"size"		"374350586"
+					"download"		"86593504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"unityupgrade"
+				{
+					"gid"		"5592D1C8213C72561456EC25AAA5F031"
+					"size"		"F44AC8147CC017DC1E777AEBC4E5F8BE"
+					"download"		"A100E99C09A7D82F27E82A4CBD052167"
+				}
+				"cs-beta"
+				{
+					"gid"		"DB9122FDD9D0DDEBF851989F05DE72B2"
+					"size"		"23B584AB1FC70750A416B846DD9C501A"
+					"download"		"41B5C11DE072825482AA5227424F1ED3"
+				}
+				"development"
+				{
+					"gid"		"8D9A21C75324D7B68437335077C9C5FE"
+					"size"		"4C340248CE7EB46DC7CD4B39F7F933C8"
+					"download"		"52E3CE1C6ADCEEB6014F72CEB36BC08C"
+				}
+				"qa-ptw"
+				{
+					"gid"		"93D1928042FD4F7B634EDEA274126A4A"
+					"size"		"74342901C2A1753AEEDD57AD44F63A0F"
+					"download"		"A66158D3CA3C51CA4D40FE3389292A48"
+				}
+				"staging"
+				{
+					"gid"		"610C005B0F7784AC19F78C24C616A7E6"
+					"size"		"0711BB29F8DBC6240E1CF20643D9062C"
+					"download"		"5A4E54A1BF5D1AF8992D545C8F617A9D"
+				}
+				"ub-demo"
+				{
+					"gid"		"1131C85E222E4243A73E181C24846AAE"
+					"size"		"2D2FA2FB5F6C470967B706B00CEBDE30"
+					"download"		"EA482BA3912FD04B0E9E24D2F6A4C106"
+				}
+				"ub-internal"
+				{
+					"gid"		"306B69068E6255440AA34BEDF1708D06"
+					"size"		"1B1BFAEFE9351E3716004E2E7B7EBDF5"
+					"download"		"59FDE20654165B73B5075D72C77056CC"
+				}
+				"ub-internal-2"
+				{
+					"gid"		"5240DB5FEDA1E9E0EE7C4B11AF6F0100"
+					"size"		"E1FBCF82607223359FAF9A3ED4B11E33"
+					"download"		"A2D2C6DC809AD0726BCA216F5A93C4B2"
+				}
+				"ub-staging"
+				{
+					"gid"		"138FC4E706F09349A1D60D4CEEF8C514"
+					"size"		"45B654E9077A3276042D8C9035D99BF3"
+					"download"		"C297F546203C8AAE93936BF24375E7B9"
+				}
+				"ub-staging-2"
+				{
+					"gid"		"958E13F7A128009348462BB0EEF28C5E"
+					"size"		"874B142E714A6814EB83D1DAB4296086"
+					"download"		"3283924232D71FE4E1297A7BF42DCA9B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16684754"
+				"timeupdated"		"1733854767"
+			}
+			"prerelease"
+			{
+				"buildid"		"16684754"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733773224"
+			}
+			"unityupgrade"
+			{
+				"buildid"		"16684761"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733773285"
+			}
+			"mac-beta"
+			{
+				"buildid"		"16684761"
+				"description"		"mac beta version"
+				"timeupdated"		"1733854795"
+			}
+			"cs-beta"
+			{
+				"buildid"		"16684761"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733854807"
+			}
+			"development"
+			{
+				"buildid"		"10830356"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679499845"
+			}
+			"qa-ptw"
+			{
+				"buildid"		"9723864"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665765236"
+			}
+			"staging"
+			{
+				"buildid"		"12161638"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694455488"
+			}
+			"ub-demo"
+			{
+				"buildid"		"11706557"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689365551"
+			}
+			"ub-demo-2"
+			{
+				"buildid"		"11308911"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684949563"
+			}
+			"ub-internal"
+			{
+				"buildid"		"12356626"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696441385"
+			}
+			"ub-internal-2"
+			{
+				"buildid"		"11706530"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689365107"
+			}
+			"ub-staging"
+			{
+				"buildid"		"12377276"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696614738"
+			}
+			"ub-staging-2"
+			{
+				"buildid"		"11706584"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689365831"
+			}
+		}
+	}
+}

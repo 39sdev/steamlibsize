@@ -1,0 +1,301 @@
+"2506480"
+{
+	"common"
+	{
+		"name"		"Clue/Cluedo"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"23774542079e59bf10140a4be4ad6abd047474a3"
+		"clienttga"		"352110272c753640499a85a369c8d876dc18ca41"
+		"clienticon"		"cccf49868abe63899f11b08754b651e1ccf00dc2"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1729209600"
+			"tested_build_id"		"15770432"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-9.0-3RC"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"87412847a2606208b555314f0dceb6858fe5da9f/capsule_231x87.jpg"
+			"french"		"1b9114171e4164a22a5e09d2d71dcf4672510ea4/capsule_231x87_french.jpg"
+			"german"		"78f4e0acf47f91bf07cce989cd931af647dac281/capsule_231x87_german.jpg"
+			"italian"		"c2911c8709f6e615d97b671d90a46f1d511d6436/capsule_231x87_italian.jpg"
+			"brazilian"		"7f16a8b3f3bc9eab3695f5d64d03a82d9354109a/capsule_231x87_brazilian.jpg"
+			"spanish"		"a4ce0a482b2d6b9f45eb9a68caec8281ed28ca17/capsule_231x87_spanish.jpg"
+			"latam"		"a4ce0a482b2d6b9f45eb9a68caec8281ed28ca17/capsule_231x87_latam.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"french"		"header_french.jpg"
+			"german"		"header_german.jpg"
+			"italian"		"header_italian.jpg"
+			"brazilian"		"header_brazilian.jpg"
+			"spanish"		"header_spanish.jpg"
+			"latam"		"header_latam.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"41.8614668218859"
+				"height_pct"		"41.51555450011873"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"UpperCenter"
+					"width_pct"		"41.8614668218859"
+					"height_pct"		"41.51555450011873"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"ac622b0b45b9a5e3e03bb8727edef933bbbdd14c/library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1732550510"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Marmalade Game Studio Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Marmalade Game Studio Ltd"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Marmalade Game Studio Ltd"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_27"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1692781452"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2506480"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"3859"
+			"2"		"17389"
+			"3"		"5613"
+			"4"		"6378"
+			"5"		"1770"
+			"6"		"9"
+			"7"		"1775"
+			"8"		"1685"
+			"9"		"3843"
+			"10"		"4191"
+			"11"		"4342"
+			"12"		"1667"
+			"13"		"599"
+			"14"		"5716"
+			"15"		"7368"
+			"16"		"8369"
+			"17"		"4182"
+			"18"		"1664"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Marmalade Game Studio Ltd"
+		"publisher"		"Marmalade Game Studio Ltd"
+		"homepage"		"https://www.marmaladegamestudio.com"
+		"listofdlc"		"2556790,2556800,2666740,2880150,3102720,3252340"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ClueCluedo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ClueCluedo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2506481"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7915274743401629244"
+					"size"		"2194804875"
+					"download"		"1773559568"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16329507"
+				"timeupdated"		"1732549378"
+			}
+		}
+		"privatebranches"		"1"
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"15"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Marmalade Game Studio/Cluedo/{64BitSteamID}/"
+				"pattern"		"*.c2"
+				"recursive"		"1"
+			}
+		}
+	}
+}

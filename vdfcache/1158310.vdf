@@ -1,0 +1,6612 @@
+"1158310"
+{
+	"common"
+	{
+		"name"		"Crusader Kings III"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"logo"		"f1b44985aa2dcaca8099a36547081d37cdcb1f42"
+		"logo_small"		"f1b44985aa2dcaca8099a36547081d37cdcb1f42_thumb"
+		"icon"		"8a0d88dfaff790ea1aa2b9fcf50d4e3b4f49cf56"
+		"clienticon"		"3d31b9b8d7ffb8512e546fc4ffb987273066ef0a"
+		"clienttga"		"a1de4877d206583a1c337d7a2d04a9b5178ba0df"
+		"ReleaseState"		"released"
+		"clienticns"		"10d493f0d841742615b677a5bf718b3d43339fb7"
+		"linuxclienticon"		"db3b4f05b8429a75bc1575bdefb5b2dd09ac5092"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1158310_eula_0"
+				"name"		"Crusader Kings III EULA"
+				"url"		"https://store.steampowered.com//eula/1158310_eula_0"
+				"version"		"1"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1645056000"
+			"tested_build_id"		"6925632"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_GameOrLauncherDoesntExitCleanly"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"6"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Crusader Kings III"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"69.92432793640393"
+				"height_pct"		"67.88432031553225"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"69.92432793640393"
+					"height_pct"		"67.88432031553225"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1732802970"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paradox Development Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paradox Interactive"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Crusader Kings"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_49"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_30"		"1"
+			"category_42"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1598976000"
+		"metacritic_score"		"91"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/crusader-kings-iii?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1158310"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"4172"
+			"2"		"4364"
+			"3"		"599"
+			"4"		"122"
+			"5"		"3987"
+			"6"		"12472"
+			"7"		"4747"
+			"8"		"10235"
+			"9"		"1676"
+			"10"		"3810"
+			"11"		"6426"
+			"12"		"1678"
+			"13"		"4182"
+			"14"		"4695"
+			"15"		"4853"
+			"16"		"1670"
+			"17"		"1669"
+			"18"		"3859"
+			"19"		"7107"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Paradox Development Studio"
+		"publisher"		"Paradox Interactive"
+		"homepage"		"https://www.paradoxinteractive.com/games/crusader-kings-iii/about"
+		"listofdlc"		"1296730,1296731,1303182,1303183,1303184,1359040,2114760,2311920,2311930,2313540,2313541,2671030,2671040,2671060,2671070,2671080,2812400,3077630,3275760"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Crusader Kings III"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launcher/dowser.exe"
+				"arguments"		"-nakama -simultaneouschunks 2"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"launcher/dowser"
+				"arguments"		"-nakama -simultaneouschunks 2"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"launcher/dowser"
+				"arguments"		"--pdxlDisableHardwareSettings -nakama -simultaneouschunks 2"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2298179106"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"1158310"
+		"228981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1158311"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7337236031716179143"
+					"size"		"13758149008"
+					"download"		"5119541136"
+				}
+				"1.0.2"
+				{
+					"gid"		"2984434963914869976"
+					"size"		"4966474743"
+					"download"		"1838759120"
+				}
+				"1.0.3"
+				{
+					"gid"		"7934889321886535753"
+					"size"		"4966475065"
+					"download"		"1838759248"
+				}
+				"1.1.1"
+				{
+					"gid"		"7206345249093059102"
+					"size"		"4900080040"
+					"download"		"1828558576"
+				}
+				"1.1.2"
+				{
+					"gid"		"3901034014713352047"
+					"size"		"4900108708"
+					"download"		"1828564912"
+				}
+				"1.1.3"
+				{
+					"gid"		"3090796358696593682"
+					"size"		"4900110343"
+					"download"		"1828565008"
+				}
+				"1.10.0"
+				{
+					"gid"		"7723945739646898989"
+					"size"		"10478788801"
+					"download"		"4120007600"
+				}
+				"1.10.1"
+				{
+					"gid"		"6626061403098630989"
+					"size"		"10478779144"
+					"download"		"4119982032"
+				}
+				"1.10.2"
+				{
+					"gid"		"5483121434460621958"
+					"size"		"10478783745"
+					"download"		"4119982512"
+				}
+				"1.11.0"
+				{
+					"gid"		"2594563895425310099"
+					"size"		"11020311283"
+					"download"		"4307015488"
+				}
+				"1.11.3"
+				{
+					"gid"		"6411981610654620581"
+					"size"		"11020805379"
+					"download"		"4307119792"
+				}
+				"1.11.5"
+				{
+					"gid"		"9167705907215962242"
+					"size"		"11266085574"
+					"download"		"4396551264"
+				}
+				"1.12.1"
+				{
+					"gid"		"7645825907783002903"
+					"size"		"11863551890"
+					"download"		"4432985984"
+				}
+				"1.12.2"
+				{
+					"gid"		"6301723979028037882"
+					"size"		"11863234299"
+					"download"		"4432902432"
+				}
+				"1.12.3"
+				{
+					"gid"		"4331439758777349139"
+					"size"		"11863251168"
+					"download"		"4432906000"
+				}
+				"1.2.1"
+				{
+					"gid"		"2456299554696449384"
+					"size"		"4963256920"
+					"download"		"1848485408"
+				}
+				"1.2.2"
+				{
+					"gid"		"5285148302244247314"
+					"size"		"4963266884"
+					"download"		"1848486960"
+				}
+				"1.4.0"
+				{
+					"gid"		"3487960159966848975"
+					"size"		"5452888255"
+					"download"		"2116675360"
+				}
+				"1.4.2"
+				{
+					"gid"		"5897412540728234125"
+					"size"		"5452889497"
+					"download"		"2116675904"
+				}
+				"1.4.4"
+				{
+					"gid"		"5897412540728234125"
+					"size"		"5452889497"
+					"download"		"2116675904"
+				}
+				"1.5.0.1"
+				{
+					"gid"		"8373048097555929219"
+					"size"		"7648331801"
+					"download"		"3009121088"
+				}
+				"1.5.0.2"
+				{
+					"gid"		"7855606786261726387"
+					"size"		"7653351343"
+					"download"		"3009090704"
+				}
+				"1.5.1"
+				{
+					"gid"		"2057492075679716015"
+					"size"		"7785497383"
+					"download"		"3052513888"
+				}
+				"1.5.1.1"
+				{
+					"gid"		"2544252602913885133"
+					"size"		"7785513371"
+					"download"		"3052515968"
+				}
+				"1.6.0"
+				{
+					"gid"		"3705856631006771319"
+					"size"		"8638928720"
+					"download"		"3386541872"
+				}
+				"1.6.0.1"
+				{
+					"gid"		"3705856631006771319"
+					"size"		"8638928720"
+					"download"		"3386541872"
+				}
+				"1.6.1"
+				{
+					"gid"		"8793851017239673277"
+					"size"		"8666422951"
+					"download"		"3407723616"
+				}
+				"1.6.1.1"
+				{
+					"gid"		"3241371083515747621"
+					"size"		"8666423053"
+					"download"		"3407723632"
+				}
+				"1.6.1.2"
+				{
+					"gid"		"2083329730617783538"
+					"size"		"8666423967"
+					"download"		"3407723680"
+				}
+				"1.7.0"
+				{
+					"gid"		"2898298351421400554"
+					"size"		"8739849308"
+					"download"		"3437744208"
+				}
+				"1.7.1"
+				{
+					"gid"		"3429193883728044897"
+					"size"		"8739875147"
+					"download"		"3437748624"
+				}
+				"1.7.2"
+				{
+					"gid"		"5033979838554135067"
+					"size"		"8739871231"
+					"download"		"3437748464"
+				}
+				"1.8.2"
+				{
+					"gid"		"2013027804061508407"
+					"size"		"8807138450"
+					"download"		"3463321680"
+				}
+				"1.9.0"
+				{
+					"gid"		"6983135825574212637"
+					"size"		"10366902602"
+					"download"		"4065059072"
+				}
+				"1.9.1"
+				{
+					"gid"		"896976911779681118"
+					"size"		"10415130277"
+					"download"		"4110917296"
+				}
+				"1.9.2"
+				{
+					"gid"		"8283762173626932083"
+					"size"		"10384464900"
+					"download"		"4081370816"
+				}
+				"avx_issue_hotfix"
+				{
+					"gid"		"2898298351421400554"
+					"size"		"8739849308"
+					"download"		"3437744208"
+				}
+				"1.12.4"
+				{
+					"gid"		"3721506191623469648"
+					"size"		"11863390571"
+					"download"		"4432933600"
+				}
+				"1.12.5"
+				{
+					"gid"		"1228356233849560534"
+					"size"		"11867829775"
+					"download"		"4435367408"
+				}
+				"1.13.0"
+				{
+					"gid"		"1478643732243113301"
+					"size"		"13511743461"
+					"download"		"5026935664"
+				}
+				"1.13.1"
+				{
+					"gid"		"6106263867960077729"
+					"size"		"13508703864"
+					"download"		"5025483984"
+				}
+				"1.13.2"
+				{
+					"gid"		"7888723434508935249"
+					"size"		"13509254982"
+					"download"		"5025540480"
+				}
+				"1.14.0"
+				{
+					"gid"		"7864107494925686101"
+					"size"		"13534931162"
+					"download"		"5035494912"
+				}
+				"1.14.1"
+				{
+					"gid"		"1104325089100044393"
+					"size"		"13534990387"
+					"download"		"5035501136"
+				}
+				"1.3.1"
+				{
+					"gid"		"8549522668915950974"
+					"size"		"13508703732"
+					"download"		"5025483968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"D6613A56D4C1B2A99B260617919FD3A6"
+					"size"		"BC19D4B2F5472AE005691C7BDFA96707"
+					"download"		"C7FCE36831356120DE1C816940B32D0F"
+				}
+				"baseline"
+				{
+					"gid"		"A951E20201AA2C35734B0B9D34557760"
+					"size"		"5E924AB7C0BBFFE542BAE01E4DFF5A2C"
+					"download"		"27BA4513FBD26E852143FFAEBD777FE8"
+				}
+				"community_team"
+				{
+					"gid"		"C980D72C94D0D5155BD1B4ADF326B549"
+					"size"		"F3F087F29B1559DCDE183ECCE0494F46"
+					"download"		"26EE73A40B9FA1EEC9E23D305FC79479"
+				}
+				"influencer2"
+				{
+					"gid"		"3F273AD9FBEC321E41FC4865A530B9CA"
+					"size"		"6F2EE1418B8717A6C4426B7C18A05B43"
+					"download"		"ADCBD774C4288C47C6459C12767B9F34"
+				}
+				"influencer3"
+				{
+					"gid"		"7F19A7FE0C9F986E807314764D8376DA"
+					"size"		"D5A0644A0C705D497B7D9BE98037C24F"
+					"download"		"00B706F100CC65CCBA92363C1AFA6920"
+				}
+				"mac_testing"
+				{
+					"gid"		"6DB3A223A4FB9FEF4F165AB475556EB0"
+					"size"		"B9BD894C0807B7DE4C8FA8558E0B1437"
+					"download"		"BB611BFDBCBEB79ACF2E3A6A085FEFD5"
+				}
+				"open_beta"
+				{
+					"gid"		"B30E69263C89EFE498BCDB8D2D832382"
+					"size"		"FC2A5353B834083D8ECFF04DFBA2E9CD"
+					"download"		"E167A3C837697F8EFE1448E04245A555"
+				}
+				"preview_backup"
+				{
+					"gid"		"4AE4B7C89C52A0A89567748D410E42D8"
+					"size"		"7D56A36FA38F52E6804FE5864AAEBFE4"
+					"download"		"DDB731FCDF675B9229FD15B90F381497"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"027DAB2C52D9CF2AD2768F92F841826D"
+					"size"		"47CE5CC1E76AFAEFFD815E8E6F84AC78"
+					"download"		"6A5627872008DF11282084F24F9B3AF1"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"ACFF2774AD20EB40D8912101E0A0E124"
+					"size"		"A3BC65E6AC731374EFFF825E456DEE44"
+					"download"		"31A178482AB2194DE64A7DB1654557C5"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"2BDE394C8560289F2FB12D9CCB161CD0"
+					"size"		"D3A23FDABE063C803F181D6AB49FCE32"
+					"download"		"453516D1033D96099B09DB2BB6334CD5"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"5C7BA5F2F11C407AD53DD8029F7AAEA1"
+					"size"		"D3892419A94E656E698F9C7393A7955D"
+					"download"		"D1A64E3F07C15DE406D77B9AC4419746"
+				}
+				"influencer"
+				{
+					"gid"		"13E71C09EB7C8D2B46D6C4A68F0AE7D7"
+					"size"		"43444972804E2772280CD9665D7D1947"
+					"download"		"B59DBCD84F56421DE82E8649340CD240"
+				}
+				"preview"
+				{
+					"gid"		"9901B5CCF22B8DE37E5079B745C422FC"
+					"size"		"1AB45A2BE524E90FB9A32AA60CE07E50"
+					"download"		"E27B6A7BFCD50BC67424007C858CAE37"
+				}
+				"trailer_branch"
+				{
+					"gid"		"F5CC82C15653E4526BBBD9E10B90026A"
+					"size"		"095FE510E79389527F029B96194A16AD"
+					"download"		"BD020B867FEF8D62D5C3754E12EE5AAB"
+				}
+			}
+		}
+		"1158312"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1692230708918900387"
+					"size"		"147447691"
+					"download"		"38085296"
+				}
+				"1.0.2"
+				{
+					"gid"		"5393855009109249885"
+					"size"		"104825616"
+					"download"		"29630496"
+				}
+				"1.0.3"
+				{
+					"gid"		"3034830531645483309"
+					"size"		"104829200"
+					"download"		"29630800"
+				}
+				"1.1.1"
+				{
+					"gid"		"4063480091591512359"
+					"size"		"101538394"
+					"download"		"28440080"
+				}
+				"1.1.2"
+				{
+					"gid"		"8871581963686685124"
+					"size"		"101537370"
+					"download"		"28452048"
+				}
+				"1.1.3"
+				{
+					"gid"		"5700099686140781463"
+					"size"		"101538906"
+					"download"		"28440560"
+				}
+				"1.10.0"
+				{
+					"gid"		"2619606270998573082"
+					"size"		"133686111"
+					"download"		"35988128"
+				}
+				"1.10.1"
+				{
+					"gid"		"2311217362277758292"
+					"size"		"133687646"
+					"download"		"35986912"
+				}
+				"1.10.2"
+				{
+					"gid"		"1561945658740756162"
+					"size"		"133688670"
+					"download"		"35984240"
+				}
+				"1.11.0"
+				{
+					"gid"		"3694398213978010947"
+					"size"		"134997342"
+					"download"		"36265984"
+				}
+				"1.11.3"
+				{
+					"gid"		"8913342106837010617"
+					"size"		"135004510"
+					"download"		"36274960"
+				}
+				"1.11.5"
+				{
+					"gid"		"1694531161546295735"
+					"size"		"135002262"
+					"download"		"36270336"
+				}
+				"1.12.1"
+				{
+					"gid"		"7633293062266996087"
+					"size"		"138113867"
+					"download"		"36855776"
+				}
+				"1.12.2"
+				{
+					"gid"		"4256868285320550765"
+					"size"		"138255929"
+					"download"		"36864384"
+				}
+				"1.12.3"
+				{
+					"gid"		"3616900586193076932"
+					"size"		"138254391"
+					"download"		"36869984"
+				}
+				"1.2.1"
+				{
+					"gid"		"2125127716360625391"
+					"size"		"100250915"
+					"download"		"29270016"
+				}
+				"1.2.2"
+				{
+					"gid"		"9012773026659226724"
+					"size"		"100233022"
+					"download"		"29262480"
+				}
+				"1.4.0"
+				{
+					"gid"		"8692137780602539211"
+					"size"		"102689833"
+					"download"		"30141104"
+				}
+				"1.4.2"
+				{
+					"gid"		"5970451456925401824"
+					"size"		"102698025"
+					"download"		"30141008"
+				}
+				"1.4.4"
+				{
+					"gid"		"6799567320680835513"
+					"size"		"102704681"
+					"download"		"30150096"
+				}
+				"1.5.0.1"
+				{
+					"gid"		"63040523876662186"
+					"size"		"105310015"
+					"download"		"30244720"
+				}
+				"1.5.0.2"
+				{
+					"gid"		"6148771735926732787"
+					"size"		"105311551"
+					"download"		"30242448"
+				}
+				"1.5.1"
+				{
+					"gid"		"2186493808446998723"
+					"size"		"105437645"
+					"download"		"30263840"
+				}
+				"1.5.1.1"
+				{
+					"gid"		"1370870373853231462"
+					"size"		"105436621"
+					"download"		"30264416"
+				}
+				"1.6.0"
+				{
+					"gid"		"915277213957910601"
+					"size"		"108275897"
+					"download"		"30619056"
+				}
+				"1.6.0.1"
+				{
+					"gid"		"2141729793649310805"
+					"size"		"108227769"
+					"download"		"30626576"
+				}
+				"1.6.1"
+				{
+					"gid"		"3456937703348692591"
+					"size"		"108232305"
+					"download"		"30622320"
+				}
+				"1.6.1.1"
+				{
+					"gid"		"2299039710970138515"
+					"size"		"108232305"
+					"download"		"30623568"
+				}
+				"1.6.1.2"
+				{
+					"gid"		"2271342938749106707"
+					"size"		"108232305"
+					"download"		"30620400"
+				}
+				"1.7.0"
+				{
+					"gid"		"2382062006090192299"
+					"size"		"113292323"
+					"download"		"30901904"
+				}
+				"1.7.1"
+				{
+					"gid"		"2469616905344164706"
+					"size"		"113293347"
+					"download"		"30891984"
+				}
+				"1.7.2"
+				{
+					"gid"		"7408929685046913430"
+					"size"		"113295395"
+					"download"		"30892352"
+				}
+				"1.8.2"
+				{
+					"gid"		"1358894821142845679"
+					"size"		"138327674"
+					"download"		"38788416"
+				}
+				"1.9.0"
+				{
+					"gid"		"7998216099213470446"
+					"size"		"133501862"
+					"download"		"35993968"
+				}
+				"1.9.1"
+				{
+					"gid"		"8598355462170984726"
+					"size"		"133491128"
+					"download"		"35957760"
+				}
+				"1.9.2"
+				{
+					"gid"		"2888206340341577132"
+					"size"		"133544502"
+					"download"		"35972160"
+				}
+				"avx_issue_hotfix"
+				{
+					"gid"		"1248389278234007002"
+					"size"		"113292323"
+					"download"		"30902112"
+				}
+				"1.12.4"
+				{
+					"gid"		"3849966796352597880"
+					"size"		"138285623"
+					"download"		"36879408"
+				}
+				"1.12.5"
+				{
+					"gid"		"4751405783480652504"
+					"size"		"138291255"
+					"download"		"36874928"
+				}
+				"1.13.0"
+				{
+					"gid"		"7667020079686999517"
+					"size"		"147265029"
+					"download"		"38028800"
+				}
+				"1.13.1"
+				{
+					"gid"		"396360827634880179"
+					"size"		"147424629"
+					"download"		"38070448"
+				}
+				"1.13.2"
+				{
+					"gid"		"4846536986325019125"
+					"size"		"147437429"
+					"download"		"38075472"
+				}
+				"1.14.0"
+				{
+					"gid"		"3446632517255381464"
+					"size"		"147446645"
+					"download"		"38078128"
+				}
+				"1.14.1"
+				{
+					"gid"		"386599644656324984"
+					"size"		"147449205"
+					"download"		"38073808"
+				}
+				"1.3.1"
+				{
+					"gid"		"7352138007617353088"
+					"size"		"147424117"
+					"download"		"38065472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"AA7F59ADF58DF4EB2AFBBD78F9BC2A5B"
+					"size"		"61AE5732ACB27042122FB1977F7B4C2B"
+					"download"		"41A3C89EBA481A5E25B764D28DF2DD77"
+				}
+				"baseline"
+				{
+					"gid"		"C9484F1563B9B5796468911AB138DFF0"
+					"size"		"7DDAE695102744E08936B15FB9272AE4"
+					"download"		"73F42E6A1F013577DEB301E5D0A0BE77"
+				}
+				"community_team"
+				{
+					"gid"		"087895DB22252E2AD53658F643350F85"
+					"size"		"02B4C0372D8FC3EC4C32D3308590B5C8"
+					"download"		"ABE8C0072A0D03F5A3CA5C1FB7745C6B"
+				}
+				"influencer2"
+				{
+					"gid"		"584675E3247317AF6973DEE84B8DF396"
+					"size"		"583124B405FC7000A0B724A82520A013"
+					"download"		"F96A655126F45BB847945310461ADEC3"
+				}
+				"influencer3"
+				{
+					"gid"		"E4E56C226EF59C9AFD6B7D45AB68C90E"
+					"size"		"112F68DD4B911C3194FD3193E7F764ED"
+					"download"		"1128A2D6A94E879D41306B4DDC429599"
+				}
+				"mac_testing"
+				{
+					"gid"		"3B0F3DE85980DCCB5EE05DBB9105F373"
+					"size"		"39A91C4FD49ACE2C7C9995617F285300"
+					"download"		"3E2742B299A9E6231B5B8A885CA2706F"
+				}
+				"open_beta"
+				{
+					"gid"		"077F1E643EF9F687077C4331CCD1F02D"
+					"size"		"5E8D465F5661C9BD3185B909E63C9029"
+					"download"		"F3BED57848AA26247A0269BCA58624FA"
+				}
+				"preview_backup"
+				{
+					"gid"		"353AC1A2DFF8EC548CD60F60E2766F21"
+					"size"		"4E5404EC03C237124A27C11C9FA80BE7"
+					"download"		"8DD352DFC77B7679CE8882707D3A8560"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"A3F2834365C57C821541B70CBE1A27B0"
+					"size"		"EFDD0ED09E5F5E19F97D962908353CA1"
+					"download"		"C7959883985FBD87DC7847D95D9EFB59"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"AC04A83047C4C05D7E4ADBD57D02576F"
+					"size"		"49501E4B2424367A6EDA335EE8C38485"
+					"download"		"4D8976D9B8DE63973FC64064E626E96D"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"87DFE1B880FFFF25F2284FF0FA90D9D8"
+					"size"		"1D5687E0937A76D6A0D4DFD77F1411DD"
+					"download"		"CEDAE0C52D48EE302374112503029BA7"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"F272B68CB4363BE5CCE4F37B4657F68E"
+					"size"		"F7441BA40F7D4C3C75D488763C89E943"
+					"download"		"76F4176F4F92A50260A3CD43A79BA226"
+				}
+				"influencer"
+				{
+					"gid"		"4BD4A88A60680699B42C8985E7D97FAC"
+					"size"		"04A0493B7067869DB74907D16335CB0F"
+					"download"		"39DC323136F29160B939ECA9F3ED6BBD"
+				}
+				"preview"
+				{
+					"gid"		"DFF50E945B4C0852F817376633588291"
+					"size"		"B873F494B85CBD7EB9B986F21D3A98A1"
+					"download"		"C95D13C795A43789E5DD49D44B9480EB"
+				}
+				"trailer_branch"
+				{
+					"gid"		"A04F12E82F1E176349DCDA6FDEAA7939"
+					"size"		"D27FFEA9848FF12324C292E8A18CEC99"
+					"download"		"510E050DB67D6CDB600B5A285954BFFB"
+				}
+			}
+		}
+		"1158313"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1716810345833290543"
+					"size"		"519090432"
+					"download"		"73018192"
+				}
+				"1.0.2"
+				{
+					"gid"		"5695848740119050293"
+					"size"		"212150136"
+					"download"		"38888144"
+				}
+				"1.0.3"
+				{
+					"gid"		"2949889766889392103"
+					"size"		"212174864"
+					"download"		"38891184"
+				}
+				"1.1.1"
+				{
+					"gid"		"6642875043179169649"
+					"size"		"222984575"
+					"download"		"41663856"
+				}
+				"1.1.2"
+				{
+					"gid"		"8083093050975395074"
+					"size"		"222983271"
+					"download"		"41647696"
+				}
+				"1.1.3"
+				{
+					"gid"		"7941694768026112854"
+					"size"		"222984463"
+					"download"		"41666128"
+				}
+				"1.10.0"
+				{
+					"gid"		"1679411965051167333"
+					"size"		"426645116"
+					"download"		"64907904"
+				}
+				"1.10.1"
+				{
+					"gid"		"79921204201716701"
+					"size"		"426654780"
+					"download"		"64894752"
+				}
+				"1.10.2"
+				{
+					"gid"		"8420450480369800707"
+					"size"		"426656235"
+					"download"		"64909392"
+				}
+				"1.11.0"
+				{
+					"gid"		"6780307663402818910"
+					"size"		"434754092"
+					"download"		"65615664"
+				}
+				"1.11.3"
+				{
+					"gid"		"3289362081774794309"
+					"size"		"436268980"
+					"download"		"65837104"
+				}
+				"1.11.5"
+				{
+					"gid"		"7915643456693378107"
+					"size"		"436268980"
+					"download"		"65858208"
+				}
+				"1.12.1"
+				{
+					"gid"		"8197934653638857646"
+					"size"		"463590368"
+					"download"		"68500672"
+				}
+				"1.12.2"
+				{
+					"gid"		"2460993552436008374"
+					"size"		"463663910"
+					"download"		"68512848"
+				}
+				"1.12.3"
+				{
+					"gid"		"7574950517408277064"
+					"size"		"472596172"
+					"download"		"69515904"
+				}
+				"1.2.1"
+				{
+					"gid"		"6100635857205108061"
+					"size"		"233339474"
+					"download"		"43546640"
+				}
+				"1.2.2"
+				{
+					"gid"		"9023888893898189136"
+					"size"		"239095169"
+					"download"		"43978384"
+				}
+				"1.4.0"
+				{
+					"gid"		"8009537740908314537"
+					"size"		"237850604"
+					"download"		"44418720"
+				}
+				"1.4.2"
+				{
+					"gid"		"4372480115896519163"
+					"size"		"244423696"
+					"download"		"44948736"
+				}
+				"1.4.4"
+				{
+					"gid"		"8455654033112086243"
+					"size"		"237938256"
+					"download"		"44435248"
+				}
+				"1.5.0.1"
+				{
+					"gid"		"847064191313502885"
+					"size"		"270653555"
+					"download"		"47657040"
+				}
+				"1.5.0.2"
+				{
+					"gid"		"3856008529215925292"
+					"size"		"307493087"
+					"download"		"49011568"
+				}
+				"1.5.1"
+				{
+					"gid"		"3246640731668346950"
+					"size"		"270968545"
+					"download"		"47675904"
+				}
+				"1.5.1.1"
+				{
+					"gid"		"9003778739370842479"
+					"size"		"307906101"
+					"download"		"49069280"
+				}
+				"1.6.0"
+				{
+					"gid"		"3589366742999045912"
+					"size"		"312470365"
+					"download"		"50547376"
+				}
+				"1.6.0.1"
+				{
+					"gid"		"4553010567542660745"
+					"size"		"312470365"
+					"download"		"50535984"
+				}
+				"1.6.1"
+				{
+					"gid"		"240418170104703622"
+					"size"		"384300764"
+					"download"		"54646608"
+				}
+				"1.6.1.1"
+				{
+					"gid"		"5273003473050682852"
+					"size"		"384303912"
+					"download"		"54643600"
+				}
+				"1.6.1.2"
+				{
+					"gid"		"8428862386508949348"
+					"size"		"384300764"
+					"download"		"54632896"
+				}
+				"1.7.0"
+				{
+					"gid"		"6807570010068701268"
+					"size"		"419583144"
+					"download"		"56322144"
+				}
+				"1.7.1"
+				{
+					"gid"		"3335736047493090241"
+					"size"		"419583746"
+					"download"		"56338128"
+				}
+				"1.7.2"
+				{
+					"gid"		"917057843582172529"
+					"size"		"419527250"
+					"download"		"56314208"
+				}
+				"1.8.2"
+				{
+					"gid"		"4177165093893215406"
+					"size"		"482565494"
+					"download"		"69413680"
+				}
+				"1.9.0"
+				{
+					"gid"		"5949890312004657964"
+					"size"		"415334867"
+					"download"		"62869824"
+				}
+				"1.9.1"
+				{
+					"gid"		"8328093324367512035"
+					"size"		"418199253"
+					"download"		"63015936"
+				}
+				"1.9.2"
+				{
+					"gid"		"1921034286915679760"
+					"size"		"418479835"
+					"download"		"63099760"
+				}
+				"avx_issue_hotfix"
+				{
+					"gid"		"8040952175719780327"
+					"size"		"419585339"
+					"download"		"56326304"
+				}
+				"1.12.4"
+				{
+					"gid"		"6101426301603782608"
+					"size"		"472756692"
+					"download"		"69507568"
+				}
+				"1.12.5"
+				{
+					"gid"		"819409902135195678"
+					"size"		"472875428"
+					"download"		"69565792"
+				}
+				"1.13.0"
+				{
+					"gid"		"8583896655653859549"
+					"size"		"518634010"
+					"download"		"72897200"
+				}
+				"1.13.1"
+				{
+					"gid"		"2312163460225023461"
+					"size"		"519058922"
+					"download"		"72989824"
+				}
+				"1.13.2"
+				{
+					"gid"		"5980068991639215224"
+					"size"		"519085586"
+					"download"		"72997616"
+				}
+				"1.14.0"
+				{
+					"gid"		"3595214105405678226"
+					"size"		"519086970"
+					"download"		"72986736"
+				}
+				"1.14.1"
+				{
+					"gid"		"2907912488355525143"
+					"size"		"519090722"
+					"download"		"72976848"
+				}
+				"1.3.1"
+				{
+					"gid"		"4701389808659100046"
+					"size"		"519058570"
+					"download"		"73020400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"20AE449EFF4270FE20F7C1A1B7EAB50A"
+					"size"		"72B91D8E5E00824247D4257AEBFDD584"
+					"download"		"F72D3D73BABAA22E15FC90B88C99B380"
+				}
+				"baseline"
+				{
+					"gid"		"E5E5D7CFCAC7EF53224265F3D01926E9"
+					"size"		"A62CE047F50AB3E4F2AC2FCEA76C4690"
+					"download"		"213A41A4F57CAE11F5E0141BDE309541"
+				}
+				"community_team"
+				{
+					"gid"		"3C471336F7B63D231B2CDF4F88B0AED0"
+					"size"		"5326C88C58999899629689053C1D0F33"
+					"download"		"2E2325176B1B7561617397876EC58D6E"
+				}
+				"influencer2"
+				{
+					"gid"		"96ED2313C84A2813D284A80A58DAE1A9"
+					"size"		"02895CAE24D12BEA9B84308F100C183E"
+					"download"		"29F26FE41C604A688B9E2D6CA56CD459"
+				}
+				"influencer3"
+				{
+					"gid"		"98E5010C16ABDB3A9D22FCF25F21A140"
+					"size"		"AA24BA715CD68E3B7C6C268111E5626B"
+					"download"		"C160EE486CC7C5F799BC96C4B251853F"
+				}
+				"mac_testing"
+				{
+					"gid"		"4AC124ED28F32E6A64F7546B34B92BD5"
+					"size"		"458A35D41B903E125F644CCA89662CC7"
+					"download"		"EADC5DD6CA2EFAADD8685BCB9F275263"
+				}
+				"open_beta"
+				{
+					"gid"		"4EC4707924BC3C1C9174A1E3B56A8C9D"
+					"size"		"A4CD7E8BCAF5BE75EA7C9ECD40A55015"
+					"download"		"7BA6C0C179519F8395EF4E2D15F60DE9"
+				}
+				"preview_backup"
+				{
+					"gid"		"AE66B57623842AD829495ECFA2D8D2B5"
+					"size"		"4A2C1284E1374F3ED738F2B20907BEA1"
+					"download"		"0BAE9B98B3FED982A45CDB70977532A6"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"E1B1C7FB198E83A1F7906770A77C317D"
+					"size"		"A01AE31E35EF67F4A82DC07DF7116318"
+					"download"		"F8A71022860C2F4B57C93BC791EDA81E"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"A52B2C697A0F3C762CF788ED92818BA4"
+					"size"		"06D0AED7E118A31C6819AD7F664B15CC"
+					"download"		"AF672503FB7080B5DC308316089A7E70"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"E7B23DB7D1644C9905EE76852BD21945"
+					"size"		"3BDB3836A5E0FEA50AC82A9EFC5B63C4"
+					"download"		"E9E2D597EBE505ACDDA9398800389405"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"C876555791956CC68B81DD2B2D649793"
+					"size"		"2718B4464CC583709B33813873E23D98"
+					"download"		"AE1BC06ACC371D31BCE85B910025205D"
+				}
+				"influencer"
+				{
+					"gid"		"B9D6D3720A08D590B3A61A477B008486"
+					"size"		"4C0E1EC2BE8ABF627ED472E620F2285D"
+					"download"		"9D681FE8F12E991D2FD01FDDBC226DF2"
+				}
+				"preview"
+				{
+					"gid"		"9683D1AE2EA9C94A341677DB48290E80"
+					"size"		"85B78FB20BF36452F49F679DE6C83D8F"
+					"download"		"44831380E17226199C5520019560E07C"
+				}
+				"trailer_branch"
+				{
+					"gid"		"20B0DECF58B63E41750EC641DAC176AA"
+					"size"		"5666BDF65DBA87FE733BF751E47583C1"
+					"download"		"E2FD035B9C6FFC2794D5B53ACC00C1BA"
+				}
+			}
+		}
+		"1158314"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2562741511521179876"
+					"size"		"286421434"
+					"download"		"52302656"
+				}
+				"1.0.2"
+				{
+					"gid"		"7214363776960543129"
+					"size"		"156097460"
+					"download"		"32206976"
+				}
+				"1.0.3"
+				{
+					"gid"		"1376913213288861085"
+					"size"		"156109748"
+					"download"		"32203520"
+				}
+				"1.1.1"
+				{
+					"gid"		"9119089040279278607"
+					"size"		"175858478"
+					"download"		"36557536"
+				}
+				"1.1.2"
+				{
+					"gid"		"3109014097681691887"
+					"size"		"175858614"
+					"download"		"36548256"
+				}
+				"1.1.3"
+				{
+					"gid"		"3713577668274695215"
+					"size"		"175860022"
+					"download"		"36541488"
+				}
+				"1.10.0"
+				{
+					"gid"		"5436152134869705101"
+					"size"		"255933997"
+					"download"		"48786416"
+				}
+				"1.10.1"
+				{
+					"gid"		"3188901079797200522"
+					"size"		"255938093"
+					"download"		"48793392"
+				}
+				"1.10.2"
+				{
+					"gid"		"3216298686373706598"
+					"size"		"255938093"
+					"download"		"48794160"
+				}
+				"1.11.0"
+				{
+					"gid"		"3816373436083357346"
+					"size"		"259258701"
+					"download"		"49191536"
+				}
+				"1.11.3"
+				{
+					"gid"		"9595242708198340"
+					"size"		"259971821"
+					"download"		"49391472"
+				}
+				"1.11.5"
+				{
+					"gid"		"7703239516484467905"
+					"size"		"259971821"
+					"download"		"49405328"
+				}
+				"1.12.1"
+				{
+					"gid"		"762865783800883009"
+					"size"		"272471218"
+					"download"		"51037264"
+				}
+				"1.12.2"
+				{
+					"gid"		"6327410221704189267"
+					"size"		"272541088"
+					"download"		"51050080"
+				}
+				"1.12.3"
+				{
+					"gid"		"2244001237080329421"
+					"size"		"277140894"
+					"download"		"51680672"
+				}
+				"1.2.1"
+				{
+					"gid"		"9147922133397258033"
+					"size"		"204713229"
+					"download"		"41834848"
+				}
+				"1.2.2"
+				{
+					"gid"		"6116460581679324630"
+					"size"		"204713768"
+					"download"		"41846704"
+				}
+				"1.4.0"
+				{
+					"gid"		"3632768850943820960"
+					"size"		"215601771"
+					"download"		"43412224"
+				}
+				"1.4.2"
+				{
+					"gid"		"8597892603773616537"
+					"size"		"215646827"
+					"download"		"43425968"
+				}
+				"1.4.4"
+				{
+					"gid"		"6253553814524872908"
+					"size"		"215659115"
+					"download"		"43421328"
+				}
+				"1.5.0.1"
+				{
+					"gid"		"2409471472330165431"
+					"size"		"146356526"
+					"download"		"31300560"
+				}
+				"1.5.0.2"
+				{
+					"gid"		"6741185909503755467"
+					"size"		"146360622"
+					"download"		"31295280"
+				}
+				"1.5.1"
+				{
+					"gid"		"6465608269971322545"
+					"size"		"146512364"
+					"download"		"31350624"
+				}
+				"1.5.1.1"
+				{
+					"gid"		"1448741847632136527"
+					"size"		"146512364"
+					"download"		"31350416"
+				}
+				"1.6.0"
+				{
+					"gid"		"2209349241752783959"
+					"size"		"151305960"
+					"download"		"32671296"
+				}
+				"1.6.0.1"
+				{
+					"gid"		"4859498197514116986"
+					"size"		"151305960"
+					"download"		"32678160"
+				}
+				"1.6.1"
+				{
+					"gid"		"3508288154216516175"
+					"size"		"151289512"
+					"download"		"32671776"
+				}
+				"1.6.1.1"
+				{
+					"gid"		"3077283562721069054"
+					"size"		"151289512"
+					"download"		"32669072"
+				}
+				"1.6.1.2"
+				{
+					"gid"		"3775213433608401474"
+					"size"		"151289512"
+					"download"		"32674624"
+				}
+				"1.7.0"
+				{
+					"gid"		"6529345502596473818"
+					"size"		"158856314"
+					"download"		"33090896"
+				}
+				"1.7.1"
+				{
+					"gid"		"786858999477927398"
+					"size"		"158856314"
+					"download"		"33091840"
+				}
+				"1.7.2"
+				{
+					"gid"		"2783053963344898852"
+					"size"		"158856314"
+					"download"		"33093744"
+				}
+				"1.8.2"
+				{
+					"gid"		"5803976253416245183"
+					"size"		"220942017"
+					"download"		"42633888"
+				}
+				"1.9.0"
+				{
+					"gid"		"1443076819399323341"
+					"size"		"254568196"
+					"download"		"48604080"
+				}
+				"1.9.1"
+				{
+					"gid"		"5655424563353261740"
+					"size"		"255075911"
+					"download"		"48658272"
+				}
+				"1.9.2"
+				{
+					"gid"		"2978686245092607106"
+					"size"		"255170293"
+					"download"		"48666960"
+				}
+				"avx_issue_hotfix"
+				{
+					"gid"		"8043907016506153620"
+					"size"		"158856314"
+					"download"		"33090256"
+				}
+				"1.12.4"
+				{
+					"gid"		"7838770964613230319"
+					"size"		"277206430"
+					"download"		"51735200"
+				}
+				"1.12.5"
+				{
+					"gid"		"3836095183146839657"
+					"size"		"277263790"
+					"download"		"51714816"
+				}
+				"1.13.0"
+				{
+					"gid"		"8294305381370879123"
+					"size"		"286363692"
+					"download"		"52300000"
+				}
+				"1.13.1"
+				{
+					"gid"		"6247560447565034899"
+					"size"		"286388660"
+					"download"		"52336976"
+				}
+				"1.13.2"
+				{
+					"gid"		"5498396083649817412"
+					"size"		"286405028"
+					"download"		"52332784"
+				}
+				"1.14.0"
+				{
+					"gid"		"115141115735281656"
+					"size"		"286417316"
+					"download"		"52325760"
+				}
+				"1.14.1"
+				{
+					"gid"		"662649699865369083"
+					"size"		"286421412"
+					"download"		"52316992"
+				}
+				"1.3.1"
+				{
+					"gid"		"4315552626930523996"
+					"size"		"286384564"
+					"download"		"52334832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"DA32476BB784598A9833ABA96F6B989F"
+					"size"		"A3A25D49C40DB8654CF869D00C1CF7C4"
+					"download"		"4C3ABE7FF45C2FE7DF4D85DA85791CA8"
+				}
+				"baseline"
+				{
+					"gid"		"C2A2C7F17846DD97AF85FB5277979E83"
+					"size"		"BB85217DCA8A7427946A3B41F2DEBB73"
+					"download"		"CC7C3533F37B198066C623F6BD5D6EC8"
+				}
+				"community_team"
+				{
+					"gid"		"E1E4981360CBAA49D7D0213A5FA94B35"
+					"size"		"A305A47858316A683F26F1C5D4D182D1"
+					"download"		"12E0A026CFF3F2DA2354A044AE86264D"
+				}
+				"influencer2"
+				{
+					"gid"		"FD7AE76C26253A40D00264A085830946"
+					"size"		"9067AE85822798CB748CF1FC79C088F5"
+					"download"		"DAC847C89886DCD1A88ABE33EC57091C"
+				}
+				"influencer3"
+				{
+					"gid"		"620850F6FB0103A895A9875C38007998"
+					"size"		"66914862160498F860BDBB1DBFD1B8C0"
+					"download"		"29E6262504A747584AA40F51149E74BF"
+				}
+				"mac_testing"
+				{
+					"gid"		"6AE12291E5CF719AB19ED2F1F1B3B6B8"
+					"size"		"73BB7BCA1CFABFC7DF11B7489FD6EDC5"
+					"download"		"2509CD8375FFE94342842127E5240CAB"
+				}
+				"open_beta"
+				{
+					"gid"		"D83B26F6DFAE4DF0721CA0607F3C77EF"
+					"size"		"72B794F77C1F402EF935B3D837FEF5AD"
+					"download"		"2D4ABFF9BAE3862E050C8558D90B5CE1"
+				}
+				"preview_backup"
+				{
+					"gid"		"13F12E5053613EEC3274D4EA98C008AB"
+					"size"		"52A8DD164CCB3F01C42AD08EF828560C"
+					"download"		"6467E915912250C8FC7D153CC3B70F0A"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"99B9EE3362260F68834E4E0E9CA0039F"
+					"size"		"60C14AD7576220F263DBD14B18D950AD"
+					"download"		"120CDEAE75F1781C6AB76820B41FCB27"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"FD25FFFFFC71445B7C98986B56A43D6A"
+					"size"		"A3D2104D94BB38FD3C8CE0E5CB86EFEA"
+					"download"		"134C9561F701713B4F1C0113C38A0304"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"380A11EC5DC81CBD20905E49D57C7E1E"
+					"size"		"104BFAC479EBE05B90BC80AE8459F6F4"
+					"download"		"A6A13138AA967C3185F0B9F8F3E4A53E"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"8D7D2B46FCCA11F1D537A294BE392CFB"
+					"size"		"9DEB87A3CA73AB9EC67E551AEBD5CCCF"
+					"download"		"5ECEB7CB57D576A485068C9C22DA1E6B"
+				}
+				"influencer"
+				{
+					"gid"		"CBB90677804C1C0FE379685E7CC248F1"
+					"size"		"493176D2287FF04896CCA3191E01E762"
+					"download"		"F555139EAD53299E79F65839D090E758"
+				}
+				"preview"
+				{
+					"gid"		"583573479AEC277159DBF9780B69DB13"
+					"size"		"C2D9991D43BF564E24028DC2855C25E4"
+					"download"		"D3FB337554356E016B71DF882D89AE5B"
+				}
+				"trailer_branch"
+				{
+					"gid"		"C628F4FABDF1B0AE4684ADAA5D47A636"
+					"size"		"31444C90AE5C610B48048667A438378F"
+					"download"		"F749F25CB505C947BC26FFEFEF330282"
+				}
+			}
+		}
+		"1158315"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6498049533215488076"
+					"size"		"169381611"
+					"download"		"166539984"
+				}
+				"1.0.2"
+				{
+					"gid"		"603734092972100939"
+					"size"		"90730435"
+					"download"		"86239728"
+				}
+				"1.0.3"
+				{
+					"gid"		"7571141449552230156"
+					"size"		"90730435"
+					"download"		"86239728"
+				}
+				"1.1.1"
+				{
+					"gid"		"224015600474683368"
+					"size"		"90476826"
+					"download"		"85951568"
+				}
+				"1.1.2"
+				{
+					"gid"		"501224656848679501"
+					"size"		"90476826"
+					"download"		"85951568"
+				}
+				"1.1.3"
+				{
+					"gid"		"7796607074972213513"
+					"size"		"90476826"
+					"download"		"85951568"
+				}
+				"1.10.0"
+				{
+					"gid"		"8231016521607205038"
+					"size"		"126002853"
+					"download"		"121901184"
+				}
+				"1.10.1"
+				{
+					"gid"		"5553961079556615051"
+					"size"		"126011041"
+					"download"		"121906768"
+				}
+				"1.10.2"
+				{
+					"gid"		"8400468820922258042"
+					"size"		"126011041"
+					"download"		"121906768"
+				}
+				"1.11.0"
+				{
+					"gid"		"6611755796350551965"
+					"size"		"141203111"
+					"download"		"137238352"
+				}
+				"1.11.3"
+				{
+					"gid"		"29708865765464821"
+					"size"		"138938019"
+					"download"		"134941424"
+				}
+				"1.11.5"
+				{
+					"gid"		"2196189665645752273"
+					"size"		"139042979"
+					"download"		"135042992"
+				}
+				"1.12.1"
+				{
+					"gid"		"7264560057072695618"
+					"size"		"139059362"
+					"download"		"135061696"
+				}
+				"1.12.2"
+				{
+					"gid"		"4810204772277728615"
+					"size"		"139059366"
+					"download"		"135061696"
+				}
+				"1.12.3"
+				{
+					"gid"		"6146488182053545173"
+					"size"		"138784730"
+					"download"		"134789712"
+				}
+				"1.2.1"
+				{
+					"gid"		"1251930283455146871"
+					"size"		"96846105"
+					"download"		"92387072"
+				}
+				"1.2.2"
+				{
+					"gid"		"779363357921786903"
+					"size"		"96846105"
+					"download"		"92387072"
+				}
+				"1.4.0"
+				{
+					"gid"		"2931866142483098626"
+					"size"		"104417181"
+					"download"		"100059040"
+				}
+				"1.4.2"
+				{
+					"gid"		"8065726353550816081"
+					"size"		"104417181"
+					"download"		"100059040"
+				}
+				"1.4.4"
+				{
+					"gid"		"346057635057159987"
+					"size"		"104417181"
+					"download"		"100059040"
+				}
+				"1.5.0.1"
+				{
+					"gid"		"8444966905842444756"
+					"size"		"108702445"
+					"download"		"104383024"
+				}
+				"1.5.0.2"
+				{
+					"gid"		"8487016427487894096"
+					"size"		"108702445"
+					"download"		"104383024"
+				}
+				"1.5.1"
+				{
+					"gid"		"1269753199253597979"
+					"size"		"108702441"
+					"download"		"104383024"
+				}
+				"1.5.1.1"
+				{
+					"gid"		"295443128238249803"
+					"size"		"108702445"
+					"download"		"104383024"
+				}
+				"1.6.0"
+				{
+					"gid"		"4489269143410737343"
+					"size"		"108534499"
+					"download"		"104214864"
+				}
+				"1.6.0.1"
+				{
+					"gid"		"2841386072851072058"
+					"size"		"108534503"
+					"download"		"104214864"
+				}
+				"1.6.1"
+				{
+					"gid"		"3658961872080230032"
+					"size"		"108534499"
+					"download"		"104214864"
+				}
+				"1.6.1.1"
+				{
+					"gid"		"4638362255035799236"
+					"size"		"108534503"
+					"download"		"104214864"
+				}
+				"1.6.1.2"
+				{
+					"gid"		"3538814002276583410"
+					"size"		"108534503"
+					"download"		"104214864"
+				}
+				"1.7.0"
+				{
+					"gid"		"7003738004421146391"
+					"size"		"108534500"
+					"download"		"104214864"
+				}
+				"1.7.1"
+				{
+					"gid"		"6539466872206598727"
+					"size"		"108534500"
+					"download"		"104214864"
+				}
+				"1.7.2"
+				{
+					"gid"		"8692246235405549927"
+					"size"		"108534500"
+					"download"		"104214864"
+				}
+				"1.8.2"
+				{
+					"gid"		"8839010593956739140"
+					"size"		"114370697"
+					"download"		"110159520"
+				}
+				"1.9.0"
+				{
+					"gid"		"1674161707697405948"
+					"size"		"126147747"
+					"download"		"122027552"
+				}
+				"1.9.1"
+				{
+					"gid"		"2199867430093594243"
+					"size"		"126152863"
+					"download"		"122029856"
+				}
+				"1.9.2"
+				{
+					"gid"		"8846439640396700604"
+					"size"		"126165155"
+					"download"		"122041776"
+				}
+				"avx_issue_hotfix"
+				{
+					"gid"		"7003738004421146391"
+					"size"		"108534500"
+					"download"		"104214864"
+				}
+				"1.12.4"
+				{
+					"gid"		"3309888905798269076"
+					"size"		"138784730"
+					"download"		"134789712"
+				}
+				"1.12.5"
+				{
+					"gid"		"1812902136718648106"
+					"size"		"138776538"
+					"download"		"134776912"
+				}
+				"1.13.0"
+				{
+					"gid"		"8251567174066075905"
+					"size"		"156889090"
+					"download"		"153094128"
+				}
+				"1.13.1"
+				{
+					"gid"		"6635636594557317627"
+					"size"		"156889090"
+					"download"		"153094128"
+				}
+				"1.13.2"
+				{
+					"gid"		"9123868045798964774"
+					"size"		"156889086"
+					"download"		"153094128"
+				}
+				"1.14.0"
+				{
+					"gid"		"1515763353325669544"
+					"size"		"154393546"
+					"download"		"150867584"
+				}
+				"1.14.1"
+				{
+					"gid"		"5450408264479581903"
+					"size"		"154393542"
+					"download"		"150867584"
+				}
+				"1.3.1"
+				{
+					"gid"		"7566073002562549968"
+					"size"		"156889090"
+					"download"		"153094128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"34C777D47502B170947D4163D5274C12"
+					"size"		"13B486825B5BDA8572711DB6B14F06C7"
+					"download"		"E0DA2E2046B1DF9CDC9FFB68AC78D6D5"
+				}
+				"baseline"
+				{
+					"gid"		"0720B36D50E0C4626814372643A74A26"
+					"size"		"5507D87E75B47C347050E8644A42B8DA"
+					"download"		"8BBBECC94202B607AC54BC16703AE5A0"
+				}
+				"community_team"
+				{
+					"gid"		"4418AD9489BBB1AEDD4ECE47CF72A8CE"
+					"size"		"B8CC0CA5DA5CF5354A2A0574929442A2"
+					"download"		"23522CE8D255B39693349663E4C276F7"
+				}
+				"influencer2"
+				{
+					"gid"		"9DFEF5C2C86AF4B3CAD532D98F140747"
+					"size"		"BF1FC31B67ADE646C4E6BFAC42D63EF2"
+					"download"		"D8DFA0D197AA6711068A0BCC75757B4A"
+				}
+				"influencer3"
+				{
+					"gid"		"4C8D9E7519C03D130C5AEBC76706354E"
+					"size"		"9977919663D497C8C6A67912CA78C75F"
+					"download"		"B1A974ED31751B6989AE0D7C2DF46758"
+				}
+				"mac_testing"
+				{
+					"gid"		"DE225A42B28F1C295189A53EAFDC62A3"
+					"size"		"C7DC70C7000B7D644CDF138173C587F8"
+					"download"		"1F40A5AEECC8AB6A1455D7329F177BE1"
+				}
+				"open_beta"
+				{
+					"gid"		"596020C18336F8CA43ED2AAF67A6072E"
+					"size"		"78542C1F929F1BB26AEEFF695097B4A6"
+					"download"		"A18D18837908142F106E0AB69FA3DAEF"
+				}
+				"preview_backup"
+				{
+					"gid"		"3508F82C0F292C0292C742699D25C023"
+					"size"		"2C177E6D6C5DF38190BCC85402B35B19"
+					"download"		"846AFEA56A45CAEDFCF8B9EFB2EF5D0D"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"C4F66DADEBE421256F6D869065AF31C2"
+					"size"		"4969BADDE7BA0125F5BDA1A738CB83C3"
+					"download"		"EB0A053A519F904CCC66EE8A163548CA"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"9A1D853F5E2ECEDFB763F12A1F4BD699"
+					"size"		"C1419E2231667A7685C8CC75C944E7D2"
+					"download"		"F32BB3D051AB93F6EEEB695746EC9D47"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"8DB388349491F51212824F048646726C"
+					"size"		"D80EC7A99699E59E5C1F4D1DBE6B3B83"
+					"download"		"433CD2AAE118EEE4F49422B6D8DB5A9E"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"8C317F32638E5FFD6070AC414F0C8A20"
+					"size"		"8DC71058FF6D5B2E20280EA5743756B8"
+					"download"		"2B90163CFC54EDE409E3A7E9864FBF54"
+				}
+				"influencer"
+				{
+					"gid"		"EB34385D8EDBC2D3A50DDE1A638C86C3"
+					"size"		"FA8B79078550EFEB1F248F731EC0E179"
+					"download"		"89BC8997DFCAA0B606FEBC88B308CC3F"
+				}
+				"preview"
+				{
+					"gid"		"BBDEB821FDEE265DC433CD3ECBDE7274"
+					"size"		"1A29808659B0D042BE89BE3813553F25"
+					"download"		"0A3FD328B75527EC5996226C2F8E16C0"
+				}
+				"trailer_branch"
+				{
+					"gid"		"A2C00153157A639DD14758E40D61E8F6"
+					"size"		"D479F7DF4F2B8A56AB1EDCF2CEEC4902"
+					"download"		"6CAB730AE6EDF3885A0229D3E04010DC"
+				}
+			}
+		}
+		"1158316"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"347954439239906362"
+					"size"		"332782634"
+					"download"		"327865904"
+				}
+				"1.0.2"
+				{
+					"gid"		"4272833318818812567"
+					"size"		"225657636"
+					"download"		"219598224"
+				}
+				"1.0.3"
+				{
+					"gid"		"735221792868719990"
+					"size"		"225657636"
+					"download"		"219598224"
+				}
+				"1.1.1"
+				{
+					"gid"		"9205906475721029580"
+					"size"		"105007869"
+					"download"		"97863920"
+				}
+				"1.1.2"
+				{
+					"gid"		"6386390716523868183"
+					"size"		"105007869"
+					"download"		"97863920"
+				}
+				"1.1.3"
+				{
+					"gid"		"4820738572191074344"
+					"size"		"105007869"
+					"download"		"97863920"
+				}
+				"1.10.0"
+				{
+					"gid"		"3924370772875361272"
+					"size"		"267468097"
+					"download"		"261820416"
+				}
+				"1.10.1"
+				{
+					"gid"		"8495699101337777750"
+					"size"		"267488733"
+					"download"		"261823120"
+				}
+				"1.10.2"
+				{
+					"gid"		"4913724731886179016"
+					"size"		"267488733"
+					"download"		"261823120"
+				}
+				"1.11.0"
+				{
+					"gid"		"6066593651675750533"
+					"size"		"282150725"
+					"download"		"276665488"
+				}
+				"1.11.3"
+				{
+					"gid"		"654411046356585899"
+					"size"		"277779852"
+					"download"		"272230336"
+				}
+				"1.11.5"
+				{
+					"gid"		"7317461908876463874"
+					"size"		"277986700"
+					"download"		"272454976"
+				}
+				"1.12.1"
+				{
+					"gid"		"5498867954660013402"
+					"size"		"278011467"
+					"download"		"272473680"
+				}
+				"1.12.2"
+				{
+					"gid"		"6868188540617341029"
+					"size"		"278011471"
+					"download"		"272473680"
+				}
+				"1.12.3"
+				{
+					"gid"		"6005876175939042549"
+					"size"		"278032859"
+					"download"		"272488752"
+				}
+				"1.2.1"
+				{
+					"gid"		"2055198578232424984"
+					"size"		"114327692"
+					"download"		"107310672"
+				}
+				"1.2.2"
+				{
+					"gid"		"8454074009734244520"
+					"size"		"114327692"
+					"download"		"107310672"
+				}
+				"1.4.0"
+				{
+					"gid"		"207508832926821254"
+					"size"		"119644259"
+					"download"		"112780016"
+				}
+				"1.4.2"
+				{
+					"gid"		"7746803557534071026"
+					"size"		"119644259"
+					"download"		"112780016"
+				}
+				"1.4.4"
+				{
+					"gid"		"2703499154721796374"
+					"size"		"119644259"
+					"download"		"112780016"
+				}
+				"1.5.0.1"
+				{
+					"gid"		"8394475895256123744"
+					"size"		"124072467"
+					"download"		"117298672"
+				}
+				"1.5.0.2"
+				{
+					"gid"		"2690963975988103580"
+					"size"		"124072467"
+					"download"		"117298672"
+				}
+				"1.5.1"
+				{
+					"gid"		"1162381078370097417"
+					"size"		"124072463"
+					"download"		"117298672"
+				}
+				"1.5.1.1"
+				{
+					"gid"		"549321910019929354"
+					"size"		"124072467"
+					"download"		"117298672"
+				}
+				"1.6.0"
+				{
+					"gid"		"7957507287243636812"
+					"size"		"221584073"
+					"download"		"215810000"
+				}
+				"1.6.0.1"
+				{
+					"gid"		"8873562894215801046"
+					"size"		"221584077"
+					"download"		"215810000"
+				}
+				"1.6.1"
+				{
+					"gid"		"3057643949599205775"
+					"size"		"221584073"
+					"download"		"215810000"
+				}
+				"1.6.1.1"
+				{
+					"gid"		"8207303009701412956"
+					"size"		"221584077"
+					"download"		"215810000"
+				}
+				"1.6.1.2"
+				{
+					"gid"		"4673864169534807729"
+					"size"		"221584077"
+					"download"		"215810000"
+				}
+				"1.7.0"
+				{
+					"gid"		"1180505032773300167"
+					"size"		"221584074"
+					"download"		"215810000"
+				}
+				"1.7.1"
+				{
+					"gid"		"5208439404483358610"
+					"size"		"221584074"
+					"download"		"215810000"
+				}
+				"1.7.2"
+				{
+					"gid"		"4143782699507196566"
+					"size"		"221584074"
+					"download"		"215810000"
+				}
+				"1.8.2"
+				{
+					"gid"		"5040833133049363774"
+					"size"		"221500853"
+					"download"		"215366144"
+				}
+				"1.9.0"
+				{
+					"gid"		"3164195629832502795"
+					"size"		"267408991"
+					"download"		"261761344"
+				}
+				"1.9.1"
+				{
+					"gid"		"2801953310321981288"
+					"size"		"267410299"
+					"download"		"261766592"
+				}
+				"1.9.2"
+				{
+					"gid"		"1583669959017450431"
+					"size"		"267439199"
+					"download"		"261792720"
+				}
+				"avx_issue_hotfix"
+				{
+					"gid"		"1180505032773300167"
+					"size"		"221584074"
+					"download"		"215810000"
+				}
+				"1.12.4"
+				{
+					"gid"		"6645811744484270836"
+					"size"		"278032859"
+					"download"		"272488752"
+				}
+				"1.12.5"
+				{
+					"gid"		"1416765492384473718"
+					"size"		"278008091"
+					"download"		"272470720"
+				}
+				"1.13.0"
+				{
+					"gid"		"8948111606017519171"
+					"size"		"336510147"
+					"download"		"331541104"
+				}
+				"1.13.1"
+				{
+					"gid"		"1088953879814145009"
+					"size"		"336510147"
+					"download"		"331541104"
+				}
+				"1.13.2"
+				{
+					"gid"		"2239962395809072682"
+					"size"		"336510143"
+					"download"		"331541104"
+				}
+				"1.14.0"
+				{
+					"gid"		"4924388890067213386"
+					"size"		"332782563"
+					"download"		"327865888"
+				}
+				"1.14.1"
+				{
+					"gid"		"764058282921324752"
+					"size"		"332782559"
+					"download"		"327865888"
+				}
+				"1.3.1"
+				{
+					"gid"		"1797998096088331964"
+					"size"		"336510147"
+					"download"		"331541104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"1E03FB6F13F1F0FD5C5F6A09682CEED2"
+					"size"		"44902B12F2ABD37C5D543D091F45DD75"
+					"download"		"4225839F347B08E45A20A7E46197754B"
+				}
+				"baseline"
+				{
+					"gid"		"D118D84454CC8481651C4728D600482E"
+					"size"		"022330E7884D7228B228D8022067855B"
+					"download"		"02207B5886A6800939EC965595C5B00B"
+				}
+				"community_team"
+				{
+					"gid"		"35A2093849C27F33A0559F002C3A916F"
+					"size"		"B6F0DA577D2C1F8F5CD7F8B0B0996D45"
+					"download"		"5FB55C9900E45E2B41DB7C395D9C6CF2"
+				}
+				"influencer2"
+				{
+					"gid"		"5B930D257E7B2BBD4A617D482B030A87"
+					"size"		"84B049B5F003508FEE566EA3EFA9A0AA"
+					"download"		"532695D4FD4233360F15975F02D524BD"
+				}
+				"influencer3"
+				{
+					"gid"		"0C34756D47A89F01299336D7B94424BF"
+					"size"		"6FA2C597129FD581287AC0D6D8427982"
+					"download"		"F4546FB0AD163C164594DCA1177A9D49"
+				}
+				"mac_testing"
+				{
+					"gid"		"CAED1F210EE5C166C7D821D1BDC17ED1"
+					"size"		"089D02680B97B8BBB7FDBD154C035A4E"
+					"download"		"9217D49DEC535EFB74F4382C62F2E37F"
+				}
+				"open_beta"
+				{
+					"gid"		"824DF1BFEFD6D8BE3442B4F4D50FF0B1"
+					"size"		"D92B5EA5EACC7A65444EA3D15CC967A6"
+					"download"		"52260DCC2883B5EE65D6A54C2680E604"
+				}
+				"preview_backup"
+				{
+					"gid"		"1F10C7184019BB137CC3F05175E86A70"
+					"size"		"427CC46342A69C7917A9AF4715495BFA"
+					"download"		"F705335DD2697E2BF38245DDD1E968DF"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"A40A24E9D390E4718F392B73138371EB"
+					"size"		"D2701D8AC46C19DD9BD6CCFC98993769"
+					"download"		"BB5B45F067EE802A4F73D635B4242A33"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"CB5C0C2E788C6A12538954BBCC5FE5AC"
+					"size"		"0BB22CC60A7B110F8E67820EF395D914"
+					"download"		"82BC9944B70DECB1F4161EC7E108A668"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"C39FDA3B491A9D8CAD032D94666F6824"
+					"size"		"DEA1BDB57C2536ADF810C59B7F239501"
+					"download"		"B675C2847B46C32527118F537A241C9E"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"3B56E86DA98F1169A4942559670EAE4B"
+					"size"		"E5952B3B368779A5B09DC8AF88D3D2C8"
+					"download"		"C88E43121539B8FE846F980D50ED339D"
+				}
+				"influencer"
+				{
+					"gid"		"5DE973F118BAFC386884E200CD300FBC"
+					"size"		"8B8F0FC34E5E2201960C4FD0DF3144F8"
+					"download"		"7A3A808AD43F4A346F15923F5103FFAD"
+				}
+				"preview"
+				{
+					"gid"		"83BE23ABD36AA636B0E954C20BEE9AF7"
+					"size"		"404B15F57EC035B678E47BE65D59EFB6"
+					"download"		"47D3CA373D0B9B2E2BA9D2AB018C37F1"
+				}
+				"trailer_branch"
+				{
+					"gid"		"273D2C46B0541F17ADC42F1B6594835D"
+					"size"		"9A37238705D80BAE140C309ED9625871"
+					"download"		"61C7086D44EF96879181FFB547172336"
+				}
+			}
+		}
+		"1158317"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"860083463306349713"
+					"size"		"172361134"
+					"download"		"168022256"
+				}
+				"1.0.2"
+				{
+					"gid"		"6092895857617573726"
+					"size"		"104148693"
+					"download"		"98333232"
+				}
+				"1.0.3"
+				{
+					"gid"		"694197079789194944"
+					"size"		"104148693"
+					"download"		"98333232"
+				}
+				"1.1.1"
+				{
+					"gid"		"35593154898677579"
+					"size"		"105034500"
+					"download"		"99254064"
+				}
+				"1.1.2"
+				{
+					"gid"		"8063166994381147281"
+					"size"		"105034500"
+					"download"		"99254064"
+				}
+				"1.1.3"
+				{
+					"gid"		"2854203186957875956"
+					"size"		"105034500"
+					"download"		"99254064"
+				}
+				"1.10.0"
+				{
+					"gid"		"3415701571846820456"
+					"size"		"127043076"
+					"download"		"121507216"
+				}
+				"1.10.1"
+				{
+					"gid"		"2515679164265422369"
+					"size"		"127055360"
+					"download"		"121518592"
+				}
+				"1.10.2"
+				{
+					"gid"		"458036845822743048"
+					"size"		"127055360"
+					"download"		"121518592"
+				}
+				"1.11.0"
+				{
+					"gid"		"3169644725791208949"
+					"size"		"143025000"
+					"download"		"137660976"
+				}
+				"1.11.3"
+				{
+					"gid"		"8002250843650292514"
+					"size"		"140580367"
+					"download"		"135180400"
+				}
+				"1.11.5"
+				{
+					"gid"		"1818586052853406791"
+					"size"		"140678862"
+					"download"		"135274608"
+				}
+				"1.12.1"
+				{
+					"gid"		"7621313628964533082"
+					"size"		"140699341"
+					"download"		"135295024"
+				}
+				"1.12.2"
+				{
+					"gid"		"6868794786308749951"
+					"size"		"140699345"
+					"download"		"135295024"
+				}
+				"1.12.3"
+				{
+					"gid"		"5640838088572832163"
+					"size"		"140711955"
+					"download"		"135304640"
+				}
+				"1.2.1"
+				{
+					"gid"		"2227466046034312281"
+					"size"		"109209365"
+					"download"		"103455344"
+				}
+				"1.2.2"
+				{
+					"gid"		"7267524904231734322"
+					"size"		"109209365"
+					"download"		"103455344"
+				}
+				"1.4.0"
+				{
+					"gid"		"5319706031390037794"
+					"size"		"111119276"
+					"download"		"105395344"
+				}
+				"1.4.2"
+				{
+					"gid"		"5568153869542941556"
+					"size"		"111119276"
+					"download"		"105395344"
+				}
+				"1.4.4"
+				{
+					"gid"		"3231867889627875491"
+					"size"		"111119276"
+					"download"		"105395344"
+				}
+				"1.5.0.1"
+				{
+					"gid"		"6231939968556018572"
+					"size"		"115376036"
+					"download"		"109693952"
+				}
+				"1.5.0.2"
+				{
+					"gid"		"8397288043760907027"
+					"size"		"115376036"
+					"download"		"109693952"
+				}
+				"1.5.1"
+				{
+					"gid"		"983273133962012533"
+					"size"		"115376032"
+					"download"		"109693952"
+				}
+				"1.5.1.1"
+				{
+					"gid"		"4109635269747392533"
+					"size"		"115376036"
+					"download"		"109693952"
+				}
+				"1.6.0"
+				{
+					"gid"		"3051987096197357500"
+					"size"		"115339162"
+					"download"		"109655104"
+				}
+				"1.6.0.1"
+				{
+					"gid"		"932645652497253085"
+					"size"		"115339166"
+					"download"		"109655120"
+				}
+				"1.6.1"
+				{
+					"gid"		"9172844044109359278"
+					"size"		"115339162"
+					"download"		"109655104"
+				}
+				"1.6.1.1"
+				{
+					"gid"		"5548964057359012267"
+					"size"		"115339166"
+					"download"		"109655120"
+				}
+				"1.6.1.2"
+				{
+					"gid"		"6232211570086532231"
+					"size"		"115339166"
+					"download"		"109655120"
+				}
+				"1.7.0"
+				{
+					"gid"		"6581231321026370301"
+					"size"		"115339163"
+					"download"		"109655104"
+				}
+				"1.7.1"
+				{
+					"gid"		"3465931612963868999"
+					"size"		"115339163"
+					"download"		"109655104"
+				}
+				"1.7.2"
+				{
+					"gid"		"3368028477823871012"
+					"size"		"115339163"
+					"download"		"109655104"
+				}
+				"1.8.2"
+				{
+					"gid"		"6032314190298358556"
+					"size"		"114381573"
+					"download"		"108693760"
+				}
+				"1.9.0"
+				{
+					"gid"		"8674526006934394942"
+					"size"		"127013868"
+					"download"		"121475280"
+				}
+				"1.9.1"
+				{
+					"gid"		"3186148198209363818"
+					"size"		"127014398"
+					"download"		"121473264"
+				}
+				"1.9.2"
+				{
+					"gid"		"5782909773837939686"
+					"size"		"127022594"
+					"download"		"121482464"
+				}
+				"avx_issue_hotfix"
+				{
+					"gid"		"6581231321026370301"
+					"size"		"115339163"
+					"download"		"109655104"
+				}
+				"1.12.4"
+				{
+					"gid"		"4458745867097277989"
+					"size"		"140711955"
+					"download"		"135304640"
+				}
+				"1.12.5"
+				{
+					"gid"		"8943276705832010277"
+					"size"		"140703763"
+					"download"		"135311312"
+				}
+				"1.13.0"
+				{
+					"gid"		"5080732480779518238"
+					"size"		"160995387"
+					"download"		"155828912"
+				}
+				"1.13.1"
+				{
+					"gid"		"607648452797218589"
+					"size"		"160995387"
+					"download"		"155828912"
+				}
+				"1.13.2"
+				{
+					"gid"		"4619470860872659366"
+					"size"		"160995383"
+					"download"		"155828912"
+				}
+				"1.14.0"
+				{
+					"gid"		"5244075597180491078"
+					"size"		"157952059"
+					"download"		"152744688"
+				}
+				"1.14.1"
+				{
+					"gid"		"5912786428241068578"
+					"size"		"157952055"
+					"download"		"152744688"
+				}
+				"1.3.1"
+				{
+					"gid"		"6596772650790124403"
+					"size"		"160995387"
+					"download"		"155828912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"DA4BB8DB54CB82F2386CB5240A3D9084"
+					"size"		"931CD1BEFA88786A4E8F5EE19CFBC5DE"
+					"download"		"7CAEE211CD36AF057C55B565BC380282"
+				}
+				"baseline"
+				{
+					"gid"		"7DCE9F9036F430FE4BCB2883614246A5"
+					"size"		"9C70B44471F89ADE57109B00DF4AB35C"
+					"download"		"77842220B559B25D8043B616AD24BCE8"
+				}
+				"community_team"
+				{
+					"gid"		"7B6B028D827421439803A9A43974F49B"
+					"size"		"3B4C589468ED741A72CB206E2FD3AFE3"
+					"download"		"6E60920D3B0D3ABC1EF26653D6F8E370"
+				}
+				"influencer2"
+				{
+					"gid"		"F4F57B7D97B78ED42DE6849C322E62A2"
+					"size"		"BF6DA274CEA2B240B28FF0EF63ADAB74"
+					"download"		"036E652E8D005F0F050AF76CAF27565E"
+				}
+				"influencer3"
+				{
+					"gid"		"AE9622AE3567A0AD71898641CBD4B1E0"
+					"size"		"89C087A13764A86F1D6A10966D83C819"
+					"download"		"2E31D0DB76B59F6EEB7B89BB550428BD"
+				}
+				"mac_testing"
+				{
+					"gid"		"19C73DE54CB3C8F537EAEA0CCA8F3365"
+					"size"		"BCF0449ADEC492498C7B0FA3215F64D8"
+					"download"		"D53E0ED83711EFBD977FE68F364D2ABC"
+				}
+				"open_beta"
+				{
+					"gid"		"EA1E99AD7A2FCAA0C6E60F7CBC1D8355"
+					"size"		"1208589E5A62ED31A6F212788EF95ABB"
+					"download"		"1FCABF3751F65392827493E4E10E5D5C"
+				}
+				"preview_backup"
+				{
+					"gid"		"C80081099A93C648E88CEEB8C7ECD40B"
+					"size"		"01E2B3A1FD5003A7C4EE48826303CDCC"
+					"download"		"DE9F253579AFA30088DF2D8B9C39AD67"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"9EF4A156C1089D7CC7BEC5986D08EB88"
+					"size"		"C5F5776B42FF137B0D866F196B69279E"
+					"download"		"526414A921F92333555408C9D2C28FBB"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"B5ED9ADD48F2C17ADEE3BA3BB544E1B8"
+					"size"		"16FE6D12426E9DC7D7A36A9FAEF36C1B"
+					"download"		"10E0FE8352399CAB8A3F4FEC45BE0F45"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"231CCB690DA4974D41A1F35CD745F1C5"
+					"size"		"7955196C2A4A19B143E867CEFF8E2456"
+					"download"		"58132F1874207EEB22FE36C2DD854365"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"331373A91D8AA0DD15E0EB89A0233CA8"
+					"size"		"8215F462642BF15EC741BFAA2EA23148"
+					"download"		"F4FD5B601A5E15752A6B786EA85F750D"
+				}
+				"influencer"
+				{
+					"gid"		"8F0A3C17F34E2A1F3A7E106AD1DA4F69"
+					"size"		"37B1463FCC9D3524F1912E112E40F10D"
+					"download"		"A1A4A7F06A66E66DE047C04FD4FCC705"
+				}
+				"preview"
+				{
+					"gid"		"7CB43805DC7E2A3A1058BED211FB6F85"
+					"size"		"9D176A84366F4B79AD8E008CEEF56BCC"
+					"download"		"F73FE1F4AC6E0905F110517A8C69F9BC"
+				}
+				"trailer_branch"
+				{
+					"gid"		"B8F06173C10B2151CF5C571AB4450C1C"
+					"size"		"639E7EF629B73C236D9258EDAB50929E"
+					"download"		"972305F96D3799CA40DCE7DB3DAD3359"
+				}
+			}
+		}
+		"1296730"
+		{
+			"dlcappid"		"1296730"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.0.2"
+				{
+					"gid"		"1999649237490640730"
+					"size"		"264"
+					"download"		"256"
+				}
+				"1.0.3"
+				{
+					"gid"		"1999649237490640730"
+					"size"		"264"
+					"download"		"256"
+				}
+				"1.1.1"
+				{
+					"gid"		"1999649237490640730"
+					"size"		"264"
+					"download"		"256"
+				}
+				"1.1.2"
+				{
+					"gid"		"1999649237490640730"
+					"size"		"264"
+					"download"		"256"
+				}
+				"1.1.3"
+				{
+					"gid"		"1999649237490640730"
+					"size"		"264"
+					"download"		"256"
+				}
+				"1.10.0"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.10.1"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.10.2"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.11.0"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.11.3"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.11.5"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.12.1"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.12.2"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.12.3"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.2.1"
+				{
+					"gid"		"1999649237490640730"
+					"size"		"264"
+					"download"		"256"
+				}
+				"1.2.2"
+				{
+					"gid"		"1999649237490640730"
+					"size"		"264"
+					"download"		"256"
+				}
+				"1.4.0"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.4.2"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.4.4"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.5.0.1"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.5.0.2"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.5.1"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.5.1.1"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.6.0"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.6.0.1"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.6.1"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.6.1.1"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.6.1.2"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.7.0"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.7.1"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.7.2"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.8.2"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.9.0"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.9.1"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.9.2"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"avx_issue_hotfix"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.12.4"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.12.5"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.13.0"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.13.1"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.13.2"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.14.0"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.14.1"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+				"1.3.1"
+				{
+					"gid"		"4673314442703562503"
+					"size"		"84848"
+					"download"		"85744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"60221867EA00817827EDA2D7DC11E7BE"
+					"size"		"7C1C9E44342242DF64CF92BBED3DC8F9"
+					"download"		"E149F931B37320BA4BDA21131DE9B715"
+				}
+				"baseline"
+				{
+					"gid"		"6A291D57E5F73FB3BD69223C08FE5D98"
+					"size"		"8BCB8B032E118CEB866C271DFDE2604F"
+					"download"		"644724DB518CB4CA86119FA7A934A90E"
+				}
+				"community_team"
+				{
+					"gid"		"9458E1D91503994EA3065EE7A1FD95C2"
+					"size"		"F7DF7FCD5DAA8029C704B9C165AE9E0F"
+					"download"		"9CA63A9B8ECE658ECAC14C296CFACF0B"
+				}
+				"influencer2"
+				{
+					"gid"		"3340F2E19D29BCD644DFB9B29611D350"
+					"size"		"B9B6398A97713AAD24530A722C6F55BE"
+					"download"		"BB77A5AE300563F61BC824A1596DE687"
+				}
+				"influencer3"
+				{
+					"gid"		"1FAB5D6FCB2981006C0580C5CFB2FC34"
+					"size"		"7CD2B406F8FF912E8FF228BF9F24D798"
+					"download"		"984A08515E702B3B21B7FE0109194E81"
+				}
+				"mac_testing"
+				{
+					"gid"		"CA6BFC23FD9C43AE95A9840FCD9D213F"
+					"size"		"E98F4C941EC7C1198941B3C6E00E2A23"
+					"download"		"9392C4CB98B4142F1CD557C606AD28C4"
+				}
+				"open_beta"
+				{
+					"gid"		"6CB4660DD52232BE0D6C7D9567307E8A"
+					"size"		"4AD6B17308F51278C4D1D0EA73F33DAE"
+					"download"		"366869BCCA36BD0E92C1F799658EFA13"
+				}
+				"preview_backup"
+				{
+					"gid"		"637FD4DC28D81F37FA9B634A27B934D1"
+					"size"		"FF8006E526E2069CE32A096EB54EA321"
+					"download"		"1BCFC00811DE12653083B79A4BD07BA7"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"76B1A996CA352D14E796EAA56034068A"
+					"size"		"CA297994EC59B2DBD38428DC89A19247"
+					"download"		"3FE93863CF0B26CC0FBEFCAB596CF7D5"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"6312F6D6FEE5070EC5BEC447C689C4F1"
+					"size"		"777A7D96E8489288DE76219E6E1C6E4C"
+					"download"		"C328F950170825639A3F5954635AA588"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"A660192FF9F8AFA0FCEFAFE304726C60"
+					"size"		"8CDD3C67817844EC6FEEE4AF3052B4AD"
+					"download"		"AC521B0FD3C6EF7CE08A2C0B9098F2BA"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"D664B5C37F2A6DC21C20B5D321B55A6C"
+					"size"		"A773FD908301289F1D546684C203E429"
+					"download"		"4BBB0C28344AB3C2487E699DEB7F5062"
+				}
+				"influencer"
+				{
+					"gid"		"FA1C2B7AB1CC0E63DA8E56C20E12D8DB"
+					"size"		"586D87C78D47546A6835EC5F3804A217"
+					"download"		"F8873745184DA7E6C0E14280C445C99E"
+				}
+				"preview"
+				{
+					"gid"		"FCEFE236FB55232F059F82ECFE5B6F04"
+					"size"		"AB68B05E9CF56EC04947A1A6BBAB851F"
+					"download"		"7C3C88E6482C24713C974A52F0897FCE"
+				}
+				"trailer_branch"
+				{
+					"gid"		"3E1DD629847A08F42DB289F36360B91C"
+					"size"		"31C5D6C6584C83C3453D33245FEEC5F8"
+					"download"		"B6AEF1FA768D9346B43B556012CF1922"
+				}
+			}
+		}
+		"1296731"
+		{
+			"dlcappid"		"1296731"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.0.2"
+				{
+					"gid"		"2077807501348267036"
+					"size"		"256"
+					"download"		"240"
+				}
+				"1.0.3"
+				{
+					"gid"		"2077807501348267036"
+					"size"		"256"
+					"download"		"240"
+				}
+				"1.1.1"
+				{
+					"gid"		"2077807501348267036"
+					"size"		"256"
+					"download"		"240"
+				}
+				"1.1.2"
+				{
+					"gid"		"2077807501348267036"
+					"size"		"256"
+					"download"		"240"
+				}
+				"1.1.3"
+				{
+					"gid"		"2077807501348267036"
+					"size"		"256"
+					"download"		"240"
+				}
+				"1.10.0"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.10.1"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.10.2"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.11.0"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.11.3"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.11.5"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.12.1"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.12.2"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.12.3"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.2.1"
+				{
+					"gid"		"2077807501348267036"
+					"size"		"256"
+					"download"		"240"
+				}
+				"1.2.2"
+				{
+					"gid"		"2077807501348267036"
+					"size"		"256"
+					"download"		"240"
+				}
+				"1.4.0"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.4.2"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.4.4"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.5.0.1"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.5.0.2"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.5.1"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.5.1.1"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.6.0"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.6.0.1"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.6.1"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.6.1.1"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.6.1.2"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.7.0"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.7.1"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.7.2"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.8.2"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.9.0"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.9.1"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.9.2"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"avx_issue_hotfix"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.12.4"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.12.5"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.13.0"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.13.1"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.13.2"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.14.0"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.14.1"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+				"1.3.1"
+				{
+					"gid"		"6186085975311389712"
+					"size"		"65328"
+					"download"		"65984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"FA8D41F4649A1B9D82503C1D177AA20B"
+					"size"		"E149F931B37320BA4BDA21131DE9B715"
+					"download"		"8439EAFCAA3CAEE756DDB8298FCFD24B"
+				}
+				"baseline"
+				{
+					"gid"		"6EF088F9AC3641B1F00F1EABE054108C"
+					"size"		"644724DB518CB4CA86119FA7A934A90E"
+					"download"		"B6FD936FEEC42541CC6B9319022FA450"
+				}
+				"community_team"
+				{
+					"gid"		"9B711F1E46684A46AD8DCE9507084B59"
+					"size"		"B7FCD784C596502697AE220D4B1D3618"
+					"download"		"5760896D1B19FCD5283854DC82F66616"
+				}
+				"influencer2"
+				{
+					"gid"		"287515AB1A2F38A75E779C3F702E1CC1"
+					"size"		"B665E021A643562A8B117D8FA493730F"
+					"download"		"9C59C2EDDF4DA3209074D62D5FC31654"
+				}
+				"influencer3"
+				{
+					"gid"		"85690EB6FFC85BE01AD0DBB295A9CB90"
+					"size"		"66D4108DD20C9E670838C2E391041651"
+					"download"		"8BB7C4298923BF478FCB48F5D79B63F7"
+				}
+				"mac_testing"
+				{
+					"gid"		"EBE01C292C3498E9DD2BACEB6158EC7C"
+					"size"		"EC3AC5716023F7D2EBAC7C6A4F7C6DC1"
+					"download"		"596C279A3B1CDF4AD40D49D9085AC5C3"
+				}
+				"open_beta"
+				{
+					"gid"		"5887AB43E734BE596D8CDA7223B54F36"
+					"size"		"57BD6A5C9680BC1482547A26774408D3"
+					"download"		"B7AF45BBD375C3B9F10FF4A2280EAEDC"
+				}
+				"preview_backup"
+				{
+					"gid"		"C48B5A7DD0C179746ED558FEDB0E9DBF"
+					"size"		"06A67675B7A94549A817A502AA4DA0AF"
+					"download"		"D027E6DA0EE326BFA9B0ADEFEB340D38"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"36976AF030CEBCB4BF209E2A5D8DB8A0"
+					"size"		"3A3AE89F5CBA6C96E1EA2F5E2BC8DE4F"
+					"download"		"99BFB4D8E8B4E0F2D732600D8DEAF945"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"35D4E63643A5BA1BB735CC44A2CFC491"
+					"size"		"E1AA4104005A137EAE4F49D480A8D485"
+					"download"		"1898F06E00B696D8677D8FAB206DCE57"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"5069AC571AA113C0B42CDF4244A681D1"
+					"size"		"500C856F85ED6ECB1C4A8E39E1FEA954"
+					"download"		"4C703D84CB08891DDE95F0A724F0AB39"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"1AA707FD706FF60D0DEC1C98A2C9CC41"
+					"size"		"0F900DE914058421B122FAE6C2DF67A3"
+					"download"		"A2C5E4D365BFCBD2AE73F099128FB82D"
+				}
+				"influencer"
+				{
+					"gid"		"C0F7AEC2A2749DA4838C99879FC72D89"
+					"size"		"774D82F0ADF688635AF2CBED6646538F"
+					"download"		"AB0E19407E0B72E32E730C4B3F82120F"
+				}
+				"preview"
+				{
+					"gid"		"D9F84830E7A9A2DECCE43BB9A25A6A8D"
+					"size"		"6649788D406934E04F00EFCCCC8316D8"
+					"download"		"43E2F55152B8D5BF2D969A3392908393"
+				}
+				"trailer_branch"
+				{
+					"gid"		"39C5664BF1B2F27B3C44923A6CD6F822"
+					"size"		"D14E45D05B551B2AEAA932C5239B67B5"
+					"download"		"F9123AFF86E1F7D708B9F4ABC4DD470E"
+				}
+			}
+		}
+		"1303183"
+		{
+			"dlcappid"		"1303183"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5823059198279905333"
+					"size"		"54105274"
+					"download"		"33584096"
+				}
+				"1.10.0"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.10.1"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.10.2"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.11.0"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.11.3"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.11.5"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.12.1"
+				{
+					"gid"		"200709320688779039"
+					"size"		"54105007"
+					"download"		"33583904"
+				}
+				"1.12.2"
+				{
+					"gid"		"200709320688779039"
+					"size"		"54105007"
+					"download"		"33583904"
+				}
+				"1.12.3"
+				{
+					"gid"		"200709320688779039"
+					"size"		"54105007"
+					"download"		"33583904"
+				}
+				"1.4.0"
+				{
+					"gid"		"2571644078104513597"
+					"size"		"55382853"
+					"download"		"34839008"
+				}
+				"1.4.2"
+				{
+					"gid"		"2571644078104513597"
+					"size"		"55382853"
+					"download"		"34839008"
+				}
+				"1.4.4"
+				{
+					"gid"		"2571644078104513597"
+					"size"		"55382853"
+					"download"		"34839008"
+				}
+				"1.5.0.1"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.5.0.2"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.5.1"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.5.1.1"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.6.0"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.6.0.1"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.6.1"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.6.1.1"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.6.1.2"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.7.0"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.7.1"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.7.2"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.8.2"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.9.0"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.9.1"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.9.2"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"avx_issue_hotfix"
+				{
+					"gid"		"1879409583582386020"
+					"size"		"55382904"
+					"download"		"34839024"
+				}
+				"1.12.4"
+				{
+					"gid"		"200709320688779039"
+					"size"		"54105007"
+					"download"		"33583904"
+				}
+				"1.12.5"
+				{
+					"gid"		"200709320688779039"
+					"size"		"54105007"
+					"download"		"33583904"
+				}
+				"1.13.0"
+				{
+					"gid"		"7413793985202180438"
+					"size"		"54105293"
+					"download"		"33584112"
+				}
+				"1.13.1"
+				{
+					"gid"		"7413793985202180438"
+					"size"		"54105293"
+					"download"		"33584112"
+				}
+				"1.13.2"
+				{
+					"gid"		"7413793985202180438"
+					"size"		"54105293"
+					"download"		"33584112"
+				}
+				"1.14.0"
+				{
+					"gid"		"5823059198279905333"
+					"size"		"54105274"
+					"download"		"33584096"
+				}
+				"1.14.1"
+				{
+					"gid"		"7413793985202180438"
+					"size"		"54105293"
+					"download"		"33584112"
+				}
+				"1.3.1"
+				{
+					"gid"		"7413793985202180438"
+					"size"		"54105293"
+					"download"		"33584112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"community_team"
+				{
+					"gid"		"63762367024C0CA1B8DFBA09347F0FA5"
+					"size"		"27B556E81BA8BA675BFE87BBC1F86852"
+					"download"		"2F6A646B400E26D50F37CA7C4122611A"
+				}
+				"influencer2"
+				{
+					"gid"		"CF88BB1491FC7FF74CB1F1B7BC40EB2A"
+					"size"		"CAE1E3FFB2147285C18B07089E87C8E0"
+					"download"		"53B4DDE6449A7EAA204DFD8CA6010D37"
+				}
+				"influencer3"
+				{
+					"gid"		"BEE1BE8F4CA8EC270882E20074542FA0"
+					"size"		"D26BA16161F38EB30B6CE983CD0FDD3B"
+					"download"		"DCFDB9FFD02B4215A49D7E2DC7586921"
+				}
+				"mac_testing"
+				{
+					"gid"		"902F11327F7E59B2B72AF83AB5CA49E4"
+					"size"		"1B3C9D403F14DA7AEFF9DBF2C8CBFF7A"
+					"download"		"5616726FA42AE05D289D82051B0FC527"
+				}
+				"open_beta"
+				{
+					"gid"		"5BA9895CB7951C357A601ECE841CFD58"
+					"size"		"7B355A6AF63298208CEC0D7C6ADA7C6D"
+					"download"		"AA06EED025BAB130B1D5B134C02C06F6"
+				}
+				"preview_backup"
+				{
+					"gid"		"92195B43EE6FA4983455B1ABD7E3C823"
+					"size"		"D761210822F71C973979C46E679F87A9"
+					"download"		"8FCC5B924E05FBC6A35EE8C0CCF1738B"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"C80FA0A889DB517759F6E306DDF8BB5A"
+					"size"		"1217345BC3334B4A9FC8000E7CFB85A7"
+					"download"		"BB3BDAC25356A1449ED61878FDA21519"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"3169742BC13345739C2E38E293E45144"
+					"size"		"DFDA8BB0C71CE04DDCED1F176395B9F9"
+					"download"		"D474F0B75A02DF079162419211B15FA7"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"BF203A7F91A717F32681374F13FA9491"
+					"size"		"1B845C91F54D308291E41C2FE48DDB1F"
+					"download"		"33B0240835B1287A540E832C7DE5C079"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"F2F3B725E137A7C722B527D8E263C6D5"
+					"size"		"6EEC4A9850A64C80D93656F91C57AAC7"
+					"download"		"2827148C30BCBA979F7EB8BA64D4F518"
+				}
+				"influencer"
+				{
+					"gid"		"4E332E7FF6F84DA508F7A0969838AA53"
+					"size"		"D27C7F2B4BD55C85DE7217ABDCC24FAC"
+					"download"		"3F83A74BDB4660C032A4CFE98E34FABA"
+				}
+				"preview"
+				{
+					"gid"		"EE732E83AF380103128D323B15A0C062"
+					"size"		"A66496CB926DC1704025E3EDAA49248C"
+					"download"		"41DA858800B4798D51F3AF3898A3C29D"
+				}
+				"trailer_branch"
+				{
+					"gid"		"820C4ADD0E911B1CD5E04842C7134CCE"
+					"size"		"1B5462DFD8C4629F69054CB64D291467"
+					"download"		"5912BC44DDE1071A455937E1D14CD2F3"
+				}
+			}
+		}
+		"1303182"
+		{
+			"dlcappid"		"1303182"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7484558285983800770"
+					"size"		"23359941"
+					"download"		"21668384"
+				}
+				"1.10.0"
+				{
+					"gid"		"8155897713183731321"
+					"size"		"49671189"
+					"download"		"44836672"
+				}
+				"1.10.1"
+				{
+					"gid"		"8155897713183731321"
+					"size"		"49671189"
+					"download"		"44836672"
+				}
+				"1.10.2"
+				{
+					"gid"		"8155897713183731321"
+					"size"		"49671189"
+					"download"		"44836672"
+				}
+				"1.11.0"
+				{
+					"gid"		"8155897713183731321"
+					"size"		"49671189"
+					"download"		"44836672"
+				}
+				"1.11.3"
+				{
+					"gid"		"8155897713183731321"
+					"size"		"49671189"
+					"download"		"44836672"
+				}
+				"1.11.5"
+				{
+					"gid"		"8155897713183731321"
+					"size"		"49671189"
+					"download"		"44836672"
+				}
+				"1.12.1"
+				{
+					"gid"		"5136641461003650609"
+					"size"		"23359656"
+					"download"		"21668208"
+				}
+				"1.12.2"
+				{
+					"gid"		"5136641461003650609"
+					"size"		"23359656"
+					"download"		"21668208"
+				}
+				"1.12.3"
+				{
+					"gid"		"5136641461003650609"
+					"size"		"23359656"
+					"download"		"21668208"
+				}
+				"1.5.0.1"
+				{
+					"gid"		"8311794422740160284"
+					"size"		"49671046"
+					"download"		"44836576"
+				}
+				"1.5.0.2"
+				{
+					"gid"		"8311794422740160284"
+					"size"		"49671046"
+					"download"		"44836576"
+				}
+				"1.5.1"
+				{
+					"gid"		"8311794422740160284"
+					"size"		"49671046"
+					"download"		"44836576"
+				}
+				"1.5.1.1"
+				{
+					"gid"		"8311794422740160284"
+					"size"		"49671046"
+					"download"		"44836576"
+				}
+				"1.6.0"
+				{
+					"gid"		"390055761010559137"
+					"size"		"49671075"
+					"download"		"44836592"
+				}
+				"1.6.0.1"
+				{
+					"gid"		"390055761010559137"
+					"size"		"49671075"
+					"download"		"44836592"
+				}
+				"1.6.1"
+				{
+					"gid"		"390055761010559137"
+					"size"		"49671075"
+					"download"		"44836592"
+				}
+				"1.6.1.1"
+				{
+					"gid"		"390055761010559137"
+					"size"		"49671075"
+					"download"		"44836592"
+				}
+				"1.6.1.2"
+				{
+					"gid"		"390055761010559137"
+					"size"		"49671075"
+					"download"		"44836592"
+				}
+				"1.7.0"
+				{
+					"gid"		"390055761010559137"
+					"size"		"49671075"
+					"download"		"44836592"
+				}
+				"1.7.1"
+				{
+					"gid"		"390055761010559137"
+					"size"		"49671075"
+					"download"		"44836592"
+				}
+				"1.7.2"
+				{
+					"gid"		"390055761010559137"
+					"size"		"49671075"
+					"download"		"44836592"
+				}
+				"1.8.2"
+				{
+					"gid"		"390055761010559137"
+					"size"		"49671075"
+					"download"		"44836592"
+				}
+				"1.9.0"
+				{
+					"gid"		"8155897713183731321"
+					"size"		"49671189"
+					"download"		"44836672"
+				}
+				"1.9.1"
+				{
+					"gid"		"8155897713183731321"
+					"size"		"49671189"
+					"download"		"44836672"
+				}
+				"1.9.2"
+				{
+					"gid"		"8155897713183731321"
+					"size"		"49671189"
+					"download"		"44836672"
+				}
+				"avx_issue_hotfix"
+				{
+					"gid"		"390055761010559137"
+					"size"		"49671075"
+					"download"		"44836592"
+				}
+				"1.12.4"
+				{
+					"gid"		"5136641461003650609"
+					"size"		"23359656"
+					"download"		"21668208"
+				}
+				"1.12.5"
+				{
+					"gid"		"5136641461003650609"
+					"size"		"23359656"
+					"download"		"21668208"
+				}
+				"1.13.0"
+				{
+					"gid"		"8292094361508663992"
+					"size"		"23359960"
+					"download"		"21668400"
+				}
+				"1.13.1"
+				{
+					"gid"		"8292094361508663992"
+					"size"		"23359960"
+					"download"		"21668400"
+				}
+				"1.13.2"
+				{
+					"gid"		"8292094361508663992"
+					"size"		"23359960"
+					"download"		"21668400"
+				}
+				"1.14.0"
+				{
+					"gid"		"7484558285983800770"
+					"size"		"23359941"
+					"download"		"21668384"
+				}
+				"1.14.1"
+				{
+					"gid"		"8292094361508663992"
+					"size"		"23359960"
+					"download"		"21668400"
+				}
+				"1.3.1"
+				{
+					"gid"		"8292094361508663992"
+					"size"		"23359960"
+					"download"		"21668400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"community_team"
+				{
+					"gid"		"C8D453A3B28CF901695597ACFF56320F"
+					"size"		"3518FA147992BE9F97F7562E957DB647"
+					"download"		"32F98ABFF43EA303300BA39599FED76D"
+				}
+				"influencer2"
+				{
+					"gid"		"CC4819CD1F149E58737A106FF31C62DC"
+					"size"		"4A2CCE0C014A7F9A54C9E56CC8EC2A63"
+					"download"		"3B0B6300375EF0BB5EB1D4DD967D6BF5"
+				}
+				"influencer3"
+				{
+					"gid"		"460B7DF6B45AA0F30DED6926809D029F"
+					"size"		"5A85DC2245F390B0463219040501FA29"
+					"download"		"032866647EA4E2633DB07FE65A6AE04A"
+				}
+				"mac_testing"
+				{
+					"gid"		"75F63A53069E4E3C2C76F763238A21EF"
+					"size"		"97BA44C2B56E5DE64569DCAC413B8BC6"
+					"download"		"7B238CF92870AA659321E4491F92B08B"
+				}
+				"preview_backup"
+				{
+					"gid"		"5732F3F7AB1B42AD18D547BC4D12400D"
+					"size"		"EFE549219FB24C385E1989E7F253616F"
+					"download"		"F5573ED7919C878DA6F02647A78F970F"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"FD41BE7551883D45DE832FCB745BB5F0"
+					"size"		"402FD419594994C5B44863D7CD40704F"
+					"download"		"B4A606C1F080B3AECD66597A4E0B22C8"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"17ECFCBF2995E9E288C787365800119A"
+					"size"		"51E9BFAD0FACD71B5C64EBA9C62F70CF"
+					"download"		"A9B3B7C4ACF8CC3AA7D0C3CFF139E5FE"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"D6050332E953306D6F9ABF4A42E054EC"
+					"size"		"5D79457BC824B3E9466E2225A65EE88D"
+					"download"		"49A7FA851A8D39D1ED36434D687B8A6A"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"FBA989DC14900E07DCE57905492DA31B"
+					"size"		"067FB2D09533451777ABF923318EDD3B"
+					"download"		"11413FEF75F98BB25924ADA3535B4137"
+				}
+				"influencer"
+				{
+					"gid"		"24D690F5FAE82CFD69D741F2E080F787"
+					"size"		"BCBFCD26C6AE16BCDAD504DC67CE5277"
+					"download"		"BF273C70BE7E64F21814EF9387414D87"
+				}
+				"preview"
+				{
+					"gid"		"1CBD26DEC08FC0068F8576EA444FE95B"
+					"size"		"338FA587EAAADD6DBC553ABE63149E63"
+					"download"		"2DA479BC012597ABA23E32D562981A07"
+				}
+				"trailer_branch"
+				{
+					"gid"		"97AAD9F2889B315DE87BDB2820CF9CD9"
+					"size"		"B8A63368807B7E49EA3F34ED7ADD4EA3"
+					"download"		"BED44BD0DB9232B24A773F48DE775C4C"
+				}
+			}
+		}
+		"1303184"
+		{
+			"dlcappid"		"1303184"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7913374163206932653"
+					"size"		"9855339"
+					"download"		"8411216"
+				}
+				"1.10.0"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.10.1"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.10.2"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.11.0"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.11.3"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.11.5"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.12.1"
+				{
+					"gid"		"1395143356853275239"
+					"size"		"9855097"
+					"download"		"8411056"
+				}
+				"1.12.2"
+				{
+					"gid"		"1395143356853275239"
+					"size"		"9855097"
+					"download"		"8411056"
+				}
+				"1.12.3"
+				{
+					"gid"		"1395143356853275239"
+					"size"		"9855097"
+					"download"		"8411056"
+				}
+				"1.6.0"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.6.0.1"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.6.1"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.6.1.1"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.6.1.2"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.7.0"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.7.1"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.7.2"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.8.2"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.9.0"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.9.1"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.9.2"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"avx_issue_hotfix"
+				{
+					"gid"		"1317182593292111163"
+					"size"		"9970214"
+					"download"		"8505584"
+				}
+				"1.12.4"
+				{
+					"gid"		"1395143356853275239"
+					"size"		"9855097"
+					"download"		"8411056"
+				}
+				"1.12.5"
+				{
+					"gid"		"1395143356853275239"
+					"size"		"9855097"
+					"download"		"8411056"
+				}
+				"1.13.0"
+				{
+					"gid"		"5369990821251904409"
+					"size"		"9855358"
+					"download"		"8411232"
+				}
+				"1.13.1"
+				{
+					"gid"		"5369990821251904409"
+					"size"		"9855358"
+					"download"		"8411232"
+				}
+				"1.13.2"
+				{
+					"gid"		"5369990821251904409"
+					"size"		"9855358"
+					"download"		"8411232"
+				}
+				"1.14.0"
+				{
+					"gid"		"7913374163206932653"
+					"size"		"9855339"
+					"download"		"8411216"
+				}
+				"1.14.1"
+				{
+					"gid"		"5369990821251904409"
+					"size"		"9855358"
+					"download"		"8411232"
+				}
+				"1.3.1"
+				{
+					"gid"		"5369990821251904409"
+					"size"		"9855358"
+					"download"		"8411232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"community_team"
+				{
+					"gid"		"6290B5058F57282648BEA09E8A845954"
+					"size"		"E579E33B7BCE098A1B2A61079A3CACB3"
+					"download"		"5ED5D36D528D9DFCEFA1EFDFB804A206"
+				}
+				"influencer2"
+				{
+					"gid"		"5ED4CC7FAD221F02F7B49BFBA524CF03"
+					"size"		"2F59EFA041AA6E373E8F4B16A5104EA7"
+					"download"		"1223D3399FA6DAB3BD4F71EA4F6792BC"
+				}
+				"influencer3"
+				{
+					"gid"		"79A0E3B894D6A10534B38FC37A28E7F4"
+					"size"		"EAE26185AD7505D1C715E6304D1F106E"
+					"download"		"26899BA26BC2A97381E95E75B7384983"
+				}
+				"mac_testing"
+				{
+					"gid"		"ECD820B66B5C783432D70D2F4CC03341"
+					"size"		"3C050E84EBD5933338B92C72A47C2564"
+					"download"		"6FE085B8599034F02F7664DC739A7438"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"19EE21997A381DDC08D1D2BBB696B97F"
+					"size"		"5441BE885786641AEB6DA2AC38260092"
+					"download"		"F54097DD8837B4B367884FA0865A1EC9"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"F32F6C8B3DD1DEEFEA95AAB34A75B51F"
+					"size"		"BB37D3ED2BEF03A7BF54AA4D250F8530"
+					"download"		"5D170FBBC8CFA962F698CA6E5FDACE07"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"20D55D99A4AED7FA012F68DCE378FC2E"
+					"size"		"90F1F1D2A23355F96373D7C5136F66B2"
+					"download"		"66D46AE1A8235450B47B8D8C50BD3C04"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"BB7FC1ABCD1E5BE4141F7E81ADFC30CA"
+					"size"		"9279030FD7933FC6B71BE775A8695994"
+					"download"		"D8F97F09F3AD9CD6FA1392F809ED3D95"
+				}
+				"influencer"
+				{
+					"gid"		"E6A3A9A8A6F05A585BB8FBB87E42FC4C"
+					"size"		"FD1F78B5829F28A7290C083664487BEA"
+					"download"		"6DDDB7C55C238EFC9FDB5BA016CBF605"
+				}
+				"preview"
+				{
+					"gid"		"26EB04A6517278942074F2FD1470FAB8"
+					"size"		"0B45F77F5293932D0885E30BBBCE3508"
+					"download"		"B53E03E11E507BF45E3D96D7B96D6945"
+				}
+				"trailer_branch"
+				{
+					"gid"		"0FEF5BEFF0F0173D130FF453CE53A6F4"
+					"size"		"45267C09E694D9728D331DC7B8D9EEC3"
+					"download"		"6479153A8557D6DFE39D54E2C649B080"
+				}
+			}
+		}
+		"2114760"
+		{
+			"dlcappid"		"2114760"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7940705532557421405"
+					"size"		"9199787"
+					"download"		"9093360"
+				}
+				"1.10.0"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.10.1"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.10.2"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.11.0"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.11.3"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.11.5"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.12.1"
+				{
+					"gid"		"7862697428026103796"
+					"size"		"9199516"
+					"download"		"9093168"
+				}
+				"1.12.2"
+				{
+					"gid"		"7862697428026103796"
+					"size"		"9199516"
+					"download"		"9093168"
+				}
+				"1.12.3"
+				{
+					"gid"		"7862697428026103796"
+					"size"		"9199516"
+					"download"		"9093168"
+				}
+				"1.6.1.2"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.7.0"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.7.1"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.7.2"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.8.2"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.9.0"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.9.1"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.9.2"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"avx_issue_hotfix"
+				{
+					"gid"		"8527593514899571750"
+					"size"		"9550204"
+					"download"		"9445776"
+				}
+				"1.12.4"
+				{
+					"gid"		"7862697428026103796"
+					"size"		"9199516"
+					"download"		"9093168"
+				}
+				"1.12.5"
+				{
+					"gid"		"7862697428026103796"
+					"size"		"9199516"
+					"download"		"9093168"
+				}
+				"1.13.0"
+				{
+					"gid"		"7940705532557421405"
+					"size"		"9199787"
+					"download"		"9093360"
+				}
+				"1.13.1"
+				{
+					"gid"		"7940705532557421405"
+					"size"		"9199787"
+					"download"		"9093360"
+				}
+				"1.13.2"
+				{
+					"gid"		"7940705532557421405"
+					"size"		"9199787"
+					"download"		"9093360"
+				}
+				"1.14.0"
+				{
+					"gid"		"7940705532557421405"
+					"size"		"9199787"
+					"download"		"9093360"
+				}
+				"1.14.1"
+				{
+					"gid"		"7940705532557421405"
+					"size"		"9199787"
+					"download"		"9093360"
+				}
+				"1.3.1"
+				{
+					"gid"		"7940705532557421405"
+					"size"		"9199787"
+					"download"		"9093360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"community_team"
+				{
+					"gid"		"4C68EE752C655AC459B359792572EDEC"
+					"size"		"4C9F03B034D86A4C5702863DDC3F1304"
+					"download"		"1A0E0B3BA2E7F541E6D1AFD6252FDCE4"
+				}
+				"influencer2"
+				{
+					"gid"		"3AB2142B6BDCB9839395FFE7CF580122"
+					"size"		"8459CC43E710ED1F7E9ACE229430FF10"
+					"download"		"980124CB415BA5996680128176A9ACAF"
+				}
+				"influencer3"
+				{
+					"gid"		"E244DC52B31224504FD1A53DB2B09643"
+					"size"		"827995CD2070CAFA7587029D413309CB"
+					"download"		"08A05FDC5838D3B2BBE62F486329308F"
+				}
+				"mac_testing"
+				{
+					"gid"		"8D1E261C77C7710B4D2C13ABE706ACF9"
+					"size"		"ABA9520ED915BAF73853F307942ADFEB"
+					"download"		"E26EA25BE1E0A09AEAB7E22EDAAA77F6"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"D0BD56DC2C35F195EF2F646E971705EF"
+					"size"		"1750214F59B124BAEADADF74F6DE01D4"
+					"download"		"790A442A2AC163B6DF6E384B2B16FB7F"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"DF7D4CC93816413CDF94D22A4677342F"
+					"size"		"E0BD691DF4E53F23F40E26215DA84276"
+					"download"		"A531D549549FD1291B555D6AC77A6A3C"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"2F7D39CB805D3F19EFBF46010465B766"
+					"size"		"F68CC4A2789D942E08121698840ABFAE"
+					"download"		"E959B77F887D935A83DDC3721D8D16A7"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"283E88857E5B2265D8AA1FD01F89A405"
+					"size"		"CE5E34079EB8061A5DFCC9E9F4ED75C7"
+					"download"		"536AB7A1E0D47CB87F24868D27E5CA7D"
+				}
+				"influencer"
+				{
+					"gid"		"D24EF64948DBC3EE6ED6B9FA7CF4B059"
+					"size"		"6907F6EC16AFC53CDC01A64E11BAAB1B"
+					"download"		"2AB1934FC8744B55CD99647D412D525C"
+				}
+				"preview"
+				{
+					"gid"		"363EF74D2E99C71A9CDB8F513892B84C"
+					"size"		"F1B5C154BA036393538AFC6C65E596C7"
+					"download"		"5600758C4406EC8EF9F7F5AE9FCBEDF7"
+				}
+				"trailer_branch"
+				{
+					"gid"		"D40703D8C4FFA040A59677930269E162"
+					"size"		"E9BBF74CA91B6035025247B4BB4B7D0D"
+					"download"		"B6C38D6B8C8E36E62123284F5CF8D28E"
+				}
+			}
+		}
+		"2311920"
+		{
+			"dlcappid"		"2311920"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7159537311735976134"
+					"size"		"59589732"
+					"download"		"39309856"
+				}
+				"1.10.0"
+				{
+					"gid"		"1903246153915816364"
+					"size"		"59604893"
+					"download"		"39229200"
+				}
+				"1.10.1"
+				{
+					"gid"		"1903246153915816364"
+					"size"		"59604893"
+					"download"		"39229200"
+				}
+				"1.10.2"
+				{
+					"gid"		"1903246153915816364"
+					"size"		"59604893"
+					"download"		"39229200"
+				}
+				"1.11.0"
+				{
+					"gid"		"1903246153915816364"
+					"size"		"59604893"
+					"download"		"39229200"
+				}
+				"1.11.3"
+				{
+					"gid"		"1903246153915816364"
+					"size"		"59604893"
+					"download"		"39229200"
+				}
+				"1.11.5"
+				{
+					"gid"		"1903246153915816364"
+					"size"		"59604893"
+					"download"		"39229200"
+				}
+				"1.12.1"
+				{
+					"gid"		"5615824843369629192"
+					"size"		"59595349"
+					"download"		"39309952"
+				}
+				"1.12.2"
+				{
+					"gid"		"5615824843369629192"
+					"size"		"59595349"
+					"download"		"39309952"
+				}
+				"1.12.3"
+				{
+					"gid"		"5615824843369629192"
+					"size"		"59595349"
+					"download"		"39309952"
+				}
+				"1.9.0"
+				{
+					"gid"		"7312082502279050713"
+					"size"		"59604893"
+					"download"		"39229200"
+				}
+				"1.9.1"
+				{
+					"gid"		"7312082502279050713"
+					"size"		"59604893"
+					"download"		"39229200"
+				}
+				"1.9.2"
+				{
+					"gid"		"7312082502279050713"
+					"size"		"59604893"
+					"download"		"39229200"
+				}
+				"1.12.4"
+				{
+					"gid"		"5615824843369629192"
+					"size"		"59595349"
+					"download"		"39309952"
+				}
+				"1.12.5"
+				{
+					"gid"		"5615824843369629192"
+					"size"		"59595349"
+					"download"		"39309952"
+				}
+				"1.13.0"
+				{
+					"gid"		"938912543175601587"
+					"size"		"59589751"
+					"download"		"39309872"
+				}
+				"1.13.1"
+				{
+					"gid"		"938912543175601587"
+					"size"		"59589751"
+					"download"		"39309872"
+				}
+				"1.13.2"
+				{
+					"gid"		"938912543175601587"
+					"size"		"59589751"
+					"download"		"39309872"
+				}
+				"1.14.0"
+				{
+					"gid"		"7159537311735976134"
+					"size"		"59589732"
+					"download"		"39309856"
+				}
+				"1.14.1"
+				{
+					"gid"		"938912543175601587"
+					"size"		"59589751"
+					"download"		"39309872"
+				}
+				"1.3.1"
+				{
+					"gid"		"938912543175601587"
+					"size"		"59589751"
+					"download"		"39309872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"influencer2"
+				{
+					"gid"		"908AFEC055653373E936E0603C1B0BCF"
+					"size"		"2F473BC3CBFECB3ED32BCB008FC57EBD"
+					"download"		"11F12E6F0D1A0C6F24823D330783B439"
+				}
+				"influencer3"
+				{
+					"gid"		"55C928523490D6AFF8216019ABA67BE2"
+					"size"		"EA632372A28607384F6D40FC1A74913B"
+					"download"		"2FFBA8E8D4AC4A0E74DF98CDCD77120B"
+				}
+				"mac_testing"
+				{
+					"gid"		"B581349BF7A0544853DB59C13719EE31"
+					"size"		"B35DE04FAE6FE5A981867BCF934722E4"
+					"download"		"26427D8B7B5799616139B286031E59CF"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"4739B025ABC9564ED464C20F0CEBAF7B"
+					"size"		"73CB66218CA145408F142DF0ED5CDB05"
+					"download"		"E4C08888017E220DC1DE52870C3D2C88"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"65AF7BD45A8CF242EE9955EEC2FF3939"
+					"size"		"F6EE4592D7C5DAD8DF21E2FD190684F0"
+					"download"		"E0E91E2C0E94EDF4DDADA735B80F944A"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"57E043977C8CEF97479FEC65E2600330"
+					"size"		"7B30001481328E0AECCCB0F4C133312C"
+					"download"		"67FD096838A6933FA308F932A7060A95"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"80C026792885AEBBCF41118504EBEFE8"
+					"size"		"3B7A884BA911197DD6E789B5EA2081EE"
+					"download"		"7992FBCD84BFF6E4645E221C7AAF4032"
+				}
+				"influencer"
+				{
+					"gid"		"1583C2C18BEE6DE10CB7626B66CC50B9"
+					"size"		"7747D3D81BEF8B1B73920A21B74A818D"
+					"download"		"96D175B8F70880C5A187869CD18A004D"
+				}
+				"preview"
+				{
+					"gid"		"F79488929B515A03051FD03A24A10087"
+					"size"		"36A5AF596194481841694CA9789C5A5C"
+					"download"		"B39D8C4041F52B26BFD81C0171315C09"
+				}
+				"trailer_branch"
+				{
+					"gid"		"BE2703792528335CC913D20C7D5268F1"
+					"size"		"6BAFB21F31AAB99F20445B197EC9C1F0"
+					"download"		"02A2B6E50C41B4F2DAFCE02DEF0515AA"
+				}
+			}
+		}
+		"2311930"
+		{
+			"dlcappid"		"2311930"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.10.0"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.10.1"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.10.2"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.11.0"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.11.3"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.11.5"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.12.1"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.12.2"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.12.3"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.8.2"
+				{
+					"gid"		"1624941368296679172"
+					"size"		"80418"
+					"download"		"80928"
+				}
+				"1.9.0"
+				{
+					"gid"		"1624941368296679172"
+					"size"		"80418"
+					"download"		"80928"
+				}
+				"1.9.1"
+				{
+					"gid"		"1624941368296679172"
+					"size"		"80418"
+					"download"		"80928"
+				}
+				"1.9.2"
+				{
+					"gid"		"1624941368296679172"
+					"size"		"80418"
+					"download"		"80928"
+				}
+				"1.12.4"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.12.5"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.13.0"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.13.1"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.13.2"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.14.0"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.14.1"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+				"1.3.1"
+				{
+					"gid"		"6473405525877152548"
+					"size"		"80415"
+					"download"		"80912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"influencer2"
+				{
+					"gid"		"A13A0A4905D8FE3FAB352D76A337A46D"
+					"size"		"989888B28EC193CC59292A6D6FFA5081"
+					"download"		"C1B97F0EC94CE06B5C4EEC33B7362664"
+				}
+				"influencer3"
+				{
+					"gid"		"6ABF1C14AE3289738E0FF47DCF81FBED"
+					"size"		"91E5097FC4499AA6CA2EF12226431BB0"
+					"download"		"6A8ADD5504F3979E0B371E01F6D33346"
+				}
+				"mac_testing"
+				{
+					"gid"		"33892614F47C228DBB6A21D372AF43DE"
+					"size"		"F8749662618DBBA51D35E4E93DB49CCA"
+					"download"		"E79EBF38264BA5D17C77AC83132002E6"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"197C43CB0A5DD4FE59AE45EB932D7EA1"
+					"size"		"997390AE1E8A79557BACA6CBE98DCEAF"
+					"download"		"447444FA32A1D8064A931528F454B960"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"C342D2DB5E42869959959D8C49ACDF89"
+					"size"		"0A8E1C2299666F49F4D7C972917970C0"
+					"download"		"357C368B0131FF86DA00D929BE081C9A"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"1A324EC22363A07910770124AFF2B613"
+					"size"		"A22B463EF16BE984A13A8B82847A1A26"
+					"download"		"BDEFCD5034E8642D71EF30582AC9AF0E"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"7D99EDD52A0F0CFF0D2253207C12F9EE"
+					"size"		"FD0E84569EF20F52E9589698CE205958"
+					"download"		"F3F0264FD4A20E8DEDF61C73A9AA64D0"
+				}
+				"influencer"
+				{
+					"gid"		"9A70EB17487BD610A1BB04FEC28F9E0E"
+					"size"		"CDA488771DE08C4F210DA96C3DDBE78E"
+					"download"		"9E8EE0BDB123F99C6C5E1199E3826076"
+				}
+				"preview"
+				{
+					"gid"		"1C4069D4F29043850DCAEEB0BBAA91F2"
+					"size"		"133216E7B56CC0B0C37624F6CBAC95AA"
+					"download"		"F2C85F3C0566BE5B2B36179C43120860"
+				}
+				"trailer_branch"
+				{
+					"gid"		"4A08DC874BA8C805A6969E3E05840FF7"
+					"size"		"77F4A7641BBD151637A74BED4C81A06F"
+					"download"		"DA6AB094F33E3345579F0496DDA1085B"
+				}
+			}
+		}
+		"2313541"
+		{
+			"dlcappid"		"2313541"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8606196483346503864"
+					"size"		"6707260"
+					"download"		"6621184"
+				}
+				"1.10.0"
+				{
+					"gid"		"2229978864125579090"
+					"size"		"18269946"
+					"download"		"17645504"
+				}
+				"1.10.1"
+				{
+					"gid"		"2229978864125579090"
+					"size"		"18269946"
+					"download"		"17645504"
+				}
+				"1.10.2"
+				{
+					"gid"		"2229978864125579090"
+					"size"		"18269946"
+					"download"		"17645504"
+				}
+				"1.11.0"
+				{
+					"gid"		"2229978864125579090"
+					"size"		"18269946"
+					"download"		"17645504"
+				}
+				"1.11.3"
+				{
+					"gid"		"2229978864125579090"
+					"size"		"18269946"
+					"download"		"17645504"
+				}
+				"1.11.5"
+				{
+					"gid"		"2229978864125579090"
+					"size"		"18269946"
+					"download"		"17645504"
+				}
+				"1.12.1"
+				{
+					"gid"		"4196035129595395148"
+					"size"		"1735290"
+					"download"		"1712192"
+				}
+				"1.12.2"
+				{
+					"gid"		"4196035129595395148"
+					"size"		"1735290"
+					"download"		"1712192"
+				}
+				"1.12.3"
+				{
+					"gid"		"4196035129595395148"
+					"size"		"1735290"
+					"download"		"1712192"
+				}
+				"1.12.4"
+				{
+					"gid"		"4196035129595395148"
+					"size"		"1735290"
+					"download"		"1712192"
+				}
+				"1.12.5"
+				{
+					"gid"		"4196035129595395148"
+					"size"		"1735290"
+					"download"		"1712192"
+				}
+				"1.13.0"
+				{
+					"gid"		"8606196483346503864"
+					"size"		"6707260"
+					"download"		"6621184"
+				}
+				"1.13.1"
+				{
+					"gid"		"8606196483346503864"
+					"size"		"6707260"
+					"download"		"6621184"
+				}
+				"1.13.2"
+				{
+					"gid"		"8606196483346503864"
+					"size"		"6707260"
+					"download"		"6621184"
+				}
+				"1.14.0"
+				{
+					"gid"		"8606196483346503864"
+					"size"		"6707260"
+					"download"		"6621184"
+				}
+				"1.14.1"
+				{
+					"gid"		"8606196483346503864"
+					"size"		"6707260"
+					"download"		"6621184"
+				}
+				"1.3.1"
+				{
+					"gid"		"8606196483346503864"
+					"size"		"6707260"
+					"download"		"6621184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"influencer2"
+				{
+					"gid"		"83D6D2D2A04A20D6E6837D313433FCDC"
+					"size"		"1120DF4595397C11053D5C83A613069A"
+					"download"		"1613894742D77D07B3896AD9EE9CD2BD"
+				}
+				"influencer3"
+				{
+					"gid"		"A2C3D2C711CDAA0B33CCEB83D949286F"
+					"size"		"5469B1BDD2D8FBF631E4B5C1F79E6C86"
+					"download"		"15826EE7E16C27D8DF933F9095108629"
+				}
+				"mac_testing"
+				{
+					"gid"		"C29C683A046EE17770648AD9210E1027"
+					"size"		"99F0443D9DDEB8ACC29E21AC19C714D1"
+					"download"		"A08BA92B4F1F74CE386B7352BFD6C8F6"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"ADAB7943EEC9E2376A06137D667A1262"
+					"size"		"0FE29EC91948C9D555F2392FD3CA62D8"
+					"download"		"07F3B77FDF74C8CB2F083591AB97A189"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"EEC9C6C1B982C3F6A9EDFD8336FBFE68"
+					"size"		"F429DB2E75C50B9D723CCFBC03561482"
+					"download"		"5E15E548A1E28AD4C1A403A580AFF25C"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"5FD74A6FEAAC7250DC0722F00E1B6474"
+					"size"		"1BC3D2F0C2A17538E8918F14E84E5AD0"
+					"download"		"CB57C7AD803314C9317DF3313B40AD04"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"4F3989B56981F771F16380612BFA8156"
+					"size"		"7EE30A10F1E1E87178207069E420BFB4"
+					"download"		"61563EFE0A317CCE79740BD613C5FADF"
+				}
+				"influencer"
+				{
+					"gid"		"217EA0F5A012C21503054D5B4A365602"
+					"size"		"8F899113E4D1A7D635891B0F5C9B541C"
+					"download"		"10366EDC463DCE69F3585BC7889B770C"
+				}
+				"preview"
+				{
+					"gid"		"5B56AC9B094147E86E506A7D44A63949"
+					"size"		"FF2ECE55BEF0124CB1B712C5DBBFF54E"
+					"download"		"D837280EBE8D6BF27B6F070D7876907A"
+				}
+				"trailer_branch"
+				{
+					"gid"		"0CC2CEA4A221A6D2A6481D79A13D1F28"
+					"size"		"34B7AA313C842CD9242185422839D8CB"
+					"download"		"017006D93D92C2241C7819C46A98489F"
+				}
+			}
+		}
+		"2313540"
+		{
+			"dlcappid"		"2313540"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1299632248791077574"
+					"size"		"15691947"
+					"download"		"14163872"
+				}
+				"1.11.0"
+				{
+					"gid"		"6243759417825332917"
+					"size"		"16270312"
+					"download"		"14740432"
+				}
+				"1.11.3"
+				{
+					"gid"		"6243759417825332917"
+					"size"		"16270312"
+					"download"		"14740432"
+				}
+				"1.11.5"
+				{
+					"gid"		"6243759417825332917"
+					"size"		"16270312"
+					"download"		"14740432"
+				}
+				"1.12.1"
+				{
+					"gid"		"1971869771901442390"
+					"size"		"15691644"
+					"download"		"14163712"
+				}
+				"1.12.2"
+				{
+					"gid"		"1971869771901442390"
+					"size"		"15691644"
+					"download"		"14163712"
+				}
+				"1.12.3"
+				{
+					"gid"		"1971869771901442390"
+					"size"		"15691644"
+					"download"		"14163712"
+				}
+				"1.12.4"
+				{
+					"gid"		"1971869771901442390"
+					"size"		"15691644"
+					"download"		"14163712"
+				}
+				"1.12.5"
+				{
+					"gid"		"1971869771901442390"
+					"size"		"15691644"
+					"download"		"14163712"
+				}
+				"1.13.0"
+				{
+					"gid"		"3989402356249579041"
+					"size"		"15691966"
+					"download"		"14163888"
+				}
+				"1.13.1"
+				{
+					"gid"		"3989402356249579041"
+					"size"		"15691966"
+					"download"		"14163888"
+				}
+				"1.13.2"
+				{
+					"gid"		"3989402356249579041"
+					"size"		"15691966"
+					"download"		"14163888"
+				}
+				"1.14.0"
+				{
+					"gid"		"1299632248791077574"
+					"size"		"15691947"
+					"download"		"14163872"
+				}
+				"1.14.1"
+				{
+					"gid"		"3989402356249579041"
+					"size"		"15691966"
+					"download"		"14163888"
+				}
+				"1.3.1"
+				{
+					"gid"		"3989402356249579041"
+					"size"		"15691966"
+					"download"		"14163888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"influencer2"
+				{
+					"gid"		"680CC7914161EFACC1DA271F8E777381"
+					"size"		"0734DB51AB6AEDC6AD223B851C4122B7"
+					"download"		"E8087FD60F3B4784AA437B1A7F0C5DCE"
+				}
+				"influencer3"
+				{
+					"gid"		"BC930C85A29CBE16741C249E825EB7FC"
+					"size"		"C7BEF005969A839C8D46095F9658B5FC"
+					"download"		"99EC4D8FDF2221DF03A71F2465314A60"
+				}
+				"mac_testing"
+				{
+					"gid"		"DD3D949CFE6172A5A4A65EFBDA47C4B2"
+					"size"		"39BF7E055A719A713F6782F6970EDFE2"
+					"download"		"22E4926B45B3C0100A481CDDFDFCA03A"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"D383791BBAA0951157578B3D3B0F05D6"
+					"size"		"4B68C3F144BFC3AA4D0F0E49F4BBA1CC"
+					"download"		"32F6DABFBF2B01D557447FE2C8FB0D47"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"D383E4846EF02BDB37B2BC7002431B89"
+					"size"		"6BF496CBF06CF760AA97D16FB34843AE"
+					"download"		"73B011181CA5C5B5050EF7F0CA9280AD"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"6DED3378084ABCB07939EB0DF2D39C1A"
+					"size"		"1508CAC991FB6339D62385E47E564879"
+					"download"		"5D5C54D61C7C14BD8B16911CCB4A0EAD"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"DB2A7DCC5BFC89AB0AE1C94F795E9A61"
+					"size"		"5510E11D8D5F349D0AD7ABECE5AF61B6"
+					"download"		"80A2015C56291EA1912529AA0C202CFB"
+				}
+				"influencer"
+				{
+					"gid"		"C3989F875F743E88BBC3C84804293EF9"
+					"size"		"BA8A5395E7799F4B83131614401F62CB"
+					"download"		"D3A9638D868AC5B6699949965FEC3D5A"
+				}
+				"preview"
+				{
+					"gid"		"A9419F5EBE73648A1C4826CB66F02042"
+					"size"		"2C484F8BB06B5995EF2C79CD7CB54498"
+					"download"		"7911E536832D4237D8F5C0E6620F2F95"
+				}
+				"trailer_branch"
+				{
+					"gid"		"04C0CB94B6067F0DC389E1309B69452F"
+					"size"		"3D31075E50F67C6EAFD25C76046F7987"
+					"download"		"2AF2BB5F6A0F6160A0FC21232E9B5788"
+				}
+			}
+		}
+		"2671060"
+		{
+			"dlcappid"		"2671060"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6515381988099995640"
+					"size"		"15898949"
+					"download"		"14419344"
+				}
+				"1.12.1"
+				{
+					"gid"		"3426305889302993851"
+					"size"		"13944409"
+					"download"		"12478768"
+				}
+				"1.12.2"
+				{
+					"gid"		"3426305889302993851"
+					"size"		"13944409"
+					"download"		"12478768"
+				}
+				"1.12.3"
+				{
+					"gid"		"3426305889302993851"
+					"size"		"13944409"
+					"download"		"12478768"
+				}
+				"1.12.4"
+				{
+					"gid"		"3426305889302993851"
+					"size"		"13944409"
+					"download"		"12478768"
+				}
+				"1.12.5"
+				{
+					"gid"		"3426305889302993851"
+					"size"		"13944409"
+					"download"		"12478768"
+				}
+				"1.13.0"
+				{
+					"gid"		"166440190872655638"
+					"size"		"15898968"
+					"download"		"14419360"
+				}
+				"1.13.1"
+				{
+					"gid"		"166440190872655638"
+					"size"		"15898968"
+					"download"		"14419360"
+				}
+				"1.13.2"
+				{
+					"gid"		"166440190872655638"
+					"size"		"15898968"
+					"download"		"14419360"
+				}
+				"1.14.0"
+				{
+					"gid"		"6515381988099995640"
+					"size"		"15898949"
+					"download"		"14419344"
+				}
+				"1.14.1"
+				{
+					"gid"		"166440190872655638"
+					"size"		"15898968"
+					"download"		"14419360"
+				}
+				"1.3.1"
+				{
+					"gid"		"166440190872655638"
+					"size"		"15898968"
+					"download"		"14419360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"influencer2"
+				{
+					"gid"		"6005C8750D973A8269E38C31EDFCC5B5"
+					"size"		"7301F71711C9C803EF96D1E5E9EFAD68"
+					"download"		"0F8BE67D41B8668A34091B8592712B81"
+				}
+				"influencer3"
+				{
+					"gid"		"345C0D50B8C5E42B78A0E03A467BEC13"
+					"size"		"AC366E611DE31FDBFE1DDA94D7925BA5"
+					"download"		"3D661AD9E70078D73DC4D49F8DE3C964"
+				}
+				"mac_testing"
+				{
+					"gid"		"5008172E65A166B60E629884BDA29A0D"
+					"size"		"74B5DDE911530031D3E479EB15A2BC91"
+					"download"		"9A451519F48CEE555B47731FED15CAB2"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"BF4CF0A43FC893D25F617BDBCEA583FF"
+					"size"		"67C942A70D46C91AB82300654A18D1C7"
+					"download"		"FADA3A80C8C2ADE8CEB9B1E566A019D1"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"96F330FAF654EE1E133FA4A4915EE734"
+					"size"		"511698FA30418A38BAEC86651AC11683"
+					"download"		"0F19DA5F28B04DDDF0D0564249AFC9FE"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"5A40CA980B396CF99D12689600848F26"
+					"size"		"A5B0B7F4607B1D6579682996872548DA"
+					"download"		"7635FE8ABDFD5FF163BCD20863EDE803"
+				}
+				"influencer"
+				{
+					"gid"		"0448277D3B879CD2ABA641454F83E9EF"
+					"size"		"662F145B65EF3CCDB7FED9FA7E9753DF"
+					"download"		"D769B27DC7B67F704C0F3BA328F5E63F"
+				}
+				"preview"
+				{
+					"gid"		"0A862817CDAF812A8DBAFEE40E833883"
+					"size"		"75837C8CC91955AEC045B55DAA49A5CA"
+					"download"		"0E660EC59ADB47CBE03925F3C5A326C5"
+				}
+				"trailer_branch"
+				{
+					"gid"		"7937859C8CBD33333150EB3F3CBDB0E2"
+					"size"		"E9A3E79A06C647C6E16A150368E7074F"
+					"download"		"BB57AB9B555BEB109C7A3DCEB82DE3A2"
+				}
+			}
+		}
+		"2671030"
+		{
+			"dlcappid"		"2671030"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5278886681444747695"
+					"size"		"100482"
+					"download"		"101504"
+				}
+				"1.11.5"
+				{
+					"gid"		"5278886681444747695"
+					"size"		"100482"
+					"download"		"101504"
+				}
+				"1.12.1"
+				{
+					"gid"		"2257513862370412160"
+					"size"		"100482"
+					"download"		"101504"
+				}
+				"1.12.2"
+				{
+					"gid"		"2257513862370412160"
+					"size"		"100482"
+					"download"		"101504"
+				}
+				"1.12.3"
+				{
+					"gid"		"2257513862370412160"
+					"size"		"100482"
+					"download"		"101504"
+				}
+				"1.12.4"
+				{
+					"gid"		"2257513862370412160"
+					"size"		"100482"
+					"download"		"101504"
+				}
+				"1.12.5"
+				{
+					"gid"		"2257513862370412160"
+					"size"		"100482"
+					"download"		"101504"
+				}
+				"1.13.0"
+				{
+					"gid"		"2257513862370412160"
+					"size"		"100482"
+					"download"		"101504"
+				}
+				"1.13.1"
+				{
+					"gid"		"2257513862370412160"
+					"size"		"100482"
+					"download"		"101504"
+				}
+				"1.13.2"
+				{
+					"gid"		"2257513862370412160"
+					"size"		"100482"
+					"download"		"101504"
+				}
+				"1.14.0"
+				{
+					"gid"		"2257513862370412160"
+					"size"		"100482"
+					"download"		"101504"
+				}
+				"1.14.1"
+				{
+					"gid"		"2257513862370412160"
+					"size"		"100482"
+					"download"		"101504"
+				}
+				"1.3.1"
+				{
+					"gid"		"2257513862370412160"
+					"size"		"100482"
+					"download"		"101504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"influencer2"
+				{
+					"gid"		"8D7424F056566177AD744EE379C07FCA"
+					"size"		"8E12BEDA79AD0CB1BADB8FADD2474065"
+					"download"		"BCA877694CD3EDA3E49EED4CE15552A0"
+				}
+				"influencer3"
+				{
+					"gid"		"E180424108FD34E64C82CF62E0192A0F"
+					"size"		"4C6612ED78D02A3FE25890433F342F7B"
+					"download"		"52C9E4AA390355324807CA9B50D12A75"
+				}
+				"mac_testing"
+				{
+					"gid"		"0A405BCEFDDF2B9EEEE429F2A07E6975"
+					"size"		"C3B20D38782BADB42087D9F8B258EB28"
+					"download"		"960987354415EF22DCBCE2D8C67549D9"
+				}
+				"atlantis_deluge"
+				{
+					"gid"		"3764AF8B758BCB1284AC03098A4973E9"
+					"size"		"A32FDA9007000BAD18FB4466534B8EEC"
+					"download"		"257C9BE10F77D88F4A315CE1B993CE9B"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"1D2DC9F2722F83C7BC0A90B171F2B353"
+					"size"		"74C7FA133F5472EB222034D4F9E4D296"
+					"download"		"31D5A0FEB3A853C195D4F0765DD65FFE"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"AF3DF29122DC3EA50C6CFBCD0CBF2477"
+					"size"		"7E6175FBEF3AE91643DB1F203F6A35BB"
+					"download"		"94AF2C6B9C064A6B25A3DE178EDD3A83"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"B1CF04E89185B79CD24BFF80300C8E7E"
+					"size"		"3778BFC2489105927A5437B0C5675DC9"
+					"download"		"3AEDB6AD36BAA231E8F52AAB81A9E64D"
+				}
+				"influencer"
+				{
+					"gid"		"E65615A2AD1900532274F9579B6EB9C8"
+					"size"		"15931B6208814274F7676A7296F4AD37"
+					"download"		"33930794CDD9E934A89575F5D7989F83"
+				}
+				"preview"
+				{
+					"gid"		"21DD88172886D4F9E8FEF8F0F767004B"
+					"size"		"2EE5543D266364A789D33E5AE5B4AAF9"
+					"download"		"7F70B2F6BA6D65CF88CFA47928063115"
+				}
+				"trailer_branch"
+				{
+					"gid"		"9EE8FBF9C64965461043E8BA09A3020D"
+					"size"		"2BE39CCF2DA9C717064A2C7CEB7F4292"
+					"download"		"D6E5811501AD073DF659D4A436D7DB4A"
+				}
+			}
+		}
+		"2671040"
+		{
+			"dlcappid"		"2671040"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6943932038941728839"
+					"size"		"64416"
+					"download"		"65104"
+				}
+				"1.11.5"
+				{
+					"gid"		"836968934287748787"
+					"size"		"64416"
+					"download"		"65104"
+				}
+				"1.12.1"
+				{
+					"gid"		"6943932038941728839"
+					"size"		"64416"
+					"download"		"65104"
+				}
+				"1.12.2"
+				{
+					"gid"		"6943932038941728839"
+					"size"		"64416"
+					"download"		"65104"
+				}
+				"1.12.3"
+				{
+					"gid"		"6943932038941728839"
+					"size"		"64416"
+					"download"		"65104"
+				}
+				"1.12.4"
+				{
+					"gid"		"6943932038941728839"
+					"size"		"64416"
+					"download"		"65104"
+				}
+				"1.12.5"
+				{
+					"gid"		"6943932038941728839"
+					"size"		"64416"
+					"download"		"65104"
+				}
+				"1.13.0"
+				{
+					"gid"		"836968934287748787"
+					"size"		"64416"
+					"download"		"65104"
+				}
+				"1.13.1"
+				{
+					"gid"		"836968934287748787"
+					"size"		"64416"
+					"download"		"65104"
+				}
+				"1.13.2"
+				{
+					"gid"		"836968934287748787"
+					"size"		"64416"
+					"download"		"65104"
+				}
+				"1.14.0"
+				{
+					"gid"		"836968934287748787"
+					"size"		"64416"
+					"download"		"65104"
+				}
+				"1.14.1"
+				{
+					"gid"		"836968934287748787"
+					"size"		"64416"
+					"download"		"65104"
+				}
+				"1.3.1"
+				{
+					"gid"		"836968934287748787"
+					"size"		"64416"
+					"download"		"65104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"influencer2"
+				{
+					"gid"		"EB9B16C8A3A1E78D13BE617E9C2C01D2"
+					"size"		"444BD31328629FD101E7F2E7983DED43"
+					"download"		"B71E5AC58AC41305E66145087C7D026E"
+				}
+				"influencer3"
+				{
+					"gid"		"307A8A2F2E8451300943FE129B1FE768"
+					"size"		"040711D719DCA510851657E4C8D529C5"
+					"download"		"9773FFCE1463CA41678474C0FE52472E"
+				}
+				"mac_testing"
+				{
+					"gid"		"27A6497DFE3E3462463000F8CDD15FBE"
+					"size"		"8671BCF6B4AAB8CC63ADA729119301AC"
+					"download"		"49A929BE62D01F0ABC44F0CB6C7D55E5"
+				}
+				"atlantis_forsaken"
+				{
+					"gid"		"960773F145B03CC99F76A3037398C84E"
+					"size"		"823843EDAD75E826F50D61203C967C49"
+					"download"		"7C558DCE1AFA78A2FA1AD1ED10F93792"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"AF78C7D506B7E6D175FAA03B848D6531"
+					"size"		"28D10CAF025C2667DEB387BE2F95DCCC"
+					"download"		"545BDC358F55C6E4B042C1CDCF67A10E"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"7D42808D6E60C2B87D978AB7702C2BEA"
+					"size"		"ED1E9CA53202CA390BFA701481BB154B"
+					"download"		"8534A19929EE5479AE39533D925A7008"
+				}
+				"influencer"
+				{
+					"gid"		"6DED72FA7AAAEBD69682991289E00829"
+					"size"		"E895013E7458B99714B81C8226AF1101"
+					"download"		"E569E2CB4340286524D67DA729013FB4"
+				}
+				"preview"
+				{
+					"gid"		"DD9D2A19C30221ABAC85756831DBCF69"
+					"size"		"10DE793E73DFDC611C54BC62FFE4412D"
+					"download"		"C1A1CA98C97A0837108470836B214BAC"
+				}
+				"trailer_branch"
+				{
+					"gid"		"DA9F76C482A7BAAC3613727EE2A2861B"
+					"size"		"A81719771938B9753C53EEC35692210E"
+					"download"		"A225A1EBDB8CDF3EAE355B5A7703466F"
+				}
+			}
+		}
+		"2671070"
+		{
+			"dlcappid"		"2671070"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2892381553209674423"
+					"size"		"21072846"
+					"download"		"19827888"
+				}
+				"1.13.0"
+				{
+					"gid"		"2690428707131085243"
+					"size"		"21072865"
+					"download"		"19827904"
+				}
+				"1.13.1"
+				{
+					"gid"		"2690428707131085243"
+					"size"		"21072865"
+					"download"		"19827904"
+				}
+				"1.13.2"
+				{
+					"gid"		"2690428707131085243"
+					"size"		"21072865"
+					"download"		"19827904"
+				}
+				"1.14.0"
+				{
+					"gid"		"2892381553209674423"
+					"size"		"21072846"
+					"download"		"19827888"
+				}
+				"1.14.1"
+				{
+					"gid"		"2690428707131085243"
+					"size"		"21072865"
+					"download"		"19827904"
+				}
+				"1.3.1"
+				{
+					"gid"		"2690428707131085243"
+					"size"		"21072865"
+					"download"		"19827904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"atlantis_forsaken"
+				{
+					"gid"		"3C800B7665A390CCD99C2806847490A7"
+					"size"		"F844CC477DFF86B0A11CDA37ABB1A5C1"
+					"download"		"9C23CFB397B38677F37733FC2A9D4863"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"91E28B6DED63244E120D707223894503"
+					"size"		"E730E5AA75CBBF5B3B5E8CD102EB432A"
+					"download"		"D163FD3A0476ACBB828315D698318493"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"5D35321A8F671F86C977BFD7F30076C6"
+					"size"		"2E34C0C5D3046CA0576F4341CF0AE3EE"
+					"download"		"CA737AEBAAA0DA61F9E1D5D2275B9258"
+				}
+				"influencer"
+				{
+					"gid"		"4262A114853A6922CA47785FDCF20F77"
+					"size"		"367D9AAF93342632A1E95AB74923C845"
+					"download"		"1FBAB5DD7E9D545EF2E8CD45A536DD57"
+				}
+				"preview"
+				{
+					"gid"		"AE09BCFC1414687211DC3AFD6CBDE1A1"
+					"size"		"4E7B85E57ADFE53CAD205A377B9C6C31"
+					"download"		"B2FE9A08F1A339ACA8C31F9C6C1D5B27"
+				}
+				"trailer_branch"
+				{
+					"gid"		"25074B971B6A077D3B3FC3CA7AF72CC2"
+					"size"		"DA133AECA5A44C22F2A2F71CFA2A238D"
+					"download"		"C6E6811F909BF29089C0C25496F4E1FF"
+				}
+			}
+		}
+		"3077630"
+		{
+			"dlcappid"		"3077630"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1712003839548962838"
+					"size"		"69250933"
+					"download"		"68732496"
+				}
+				"1.12.5"
+				{
+					"gid"		"1712003839548962838"
+					"size"		"69250933"
+					"download"		"68732496"
+				}
+				"1.13.0"
+				{
+					"gid"		"1712003839548962838"
+					"size"		"69250933"
+					"download"		"68732496"
+				}
+				"1.13.1"
+				{
+					"gid"		"1712003839548962838"
+					"size"		"69250933"
+					"download"		"68732496"
+				}
+				"1.13.2"
+				{
+					"gid"		"1712003839548962838"
+					"size"		"69250933"
+					"download"		"68732496"
+				}
+				"1.14.0"
+				{
+					"gid"		"1712003839548962838"
+					"size"		"69250933"
+					"download"		"68732496"
+				}
+				"1.14.1"
+				{
+					"gid"		"1712003839548962838"
+					"size"		"69250933"
+					"download"		"68732496"
+				}
+				"1.3.1"
+				{
+					"gid"		"1712003839548962838"
+					"size"		"69250933"
+					"download"		"68732496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"atlantis_forsaken"
+				{
+					"gid"		"C21BC6F3956940A8B4660F0E8A996A24"
+					"size"		"1663A9664D0A48A1E8520C4F71D5A60F"
+					"download"		"DA149F008EE1D28F885D754EDD8203E8"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"33C1F4C8BB78EE02F9699E709DC1565F"
+					"size"		"1C290BB6BD825B7419A26DD593F3592A"
+					"download"		"F05CFA73E5473BBABD960B35978D48EB"
+				}
+				"influencer"
+				{
+					"gid"		"9E2ACA1D968DCBB34388DB6D2F2264B1"
+					"size"		"7ED9B2D564188514AF6A1203CEBE2B72"
+					"download"		"DEB88EFAD5AFDF1DCC0D4E9C52729D6A"
+				}
+				"preview"
+				{
+					"gid"		"A8A88B67DF0A4D710C35E03A1129CEEA"
+					"size"		"59CD850F888CD5DF613E4B432AEB6E49"
+					"download"		"62F64B62989F065C96E6C4BF30E133B9"
+				}
+				"trailer_branch"
+				{
+					"gid"		"EF725887DF9504AC5FD6897E34E04DCE"
+					"size"		"F64125CB1034D2A35182B7F2A8298A89"
+					"download"		"02A7BF852CABD984F0CAFA1521261DC6"
+				}
+			}
+		}
+		"2671080"
+		{
+			"dlcappid"		"2671080"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4340206838279069052"
+					"size"		"82855"
+					"download"		"83776"
+				}
+				"1.13.2"
+				{
+					"gid"		"4340206838279069052"
+					"size"		"82855"
+					"download"		"83776"
+				}
+				"1.14.0"
+				{
+					"gid"		"4340206838279069052"
+					"size"		"82855"
+					"download"		"83776"
+				}
+				"1.14.1"
+				{
+					"gid"		"4340206838279069052"
+					"size"		"82855"
+					"download"		"83776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"atlantis_forsaken"
+				{
+					"gid"		"D62D548D25A68C338A11E0AC8675A44C"
+					"size"		"7B5A98AACFFCC9558C7B69E96A34C0E3"
+					"download"		"CCECF2BEF9E6FADC739B6F2B8F866C78"
+				}
+				"atlantis_rising"
+				{
+					"gid"		"267BD59BEF2A6712C53069E9E4B13035"
+					"size"		"37B0A0B2764CC3BA60C8FDF710B1AC91"
+					"download"		"0B2B421388D8B5A8FB59A892408DD560"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"1CCFED3439CAF24C450445A4C66D29DB"
+					"size"		"0EE4C7D2164DF1B78EF4F89AEB530E87"
+					"download"		"5EB1117603E8AC99B57F63360A9E8D76"
+				}
+				"influencer"
+				{
+					"gid"		"0A25A8644C877292AB17AA508F8FDD72"
+					"size"		"27E874186B0BC278DAC5FB98907722B3"
+					"download"		"4BB524C3A5905C0C9F4577CF22DF30FC"
+				}
+				"preview"
+				{
+					"gid"		"8FDB9455A3C0263BC87A2361E5C7AC93"
+					"size"		"3D45301953A676A3129BD2F568260169"
+					"download"		"C446643333EB6A64EAA2BA53655A6FDD"
+				}
+				"trailer_branch"
+				{
+					"gid"		"EC70535AFA7C7000B0C7D9416F71540A"
+					"size"		"9204A97C0673E46DF59FC01AFE0B03A0"
+					"download"		"B78204C8BCFBBD58CBC17BF8A774FBFE"
+				}
+			}
+		}
+		"3275760"
+		{
+			"dlcappid"		"3275760"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2733483956934528165"
+					"size"		"99060"
+					"download"		"100128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"atlantis_rising"
+				{
+					"gid"		"5FB2FFEEEAD37B47C04E168A25006A09"
+					"size"		"C4426EAD26378DD33CE3910CB708B2C3"
+					"download"		"C32DA8298A4C023BA7313BADE2F2BD83"
+				}
+				"atlantis_unleashed"
+				{
+					"gid"		"D335A48751302E734AB7EA734B798420"
+					"size"		"AD57A85D334C5FF26DB7D1281CF30D5B"
+					"download"		"37A0C3FBDD1D19A4CAEB939C61D65906"
+				}
+				"trailer_branch"
+				{
+					"gid"		"C60DA788A639CB9B8B0AA45198F3E3F0"
+					"size"		"441CDB9185AC98CD241F25C32B99FF58"
+					"download"		"EA1B0A9380EE771CC3B86B1610AEB081"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16568275"
+				"timeupdated"		"1732807775"
+			}
+			"1.0.2"
+			{
+				"buildid"		"5451646"
+				"description"		"Launch version"
+				"timeupdated"		"1599128667"
+			}
+			"1.0.3"
+			{
+				"buildid"		"5482039"
+				"description"		"Old version 1.0.3"
+				"timeupdated"		"1601367504"
+			}
+			"1.1.1"
+			{
+				"buildid"		"5589990"
+				"description"		"Old version 1.1.1 (Chevron)"
+				"timeupdated"		"1601557056"
+			}
+			"1.1.2"
+			{
+				"buildid"		"5616386"
+				"description"		"Old version 1.1.2 (Chevron)"
+				"timeupdated"		"1602589684"
+			}
+			"1.1.3"
+			{
+				"buildid"		"5708797"
+				"description"		"Old version 1.1.3 (Chevron)"
+				"timeupdated"		"1605730513"
+			}
+			"1.10.0"
+			{
+				"buildid"		"12013136"
+				"description"		"Old version 1.10.0 (Quill)"
+				"timeupdated"		"1693480965"
+			}
+			"1.10.1"
+			{
+				"buildid"		"12066033"
+				"description"		"Old version 1.10.1 (Quill)"
+				"timeupdated"		"1694437295"
+			}
+			"1.10.2"
+			{
+				"buildid"		"12141064"
+				"description"		"Old version 1.10.2 (Quill)"
+				"timeupdated"		"1699450266"
+			}
+			"1.11.0"
+			{
+				"buildid"		"12670296"
+				"description"		"Old version 1.11.0 (Peacock)"
+				"timeupdated"		"1700729518"
+			}
+			"1.11.3"
+			{
+				"buildid"		"12890456"
+				"description"		"	Old version 1.11.3 (Peacock)"
+				"timeupdated"		"1706000355"
+			}
+			"1.11.5"
+			{
+				"buildid"		"13187961"
+				"description"		"Old version 1.11.5 (Peacock)"
+				"timeupdated"		"1709542966"
+			}
+			"1.12.1"
+			{
+				"buildid"		"13573722"
+				"description"		"Old version 1.12.1 (Scythe)"
+				"timeupdated"		"1709802469"
+			}
+			"1.12.2"
+			{
+				"buildid"		"13658548"
+				"description"		"Old version 1.12.2 (Scythe)"
+				"timeupdated"		"1711445270"
+			}
+			"1.12.3"
+			{
+				"buildid"		"13728346"
+				"description"		"Old version 1.12.3 (Scythe)"
+				"timeupdated"		"1711445103"
+			}
+			"1.2.1"
+			{
+				"buildid"		"5849572"
+				"description"		"Old version 1.2.1 (Argent)"
+				"timeupdated"		"1607353130"
+			}
+			"1.2.2"
+			{
+				"buildid"		"5917585"
+				"description"		"Old version 1.2.2 (Argent)"
+				"timeupdated"		"1615804847"
+			}
+			"1.4.0"
+			{
+				"buildid"		"6769710"
+				"description"		"Old version 1.4.0 (Azure)"
+				"timeupdated"		"1623925126"
+			}
+			"1.4.2"
+			{
+				"buildid"		"6874295"
+				"description"		"Old version 1.4.2 (Azure)"
+				"timeupdated"		"1624949865"
+			}
+			"1.4.4"
+			{
+				"buildid"		"6925632"
+				"description"		"Old version 1.4.4 (Azure)"
+				"timeupdated"		"1644234867"
+			}
+			"1.5.0.1"
+			{
+				"buildid"		"8161540"
+				"description"		"Old version 1.5.0.1 (Fleur-de-lis)"
+				"timeupdated"		"1645177857"
+			}
+			"1.5.0.2"
+			{
+				"buildid"		"8209397"
+				"description"		"Old version 1.5.0.2 (Fleur-de-lis)"
+				"timeupdated"		"1646926937"
+			}
+			"1.5.1"
+			{
+				"buildid"		"8300726"
+				"description"		"Old version 1.5.1 (Fleur-de-lis)"
+				"timeupdated"		"1647951835"
+			}
+			"1.5.1.1"
+			{
+				"buildid"		"8390544"
+				"description"		"Old version 1.5.1.1 (Fleur-de-lis)"
+				"timeupdated"		"1653912927"
+			}
+			"1.6.0"
+			{
+				"buildid"		"8771820"
+				"description"		"Old version 1.6.0 (Castle)"
+				"timeupdated"		"1654669323"
+			}
+			"1.6.0.1"
+			{
+				"buildid"		"8865870"
+				"description"		"Old version 1.6.0.1 (Castle)"
+				"timeupdated"		"1655883275"
+			}
+			"1.6.1"
+			{
+				"buildid"		"8943678"
+				"description"		"Old version 1.6.1 (Castle)"
+				"timeupdated"		"1655883337"
+			}
+			"1.6.1.1"
+			{
+				"buildid"		"8976661"
+				"description"		"Old version 1.6.1.1 (Castle)"
+				"timeupdated"		"1656511049"
+			}
+			"1.6.1.2"
+			{
+				"buildid"		"9476996"
+				"description"		"Old version 1.6.1.2 (Castle)"
+				"timeupdated"		"1662645010"
+			}
+			"1.7.0"
+			{
+				"buildid"		"9496878"
+				"description"		"Old version 1.7.0 (Bastion)"
+				"timeupdated"		"1663165960"
+			}
+			"1.7.1"
+			{
+				"buildid"		"9523059"
+				"description"		"Old version 1.7.1 (Bastion)"
+				"timeupdated"		"1664521733"
+			}
+			"1.7.2"
+			{
+				"buildid"		"9606583"
+				"description"		"Old version 1.7.2 (Bastion)"
+				"timeupdated"		"1669891476"
+			}
+			"1.8.2"
+			{
+				"buildid"		"10840924"
+				"description"		"Old version 1.8.2 (Robe)"
+				"timeupdated"		"1683111361"
+			}
+			"1.9.0"
+			{
+				"buildid"		"11234902"
+				"description"		"Old version 1.9.0.4 (Lance)"
+				"timeupdated"		"1685442657"
+			}
+			"1.9.1"
+			{
+				"buildid"		"11318013"
+				"description"		"Old version 1.9.1 (Lance)"
+				"timeupdated"		"1686828117"
+			}
+			"1.9.2"
+			{
+				"buildid"		"11504798"
+				"description"		"Old version 1.9.2 (Lance)"
+				"timeupdated"		"1692712804"
+			}
+			"age_ratings"
+			{
+				"buildid"		"5232991"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655796056"
+			}
+			"avx_issue_hotfix"
+			{
+				"buildid"		"9484730"
+				"description"		"1.7.0 avx hotfix"
+				"timeupdated"		"1662731074"
+			}
+			"baseline"
+			{
+				"buildid"		"5251701"
+				"pwdrequired"		"1"
+				"timeupdated"		"1595327271"
+			}
+			"community_team"
+			{
+				"buildid"		"9394640"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661949402"
+			}
+			"influencer2"
+			{
+				"buildid"		"13314000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1706625976"
+			}
+			"influencer3"
+			{
+				"buildid"		"13474026"
+				"pwdrequired"		"1"
+				"timeupdated"		"1708074738"
+			}
+			"mac_testing"
+			{
+				"buildid"		"13728608"
+				"pwdrequired"		"1"
+				"timeupdated"		"1710345280"
+			}
+			"open_beta"
+			{
+				"buildid"		"6949089"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624967841"
+			}
+			"preview_backup"
+			{
+				"buildid"		"8062364"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643733970"
+			}
+			"1.12.4"
+			{
+				"buildid"		"13843748"
+				"description"		"Old version 1.12.4 (Scythe)"
+				"timeupdated"		"1715081268"
+			}
+			"1.12.5"
+			{
+				"buildid"		"15353580"
+				"description"		"Old version 1.12.5 (Scythe)"
+				"timeupdated"		"1726555495"
+			}
+			"1.13.0"
+			{
+				"buildid"		"15912813"
+				"description"		"Old version 1.13.0 (Basileus)"
+				"timeupdated"		"1728414658"
+			}
+			"1.13.1"
+			{
+				"buildid"		"15969809"
+				"description"		"Old version 1.13.1 (Basileus)"
+				"timeupdated"		"1728543453"
+			}
+			"1.13.2"
+			{
+				"buildid"		"16290132"
+				"description"		"Old version 1.13.2 (Basileus)"
+				"timeupdated"		"1730740161"
+			}
+			"1.14.0"
+			{
+				"buildid"		"16302191"
+				"description"		"	Old version 1.14.0 (Traverse)"
+				"timeupdated"		"1732042611"
+			}
+			"1.14.1"
+			{
+				"buildid"		"16455846"
+				"description"		"Old version 1.14.1 (Traverse)"
+				"timeupdated"		"1732713424"
+			}
+			"1.3.1"
+			{
+				"buildid"		"15992307"
+				"description"		"Old version 1.3.1 (Corvus)"
+				"timeupdated"		"1729501310"
+			}
+			"atlantis_deluge"
+			{
+				"buildid"		"16262964"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730454537"
+			}
+			"atlantis_forsaken"
+			{
+				"buildid"		"16222988"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730214380"
+			}
+			"atlantis_rising"
+			{
+				"buildid"		"16566965"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732801406"
+			}
+			"atlantis_unleashed"
+			{
+				"buildid"		"16447712"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731953729"
+			}
+			"influencer"
+			{
+				"buildid"		"16345660"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731090160"
+			}
+			"preview"
+			{
+				"buildid"		"16055383"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730124525"
+			}
+			"trailer_branch"
+			{
+				"buildid"		"16327898"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730985219"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+	}
+}

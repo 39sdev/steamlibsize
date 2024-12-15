@@ -1,0 +1,206 @@
+"1241950"
+{
+	"common"
+	{
+		"name"		"Warzone 2100"
+		"type"		"Game"
+		"clienticon"		"ee06595914262acd2eb64c431830f03663b52bde"
+		"clienttga"		"ddafc6b371da17e99f48ab9397370b37130f9dd0"
+		"icon"		"2db9dc7316f2bbb1ea51821432abc5e737f346cd"
+		"logo"		"3cee9cf29df38e9b3a3b979fe890ca44bb6a3655"
+		"logo_small"		"3cee9cf29df38e9b3a3b979fe890ca44bb6a3655_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"ReleaseState"		"released"
+		"metacritic_name"		"Warzone 2100"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"43.290548424737466"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"UpperCenter"
+					"width_pct"		"43.290548424737466"
+					"height_pct"		"100"
+				}
+			}
+		}
+		"store_asset_mtime"		"1580832790"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pumpkin Studios"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Underdone Gaming"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Warzone 2100 Project"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Underdone Gaming"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+			"category_9"		"1"
+			"category_48"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"923727600"
+		"steam_release_date"		"1582023630"
+		"community_hub_visible"		"1"
+		"gameid"		"1241950"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"113"
+			"2"		"1676"
+			"3"		"7332"
+			"4"		"1678"
+			"5"		"3813"
+			"6"		"1693"
+			"7"		"4295"
+			"8"		"3859"
+			"9"		"4182"
+			"10"		"3942"
+			"11"		"3835"
+			"12"		"6691"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Pumpkin Studios"
+		"publisher"		"Underdone Gaming"
+		"homepage"		"http://wz2100.net/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Warzone 2100"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin\\warzone2100.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"1241951"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6290548826149126608"
+					"size"		"1383607905"
+					"download"		"1324894544"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"14356922"
+				"timeupdated"		"1715657099"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"5000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"savegames"
+				"pattern"		"*"
+			}
+		}
+	}
+}

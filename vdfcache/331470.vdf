@@ -1,0 +1,385 @@
+"331470"
+{
+	"common"
+	{
+		"name"		"Everlasting Summer"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"6dce5123bcb7c856c7288454e6b8f5e85e182bc8"
+		"logo_small"		"6dce5123bcb7c856c7288454e6b8f5e85e182bc8_thumb"
+		"clienttga"		"7b0452d554bca4fbb33fde28c04dcad8970af8a6"
+		"clienticon"		"ef677acee2eb457940da735c33f35d7d11e03801"
+		"icon"		"c238887d29f28382920884d89bb3fc0718070a19"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"clienticns"		"38ccf66e08668b99c1679bec2e3b801d9037c027"
+		"linuxclienticon"		"ea4a88228ec97cbd5c2115896427e3cf4e0b8de9"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1654128000"
+			"tested_build_id"		"8196381"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Everlasting Summer"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"russian"		"header_russian.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"10"
+				"height_pct"		"2"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"UpperCenter"
+					"width_pct"		"10"
+					"height_pct"		"2"
+				}
+			}
+		}
+		"store_asset_mtime"		"1632595662"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Soviet Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Soviet Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1416384000"
+		"steam_release_date"		"1416408900"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"331470"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"1742"
+			"2"		"113"
+			"3"		"4085"
+			"4"		"1756"
+			"5"		"6426"
+			"6"		"5611"
+			"7"		"4947"
+			"8"		"4182"
+			"9"		"6650"
+			"10"		"6971"
+			"11"		"3871"
+			"12"		"9551"
+			"13"		"4711"
+			"14"		"5716"
+			"15"		"21"
+			"16"		"1719"
+			"17"		"492"
+			"18"		"1693"
+			"19"		"597"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Soviet Games"
+		"publisher"		"Soviet Games"
+		"homepage"		"http://everlastingsummer.su/"
+		"isfreeapp"		"1"
+		"listofdlc"		"340110"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Everlasting Summer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Everlasting Summer.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"Everlasting Summer.app"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Everlasting Summer.sh"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"Everlasting Summer-32.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"4"
+			{
+				"executable"		"Everlasting Summer.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"BetaKey"		"beta"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,russian"
+		"workshopdepot"		"331470"
+		"331471"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"130705330658312691"
+					"size"		"1128212515"
+					"download"		"953028464"
+				}
+				"beta"
+				{
+					"gid"		"1765257332088507652"
+					"size"		"1043517960"
+					"download"		"919067024"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13972801"
+				"timeupdated"		"1712400652"
+			}
+			"beta"
+			{
+				"buildid"		"7390848"
+				"description"		"old version Renpy 7.3.5."
+				"timeupdated"		"1632155768"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game\\saves\\"
+				"pattern"		"*.*"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}

@@ -1,0 +1,118 @@
+"782230"
+{
+	"common"
+	{
+		"name"		"MudRunner - The Valley DLC"
+		"type"		"DLC"
+		"parent"		"675010"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"e3b5e1350d28b26d5801f2c1e81e49755371e0a0"
+		"clienttga"		"63f6e3c0cf8962a13be2dcf7d4b0b8fc25c6ace6"
+		"icon"		"d2b0866fee9f3085b752b98d0b9bf2972256f24f"
+		"metacritic_name"		"Spintires: Mudrunner - DLC 01"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_411251dd22200f16a78b82936f14ad99a0d703c4.jpg"
+		"store_asset_mtime"		"1551721751"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Saber Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Focus Entertainment"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_38"		"1"
+			"category_30"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1518540924"
+		"gameid"		"782230"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"3859"
+			"2"		"21"
+			"3"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"dlcforappid"		"675010"
+		"mustownapptopurchase"		"675010"
+		"developer"		"Saber Interactive"
+		"publisher"		"Focus Entertainment"
+		"homepage"		"http://www.mudrunner-spintires.com/"
+		"isfreeapp"		"1"
+		"dlcavailableonstore"		"1"
+	}
+}

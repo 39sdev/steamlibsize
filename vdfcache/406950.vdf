@@ -1,0 +1,101 @@
+"406950"
+{
+	"common"
+	{
+		"name"		"3DMark Ice Storm benchmark"
+		"type"		"DLC"
+		"parent"		"223850"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"62599f8b7fcc171f0898047d40c03448b8700bc9"
+		"logo_small"		"62599f8b7fcc171f0898047d40c03448b8700bc9_thumb"
+		"icon"		"d3977ec7e73b44c208da4e2a010156d9efd30f0b"
+		"metacritic_name"		"3DMark Ice Storm benchmarks"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"23d33a261c90241b4805de0ce73289ea76e1e573/capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"store_screenshot"		"ss_493649fa5b4796a6db22ce1bd0ffb45d6b5921e0.jpg"
+		"store_asset_mtime"		"1730822551"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"UL"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"UL"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+			}
+			"schinese"
+			{
+				"supported"		"1"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1450438800"
+		"gameid"		"406950"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"87"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"dlcforappid"		"223850"
+		"mustownapptopurchase"		"223850"
+		"optionaldlc"		"1"
+		"developer"		"UL"
+		"publisher"		"UL"
+		"homepage"		"https://benchmarks.ul.com/3dmark"
+		"isfreeapp"		"1"
+		"dlcavailableonstore"		"1"
+	}
+}

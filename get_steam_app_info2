@@ -1,0 +1,5 @@
+#!/bin/bash
+steamcmd \
+    +app_info_request 1403370 \
+    +app_info_print 1403370 \
+    +quit

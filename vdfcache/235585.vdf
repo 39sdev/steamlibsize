@@ -1,0 +1,146 @@
+"235585"
+{
+	"common"
+	{
+		"name"		"Civilization V - Scrambled Nations Map Pack"
+		"type"		"DLC"
+		"parent"		"8930"
+		"ReleaseState"		"released"
+		"icon"		"1e3814f590ab3ccce27272f0dd522560239895ec"
+		"oslist"		"windows,macos,linux"
+		"metacritic_name"		"Sid Meier's Civilization V: Scrambled Nations Map Pack"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_7f01bad47057568da7de410139633e4a4336d2d7.jpg"
+		"store_asset_mtime"		"1383012861"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Firaxis Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Aspyr (Mac)"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Aspyr (Linux)"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"2K"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"Aspyr (Mac)"
+			}
+			"5"
+			{
+				"type"		"publisher"
+				"name"		"Aspyr (Linux)"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1383671915"
+		"gameid"		"235585"
+		"store_tags"
+		{
+			"0"		"9"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"dlcforappid"		"8930"
+		"mustownapptopurchase"		"8930"
+		"developer"		"Firaxis Games"
+		"developer_url"		"http://www.firaxis.com"
+		"publisher"		"2K"
+		"homepage"		"http://www.civilization.com"
+		"DLCAvailableOnStore"		"1"
+	}
+}

@@ -1,0 +1,143 @@
+"245910"
+{
+	"common"
+	{
+		"name"		"Borderlands 2: Headhunter 2: Wattle Gobbler"
+		"type"		"DLC"
+		"parent"		"49520"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"4e284ec333c4d13457578a20d677240c82f0ff39"
+		"logo_small"		"4e284ec333c4d13457578a20d677240c82f0ff39_thumb"
+		"icon"		"e0deceb3d615e60dde3a2fa2bc872a9a4dbf17e9"
+		"metacritic_name"		"Borderlands 2: Headhunter 2: Wattle Gobbler"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_2d7db95dc5049c4465c16b7dce2ab3b151b96292.jpg"
+		"store_asset_mtime"		"1465408489"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gearbox Software"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Aspyr (Mac)"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Aspyr (Linux)"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"2K"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"Aspyr (Mac)"
+			}
+			"5"
+			{
+				"type"		"publisher"
+				"name"		"Aspyr (Linux)"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"gameid"		"245910"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"122"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+		"review_score_bombs"		"5"
+		"review_percentage_bombs"		"68"
+	}
+	"extended"
+	{
+		"dlcforappid"		"49520"
+		"mustownapptopurchase"		"49520"
+		"developer"		"Gearbox Software"
+		"publisher"		"2K"
+		"homepage"		"http://www.borderlands2.com/"
+		"dlcavailableonstore"		"1"
+	}
+}

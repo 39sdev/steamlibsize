@@ -1,0 +1,545 @@
+"1927720"
+{
+	"common"
+	{
+		"name"		"Monument Valley"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		"macosapplesilicon"
+		"icon"		"058aa7e0cd93213d60eefa6bf5ef75b1859075c2"
+		"clienttga"		"6a400df808bda6c95f9a09062b8a7c99b6b322a1"
+		"clienticon"		"2793822536b6d6e25d42bedaab94e9721f180ecb"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"dutch"		"1"
+			"swedish"		"1"
+			"turkish"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1659571200"
+			"tested_build_id"		"9229054"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.17549748261808"
+				"height_pct"		"74.18632417741892"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"48.17549748261808"
+					"height_pct"		"74.18632417741892"
+				}
+			}
+		}
+		"store_asset_mtime"		"1665501387"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ustwo games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ustwo games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1657629761"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1927720"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"1654"
+			"2"		"21"
+			"3"		"597"
+			"4"		"4182"
+			"5"		"3834"
+			"6"		"84"
+			"7"		"7208"
+			"8"		"9"
+			"9"		"5608"
+			"10"		"1698"
+			"11"		"4191"
+			"12"		"5537"
+			"13"		"1697"
+			"14"		"7250"
+			"15"		"1684"
+			"16"		"4166"
+			"17"		"492"
+			"18"		"5716"
+			"19"		"3877"
+		}
+		"review_score"		"9"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"ustwo games"
+		"publisher"		"ustwo games"
+		"homepage"		"https://www.monumentvalleygame.com/mv1"
+	}
+	"config"
+	{
+		"installdir"		"Monument Valley"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Monument Valley.exe"
+				"arguments"		"-screen-fullscreen 1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Monument Valley.app"
+				"arguments"		"-screen-fullscreen 1"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1927721"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6672538140739151498"
+					"size"		"670977927"
+					"download"		"201060256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_release"
+				{
+					"gid"		"799B1C06B9A49B35F4033DA88095231B"
+					"size"		"9A4CA145FF7B12E23191F0E895B09739"
+					"download"		"E6A971BDBC2291BABD394791ACC0B661"
+				}
+				"play_test"
+				{
+					"gid"		"09287D55FECDDEDB86DA14717C233011"
+					"size"		"1AABFFFEF808ECEA4BA49CFA07083EB4"
+					"download"		"21558E69A1E6726C1E63ACCBBEEB807F"
+				}
+				"test_internal"
+				{
+					"gid"		"C6F67DFEFB06653B81BBB3A8DBC651D9"
+					"size"		"09A81478F1CEBA01E1F704344546C731"
+					"download"		"BB030B2D7900414D8CD4DA50D9DC2D9E"
+				}
+			}
+		}
+		"1927722"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8405187767179317980"
+					"size"		"766971955"
+					"download"		"203263472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_internal_qa"
+				{
+					"gid"		"0BF9DF04EA439CE6F74E2C066C64B9CF"
+					"size"		"E301E04CD080C9265AE8D293D3F62D03"
+					"download"		"9A02568845C1AAD5BAB651F7BD312196"
+				}
+				"test_release"
+				{
+					"gid"		"65BE6BEABC4E298183DD8C071B4298F6"
+					"size"		"E2D8DC49D7F043D789E5F820B2A822BF"
+					"download"		"69E9D3F483A4101ACB3885D23BB7EDAD"
+				}
+				"play_test"
+				{
+					"gid"		"858165259E27AD97B7433541820588F6"
+					"size"		"9130929D82FF988ADCDF36D8F3AE8BD4"
+					"download"		"7D5C4683C5FF326A8DC06A6BB411E734"
+				}
+				"test_internal"
+				{
+					"gid"		"CB1E25ECE7635484143610E8BE831350"
+					"size"		"7F41CD78943310147A6FB4D10274965D"
+					"download"		"F41F7ED817AC345471AC536C637D2A94"
+				}
+			}
+		}
+		"1927723"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2998200370345893889"
+					"size"		"910098543"
+					"download"		"224928320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_internal_qa"
+				{
+					"gid"		"228F8B024819932AF40E1B62328EF443"
+					"size"		"9C103C66D2740F50D3E4C4B30B1C1676"
+					"download"		"84D4131EC6639D36D492D6FD84D17843"
+				}
+				"test_release"
+				{
+					"gid"		"8B6E99CAC796AE5925866DFA4D68DDA2"
+					"size"		"4444B1D66E5E6E9A1D8FE7F776D200BD"
+					"download"		"2DCF9DDDF615D25B05CCA0EE08B4D2AE"
+				}
+				"play_test"
+				{
+					"gid"		"E4821F5B3CCBAD7248CEA0F50A392999"
+					"size"		"75D08DFB3CDC2FC37136981CFE946DE3"
+					"download"		"D5E8BAE70DCE171D3555B883791EBE0A"
+				}
+				"test_internal"
+				{
+					"gid"		"D791D514E47F8C58B3DA1C9E44EC992C"
+					"size"		"D5220243428663A3ECF9E49311B4362C"
+					"download"		"F49F988DF5DE180D084398773D33702E"
+				}
+			}
+		}
+		"1927724"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"play_test"
+				{
+					"gid"		"09E59C65BF72D4552D927A8E076A7B79"
+					"size"		"A76A545ECE96C1183E163F0D02ED337F"
+					"download"		"14573BFA2937016C39AD834342DE7B8A"
+				}
+				"test_internal"
+				{
+					"gid"		"73483B0D60B38D954607624A21F02565"
+					"size"		"7B9E387FBBECB41D6CDB1D78EC009A9E"
+					"download"		"560F5DE5FDB2AD49988B6946B7E59611"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9229054"
+				"timeupdated"		"1659353119"
+			}
+			"test_internal_qa"
+			{
+				"buildid"		"9297162"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660229860"
+			}
+			"test_release"
+			{
+				"buildid"		"9297177"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660230058"
+			}
+			"play_test"
+			{
+				"buildid"		"16735003"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734091903"
+			}
+			"test_internal"
+			{
+				"buildid"		"16721459"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734008583"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"ustwo games/Monument Valley/UserData_{64BitSteamID}"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocalLow"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"ustwo games/Monument Valley/UserData_{64BitSteamID}"
+						"replace"		"ustwo games/Monument Valley/UserData_{64BitSteamID}"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"ustwo games/Monument Valley/UserData_{64BitSteamID}"
+						"replace"		"ustwo games/Monument Valley/UserData_{64BitSteamID}"
+					}
+				}
+			}
+		}
+	}
+}

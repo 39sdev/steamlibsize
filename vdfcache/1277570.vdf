@@ -1,0 +1,137 @@
+"1277570"
+{
+	"common"
+	{
+		"name"		"Golf With Your Friends - Caddy Pack"
+		"type"		"DLC"
+		"parent"		"431240"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"ddb9ee8cf316e018b3bb4d816e094128556d1f0b"
+		"clienttga"		"0a2786d3d087de8aac6c2bbcc51774b2c4db96e4"
+		"icon"		"c6379c8ec66ac02565f1155bf3821b846164d93c"
+		"logo"		"1fb800b577efe76ea44ea5b7c59ff4183c401208"
+		"logo_small"		"1fb800b577efe76ea44ea5b7c59ff4183c401208_thumb"
+		"linuxclienticon"		"1c53d1a43d86ce685c1d54a1a481a0751728ac7a"
+		"clienticns"		"4a232511e44c13a4a4015d52951c70df549c5d44"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_da604338f0f154fa1c466e125352c78475e0f522.jpg"
+		"store_asset_mtime"		"1663151335"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Blacklight Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team17 Digital"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Team17 Digital"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"18"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_36"		"1"
+			"category_15"		"1"
+			"category_2"		"1"
+			"category_30"		"1"
+			"category_17"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_18"		"1"
+			"category_44"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1589918400"
+		"gameid"		"1277570"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"701"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"dlcforappid"		"431240"
+		"mustownapptopurchase"		"431240"
+		"developer"		"Blacklight Interactive"
+		"publisher"		"Team17 Digital"
+		"homepage"		"https://www.team17.com/"
+		"dlcavailableonstore"		"1"
+	}
+}

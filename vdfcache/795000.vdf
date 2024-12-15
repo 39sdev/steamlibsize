@@ -1,0 +1,118 @@
+"795000"
+{
+	"common"
+	{
+		"name"		"SpellForce 3 Mod Kit"
+		"type"		"DLC"
+		"parent"		"311290"
+		"ReleaseState"		"released"
+		"icon"		"78abc44945771b6810366b6248c276c7299d8bd9"
+		"clienticon"		"1a8930efea2bd9f9de525392121dc92356a035e8"
+		"clienttga"		"a6c151bc7b0390a4a4b59498d885d5fbc7ba3285"
+		"logo"		"8479781be2dec1e459838470d050371d542c7d98"
+		"logo_small"		"8479781be2dec1e459838470d050371d542c7d98_thumb"
+		"metacritic_name"		"SpellForce 3 Mod Kit"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_eb0650d6c96080d62c206d1c222824d82b4bb262.jpg"
+		"store_asset_mtime"		"1517414593"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Grimlore Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"THQ Nordic"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_23"		"1"
+			"category_17"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1518181699"
+		"gameid"		"795000"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"122"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"dlcforappid"		"311290"
+		"mustownapptopurchase"		"311290"
+		"developer"		"Grimlore Games"
+		"publisher"		"THQ Nordic"
+		"homepage"		"http://www.spellforce.com"
+		"isfreeapp"		"1"
+		"DLCAvailableOnStore"		"1"
+	}
+}

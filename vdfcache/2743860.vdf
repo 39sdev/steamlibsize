@@ -1,0 +1,252 @@
+"2743860"
+{
+	"common"
+	{
+		"name"		"TSEROF"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"f31e35f664f5846b53d7da895e700f7b53f617b2"
+		"clienticon"		"24c5c8be72122e4e647e9058bafae3d183464dd1"
+		"clienttga"		"0279f000bb9032d7132b4baefa545fe02b2eec60"
+		"ReleaseState"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1710201600"
+			"tested_build_id"		"13084569"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"14.550758459743292"
+				"height_pct"		"72.10884522019052"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"14.550758459743292"
+					"height_pct"		"72.10884522019052"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1706089209"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Eojin KIM"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Jaehun Jung"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Hyeongjung KIM"
+			}
+			"3"
+			{
+				"type"		"developer"
+				"name"		"Jiwon Park"
+			}
+			"4"
+			{
+				"type"		"developer"
+				"name"		"Hongjun Lee"
+			}
+			"5"
+			{
+				"type"		"publisher"
+				"name"		"Eojin's Children"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1707563320"
+		"community_hub_visible"		"1"
+		"gameid"		"2743860"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"4106"
+			"2"		"5395"
+			"3"		"4182"
+			"4"		"4191"
+			"5"		"1625"
+			"6"		"3834"
+			"7"		"5652"
+			"8"		"4486"
+			"9"		"7208"
+			"10"		"4726"
+			"11"		"5608"
+			"12"		"30358"
+			"13"		"1654"
+			"14"		"6971"
+		}
+		"review_score"		"7"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"Eojin KIM"
+		"publisher"		"Eojin's Children"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TSEROF"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TSEROF.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"BetaKey"		"TSEROF.exe"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2743861"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2556698623670504444"
+					"size"		"1003058874"
+					"download"		"254669312"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13084569"
+				"timeupdated"		"1704292534"
+			}
+		}
+	}
+}

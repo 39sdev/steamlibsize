@@ -1,0 +1,498 @@
+"1046930"
+{
+	"common"
+	{
+		"name"		"Dota Underlords"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"exfgls"		"1"
+		"icon"		"1f6f64144e8cc371c5382660e48998dfbe0a708e"
+		"clienticon"		"7a8bd97453bb9a66c01f7db1342bf8d93c71d3a0"
+		"clienttga"		"a74dc4b75b4d2b5793fa23479f958f7136b3d159"
+		"logo"		"c0560d8a0230c3057eef693b8b0ec70f612d9ba9"
+		"logo_small"		"c0560d8a0230c3057eef693b8b0ec70f612d9ba9_thumb"
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1647561600"
+			"tested_build_id"		"7844185"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Dota Underlords"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"44"
+				"height_pct"		"89"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"44"
+					"height_pct"		"89"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1649700079"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Valve"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Valve"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Dota"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_18"		"1"
+			"category_33"		"1"
+			"category_1"		"1"
+			"category_23"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1561057200"
+		"community_hub_visible"		"1"
+		"gameid"		"1046930"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"1084988"
+			"3"		"597"
+			"4"		"3859"
+			"5"		"1708"
+			"6"		"4184"
+			"7"		"14139"
+			"8"		"1677"
+			"9"		"5611"
+			"10"		"3878"
+			"11"		"1684"
+			"12"		"1770"
+			"13"		"1666"
+			"14"		"32322"
+			"15"		"4182"
+			"16"		"1775"
+			"17"		"1685"
+			"18"		"255534"
+			"19"		"1718"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"minclientversion"		"1589513816"
+		"developer"		"Valve"
+		"publisher"		"Valve"
+		"homepage"		"http://underlords.com/"
+		"isfreeapp"		"1"
+		"aliases"		"Underlords"
+	}
+	"config"
+	{
+		"installdir"		"Underlords"
+		"checkforupdatesbeforelaunch"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game\\bin\\win64\\underlords.exe"
+				"arguments"		"-steam -consolelog -conrotate 3"
+				"workingdir"		"game\\dac"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"game/underlords.sh"
+				"arguments"		"-steam -vulkan -consolelog -conrotate 3"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"game/underlords.sh"
+				"arguments"		"-steam -vulkan -consolelog -conrotate 3"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"1761116614"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		""
+				"use_action_block"		"false"
+			}
+			"1767525558"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+			"1767736361"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"enabletextfiltering"		"1"
+		"steamcontrollertouchtemplateindex"		"8"
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"1046931"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1542683719734022042"
+					"size"		"2434037491"
+					"download"		"1659022624"
+				}
+			}
+		}
+		"1046932"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2957785961170446564"
+					"size"		"749047142"
+					"download"		"375353536"
+				}
+			}
+		}
+		"1046933"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1242461246499852085"
+					"size"		"140664203"
+					"download"		"38671232"
+				}
+			}
+		}
+		"1046934"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5354398815014962705"
+					"size"		"143882738"
+					"download"		"36989824"
+				}
+			}
+		}
+		"1046935"
+		{
+			"config"
+			{
+				"oslist"		"macos,linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1023246490454878010"
+					"size"		"371175230"
+					"download"		"188551664"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek,ukrainian,latam,vietnamese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12606359"
+				"timeupdated"		"1730934363"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"134217728"
+		"maxnumfiles"		"5000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/dac_desktop/cfg"
+				"pattern"		"dackeys_personal.lst"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"game/dac/cfg"
+				"pattern"		"dackeys_personal.lst"
+			}
+		}
+	}
+}

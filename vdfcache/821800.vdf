@@ -1,0 +1,154 @@
+"821800"
+{
+	"common"
+	{
+		"name"		"ADR-Labelling Game"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"9d80213fcb998a9e0bf246d6ac0747b7a90338e6"
+		"clienticon"		"0a415995aa8f0bef14c57da9444c26e098cd8355"
+		"icon"		"fdef23f2c620f1940cda50c558e8f6d49b7b91ec"
+		"logo"		"52a99ce99ccbb280f618ee6737908fc3228a291e"
+		"logo_small"		"52a99ce99ccbb280f618ee6737908fc3228a291e_thumb"
+		"app_retired_publisher_request"		"1"
+		"restricted_countries"		"DE"
+		"metacritic_name"		"ADR-Labelling Game"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_c7b966518db0b1b520e63b0781bdc9e488cd0007.jpg"
+		"store_asset_mtime"		"1667287809"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Suomen Kuljetusturva Oy"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Suomen Kuljetusturva Oy"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1523525498"
+		"community_hub_visible"		"1"
+		"gameid"		"821800"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"1036"
+			"2"		"1100687"
+			"3"		"4026"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Suomen Kuljetusturva Oy"
+		"publisher"		"Suomen Kuljetusturva Oy"
+		"homepage"		"https://adr-labellinggame.fi/"
+	}
+	"config"
+	{
+		"installdir"		"ADR-Labelling Game"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ADR-Labelling Game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"821801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2110661099258423935"
+					"size"		"217793646"
+					"download"		"123645200"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2741847"
+				"timeupdated"		"1525334399"
+			}
+		}
+	}
+}

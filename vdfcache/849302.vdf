@@ -1,0 +1,160 @@
+"849302"
+{
+	"common"
+	{
+		"name"		"Shadow of the Tomb Raider - Fear Incarnate Gear"
+		"type"		"DLC"
+		"parent"		"750920"
+		"releasestate"		"released"
+		"clienticon"		"dbf5b707d3d54d0a79db7fce10ab09032c59f71d"
+		"clienttga"		"080adeb180ddd52822cac4a0962209e78bc6c0a8"
+		"icon"		"b8f779f4471be53cf01aba7055b53af9ce41cbf3"
+		"logo"		"ca59ead3b2141fb541a4e645ed82cd7067bfb1cf"
+		"logo_small"		"ca59ead3b2141fb541a4e645ed82cd7067bfb1cf_thumb"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"metacritic_name"		"Weapon &amp;amp; Outfit Only Bundle DLC3"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_17d06619061408b0bb5756aa45ec0404e6172f54.jpg"
+		"store_asset_mtime"		"1548150403"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Eidos-Montréal"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Crystal Dynamics"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Crystal Dynamics"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1548176263"
+		"gameid"		"849302"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"dlcforappid"		"750920"
+		"mustownapptopurchase"		"750920"
+		"developer"		"Eidos-Montréal"
+		"publisher"		"Crystal Dynamics"
+		"homepage"		"https://www.tombraider.com/"
+		"dlcavailableonstore"		"1"
+	}
+}

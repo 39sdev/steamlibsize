@@ -1,0 +1,27 @@
+"208157"
+{
+	"common"
+	{
+		"name"		"ENDLESS™ Space - Amplitude Badge + GAMES2GETHER Points"
+		"type"		"DLC"
+		"parent"		"208140"
+		"oslist"		"windows,macos"
+		"icon"		"bea8aa5e12458748ea81e4d1c00d0eb4e0bfc1ff"
+		"gameid"		"208157"
+	}
+	"extended"
+	{
+		"developer"		""
+		"dlcforappid"		"208140"
+		"gamedir"		"Endless Space - Emperor Edition ES Award + 1000 G2G"
+		"homepage"		""
+		"icon"		""
+		"mustownapptopurchase"		"208140"
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos"
+		"visibleonlywhensubscribed"		"1"
+		"hadthirdpartycdkey"		"1"
+	}
+}

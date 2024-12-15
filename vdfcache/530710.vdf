@@ -1,0 +1,129 @@
+"530710"
+{
+	"common"
+	{
+		"name"		"Dead by Daylight - The 80's Suitcase"
+		"type"		"DLC"
+		"parent"		"381210"
+		"releasestate"		"released"
+		"logo"		"df5ad9913fe1cdd9c9e2a1681feecb0481499a1c"
+		"logo_small"		"df5ad9913fe1cdd9c9e2a1681feecb0481499a1c_thumb"
+		"icon"		"e19f7ef2af2eda171a7f477b423590ab2a4fb323"
+		"oslist"		"windows"
+		"osarch"		""
+		"app_retired_publisher_request"		"1"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"metacritic_name"		"Dead by Daylight - The 80's Suitcase"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_0027d488463b6ad0077692ccb54b2e1c55504694.jpg"
+		"store_asset_mtime"		"1667328122"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Behaviour Digital Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Behaviour Digital Inc."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_33"		"1"
+			"category_29"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_28"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1474655589"
+		"gameid"		"530710"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4345"
+			"2"		"4667"
+			"3"		"1667"
+			"4"		"3859"
+			"5"		"3978"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+		"review_score_bombs"		"8"
+		"review_percentage_bombs"		"89"
+	}
+	"extended"
+	{
+		"dlcforappid"		"381210"
+		"mustownapptopurchase"		"381210"
+		"developer"		"Behaviour Digital Inc."
+		"publisher"		"Behaviour Digital Inc."
+		"homepage"		"http://www.deadbydaylight.com"
+		"dlcavailableonstore"		"1"
+	}
+}

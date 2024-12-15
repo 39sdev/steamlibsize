@@ -1,0 +1,842 @@
+"526870"
+{
+	"common"
+	{
+		"name"		"Satisfactory"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"b830a7fe1880ee85614322be91d9903078708945"
+		"clienttga"		"241bffea0b057c62689441b289bb6fd3a960823d"
+		"icon"		"ee3406fe5ec813b1987ad67e37e5cd6fb4f620e6"
+		"logo"		"e1ea012cc760443f3458c21549b254da1cc71f64"
+		"logo_small"		"e1ea012cc760443f3458c21549b254da1cc71f64_thumb"
+		"ReleaseState"		"released"
+		"name_localized"
+		{
+			"schinese"		"幸福工厂"
+			"tchinese"		"滿意工廠"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1644969600"
+			"tested_build_id"		"8118673"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Satisfactory"
+		"small_capsule"
+		{
+			"english"		"fe7cbb345c177f83f829a61f0e0ab951b42c7ab1/capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"67.09451575262543"
+				"height_pct"		"77.96247922108762"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"UpperCenter"
+					"width_pct"		"67.09451575262543"
+					"height_pct"		"77.96247922108762"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_header_2x.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1733846604"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Coffee Stain Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Coffee Stain Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Coffee Stain Publishing"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_42"		"1"
+			"category_22"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1725980340"
+		"metacritic_score"		"91"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/satisfactory?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"526870"
+		"store_tags"
+		{
+			"0"		"7332"
+			"1"		"255534"
+			"2"		"1695"
+			"3"		"3859"
+			"4"		"1702"
+			"5"		"1685"
+			"6"		"8945"
+			"7"		"1643"
+			"8"		"3810"
+			"9"		"3834"
+			"10"		"21"
+			"11"		"1100689"
+			"12"		"1662"
+			"13"		"599"
+			"14"		"3839"
+			"15"		"9"
+			"16"		"493"
+			"17"		"4182"
+			"18"		"3942"
+			"19"		"492"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Coffee Stain Studios"
+		"publisher"		"Coffee Stain Publishing"
+		"homepage"		"https://www.coffeestainstudios.com/"
+		"listofdlc"		"3170070"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Satisfactory"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FactoryGameSteam.exe"
+				"arguments"		"-NO_EOS_OVERLAY"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"FactoryGameSteam.sh"
+				"arguments"		"-NO_EOS_OVERLAY"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"FactoryGame.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"BetaKey"		"default-cheats experimental-cheats"
+				}
+				"description_loc"
+				{
+					"english"		"Legacy"
+				}
+				"description"		"Legacy"
+			}
+			"3"
+			{
+				"executable"		"FactoryGame.sh"
+				"arguments"		"-NO_EOS_OVERLAY"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+					"BetaKey"		"default-cheats experimental-cheats"
+				}
+				"description_loc"
+				{
+					"english"		"Legacy"
+				}
+				"description"		"Legacy"
+			}
+			"4"
+			{
+				"executable"		"FactoryCookedEditor.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"BetaKey"		"internal-tools"
+				}
+				"description_loc"
+				{
+					"english"		"Internal Tools"
+				}
+				"description"		"Internal Tools"
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2188499079"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"526870"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"526871"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4469045196414832861"
+					"size"		"27244196376"
+					"download"		"12416701392"
+				}
+				"experimental"
+				{
+					"gid"		"4469045196414832861"
+					"size"		"27244196376"
+					"download"		"12416701392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"epic"
+				{
+					"gid"		"54C100AF46E24C02852E8949432454A9"
+					"size"		"179F4F88A540A35769A8083E751F83EE"
+					"download"		"D6DDE3B6EEBD71CDF97CCC6C2069ACAB"
+				}
+				"qa-cheats"
+				{
+					"gid"		"2AB32D50E77D0967C5ACDCB705DB4820"
+					"size"		"391751045885301FFE9850534B9FE586"
+					"download"		"09048831434B7EEA072ADB85232F1CAE"
+				}
+				"default-cheats"
+				{
+					"gid"		"99391F6C2C2015E6D5734F5E06873F93"
+					"size"		"2993F8A958AC71FA594868324DAB36A8"
+					"download"		"E19A7BD4E3202309E122ABBB43DA24B2"
+				}
+				"experimental-cheats"
+				{
+					"gid"		"EA1661E3A3EA2A56E9B25C22AB975F97"
+					"size"		"CFD033344F5305E0A6752CB43F9CB25A"
+					"download"		"FB15EB63105D420E3B7BD82265A46CA4"
+				}
+				"internal"
+				{
+					"gid"		"B9B04C35EDFA7D448E9DE10B1FD08B32"
+					"size"		"06D4F3B8A37CBD09D4C3631968B91567"
+					"download"		"4293CC22CCB504E3A1BF215C67A8F653"
+				}
+				"internal-tools"
+				{
+					"gid"		"DED3832A5525549049C6E72E6917C9A1"
+					"size"		"E586638DEE5E44B2E587401620298678"
+					"download"		"2E3EE6B6D6859CF2CE8461C40FFF1386"
+				}
+				"internal-trailer"
+				{
+					"gid"		"CDBCAF913E372D10CEF6A8AB972E792E"
+					"size"		"0B84A72C56AC392D2D9EEEB470776549"
+					"download"		"B25A686DB9FE6D7E55F4C0EA8B170638"
+				}
+				"internal2"
+				{
+					"gid"		"13D7691F273C57AE63B4EA284153E509"
+					"size"		"627AF29C6EB8DE2193FAA53A0272F65F"
+					"download"		"2955CA033944F7A1C8F3794F1873A0DC"
+				}
+				"internal3"
+				{
+					"gid"		"C6F4540A7ED894FFE27802B8CB26932D"
+					"size"		"4AB463C8D11106F98C999545EFD5BD16"
+					"download"		"FCF583B88933FE52E779C3B1A1FC458F"
+				}
+				"internal4"
+				{
+					"gid"		"AA241E6F0AE519511229C9B4B7F08668"
+					"size"		"94C33D7D7793297BD9EE24911B392A2D"
+					"download"		"230C9622AA442B424E46289E574A80E3"
+				}
+				"internal5"
+				{
+					"gid"		"5233C8953E93D5B1610F6054C16F1A87"
+					"size"		"E5C754CC8ECCC92CCF605CFCB1255C2B"
+					"download"		"34EBC25750485FD9762C011A49E18D62"
+				}
+				"internal6"
+				{
+					"gid"		"EE549EB0E5E9ECDF7BDD1D8EDF15EB35"
+					"size"		"97D414180D965EA6149265D7AA9E153E"
+					"download"		"7C04EF61260FFF8888D7B94AA7B826AA"
+				}
+				"internal7"
+				{
+					"gid"		"5A70C9FB186A97BC61B7E1EEE9AB5923"
+					"size"		"49FD54509D1FF2A75201127104FD4F39"
+					"download"		"7FBBFD9185991F4933AC14E4243D048A"
+				}
+				"internal8"
+				{
+					"gid"		"10C2BD1ADE9ED4920C35ECCBA9D96F98"
+					"size"		"9CD5243F3844C082EC1221C010C1A470"
+					"download"		"439E79592FC347EAD6F725A320B9548A"
+				}
+				"media"
+				{
+					"gid"		"912E7864173B77E8B657FB78281F4CF2"
+					"size"		"397C3F6E0A007223639EA104F696A30D"
+					"download"		"4FFFFE6A244D8E5E98E929D35791EC1C"
+				}
+				"nightly"
+				{
+					"gid"		"FC9EF2D8B008AFD9D3B5912BEE27B15C"
+					"size"		"C9C0695448525BE10825D66FFE37F635"
+					"download"		"06B0FFB07D72C5AEA3607198E23FD47A"
+				}
+				"patching"
+				{
+					"gid"		"264FD823224CC42E776491BB15B7C218"
+					"size"		"414C1EACB78B8D4D49F3398B85406033"
+					"download"		"B22E06651BCE8F865904E6C7E0056413"
+				}
+				"patchnotes-cheats"
+				{
+					"gid"		"8E514D7EB5F36D2AE0B98F4190F27F10"
+					"size"		"6E319AE21D2A608F59423FB092716875"
+					"download"		"AF00B888F16E9D20D7F1D28F588F48C2"
+				}
+				"staging"
+				{
+					"gid"		"BC167C9E9D3B4F206147B0E92C693A88"
+					"size"		"0A5A1F7A38607BFB60D6764401ABC28E"
+					"download"		"A99B2443FE7CE1DE2ED73E0747FB15A2"
+				}
+				"tech-support"
+				{
+					"gid"		"2C8273EF2BA6FBD3AB941524C411D059"
+					"size"		"A8986B0FE0162D4A6707ED225C71E41A"
+					"download"		"7BCB5B7AFB70007065148C1175046608"
+				}
+			}
+		}
+		"526872"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5803040033105061686"
+					"size"		"14978692587"
+					"download"		"9804857840"
+				}
+				"experimental"
+				{
+					"gid"		"5803040033105061686"
+					"size"		"14978692587"
+					"download"		"9804857840"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"epic"
+				{
+					"gid"		"CC7B04A16BE11090FED9CE88FB48AF91"
+					"size"		"D4430A58E187B77C4B4318187198FCF0"
+					"download"		"4B6C26E6500C1E7B9FA47D5AF401371D"
+				}
+				"qa-cheats"
+				{
+					"gid"		"C3FD32205A0C1343707725D0FDE6F4B0"
+					"size"		"19B6C5C53AC0B2FE086B5918C289F6BF"
+					"download"		"DC763E545D6D32AE48E5C7BE39A55B16"
+				}
+				"default-cheats"
+				{
+					"gid"		"E5E6E459A08308A0B2F0490B71587019"
+					"size"		"B04450585698D638394F344C66AE0E9C"
+					"download"		"1B8C134AAB10838DBA704FE0D6A7E822"
+				}
+				"experimental-cheats"
+				{
+					"gid"		"19CA519691C9DA5FF06AAD79F1ECCE52"
+					"size"		"7521BF16BA4A173ACD7507FE3A0FA9EB"
+					"download"		"8A51B48B6072951F3B12043EF9BA5A62"
+				}
+				"internal"
+				{
+					"gid"		"F1832F5B6F94D3F9BCCAC141EFA8E318"
+					"size"		"358F091F89D239B0CEB3B90984F9D7E5"
+					"download"		"F717FE52018EF9216C5756949DC08D64"
+				}
+				"internal-tools"
+				{
+					"gid"		"DB9F3BC1BE6E5917009375D6E477C989"
+					"size"		"D890D3A1CDE3A7297A3F7DB5A57CB9F2"
+					"download"		"ED36A19C750A01CB4E724340A0CB8D71"
+				}
+				"internal-trailer"
+				{
+					"gid"		"39F05645B8BD11FEADA537934B043DEB"
+					"size"		"BF3E7FA44F3E581D79B840221474B76C"
+					"download"		"6AF36FD936B65F652DF62C1215391EF1"
+				}
+				"internal2"
+				{
+					"gid"		"9B252CB9B319F8D74E99AD239C7EC5D8"
+					"size"		"9E85FB1C22DBA4B961A5315910481E62"
+					"download"		"053F98E956D9B2255EAF9B2B024AEC49"
+				}
+				"internal3"
+				{
+					"gid"		"D4C4F0DF19BA013F504717A1D95A4777"
+					"size"		"74B6DE0FA895F1405932C5A7BC424593"
+					"download"		"B4C01C39E748E573AF1BBADC19CA1E57"
+				}
+				"internal4"
+				{
+					"gid"		"5D68D4664B526C366091DB00CEC4BD01"
+					"size"		"79E2D4DCF40088280BB5C8AE352471E4"
+					"download"		"EA2ECAC692F360209AF45CFD637C4751"
+				}
+				"internal5"
+				{
+					"gid"		"8C6AB9180326D234AE9BA799A3FEC4D1"
+					"size"		"B8F0ED23FF3A9B37174B2CA7E96D3797"
+					"download"		"7845358C86BD6DA973467D8D956936AA"
+				}
+				"internal6"
+				{
+					"gid"		"EAEBB8093B84F946CAD54555C14E21E0"
+					"size"		"21BAE3D2A3526050A132C2D430419B46"
+					"download"		"D567FFB6D39944F9AFC377A913F35891"
+				}
+				"internal7"
+				{
+					"gid"		"14316DF9FD97503942E5EA049DFF7F25"
+					"size"		"0AE4366E979C8C49B2FD55E43A900A8A"
+					"download"		"F0744A216E061992B06260E732FD18B0"
+				}
+				"internal8"
+				{
+					"gid"		"7480096D76F5D8D4DFCF98DF6F7E9234"
+					"size"		"BF52D75B2269FFD80C5231B1D46EEE57"
+					"download"		"019D5E312095EE7B3FC88AFDCE9B8B48"
+				}
+				"media"
+				{
+					"gid"		"8EE7F4357627975C080C3629A8D6B95A"
+					"size"		"84F2BB4FC9F70FD51A56EF5532B379A3"
+					"download"		"97FA1A7CCE6D9A0284F35E2D2AC7756E"
+				}
+				"nightly"
+				{
+					"gid"		"699483153B36DB5846D04CC6F760A956"
+					"size"		"CB675323A0D134C60902E73C3D924BC3"
+					"download"		"F25654E7EF38019D3D94F1DE6E042E39"
+				}
+				"patching"
+				{
+					"gid"		"F7FCDCFA7BFDA6A250EFB0D52228BCD5"
+					"size"		"666C52D096574EACD5E1058E81E84AFC"
+					"download"		"630A59397F065178F92AFF3CCC20C114"
+				}
+				"patchnotes-cheats"
+				{
+					"gid"		"E5A4D0734A9BD3D614790DB750F845E6"
+					"size"		"1354784BC2092806D539799D8283E1BC"
+					"download"		"B6B123C396AADF16F0114D5AE8BA32E2"
+				}
+				"staging"
+				{
+					"gid"		"4EB68F6360D06C262268134AD2A14CD6"
+					"size"		"71DB7BF5477E4A95C56FF3B614E981A1"
+					"download"		"E96741FE95C6B2E73920D87D17CBE12F"
+				}
+				"tech-support"
+				{
+					"gid"		"D9BD9538D09324ABBE9803716EDC1E05"
+					"size"		"E173946CD8ADF24EDD05A46C12601E89"
+					"download"		"5E63C8AB6BDACD94EB515CB99DBF1F94"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16682733"
+				"timeupdated"		"1733769643"
+			}
+			"epic"
+			{
+				"buildid"		"12629665"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699274263"
+			}
+			"qa-cheats"
+			{
+				"buildid"		"11678714"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689114588"
+			}
+			"default-cheats"
+			{
+				"buildid"		"12929917"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732273736"
+			}
+			"experimental"
+			{
+				"buildid"		"16682733"
+				"timeupdated"		"1733769624"
+			}
+			"experimental-cheats"
+			{
+				"buildid"		"16393183"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733163014"
+			}
+			"internal"
+			{
+				"buildid"		"16486950"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732196171"
+			}
+			"internal-tools"
+			{
+				"buildid"		"15651629"
+				"pwdrequired"		"1"
+				"timeupdated"		"1725974276"
+			}
+			"internal-trailer"
+			{
+				"buildid"		"16727033"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734037963"
+			}
+			"internal2"
+			{
+				"buildid"		"16708023"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733924038"
+			}
+			"internal3"
+			{
+				"buildid"		"16407474"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731595398"
+			}
+			"internal4"
+			{
+				"buildid"		"16568283"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732807799"
+			}
+			"internal5"
+			{
+				"buildid"		"16696782"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733849611"
+			}
+			"internal6"
+			{
+				"buildid"		"16729722"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734056517"
+			}
+			"internal7"
+			{
+				"buildid"		"16579503"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732887447"
+			}
+			"internal8"
+			{
+				"buildid"		"16747372"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734206960"
+			}
+			"media"
+			{
+				"buildid"		"15570274"
+				"pwdrequired"		"1"
+				"timeupdated"		"1725309523"
+			}
+			"nightly"
+			{
+				"buildid"		"16748549"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734226722"
+			}
+			"patching"
+			{
+				"buildid"		"16747863"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734214816"
+			}
+			"patchnotes-cheats"
+			{
+				"buildid"		"15291338"
+				"pwdrequired"		"1"
+				"timeupdated"		"1723039622"
+			}
+			"staging"
+			{
+				"buildid"		"16682733"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733761386"
+			}
+			"tech-support"
+			{
+				"buildid"		"15913148"
+				"pwdrequired"		"1"
+				"timeupdated"		"1727943915"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"FactoryGame/Saved/SaveGames/{64BitSteamID}"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}

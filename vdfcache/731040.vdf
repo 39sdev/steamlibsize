@@ -1,0 +1,578 @@
+"731040"
+{
+	"common"
+	{
+		"name"		"The Invincible"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"adeefcc301b5ce0f29f49374a686a207819496ae"
+		"logo_small"		"adeefcc301b5ce0f29f49374a686a207819496ae_thumb"
+		"icon"		"b27694fcee732620a7bd863ea47a5979c349ff6b"
+		"clienticon"		"0c684bc1e16df528eae8db0c801e72e5f7db545a"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"name_localized"
+		{
+			"schinese"		"无敌号"
+			"tchinese"		"無敵號"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+			"ukrainian"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"731040_eula_0"
+				"name"		"The Invincible EULA"
+				"url"		"https://store.steampowered.com//eula/731040_eula_0"
+				"version"		"2"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1698883200"
+			"tested_build_id"		"12486458"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"a6fe005bbd6281ff4f0947c54ba6153694c88b39/capsule_231x87.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"koreana"		"header_koreana.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.55813953488377"
+				"height_pct"		"92.93516979339823"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"37.55813953488377"
+					"height_pct"		"92.93516979339823"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1728390079"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Starward Industries"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"11 bit studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"11 bit studios"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_28"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_23"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1699282568"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"731040"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"5752"
+			"2"		"4295"
+			"3"		"5900"
+			"4"		"15172"
+			"5"		"3942"
+			"6"		"7208"
+			"7"		"6426"
+			"8"		"6971"
+			"9"		"5716"
+			"10"		"1755"
+			"11"		"4064"
+			"12"		"5794"
+			"13"		"1742"
+			"14"		"1673"
+			"15"		"4182"
+			"16"		"11014"
+			"17"		"6869"
+			"18"		"3839"
+			"19"		"5094"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Starward Industries"
+		"publisher"		"11 bit studios"
+		"homepage"		"https://invinciblethegame.com/"
+		"listofdlc"		"2622920"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Invincible"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheInvincible.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65533"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"731041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4345732378926284467"
+					"size"		"42108017965"
+					"download"		"16101283216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-remote"
+				{
+					"gid"		"C3339AFC920C5D01BBF9E5596425D33D"
+					"size"		"5E9E21319FEAE54B0A642B2E9703540E"
+					"download"		"BAAE83E136F33F4F0157C9B2780DCB69"
+				}
+				"external-tests"
+				{
+					"gid"		"F5284890480F83EF397F1A128C9FADA0"
+					"size"		"03209210DE2EDE239A43B1BB3F196528"
+					"download"		"2779A41C2B994939A32AE09DE441CE97"
+				}
+				"gold"
+				{
+					"gid"		"EDF30464729D96B796C44A3556E8E6E6"
+					"size"		"9D796A4D578DE7D96BB665BF41231C36"
+					"download"		"BE065CCB87B91E6C9FACC7A19B99087A"
+				}
+				"steam-deck-dev"
+				{
+					"gid"		"BDC422B8831598BC39494D47A9BE0F34"
+					"size"		"BD73713937735121794EF91A42A7E92F"
+					"download"		"D130E78EF1ABAE73CA0663017135A98D"
+				}
+				"t_lqa"
+				{
+					"gid"		"590BFD5A1ECBC583A50402AA06BFB707"
+					"size"		"B822E8D9A926E3BB399BE95A28F98E6C"
+					"download"		"290C755DCE7F9ADE71D48ED1E25DC253"
+				}
+				"internal"
+				{
+					"gid"		"1C941972D339B8C052B45D257F40F382"
+					"size"		"39C307F24D39872DD80DCC765C55CEC9"
+					"download"		"03FCD7665442C312B214B8D677B0C94D"
+				}
+				"internal-test"
+				{
+					"gid"		"EBD5C9CBC4204EF2053F81219389FCC9"
+					"size"		"A8887111A8F81A60ED58F5869D8ADA7B"
+					"download"		"0AD19FEFF5D6485823B595EBFE60EB9D"
+				}
+				"marketing"
+				{
+					"gid"		"3C63C8DDB52C7EDA7A8588E91FA994B8"
+					"size"		"3C94F44F9AC62437099FB0917FF03575"
+					"download"		"5E8AE979FDAD9C9B9D7B13F8716543DF"
+				}
+				"test-deploy"
+				{
+					"gid"		"F35A3F49846D7DBEF56D92E6B8C84A09"
+					"size"		"41925C5238E1EB6867CC61E0E98F6BFE"
+					"download"		"D9B4243D855A705F14AA013E1D70C7E1"
+				}
+				"test-dev"
+				{
+					"gid"		"5CFE9BC0A01F9D340FAE6A2B20B96062"
+					"size"		"025B071CE4F48C312D243BF594AE47B2"
+					"download"		"9CD5887D8F06315B8C559A675008F8D0"
+				}
+				"test-rm"
+				{
+					"gid"		"8218883483F37FE6EB1C2EFA405C31B5"
+					"size"		"9E20C03DE5F4E6435B3DDD1ED99D086E"
+					"download"		"1BB842459CAB0750511C1BF50942ACD6"
+				}
+			}
+		}
+		"2622920"
+		{
+			"dlcappid"		"2622920"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8777479205784183221"
+					"size"		"215592215"
+					"download"		"126285552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external-tests"
+				{
+					"gid"		"2905DCE999603FE4CBDB85E1220E448C"
+					"size"		"2FE1678255594E22E9938E1A6C75C3E9"
+					"download"		"7A1D1B503583EF43C40F232DFBA67950"
+				}
+				"t_lqa"
+				{
+					"gid"		"8517AE7919BB642F5AB8197ED74A96F6"
+					"size"		"03538E9CB1A2B325B14480FD624FB412"
+					"download"		"EACA5D65C39B4C656F593B038028155E"
+				}
+				"internal"
+				{
+					"gid"		"79935E6A2F14F12FFDECB56C20F33178"
+					"size"		"07B059F5ED37C984E6F74904D54D1DD0"
+					"download"		"AC11812506079B1D40C45E058F90CB49"
+				}
+				"internal-test"
+				{
+					"gid"		"603315F91956D15AFB644207FC5983EC"
+					"size"		"BC848112DAC8C440C22C1E1AD4573AE5"
+					"download"		"AF6C11C3888C74AB82DEDF07F602CA07"
+				}
+				"marketing"
+				{
+					"gid"		"B939858C25D3D9C461D58CFB07C91FBA"
+					"size"		"24D6D2E748E482461FA180010EAFE94C"
+					"download"		"945F5B285D97DFB1D2AF0E5A46F7C1D1"
+				}
+				"test-deploy"
+				{
+					"gid"		"E1904D7C8A79CF9371FB425EC0C0A66C"
+					"size"		"6D67C8C37E01626A756A4B0A71211ADC"
+					"download"		"F995809FB676BAE0E7723FA8DB625265"
+				}
+				"test-dev"
+				{
+					"gid"		"A6315728B91C042ED395DB9BA2013D64"
+					"size"		"17EF1BF1224C96C32F0B23461769B94D"
+					"download"		"6214936002EF5DE0E8B9931A1CD33B9D"
+				}
+				"test-rm"
+				{
+					"gid"		"5C2AECBAB4AF29062C3D79629AF0ACD5"
+					"size"		"E5C56CCDC4100592627F211F2441A64D"
+					"download"		"5DE517983EAAD1C088966FB6F0B664EC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16065767"
+				"timeupdated"		"1729519053"
+			}
+			"dev-remote"
+			{
+				"buildid"		"12603247"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698938800"
+			}
+			"external-tests"
+			{
+				"buildid"		"12975466"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702667225"
+			}
+			"gold"
+			{
+				"buildid"		"12584705"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699257575"
+			}
+			"steam-deck-dev"
+			{
+				"buildid"		"12486458"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699115407"
+			}
+			"t_lqa"
+			{
+				"buildid"		"12910862"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702037454"
+			}
+			"internal"
+			{
+				"buildid"		"15935084"
+				"pwdrequired"		"1"
+				"timeupdated"		"1728077412"
+			}
+			"internal-test"
+			{
+				"buildid"		"16053367"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729004614"
+			}
+			"marketing"
+			{
+				"buildid"		"14908211"
+				"pwdrequired"		"1"
+				"timeupdated"		"1719933207"
+			}
+			"test-deploy"
+			{
+				"buildid"		"16065767"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729081917"
+			}
+			"test-dev"
+			{
+				"buildid"		"15935084"
+				"pwdrequired"		"1"
+				"timeupdated"		"1728077434"
+			}
+			"test-rm"
+			{
+				"buildid"		"14792976"
+				"pwdrequired"		"1"
+				"timeupdated"		"1718965322"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"157286400"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"TheInvincible\\Saved\\SaveGames\\"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}

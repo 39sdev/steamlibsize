@@ -1,0 +1,178 @@
+"1708090"
+{
+	"common"
+	{
+		"name"		"Multiplayer High-Res Textures"
+		"type"		"DLC"
+		"parent"		"1240440"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"8af1b72ec4407ec71ff241ec610e87d3df263488"
+		"logo_small"		"8af1b72ec4407ec71ff241ec610e87d3df263488_thumb"
+		"icon"		"e98d86b312a11c47069ce95072a1a96a2021a5fa"
+		"name_localized"
+		{
+			"french"		"Textures haute résolution en multijoueur"
+			"italian"		"Texture ad alta risoluzione per la Multigiocatore"
+			"german"		"Hochauflösende Texturen (Multiplayer)"
+			"dutch"		"Multiplayer Hoge resolutie-textures"
+			"japanese"		"マルチプレイヤー高解像度テクスチャ"
+			"koreana"		"멀티 플레이어 고해상도 텍스처"
+			"polish"		"Tekstury wysokiej rozdzielczości w trybie wieloosobowym"
+			"brazilian"		"Texturas de Alta Resolução - Multijogador"
+			"russian"		"Текстуры высокого разрешения для сетевой игры"
+			"schinese"		"多人游戏高分辨率纹理"
+			"latam"		"Texturas de multijugador de alta resolución"
+			"spanish"		"Texturas de alta resolución en multijugador"
+			"tchinese"		"多人遊戲高解析度材質"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_a934e471ac3a8b662846350e8a56ab8ea0d4ed0f.jpg"
+		"store_asset_mtime"		"1632780808"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"343 Industries"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Xbox Game Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Halo"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1636999200"
+		"gameid"		"1708090"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"113"
+		}
+	}
+	"extended"
+	{
+		"dlcforappid"		"1240440"
+		"mustownapptopurchase"		"1240440"
+		"developer"		"343 Industries"
+		"publisher"		"Xbox Game Studios"
+		"homepage"		"https://www.halowaypoint.com/en-us/games/halo-infinite"
+	}
+}

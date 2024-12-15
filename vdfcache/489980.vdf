@@ -1,0 +1,28 @@
+"489980"
+{
+	"common"
+	{
+		"name"		"Dead by Daylight: Deluxe Edition"
+		"type"		"DLC"
+		"parent"		"381210"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"df5ad9913fe1cdd9c9e2a1681feecb0481499a1c"
+		"logo_small"		"df5ad9913fe1cdd9c9e2a1681feecb0481499a1c_thumb"
+		"icon"		"29152631c1492ad7f164cb20fbd5155fee6b27e3"
+		"associations"
+		{
+		}
+		"gameid"		"489980"
+		"store_tags"
+		{
+			"0"		"19"
+		}
+	}
+	"extended"
+	{
+		"dlcforappid"		"381210"
+		"mustownapptopurchase"		"381210"
+	}
+}

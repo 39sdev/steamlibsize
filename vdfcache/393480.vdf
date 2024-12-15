@@ -1,0 +1,105 @@
+"393480"
+{
+	"common"
+	{
+		"name"		"3DMark Sky Diver benchmark"
+		"type"		"DLC"
+		"parent"		"223850"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"d6edeeac574a7e26932a36b392af5ca8a798087e"
+		"logo_small"		"d6edeeac574a7e26932a36b392af5ca8a798087e_thumb"
+		"icon"		"d3977ec7e73b44c208da4e2a010156d9efd30f0b"
+		"metacritic_name"		"3DMark Sky Diver benchmark"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"ba00c9fe5ee14e2d50cdc4425b33b66b42a7d7fb/capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"store_screenshot"		"ss_6f4f8136c0353438a0110926b8a68677574a8b40.jpg"
+		"store_asset_mtime"		"1730822461"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"UL"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"UL"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+			}
+			"schinese"
+			{
+				"supported"		"1"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1450438860"
+		"gameid"		"393480"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"87"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"dlcforappid"		"223850"
+		"mustownapptopurchase"		"223850"
+		"optionaldlc"		"1"
+		"developer"		"UL"
+		"publisher"		"UL"
+		"homepage"		"https://benchmarks.ul.com/3dmark"
+		"isfreeapp"		"1"
+		"dlcavailableonstore"		"1"
+	}
+}

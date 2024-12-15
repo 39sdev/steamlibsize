@@ -1,0 +1,207 @@
+"1422450"
+{
+	"common"
+	{
+		"name"		"Deadlock"
+		"type"		"Game"
+		"releasestate"		"prerelease"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"f6da1420a173324d49bcd470fa3eee781ad0fa5e"
+		"clienttga"		"2baa11093618881e257cd8e2ed61c29be291e6d3"
+		"clienticon"		"d84198725616ae43a74222f559e0fe710c3bb18b"
+		"exfgls"		"1"
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"87.83783631546589"
+				"height_pct"		"33.80142099010375"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"87.83783631546589"
+					"height_pct"		"33.80142099010375"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_header_2x.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1724782459"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Valve"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Valve"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+		}
+		"community_hub_visible"		"1"
+		"gameid"		"1422450"
+		"store_tags"
+		{
+			"0"		"1718"
+			"1"		"3859"
+			"2"		"3814"
+			"3"		"5711"
+			"4"		"620519"
+			"5"		"3878"
+			"6"		"1774"
+			"7"		"19"
+			"8"		"1697"
+			"9"		"3843"
+			"10"		"493"
+			"11"		"113"
+			"12"		"1775"
+			"13"		"9"
+			"14"		"1708"
+			"15"		"1685"
+			"16"		"4136"
+			"17"		"12095"
+			"18"		"5611"
+			"19"		"4726"
+		}
+	}
+}

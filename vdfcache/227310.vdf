@@ -1,0 +1,188 @@
+"227310"
+{
+	"common"
+	{
+		"name"		"Euro Truck Simulator 2 - Going East!"
+		"type"		"DLC"
+		"parent"		"227300"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"be4701890700bdd40cdc1717908f3dc901dad7cd"
+		"logo_small"		"be4701890700bdd40cdc1717908f3dc901dad7cd_thumb"
+		"icon"		"107c306fdeb37c714e68139e85639854e0b0ef1f"
+		"osarch"		""
+		"osextended"		"macos64"
+		"metacritic_name"		"Euro Truck Simulator 2 - Going East!"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_86d55a657e69ae570208dd3a8646d639cacf367c.jpg"
+		"store_asset_mtime"		"1694881490"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SCS Software"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SCS Software"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+			"category_17"		"1"
+			"category_31"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+			}
+			"french"
+			{
+				"supported"		"1"
+			}
+			"italian"
+			{
+				"supported"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+			}
+			"spanish"
+			{
+				"supported"		"1"
+			}
+			"bulgarian"
+			{
+				"supported"		"1"
+			}
+			"czech"
+			{
+				"supported"		"1"
+			}
+			"danish"
+			{
+				"supported"		"1"
+			}
+			"dutch"
+			{
+				"supported"		"1"
+			}
+			"finnish"
+			{
+				"supported"		"1"
+			}
+			"greek"
+			{
+				"supported"		"1"
+			}
+			"hungarian"
+			{
+				"supported"		"1"
+			}
+			"japanese"
+			{
+				"supported"		"1"
+			}
+			"koreana"
+			{
+				"supported"		"1"
+			}
+			"norwegian"
+			{
+				"supported"		"1"
+			}
+			"polish"
+			{
+				"supported"		"1"
+			}
+			"portuguese"
+			{
+				"supported"		"1"
+			}
+			"brazilian"
+			{
+				"supported"		"1"
+			}
+			"romanian"
+			{
+				"supported"		"1"
+			}
+			"russian"
+			{
+				"supported"		"1"
+			}
+			"schinese"
+			{
+				"supported"		"1"
+			}
+			"swedish"
+			{
+				"supported"		"1"
+			}
+			"turkish"
+			{
+				"supported"		"1"
+			}
+		}
+		"steam_release_date"		"1379628038"
+		"gameid"		"227310"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"1644"
+			"2"		"492"
+			"3"		"1695"
+			"4"		"3859"
+			"5"		"4175"
+			"6"		"4182"
+			"7"		"113"
+			"8"		"21"
+			"9"		"1669"
+			"10"		"3810"
+			"11"		"1654"
+			"12"		"3834"
+			"13"		"19"
+			"14"		"8075"
+			"15"		"3839"
+			"16"		"4695"
+			"17"		"7481"
+			"18"		"12472"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"dlcforappid"		"227300"
+		"mustownapptopurchase"		"227300"
+		"developer"		"SCS Software"
+		"publisher"		"SCS Software"
+		"homepage"		"http://eurotrucksimulator2.com/"
+		"gamemanualurl"		"https://store.steampowered.com/manual/227310/"
+		"dlcavailableonstore"		"1"
+	}
+}

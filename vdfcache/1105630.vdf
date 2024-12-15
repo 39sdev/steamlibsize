@@ -1,0 +1,78 @@
+"1105630"
+{
+	"common"
+	{
+		"name"		"Glass Masquerade - Heritages Puzzle Pack"
+		"type"		"DLC"
+		"parent"		"511470"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"60d59d53448d1e9c1c19f54b95bbcb48ae16ea4a"
+		"logo_small"		"60d59d53448d1e9c1c19f54b95bbcb48ae16ea4a_thumb"
+		"icon"		"8e7cb89892a71886931843ccc822d49f9031913f"
+		"metacritic_name"		"Glass Masquerade - Heritages Puzzle Pack"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_9e144da2bdf55d6cb3528eb8dd604a2cb439dcf7.jpg"
+		"store_asset_mtime"		"1560669936"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Onyx Lute"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Onyx Lute"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1560781140"
+		"gameid"		"1105630"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"dlcforappid"		"511470"
+		"mustownapptopurchase"		"511470"
+		"developer"		"Onyx Lute"
+		"publisher"		"Onyx Lute"
+		"homepage"		"https://www.onyxlute.com"
+		"dlcavailableonstore"		"1"
+	}
+}

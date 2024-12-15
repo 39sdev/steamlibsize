@@ -1,0 +1,81 @@
+"365530"
+{
+	"common"
+	{
+		"name"		"GameGuru - Fantasy Pack"
+		"type"		"DLC"
+		"parent"		"266310"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"icon"		"b1807ad0429121b226d427aeb9e4ab88d34c0f4a"
+		"metacritic_name"		"GameGuru - Fantasy Pack"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_47098248c7f180b52d2d0a6d710d2bab428e8c6e.jpg"
+		"store_asset_mtime"		"1535478768"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Game Creators"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Game Creators"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1432054343"
+		"gameid"		"365530"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"8013"
+			"3"		"84"
+			"4"		"87"
+			"5"		"872"
+			"6"		"1036"
+			"7"		"1649"
+			"8"		"1663"
+			"9"		"13906"
+		}
+		"review_score"		"7"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"dlcforappid"		"266310"
+		"mustownapptopurchase"		"266310"
+		"developer"		"The Game Creators"
+		"publisher"		"The Game Creators"
+		"homepage"		"https://www.game-guru.com/"
+		"dlcavailableonstore"		"1"
+	}
+}

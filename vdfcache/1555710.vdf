@@ -1,0 +1,250 @@
+"1555710"
+{
+	"common"
+	{
+		"name"		"OMFG: One Million Fatal Guns"
+		"type"		"Game"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1555710_eula_0"
+				"name"		"OMFG: One Million Fatal Guns EULA"
+				"url"		"https://store.steampowered.com//eula/1555710_eula_0"
+				"version"		"1"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"cc21946748741f0543cdb46021ddd86d8c244cbd"
+		"clienttga"		"c6897c6191fd736b4100e77cb65248da99e88fab"
+		"icon"		"e3ac585319baa52772a23e2d129ee063cec0cdb3"
+		"logo"		"be6ab6180ce9dc2494d746078ed5b87d569f251c"
+		"logo_small"		"be6ab6180ce9dc2494d746078ed5b87d569f251c_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1652227200"
+			"tested_build_id"		"7011170"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.23255813953488"
+				"height_pct"		"61.01876038945619"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"40.23255813953488"
+					"height_pct"		"61.01876038945619"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1670242042"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gun Hit Wonders"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DigiPen Institute of Technology"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1609833600"
+		"steam_release_date"		"1615498248"
+		"community_hub_visible"		"1"
+		"gameid"		"1555710"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"5547"
+			"1"		"1663"
+			"2"		"1773"
+			"3"		"113"
+			"4"		"19"
+			"5"		"1774"
+			"6"		"4255"
+			"7"		"3839"
+			"8"		"4191"
+			"9"		"4182"
+			"10"		"5752"
+			"11"		"3942"
+			"12"		"4094"
+			"13"		"3993"
+			"14"		"1716"
+			"15"		"42804"
+			"16"		"1734"
+			"17"		"353880"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Gun Hit Wonders"
+		"publisher"		"DigiPen Institute of Technology"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"OMFG One Million Fatal Guns"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"OMFGame.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1555711"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3541108813169888312"
+					"size"		"403642241"
+					"download"		"103553408"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7011170"
+				"timeupdated"		"1625969741"
+			}
+		}
+	}
+}

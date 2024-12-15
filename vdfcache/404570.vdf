@@ -1,0 +1,84 @@
+"404570"
+{
+	"common"
+	{
+		"name"		"GameGuru - Sci-Fi Mission to Mars Pack"
+		"type"		"DLC"
+		"parent"		"266310"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"icon"		"e27f045a22e87702d5b575ffd44ea915a7fa2eed"
+		"metacritic_name"		"GameGuru Building Assembly Kit"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_d6b8c0dd7d4471cd26f0df713201aabe117b7057.jpg"
+		"store_asset_mtime"		"1535479298"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Game Creators"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Game Creators"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1453740698"
+		"gameid"		"404570"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"13906"
+			"1"		"19"
+			"2"		"84"
+			"3"		"872"
+			"4"		"1649"
+			"5"		"3942"
+			"6"		"1036"
+			"7"		"1755"
+			"8"		"1663"
+			"9"		"1743"
+			"10"		"3839"
+			"11"		"4295"
+			"12"		"16598"
+		}
+		"review_score"		"7"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"dlcforappid"		"266310"
+		"mustownapptopurchase"		"266310"
+		"developer"		"The Game Creators"
+		"publisher"		"The Game Creators"
+		"homepage"		"https://www.game-guru.com/"
+		"dlcavailableonstore"		"1"
+	}
+}

@@ -1,0 +1,131 @@
+"537330"
+{
+	"common"
+	{
+		"name"		"100% Orange Juice - Acceleration Pack"
+		"type"		"DLC"
+		"parent"		"282800"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"clienticon"		"e200ecf44ef65fa50c4d6666b2507fd28062ebb7"
+		"clienttga"		"a92f9b09703149a973859478b756d9ccc16c3860"
+		"icon"		"f02847141089fe03c7fe473777b5c058eb43f5de"
+		"logo"		"848e1feeadebad523b23aab37a1cbd3533adbb9f"
+		"logo_small"		"848e1feeadebad523b23aab37a1cbd3533adbb9f_thumb"
+		"name_localized"
+		{
+			"japanese"		"100％おれんじじゅ～すっ！ - アクセラレーションパック"
+		}
+		"osextended"		""
+		"metacritic_name"		"100% Orange Juice - Poppo Pack"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_cd04a3f94955cc974c16028d252887cadb579cf4.jpg"
+		"store_asset_mtime"		"1476103023"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Orange_Juice"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fruitbat Factory"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_29"		"1"
+			"category_8"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1476723450"
+		"gameid"		"537330"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+			"2"		"1677"
+			"3"		"3859"
+			"4"		"4085"
+			"5"		"1770"
+			"6"		"4726"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"dlcforappid"		"282800"
+		"mustownapptopurchase"		"282800"
+		"developer"		"Orange_Juice"
+		"publisher"		"Fruitbat Factory"
+		"homepage"		"http://fruitbatfactory.com/100orange/"
+		"dlcavailableonstore"		"1"
+	}
+}

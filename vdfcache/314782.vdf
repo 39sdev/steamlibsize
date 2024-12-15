@@ -1,0 +1,22 @@
+"314782"
+{
+	"common"
+	{
+		"name"		"Valkyria Chronicles™ Selveria's Mission \"Behind Her Blue Flame\""
+		"type"		"DLC"
+		"parent"		"294860"
+		"ReleaseState"		"released"
+		"logo"		"b67fc2560c34a2f31427f2235bf050e3916f48f5"
+		"logo_small"		"b67fc2560c34a2f31427f2235bf050e3916f48f5_thumb"
+		"icon"		"0e1bfeecd88b06d76e2717b4b0b6b5c34b1f3827"
+		"associations"
+		{
+		}
+		"gameid"		"314782"
+	}
+	"extended"
+	{
+		"dlcforappid"		"294860"
+		"mustownapptopurchase"		"294860"
+	}
+}

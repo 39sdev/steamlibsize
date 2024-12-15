@@ -1,0 +1,137 @@
+"1440191"
+{
+	"common"
+	{
+		"name"		"Worms Rumble - Legends Pack"
+		"type"		"DLC"
+		"parent"		"1186040"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"612241cf812a7c90feef93c71d3fd9484653395a"
+		"clienttga"		"9a49467f63ceb93e76f9feff2dce8926d46eb633"
+		"icon"		"d453f58f654ba423a9a4618ab40b9788c02301a5"
+		"logo"		"cff85e06d528aa31b945486dc2fe74c8b5ec0edb"
+		"logo_small"		"cff85e06d528aa31b945486dc2fe74c8b5ec0edb_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_e26926a43911f0f17e2487edf2a2c0c2ee630afa.jpg"
+		"store_asset_mtime"		"1602499147"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team17 Digital Ltd"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_27"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1606838461"
+		"gameid"		"1440191"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"19"
+			"2"		"492"
+			"3"		"597"
+		}
+		"review_score"		"7"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"dlcforappid"		"1186040"
+		"mustownapptopurchase"		"1186040"
+		"developer"		"Team17 Digital Ltd"
+		"dlcavailableonstore"		"1"
+	}
+}

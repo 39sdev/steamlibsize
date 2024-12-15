@@ -1,0 +1,114 @@
+"496102"
+{
+	"common"
+	{
+		"name"		"3DMark Night Raid benchmark"
+		"type"		"DLC"
+		"parent"		"223850"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"icon"		"f13d0d5b75755e02e90eaa6e4046a76372f7f1a5"
+		"logo"		"4b8a9698253957adaeca11a409b2978d0e7c7c3a"
+		"logo_small"		"4b8a9698253957adaeca11a409b2978d0e7c7c3a_thumb"
+		"metacritic_name"		"3DMark Night Raid benchmark"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"637e992a581ea54ff695e0148c43ca21153b2d28/capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"store_screenshot"		"ss_ea64241e60d2abf674371dd4306bf5eb6226dd7d.jpg"
+		"store_asset_mtime"		"1730821704"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"UL"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"UL"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+			}
+			"schinese"
+			{
+				"supported"		"1"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1539020533"
+		"gameid"		"496102"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"87"
+		}
+		"review_score"		"7"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"dlcforappid"		"223850"
+		"mustownapptopurchase"		"223850"
+		"optionaldlc"		"1"
+		"developer"		"UL"
+		"publisher"		"UL"
+		"homepage"		"https://benchmarks.ul.com/3dmark"
+		"isfreeapp"		"1"
+		"dlcavailableonstore"		"1"
+	}
+}

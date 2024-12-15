@@ -1,0 +1,263 @@
+"223630"
+{
+	"common"
+	{
+		"name"		"AirBuccaneers"
+		"type"		"Game"
+		"logo"		"23ec86095a8856bc5e626b578a7b72824d70f3d6"
+		"logo_small"		"23ec86095a8856bc5e626b578a7b72824d70f3d6_thumb"
+		"icon"		"7bff47c781de556bb9395a817aaa07e747506f7e"
+		"clienttga"		"cbe26e79910ea617fed64cb823957a81bdea8b22"
+		"clienticon"		"2f50d57b8c959478497e5456df890020b1bbd95f"
+		"clienticns"		"b59e8bf4b175f0f4df82080bb1954adf2b218b26"
+		"linuxclienticon"		"b04e5e4e07ddebd9eceaa5b055b4fa89f6829e65"
+		"restricted_countries"		"DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1658275200"
+			"tested_build_id"		"108013"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"AirBuccaneers"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_1e2941c33b4b5f212e4d7af99073c86d9e38bfad.jpg"
+		"store_asset_mtime"		"1357670074"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LudoCraft Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"LudoCraft Ltd."
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"russian"
+			{
+				"supported"		"1"
+			}
+			"polish"
+			{
+				"supported"		"1"
+			}
+		}
+		"metacritic_score"		"74"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/airbuccaneers?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"223630"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"19"
+			"2"		"113"
+			"3"		"9"
+			"4"		"122"
+			"5"		"3859"
+			"6"		"5711"
+			"7"		"1685"
+			"8"		"3839"
+			"9"		"1681"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"LudoCraft Ltd."
+		"gamedir"		"ValveTestApp223630"
+		"homepage"		"http://www.airbuccaneers.com"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"thirdpartycdkey"		"1"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"LudoCraft Ltd."
+		"GameManualURL"		"https://store.steampowered.com/manual/223630/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"AirBuccaneers"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"abu.exe"
+				"arguments"		"-steam"
+				"description"		"Launch normally"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ABU.app/Contents/MacOS/AirBuccaneers"
+				"arguments"		"-steam"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"installscriptsignature"		"35be0855426aed99f35945524096e0308d1dee62999ee648d30c122e4ac80b6aa31358032d111f0e432d77f073ea4b52fea8059146f2a1b001c8cfe5790983a0c376a2fb93cf5f208a1ffde56d565920b782359a47ba295914bffba96c9a45d0e0e90f2c283821000d057c9504a338f681f113b90db075eb4e317e19c3319c89"
+		"installscriptoverride"		"1"
+	}
+	"install"
+	{
+		"run process"
+		{
+			"directx"
+			{
+				"hasrunkey"		"HKEY_CURRENT_USER\\Software\\Valve\\Steam\\Apps\\223630"
+				"process 1"		"%INSTALLDIR%\\DirectX\\DXSETUP.exe"
+				"command 1"		"/silent"
+				"nocleanup"		"1"
+			}
+		}
+	}
+	"depots"
+	{
+		"223631"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4867687994243093845"
+					"size"		"1336672867"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"4867687994243093845"
+					"size"		"1336672867"
+					"download"		"0"
+				}
+			}
+		}
+		"223632"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8513506169582257937"
+					"size"		"1244878489"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"8513506169582257937"
+					"size"		"1244878489"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"preloadonly"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"108013"
+			}
+			"beta"
+			{
+				"buildid"		"108013"
+				"description"		"Beta branch"
+			}
+		}
+	}
+}

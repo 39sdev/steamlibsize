@@ -1,0 +1,210 @@
+"1851730"
+{
+	"common"
+	{
+		"name"		"Meow Express"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"f7ef94062e4784c497e388ca74624dd17ef1048d"
+		"clienttga"		"2dca9b105e00a3da19e8138015e9dd7b3176d998"
+		"icon"		"66777a4ee12f9d6fa78d71b4355e5159c6258800"
+		"logo"		"3cecbee7e422edde382ce9fd790578ef15d9dffe"
+		"logo_small"		"3cecbee7e422edde382ce9fd790578ef15d9dffe_thumb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"turkish"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.19072871666194"
+				"height_pct"		"63.272408132534906"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"36.19072871666194"
+					"height_pct"		"63.272408132534906"
+				}
+			}
+		}
+		"store_asset_mtime"		"1641599687"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Stratera Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Stratera Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Stratera Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1641582360"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1851730"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"17894"
+			"1"		"4195"
+			"2"		"1773"
+			"3"		"8666"
+			"4"		"4305"
+			"5"		"3798"
+			"6"		"597"
+			"7"		"3871"
+			"8"		"4562"
+			"9"		"4726"
+			"10"		"6815"
+			"11"		"10397"
+			"12"		"4136"
+			"13"		"1719"
+			"14"		"5350"
+			"15"		"15045"
+			"16"		"4975"
+			"17"		"4182"
+			"18"		"3968"
+			"19"		"5125"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Stratera Games"
+		"publisher"		"Stratera Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Rumba Cats"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsNoEditor\\MeowExpress.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1851731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7811587976170076963"
+					"size"		"248822591"
+					"download"		"156526944"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7989424"
+				"timeupdated"		"1641647436"
+			}
+		}
+	}
+}

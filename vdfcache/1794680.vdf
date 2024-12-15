@@ -1,0 +1,707 @@
+"1794680"
+{
+	"common"
+	{
+		"name"		"Vampire Survivors"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"logo"		"906b61ca1fff04fed9a9de27d11b4a8c43f5a2b4"
+		"logo_small"		"906b61ca1fff04fed9a9de27d11b4a8c43f5a2b4_thumb"
+		"icon"		"3677cf1be3be1f4ea42261c62ce10519715ade58"
+		"clienticon"		"b61dc182c372d4f9517043ba04f4fa61308a30bb"
+		"clienttga"		"ea3762f9532a25f12a891fe035a98db2ac52886d"
+		"name_localized"
+		{
+			"schinese"		"Vampire Survivors - 吸血鬼幸存者"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1681862400"
+			"tested_build_id"		"10515927"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-1"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Vampire Survivors"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"36.14499002698585"
+				"height_pct"		"30.165062604322543"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+					"schinese"		"library_600x900_schinese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+					"schinese"		"library_600x900_schinese_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"UpperCenter"
+					"width_pct"		"36.14499002698585"
+					"height_pct"		"30.165062604322543"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1730369523"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"poncle"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"poncle"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_44"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1666281688"
+		"metacritic_score"		"86"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/vampire-survivors?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1794680"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"4885"
+			"2"		"3964"
+			"3"		"3959"
+			"4"		"3871"
+			"5"		"4018"
+			"6"		"492"
+			"7"		"4182"
+			"8"		"597"
+			"9"		"1773"
+			"10"		"19"
+			"11"		"1716"
+			"12"		"122"
+			"13"		"7481"
+			"14"		"4004"
+			"15"		"5154"
+			"16"		"4604"
+			"17"		"4231"
+			"18"		"3841"
+			"19"		"7743"
+		}
+		"review_score"		"9"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default,london-coop-event,new-engine,new-engine-internal,public-beta"
+		"developer"		"poncle"
+		"publisher"		"poncle"
+		"listofdlc"		"2230760,2313550,2690330,2887680,3210350"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Vampire Survivors"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VampireSurvivors.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Vampire_Survivors.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"VampireSurvivors.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1794681"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"373785810701396943"
+					"size"		"554528355"
+					"download"		"232326064"
+				}
+				"public-beta"
+				{
+					"gid"		"1836579866553756749"
+					"size"		"554507638"
+					"download"		"232310816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"old-engine"
+				{
+					"gid"		"DEE7C9A0E6BFE4EC0127F012034EB65B"
+					"size"		"34A39507545FD8BE5BF70451F483C2B4"
+					"download"		"1EAD82A7C3DACBFBDAF78C75D24B98D1"
+				}
+				"beta-staging"
+				{
+					"gid"		"9B414BB5CC81D602A763F56B4F95E72B"
+					"size"		"86BAD90C1C6D8D315D502C765604C052"
+					"download"		"19C7DE2A0A50878D04780784B9AE78D3"
+				}
+				"external-demo"
+				{
+					"gid"		"7B0A420409AE7248B6331D0236681334"
+					"size"		"32DF003E736BBE3264C971A23C57A3E7"
+					"download"		"8B22257F5510F2D7961A9E13F6202CFA"
+				}
+				"external-press"
+				{
+					"gid"		"209620E3C154F483A4F3BD64D6687C9F"
+					"size"		"A8B601A3DC3EFF6F511ADC69A75DB47E"
+					"download"		"6974037DA79D1E0E103EF257F24824B8"
+				}
+				"halloween-party"
+				{
+					"gid"		"6703C751683216137D27CBAE561D17CD"
+					"size"		"63E44057E15C74621DC22E3BF78BF445"
+					"download"		"EB91614D94E9ACD434C9551022A5EA64"
+				}
+				"internal-beta"
+				{
+					"gid"		"F692523F92CE6B3BC1A28EC0768819B2"
+					"size"		"C6A88C94ED6469E20E9D140D8AA90279"
+					"download"		"FB9C1C3BE754BAC8A6AA870E935BF9AA"
+				}
+				"internal-capture"
+				{
+					"gid"		"C4CBCA954D64FB423547AD302B45A1A5"
+					"size"		"2BDCD8763C61ECEE3F25D530C2C44FFF"
+					"download"		"D59B9973345B36238B7E8B80137575FC"
+				}
+				"internal-nightly"
+				{
+					"gid"		"4F57C97367812671745A5659A11D69A1"
+					"size"		"5774DB4360BC29E000B13C613E8583A8"
+					"download"		"7EAA699F6FC2E80E47DED91BFCF0F863"
+				}
+				"internal-qa"
+				{
+					"gid"		"BF023995A4B29FAC16D5652A0E48C414"
+					"size"		"9B4A76394338388BF590DB505B6F6EA6"
+					"download"		"3887E77F7680904D0EA03931CE0D18DD"
+				}
+				"lqa-test"
+				{
+					"gid"		"618178C0B5B3A1AE22C6BB9B13262964"
+					"size"		"D47771E88871628D5DC5C19587BC0F3B"
+					"download"		"E3D3CC81A3B1A2B607B5CEAF11D88BA6"
+				}
+				"release-staging"
+				{
+					"gid"		"C8450233BCC5CF7901CB5D4B9CF86F89"
+					"size"		"C964C198BC64A07BFDE69E6B20627D15"
+					"download"		"5B8B7FBA178F92C441826DC25A446D37"
+				}
+			}
+		}
+		"1794684"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8710684100846497583"
+					"size"		"526266949"
+					"download"		"233070704"
+				}
+				"public-beta"
+				{
+					"gid"		"3763930079574445634"
+					"size"		"526266941"
+					"download"		"233071904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"old-engine"
+				{
+					"gid"		"F7FD6A60BA3D4FC33E77471550F4A78D"
+					"size"		"94F7FBF339863D58BF03DACF5FC2787B"
+					"download"		"FC84DE90BC2E0C0BE85C5803E4A299F6"
+				}
+				"beta-staging"
+				{
+					"gid"		"13D6A6C531008DFBCF9FACD9E4BDE2B0"
+					"size"		"6BE9322F3A9B8CD0DDCDAB19E9904421"
+					"download"		"0196EBE2840B5C848E199A3615B0B96B"
+				}
+				"external-demo"
+				{
+					"gid"		"B676FDF1E8062C65B97CD18A2F731563"
+					"size"		"42D1F1ADCB5BB077ACD693ED6AC8C9B4"
+					"download"		"67DC913A8837CD9CA695810C224BCB41"
+				}
+				"external-press"
+				{
+					"gid"		"7D22CF9D00594777008950FB612EB4DF"
+					"size"		"F6482DECFC3018DD3DAEBFB526941ED6"
+					"download"		"65A7C3EC6F7389180C60C5B6ED8827A5"
+				}
+				"halloween-party"
+				{
+					"gid"		"A828B981A029FB13F7767D411095702B"
+					"size"		"3298DF08D14B764CDA0AB338E8DDA61C"
+					"download"		"A5AF1AE9B1B721E666F3B61DF51BCD4C"
+				}
+				"internal-beta"
+				{
+					"gid"		"0A7B318FEB0C203543284D36F92E6C83"
+					"size"		"468F26DEF03EBFB532C24215E1D918B1"
+					"download"		"63D77B24EC8118B36B63849C1D422305"
+				}
+				"internal-capture"
+				{
+					"gid"		"04E16FFD52FBCC4184770B80F331444B"
+					"size"		"B79DECEFD013AA010659E2557A1D8B26"
+					"download"		"E131F4F1AEE6AD3C2C2FD76B427DBBF3"
+				}
+				"internal-nightly"
+				{
+					"gid"		"067C63C8A51277B17182C74C29016CC9"
+					"size"		"03343EF6C38E0FB0BD81C17BFCB00E80"
+					"download"		"E69C4633B20D3BE575694412A2D7E4C0"
+				}
+				"internal-qa"
+				{
+					"gid"		"FF19D09CBB05AD0A6025AC49CC99A1B5"
+					"size"		"F35EE96FA68E369CF4F1CA18176BF6AF"
+					"download"		"B2EF6968CEE0C1BB8B60A1FE38D057CC"
+				}
+				"lqa-test"
+				{
+					"gid"		"4699655853B02D022B20DCDD3F280038"
+					"size"		"E50A0AE7957CF545C02F0ADE174F7539"
+					"download"		"682DDFE8154B32880801EA2F368E4035"
+				}
+				"release-staging"
+				{
+					"gid"		"7ACC2341F628926AF0C2504A17FE683A"
+					"size"		"400C967850955853CA08120869F2631B"
+					"download"		"6B4959D6B5AC560FBB69B07DFA210745"
+				}
+			}
+		}
+		"1794685"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6805605675632418066"
+					"size"		"508811585"
+					"download"		"231771856"
+				}
+				"public-beta"
+				{
+					"gid"		"6913762290099852149"
+					"size"		"507915921"
+					"download"		"231240352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"old-engine"
+				{
+					"gid"		"C9402445FA0D443E65A8DCD35B797FF1"
+					"size"		"C89EA368CAF7C4FAC5A150A371FCA580"
+					"download"		"729EA34FE6097A8A5935635955E120D2"
+				}
+				"beta-staging"
+				{
+					"gid"		"5FEDBECEF33706C9C7DD4BE0FA2C59DB"
+					"size"		"B3B1A8779A787BAE1659B2CAFC2B84E3"
+					"download"		"D1AD0D9E5F56DEABCC987220D111369C"
+				}
+				"external-demo"
+				{
+					"gid"		"73C00D3670C08B88BF8B92B7CC271E83"
+					"size"		"0A35CE3DDEC5D3C7082EC43D4358D1B4"
+					"download"		"0E78A1314D4FDAD1AB57ECA13EA8A2FB"
+				}
+				"external-press"
+				{
+					"gid"		"6C64729DB576FB245919DD71B98B0DB7"
+					"size"		"9D750C60CAA35F8B8FF78EF4A585101C"
+					"download"		"552D41B334B7536EB87E1ABD29344CB9"
+				}
+				"halloween-party"
+				{
+					"gid"		"A4EE3FACB228E417DFF78307608A071F"
+					"size"		"5E163593D7F68DE0399C3AAF20C8195B"
+					"download"		"0636341F63A236B8D200FCA240498774"
+				}
+				"internal-beta"
+				{
+					"gid"		"2A5D92B9DE8534ED256EBFAECE3ECB88"
+					"size"		"26FBED998F327174B08D9CA84CB259E2"
+					"download"		"32CD677EC9CD7B9641211FAB5B373311"
+				}
+				"internal-capture"
+				{
+					"gid"		"BDCDE237090717BC89384899374C0A0D"
+					"size"		"D958C1E4073D731AFECCA21DB661A0CA"
+					"download"		"2776E4E4AF382076ECB56A5E07957B2D"
+				}
+				"internal-nightly"
+				{
+					"gid"		"4C0415C6370469C355ECDB096B456979"
+					"size"		"956ADCB9D176030536BB4660F1C868A0"
+					"download"		"62A8170F4D4966DD0912ED9302E08D7F"
+				}
+				"internal-qa"
+				{
+					"gid"		"2D645FC99DC619345A0F0DDD22BE897E"
+					"size"		"678745737FE7940C8761A76727BBA3AD"
+					"download"		"20D7F688D3A42195FAD024373A04A796"
+				}
+				"lqa-test"
+				{
+					"gid"		"BCF4489F5472C4D729E2BE1BC8F54285"
+					"size"		"748A3FDCFF2729EC9652B65F3DB2C11B"
+					"download"		"0FFB6E355889F58072293E8954556358"
+				}
+				"release-staging"
+				{
+					"gid"		"0BA749E99888D5FB2BE9CC39CBB85C30"
+					"size"		"8A2A80F931E0B2CC8119F5AA37C6A496"
+					"download"		"441123EB5D495B2FC051C9F33B0EAD6A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16620030"
+				"timeupdated"		"1733738745"
+			}
+			"old-engine"
+			{
+				"buildid"		"11458208"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691771590"
+			}
+			"beta-staging"
+			{
+				"buildid"		"15504949"
+				"pwdrequired"		"1"
+				"timeupdated"		"1724759423"
+			}
+			"external-demo"
+			{
+				"buildid"		"14843672"
+				"pwdrequired"		"1"
+				"timeupdated"		"1719400448"
+			}
+			"external-press"
+			{
+				"buildid"		"16249406"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730372925"
+			}
+			"halloween-party"
+			{
+				"buildid"		"16153625"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729759850"
+			}
+			"internal-beta"
+			{
+				"buildid"		"16620083"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733258710"
+			}
+			"internal-capture"
+			{
+				"buildid"		"16615192"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733232693"
+			}
+			"internal-nightly"
+			{
+				"buildid"		"16689575"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733808370"
+			}
+			"internal-qa"
+			{
+				"buildid"		"16620030"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733258363"
+			}
+			"lqa-test"
+			{
+				"buildid"		"16301754"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731500137"
+			}
+			"public-beta"
+			{
+				"buildid"		"16620083"
+				"description"		"Public Beta"
+				"timeupdated"		"1733499550"
+			}
+			"release-staging"
+			{
+				"buildid"		"16316437"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731599093"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"4000000"
+		"maxnumfiles"		"40"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"resources/app/.webpack/renderer/"
+				"pattern"		"*.sav"
+			}
+			"2"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Vampire_Survivors/saves/"
+				"pattern"		"*.sav"
+			}
+			"3"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Vampire_Survivors_Data/"
+				"pattern"		"*.sav"
+			}
+			"4"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Vampire_Survivors_{Steam3AccountID}/"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		".config/"
+			}
+		}
+	}
+}

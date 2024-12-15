@@ -1,0 +1,30 @@
+"849187"
+{
+	"common"
+	{
+		"name"		"Shadow of the Tomb Raider - The Forge Content"
+		"type"		"DLC"
+		"parent"		"750920"
+		"releasestate"		"released"
+		"clienttga"		"080adeb180ddd52822cac4a0962209e78bc6c0a8"
+		"clienticon"		"dbf5b707d3d54d0a79db7fce10ab09032c59f71d"
+		"icon"		"97f54f495b2e1b60a3527d4d4142dd1d58e96472"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"associations"
+		{
+		}
+		"gameid"		"849187"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+		}
+	}
+	"extended"
+	{
+		"dlcforappid"		"750920"
+		"mustownapptopurchase"		"750920"
+	}
+}

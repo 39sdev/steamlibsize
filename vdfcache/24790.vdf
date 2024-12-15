@@ -1,0 +1,823 @@
+"24790"
+{
+	"common"
+	{
+		"name"		"Command & Conquer 3: Tiberium Wars™"
+		"clienticon"		"19b12985712053fc25930c1fde73019f373a1bcd"
+		"clienttga"		"e1a376b1ae03f1bccaf1f12a35093c3c99bc66ff"
+		"icon"		"6e07f2f006ff6960d9089804817ed454c18260ee"
+		"logo"		"6462a21ca380ff8430d1f1d3a6ca21104466c316"
+		"logo_small"		"6462a21ca380ff8430d1f1d3a6ca21104466c316_thumb"
+		"metacritic_url"		"pc/commandandconquer3tiberiumwars"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"24790_eula_1"
+				"name"		"Command and Conquer 3: Tiberium Wars EULA 1"
+				"url"		"http://store.steampowered.com//eula/24790_eula_1"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"danish"		"Command & Conquer 3: Tiberium Wars™"
+			"dutch"		"Command & Conquer 3: Tiberium Wars™"
+			"finnish"		"Command & Conquer 3: Tiberium Wars™"
+			"french"		"Command & Conquer 3: Les Guerres du Tiberium"
+			"german"		"Command & Conquer 3: Tiberium Wars™"
+			"italian"		"Command & Conquer 3: Tiberium Wars™"
+			"norwegian"		"Command & Conquer 3: Tiberium Wars™"
+			"polish"		"Command & Conquer 3: Wojny o tyberium"
+			"portuguese"		"Command & Conquer 3: Tiberium Wars™"
+			"russian"		"Command & Conquer 3: Tiberium Wars™"
+			"spanish"		"Command & Conquer 3: Tiberium Wars™"
+			"swedish"		"Command & Conquer 3: Tiberium Wars™"
+			"turkish"		"Command & Conquer 3: Tiberium Wars™"
+			"brazilian"		"Command & Conquer 3: Tiberium Wars™"
+			"tchinese"		"《終極動員令3：泰伯倫戰爭》"
+			"japanese"		"Command & Conquer™ 3: Tiberium Wars"
+			"koreana"		"커맨드 앤 컨커 3: 타이베리움 워"
+			"schinese"		"《命令与征服3：泰伯利亚战争》"
+			"czech"		"Command & Conquer 3: Tiberium Wars™"
+			"latam"		"Command & Conquer 3: Tiberium Wars™"
+			"thai"		"Command & Conquer 3: Tiberium Wars™"
+			"ukrainian"		"Command & Conquer 3: Tiberium Wars™"
+		}
+		"type"		"game"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1646870400"
+			"tested_build_id"		"755"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Command &amp; Conquer 3: Tiberium Wars"
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27"
+				"height_pct"		"58"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"27"
+					"height_pct"		"58"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1709209872"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"EA Los Angeles"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Electronic Arts"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Command and Conquer"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1175065200"
+		"metacritic_score"		"85"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/command-conquer-3-tiberium-wars?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"24790"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1676"
+			"2"		"7332"
+			"3"		"3942"
+			"4"		"3859"
+			"5"		"4182"
+			"6"		"19"
+			"7"		"18594"
+			"8"		"1693"
+			"9"		"4166"
+			"10"		"3835"
+			"11"		"1678"
+			"12"		"1742"
+			"13"		"1723"
+			"14"		"4295"
+			"15"		"4328"
+			"16"		"1756"
+			"17"		"7782"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+		"mastersubs_granting_app"		"1289670"
+	}
+	"extended"
+	{
+		"developer"		"EA Los Angeles"
+		"gamedir"		"Command and Conquer 3 Tiberium Wars"
+		"hasexternalregistrationurl"		"1"
+		"homepage"		"http://www.commandandconquer.com/"
+		"icon"		""
+		"installscript"		"installscript.vdf"
+		"launcheula"		"http://storefront.steampowered.com/eula_testapp24790"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"24791"
+		"serverbrowsername"		""
+		"ShowCDKeyInMenu"		"1"
+		"state"		"eStateAvailable"
+		"hadthirdpartycdkey"		"1"
+		"publisher"		"Electronic Arts"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Command and Conquer 3 Tiberium Wars"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CNC3.exe"
+			}
+			"1"
+			{
+				"executable"		"WorldBuilder.exe"
+				"description_loc"
+				{
+					"english"		"Launch World Builder"
+				}
+				"description"		"Launch World Builder"
+			}
+			"2"
+			{
+				"executable"		"Support\\EA Help\\Electronic_Arts_Technical_Support.htm"
+				"description_loc"
+				{
+					"english"		"View Support Information"
+				}
+				"description"		"View Support Information"
+			}
+		}
+		"externalregistrationurl"
+		{
+			"english"		"https://ea.onlineregister.com/?LOCALE=en_US"
+			"french"		"https://ea.onlineregister.com/?LOCALE=fr_FR"
+			"german"		"https://ea.onlineregister.com/?LOCALE=de_DE"
+			"italian"		"https://ea.onlineregister.com/?LOCALE=it_IT"
+			"polish"		"https://ea.onlineregister.com/?LOCALE=pl_PL"
+			"spanish"		"https://ea.onlineregister.com/?LOCALE=es_ES"
+			"hungarian"		"https://ea.onlineregister.com/?LOCALE=hu_hu"
+			"russian"		"https://ea.onlineregister.com/?LOCALE=ru_RU"
+			"czech"		"https://ea.onlineregister.com/?LOCALE=cs_CZ"
+			"dutch"		"https://ea.onlineregister.com/?LOCALE=nl_NL"
+			"swedish"		"https://ea.onlineregister.com/?LOCALE=sv_SE"
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,polish,dutch,swedish,hungarian,czech"
+		"228981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"24791"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"214785292560683027"
+					"size"		"6250963672"
+					"download"		"5321177888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"A9EEC532D9B33C98A5A12A9FF2D08263"
+					"size"		"A0222CE8CB03418D79C398D7724E6FBB"
+					"download"		"49F09C66B0FA918087E56879E6ECCF43"
+				}
+				"eacc"
+				{
+					"gid"		"5E21980AB121B3EE9AF3B7F17C2ED019"
+					"size"		"194CBA5F073C89325936B31A06147018"
+					"download"		"ABCE69B5EA37EED75F88D7A09F28589F"
+				}
+			}
+		}
+		"24792"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5202151940914163891"
+					"size"		"1567526861"
+					"download"		"1365233776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"E24FF9F9E2402AE818831DD70525C32D"
+					"size"		"F17E0E1A14B4F7EC7F8C5B076955DB3C"
+					"download"		"A686FE96D3826A16ED0602E40E09D0C9"
+				}
+				"eacc"
+				{
+					"gid"		"8BCAFD98B4BE056569AD8D9F173AA143"
+					"size"		"0D1602DDC4D81976C8B9E53E222FB60E"
+					"download"		"1F3E552B89CD60667233CC365770482B"
+				}
+			}
+		}
+		"24793"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8898314300100924957"
+					"size"		"1689087981"
+					"download"		"1384882608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"B949CADB8B90653E8C30621A2AAF42A9"
+					"size"		"D9A5346D89861D7AA99192C1FD191787"
+					"download"		"2A3FEA4F651E8AE31892BE07E270B4CB"
+				}
+				"eacc"
+				{
+					"gid"		"357723257A9353A63F4F5CC458CB89E8"
+					"size"		"2E77E122D5C8C706C56E366F6E691A19"
+					"download"		"47E9C96C8A2E403A5D3A94ED2F35E4F5"
+				}
+			}
+		}
+		"24794"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4396895369499003679"
+					"size"		"1717300094"
+					"download"		"1404418192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"90B1CF3FA20E4D9A73A1AE49EB97A6D5"
+					"size"		"EAA4677CE5A97578836BD933F29036D2"
+					"download"		"692364D5FBDF4FD800548A007155E785"
+				}
+				"eacc"
+				{
+					"gid"		"67D060EE5A423606F197067DA2551DD0"
+					"size"		"F639C0FF225710F21B0C45BAD99CE3BA"
+					"download"		"511B4E590C59210DD5DBFF58783D58F0"
+				}
+			}
+		}
+		"24795"
+		{
+			"config"
+			{
+				"language"		"italian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8591450089921287619"
+					"size"		"1570553741"
+					"download"		"1368741296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"B5E875BD826D98CB53B2EF82EF954BC7"
+					"size"		"A670410D827F306A7BDB74FC73F3DC5C"
+					"download"		"DEF2729AA1737AE7A54881050B81DEDE"
+				}
+				"eacc"
+				{
+					"gid"		"924821EC94C505AC7FB5A22CF4B47296"
+					"size"		"D1AF8B3E5095755829291DE69377D316"
+					"download"		"F653CE8EC94DABE2D54C991780AEBECB"
+				}
+			}
+		}
+		"24796"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"321264007602147755"
+					"size"		"1566820778"
+					"download"		"1358656928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"460804A12BE6E20D3F6833A1D767650A"
+					"size"		"D568CA482F578D30A0740914CB24600B"
+					"download"		"9DD03DE1FC779F3711DE76616B72FBB9"
+				}
+				"eacc"
+				{
+					"gid"		"32EF8DFDE7B7A580821D29BA69E38267"
+					"size"		"C12DEED53DCAE30AC2C1657CAFD662D8"
+					"download"		"D2002B709A6CBACA01AE8FDAFFF5E8AB"
+				}
+			}
+		}
+		"24797"
+		{
+			"config"
+			{
+				"language"		"dutch"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"716004620259289290"
+					"size"		"4716688"
+					"download"		"2847552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"1760691692245D1ED4E903B2CFB3E1B1"
+					"size"		"485E9B30B4E3AF1BD2232DAD0F2C7EB4"
+					"download"		"DD8CC8A3168C1FECDC0788477FF7277A"
+				}
+				"eacc"
+				{
+					"gid"		"C2FF4AC887DC8E264E8286D3F95B0B0C"
+					"size"		"8C843630F8DB01F2D79F6D53AE51CC3B"
+					"download"		"BE6A951AB11ED7014D1CE383BE298B2D"
+				}
+			}
+		}
+		"24798"
+		{
+			"config"
+			{
+				"language"		"swedish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5213454257922330758"
+					"size"		"4808732"
+					"download"		"2885520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"8E09FFF6752F687993FEEB138DC96D26"
+					"size"		"6BB7011EB3630DF0BD47C53DACA7B70D"
+					"download"		"57CCA5253FFA9AE88F8829C8B35EF6C5"
+				}
+				"eacc"
+				{
+					"gid"		"79894AB3ECCB7102C67042F8A677BC15"
+					"size"		"D9403C21E569D024A435294797D26EA9"
+					"download"		"3216E1B1F8C1F1022BD2E03F228CD83F"
+				}
+			}
+		}
+		"24799"
+		{
+			"config"
+			{
+				"language"		"polish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7702318754467784967"
+					"size"		"146395450"
+					"download"		"33073456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"39DF460F681CBA14098DE514E96D4FC2"
+					"size"		"70DA53152583214F0EE1F828B68A09A6"
+					"download"		"8D8749B9697F22454177330F69B46290"
+				}
+				"eacc"
+				{
+					"gid"		"25EF57C3459B018524E09F2A065A8CC2"
+					"size"		"187D57E963A4E53F7DAF5DA58F0195FF"
+					"download"		"9A74826CB22842FDDC564816CA3C3AE5"
+				}
+			}
+		}
+		"2845530"
+		{
+			"config"
+			{
+				"language"		"hungarian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2099348954154569587"
+					"size"		"4883200"
+					"download"		"2675120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"eacc"
+				{
+					"gid"		"A0418D90A55CF4196DB2759C0740893D"
+					"size"		"AF58CFA1B8C371D728B273C6CD5F0CFA"
+					"download"		"28D4D06DBF688398C60BD70F855ACCF9"
+				}
+			}
+		}
+		"2845531"
+		{
+			"config"
+			{
+				"language"		"koreana"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"eacc"
+				{
+					"gid"		"603542A33ECCFC9AEC142982DF77BB45"
+					"size"		"044C7068638F13585C2F376E1BAAAA78"
+					"download"		"158ED31BADF891F232576350952783C3"
+				}
+			}
+		}
+		"2845532"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"eacc"
+				{
+					"gid"		"7F296290510E18491DC922DBA0DF75B1"
+					"size"		"983F70CAA13B6003E724F9271598DA53"
+					"download"		"7D2195BCD3E43C9C76DDC445B47CDE8F"
+				}
+			}
+		}
+		"2845533"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"eacc"
+				{
+					"gid"		"E45F6AE1FCEEEF562AFD8C422D449C29"
+					"size"		"086736CEDCA521C20DEE093B7DF80920"
+					"download"		"9B5E04EF84CB062FCFE7E2E250A08B93"
+				}
+			}
+		}
+		"2845534"
+		{
+			"config"
+			{
+				"language"		"czech"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"eacc"
+				{
+					"gid"		"5212816AFF2BBDA261EBCC503A7B43BB"
+					"size"		"C718AFC9B1E249988D3C52B5640EFFFD"
+					"download"		"F58D7BB8061CF2DBD5CC4A669CB12CFE"
+				}
+			}
+		}
+		"2845535"
+		{
+			"config"
+			{
+				"language"		"thai"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"eacc"
+				{
+					"gid"		"9A3C55A98DE9269640B4786FEAB05935"
+					"size"		"F8F56D39B9580F8E100BF970DEDB5E98"
+					"download"		"32DF56B154CACCF3B14113FB0B7BE90B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13686146"
+				"timeupdated"		"1709986386"
+			}
+			"age_ratings"
+			{
+				"buildid"		"13223898"
+				"pwdrequired"		"1"
+				"timeupdated"		"1706110993"
+			}
+			"eacc"
+			{
+				"buildid"		"16168091"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729786530"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"Command & Conquer 3 Tiberium Wars/Profiles"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Command & Conquer 3 Tiberium Wars"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Command & Conquer 3 Tiberium Wars"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}

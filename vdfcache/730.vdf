@@ -1,0 +1,1477 @@
+"730"
+{
+	"common"
+	{
+		"clienticon"		"324b323045b09bace182f928f4104dfcd93cb7f3"
+		"clienttga"		"c52076783b94290949b1ab5ac44a84c036c4c313"
+		"name"		"Counter-Strike 2"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"danish"		"1"
+			"dutch"		"1"
+			"finnish"		"1"
+			"norwegian"		"1"
+			"swedish"		"1"
+			"hungarian"		"1"
+			"czech"		"1"
+			"romanian"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"bulgarian"		"1"
+			"greek"		"1"
+			"ukrainian"		"1"
+			"vietnamese"		"1"
+			"latam"		"1"
+			"indonesian"		"1"
+		}
+		"logo"		"d0595ff02f5c79fd19b06f4d6165c3fda2372820"
+		"logo_small"		"d0595ff02f5c79fd19b06f4d6165c3fda2372820_thumb"
+		"icon"		"8dbc71957312bbd3baea65848b545be9eae2a355"
+		"metacritic_url"		""
+		"clienticns"		"a42c6010effb3f108ae59f1b08843d08386e6b2a"
+		"oslist"		"windows,linux"
+		"type"		"Game"
+		"linuxclienticon"		"ff52d4cc462d49c0297b9bc0558b4ef4c3bdd9ae"
+		"exfgls"		"1"
+		"osarch"		""
+		"osextended"		""
+		"steamchinaapproved"		"1"
+		"name_localized"
+		{
+			"sc_schinese"		"反恐精英：全球攻势"
+		}
+		"releasestatesteamchina"		"released"
+		"timeline_marker_updated"		"1733875993"
+		"timeline_marker_svg"		"067092d44138271fb6e63d7fdc6b7385c4b9ab44/markers.svg"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1708732800"
+			"tested_build_id"		"13439412"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
+		"market_presence"		"1"
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.512393149848585"
+				"height_pct"		"99.65280290557178"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+					"schinese"		"library_600x900_schinese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+					"schinese"		"library_600x900_schinese_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+					"schinese"		"library_hero_schinese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+					"schinese"		"library_hero_schinese_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"50.512393149848585"
+					"height_pct"		"99.65280290557178"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+					"schinese"		"logo_schinese.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+					"schinese"		"logo_schinese_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1696269591"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Valve"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Valve"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_15"		"1"
+			"category_8"		"1"
+			"category_29"		"1"
+			"category_30"		"1"
+			"category_33"		"1"
+			"category_35"		"1"
+			"category_43"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_27"		"1"
+			"category_63"		"1"
+		}
+		"supported_languages"
+		{
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1345568400"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"730"
+		"store_tags"
+		{
+			"0"		"1663"
+			"1"		"1774"
+			"2"		"3859"
+			"3"		"3878"
+			"4"		"19"
+			"5"		"5711"
+			"6"		"5055"
+			"7"		"1708"
+			"8"		"3839"
+			"9"		"1775"
+			"10"		"3843"
+			"11"		"1685"
+			"12"		"9"
+			"13"		"4168"
+			"14"		"1678"
+			"15"		"4026"
+			"16"		"4202"
+			"17"		"4175"
+			"18"		"1734"
+			"19"		"1669"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Valve"
+		"gamedir"		"csgo"
+		"homepage"		"http://counter-strike.net/"
+		"icon"		""
+		"languages_macos"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,brazilian,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,bulgarian,ukrainian"
+		"loadallbeforelaunch"		"1"
+		"minclientversion"		"1694466342"
+		"minclientversion_pw_csgo"		"1694466342"
+		"noservers"		"0"
+		"primarycache"		"731"
+		"primarycache_macos"		"733"
+		"serverbrowsername"		"Counter-Strike 2"
+		"state"		"eStateAvailable"
+		"vacmacmodulecache"		"160"
+		"vacmodulecache"		"202"
+		"vacmodulefilename"		"sourceinit.dat"
+		"validoslist"		"windows,macos"
+		"publisher"		"Valve"
+		"isfreeapp"		"1"
+		"aliases"		"csgo, cs2"
+		"listofdlc"		"1490530,1766730,2279720,2279721"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"checkforupdatesbeforelaunch"		"1"
+		"launchwithoutworkshopupdates"		"1"
+		"installdir"		"Counter-Strike Global Offensive"
+		"app_mappings"
+		{
+			"1"
+			{
+				"platform"		"linux"
+				"tool"		"SteamLinuxRuntime_sniper"
+				"comment"		"sniper SLR"
+			}
+		}
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game\\bin\\win64\\cs2.exe"
+				"arguments"		"-steam"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"realm"		"steamglobal"
+				}
+			}
+			"1"
+			{
+				"executable"		"game/cs2.sh"
+				"arguments"		"-steam"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+					"realm"		"steamglobal"
+				}
+			}
+			"2"
+			{
+				"executable"		"csgo.exe"
+				"arguments"		"-steam"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"BetaKey"		"demo_viewer"
+					"realm"		"steamglobal"
+				}
+				"description_loc"
+				{
+					"english"		"Counter-Strike: Global Offensive (Demo Viewer, 2013)"
+				}
+				"description"		"Counter-Strike: Global Offensive (Demo Viewer, 2013)"
+			}
+			"3"
+			{
+				"executable"		"csgo.exe"
+				"arguments"		"-steam"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"BetaKey"		"csgo_legacy"
+					"realm"		"steamglobal"
+				}
+				"description_loc"
+				{
+					"english"		"Legacy Version of CS:GO"
+				}
+				"description"		"Legacy Version of CS:GO"
+			}
+			"4"
+			{
+				"executable"		"game\\bin\\win64\\cs2.exe"
+				"arguments"		"-steam -perfectworld"
+				"config"
+				{
+					"oslist"		"windows"
+					"realm"		"steamchina"
+				}
+			}
+			"5"
+			{
+				"executable"		"game/cs2.sh"
+				"arguments"		"-steam"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+					"BetaKey"		"csgo_demo_viewer"
+					"ownsdlc"		"741"
+					"realm"		"steamglobal"
+				}
+				"description_loc"
+				{
+					"english"		"Counter-Strike 2 (Limited Test)"
+				}
+				"description"		"Counter-Strike 2 (Limited Test)"
+			}
+			"6"
+			{
+				"executable"		"game\\bin\\win64\\csgocfg.exe"
+				"arguments"		"-steam -retail -gpuraytracing -vulkan"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"2279721"
+					"realm"		"steamglobal"
+				}
+				"description_loc"
+				{
+					"english"		"Counter-Strike 2 Workshop Tools"
+				}
+				"description"		"Counter-Strike 2 Workshop Tools"
+			}
+			"7"
+			{
+				"executable"		"csgo.sh"
+				"arguments"		"-steam"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+					"BetaKey"		"csgo_legacy"
+					"realm"		"steamglobal"
+				}
+				"description_loc"
+				{
+					"english"		"Legacy Version of CS:GO"
+				}
+				"description"		"Legacy Version of CS:GO"
+			}
+			"8"
+			{
+				"executable"		"game\\csgo\\bin\\legacy\\csgo_legacy_app.exe"
+				"arguments"		"-steam.exe +app_set_config 730 betakey csgo_legacy"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+					"realm"		"steamglobal"
+				}
+				"description_loc"
+				{
+					"english"		"Download Legacy Version of CS:GO"
+				}
+				"description"		"Download Legacy Version of CS:GO"
+			}
+			"9"
+			{
+				"executable"		"game/csgo/bin/legacy/csgo_legacy_app_osx64"
+				"arguments"		"-steam.exe +app_set_config 730 betakey csgo_legacy"
+				"config"
+				{
+					"oslist"		"macos"
+					"realm"		"steamglobal"
+				}
+				"description_loc"
+				{
+					"english"		"Download Legacy Version of CS:GO"
+				}
+				"description"		"Download Legacy Version of CS:GO"
+			}
+		}
+		"systemprofile"		"1"
+		"usemms"		"1"
+		"vacmodulefilename"		"resource\\sourceinit.dat"
+		"vacmodulefilename_macos"		"resource\\sourceinit_macos.dat"
+		"verifyupdates"		"0"
+		"usesfrenemies"		"no"
+		"steamcontrollertemplateindex"		"6"
+		"signaturescheckedonlaunch"
+		{
+			"windows"
+			{
+				"0"		"csgo.exe"
+			}
+		}
+		"signedfiles"
+		{
+			"csgo.exe"		"30819D300D06092A864886F70D010101050003818B0030818702818100B1260881BDFE84463D88C6AB8DB914A2E593893C10508B8A5ABDF692E9A5419A3EDBAE86A052849983B75E3B425C18178B260003D857DF0B6505C6CF9C84F5859FCE3B63F1FB2D4818501F6C5FA4AD1430EEB081A74ABD74CD1F4AA1FCCA3B88DD0548AED34443CEB52444EAE9099AA4FE66B2E6224D02381C248025C7044079020111"
+		}
+		"sdr-groups"		"steam-global,steam-china"
+		"sdr-groups-global"		"mplay-csgo"
+		"matchmaking_uptodate"		"1"
+		"matchmaking_mms_appidinvitenf"		"624820"
+		"enabletextfiltering"		"1"
+		"gameoverlay_testmode"		"1"
+		"enable_duration_control"		"1"
+		"duration_control_show_interstitial"		"0"
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+			"steam_china_duration_control_show_interstitial"		"0"
+		}
+		"uselaunchcommandline"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamdecktouchscreen"		"1"
+		"installscriptsignature"		"8a80c9a3a8ab75b8f133929a0e89978531d7e49a074d6a305ca47097c268f18c6522ccca65138f831f327afcbcaea43cee8e6861f353c597c86feab0c2fd6562bd3ab6c72ad34e861e421315af3054c76933c9d882d9476bde6098152a5bedfcd2103591a91b27bb95c8c1d4519684542790e6cbd93144e8a5b77ec8298f80cd"
+		"installscriptoverride"		"1"
+		"cegpublickey"		"30819D300D06092A864886F70D010101050003818B0030818702818100A2E1BC73B8542963E95838CFD770CE44881742E9B49D951A54AEBE7345BDFCB19F08B63B9CF84A60FF0DAE381A9455C4D54902EB68831BA4D34C1A9A97000AB8C1782A4A2B48898430BD62CCEAD799207BBA2D19673133C920896318F58AA5626E5615F5CDE8C170855977837D474AAF4EF116D68CDE1004A9022BE6708EE913020111"
+		"CheckGuid"		"client.dll"
+	}
+	"install"
+	{
+		"utf8_registry_strings"		"1"
+		"registry"
+		{
+			"hkey_local_machine\\software\\valve\\cs2"
+			{
+				"string"
+				{
+					"installpath"		"%INSTALLDIR%"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"depotdeltapatches"		"0"
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian"
+		"workshopdepot"		"730"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"732"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2686869445712492121"
+					"size"		"7"
+					"download"		"64"
+				}
+				"csgo_legacy"
+				{
+					"gid"		"6314304446937576250"
+					"size"		"363675822"
+					"download"		"254448016"
+				}
+				"demo_viewer"
+				{
+					"gid"		"5384752978584135997"
+					"size"		"99503909"
+					"download"		"0"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"8044471949814094572"
+					"size"		"7"
+					"download"		"64"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"6841354873202620814"
+					"size"		"7"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.21.3.1"
+				{
+					"gid"		"E2DBD86506429B10B8EE95E73BAEE161"
+					"size"		"67C243FBB8335E76EEE46884B9EF90FD"
+					"download"		"F7FB63D6A125CB4C407D2919BEBBE2BC"
+				}
+				"dpr"
+				{
+					"gid"		"23F01FA21C9DF484A54D126D2C67DD7F"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
+				}
+				"dprp"
+				{
+					"gid"		"AEB5CD9EE5C49C9A56694F6EDE441243"
+					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
+					"download"		"3D2C948DD298272F42A9294690DCF8C0"
+				}
+				"test"
+				{
+					"gid"		"42414641CAC03570BE1A210B1AB9F437"
+					"size"		"FA14425633D41BFC69C3FB1FECCAF7BC"
+					"download"		"7ACFB7FEB22C9423942EF677D5EE77A7"
+				}
+			}
+		}
+		"733"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2322442651607933983"
+					"size"		"7"
+					"download"		"64"
+				}
+				"csgo_legacy"
+				{
+					"gid"		"7818492753742006607"
+					"size"		"276643099"
+					"download"		"73729760"
+				}
+				"demo_viewer"
+				{
+					"gid"		"2103093205873127583"
+					"size"		"147862039"
+					"download"		"0"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"3862186099534808461"
+					"size"		"7"
+					"download"		"64"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"2659615811824744444"
+					"size"		"7"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.21.3.1"
+				{
+					"gid"		"FE53E7384970FEC67A127F16BAE29D60"
+					"size"		"1077E7CC825643D69383A5967739F986"
+					"download"		"F7FB63D6A125CB4C407D2919BEBBE2BC"
+				}
+				"dpr"
+				{
+					"gid"		"1578CE7ADCC760CBEA885187E0BF9B20"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
+				}
+				"dprp"
+				{
+					"gid"		"3B58F82046A48C25FAF5FFD49C53D9B8"
+					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
+					"download"		"3D2C948DD298272F42A9294690DCF8C0"
+				}
+				"test"
+				{
+					"gid"		"77DD810302667963CEB2331E15261CC3"
+					"size"		"FA14425633D41BFC69C3FB1FECCAF7BC"
+					"download"		"7ACFB7FEB22C9423942EF677D5EE77A7"
+				}
+			}
+		}
+		"731"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2615165013113912904"
+					"size"		"7"
+					"download"		"64"
+				}
+				"csgo_legacy"
+				{
+					"gid"		"1224088799001669801"
+					"size"		"32722411363"
+					"download"		"13644292112"
+				}
+				"demo_viewer"
+				{
+					"gid"		"8917601652689682225"
+					"size"		"4844677826"
+					"download"		"0"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"4142058799396399244"
+					"size"		"7"
+					"download"		"64"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"6692533241640431027"
+					"size"		"7"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.21.3.1"
+				{
+					"gid"		"E5E8FE0944FE3C2B3054AE9D5DF3E47E"
+					"size"		"1C1CF23C9FD97421C344271DF595D1FE"
+					"download"		"F7FB63D6A125CB4C407D2919BEBBE2BC"
+				}
+				"dpr"
+				{
+					"gid"		"207179939E2EF7A92E5450CBD339AEFE"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
+				}
+				"dprp"
+				{
+					"gid"		"284EB9410409F878D0C7EE37FB8C35FA"
+					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
+					"download"		"3D2C948DD298272F42A9294690DCF8C0"
+				}
+				"test"
+				{
+					"gid"		"AB61D912DA59E2CDF40D9E63DFCFE1AA"
+					"size"		"FA14425633D41BFC69C3FB1FECCAF7BC"
+					"download"		"7ACFB7FEB22C9423942EF677D5EE77A7"
+				}
+			}
+		}
+		"734"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6083147534743837504"
+					"size"		"7"
+					"download"		"64"
+				}
+				"csgo_legacy"
+				{
+					"gid"		"3343055176458696864"
+					"size"		"434785022"
+					"download"		"114314960"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"5448010203146840210"
+					"size"		"7"
+					"download"		"64"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"8603116478563095649"
+					"size"		"7"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.21.3.1"
+				{
+					"gid"		"1EB9AC9C01671AE1A101B5230EEB38D7"
+					"size"		"A467EECEDF5678BCCA6A3C8C65F0B105"
+					"download"		"82938A8288BF56813D4F49B0720C1C7C"
+				}
+				"dpr"
+				{
+					"gid"		"798906B6AD95FEEA25A2ACBEB2541501"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
+				}
+				"dprp"
+				{
+					"gid"		"B54465EF776FBCAF572F1CE803E2737F"
+					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
+					"download"		"3D2C948DD298272F42A9294690DCF8C0"
+				}
+				"test"
+				{
+					"gid"		"FF00F299E5DB4FD2EE21E555CEE8341C"
+					"size"		"FA14425633D41BFC69C3FB1FECCAF7BC"
+					"download"		"7ACFB7FEB22C9423942EF677D5EE77A7"
+				}
+			}
+		}
+		"735"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4568460569196247562"
+					"size"		"7"
+					"download"		"64"
+				}
+				"csgo_legacy"
+				{
+					"gid"		"3867231304834558645"
+					"size"		"0"
+					"download"		"0"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"8920800030651367157"
+					"size"		"7"
+					"download"		"64"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"4327688823785310855"
+					"size"		"7"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dpr"
+				{
+					"gid"		"B7D439072A9918FD46251A1E396A9F55"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
+				}
+				"dprp"
+				{
+					"gid"		"5ADCB27BA365DB840FF82EA3692331E3"
+					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
+					"download"		"3D2C948DD298272F42A9294690DCF8C0"
+				}
+				"test"
+				{
+					"gid"		"AB10E2FB14DF8A38F26BA5C3FE65A070"
+					"size"		"FA14425633D41BFC69C3FB1FECCAF7BC"
+					"download"		"7ACFB7FEB22C9423942EF677D5EE77A7"
+				}
+			}
+		}
+		"736"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2321220417639540711"
+					"size"		"7"
+					"download"		"64"
+				}
+				"csgo_legacy"
+				{
+					"gid"		"1949918900514112752"
+					"size"		"0"
+					"download"		"0"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"5362946245994068617"
+					"size"		"7"
+					"download"		"64"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"6538578845667163312"
+					"size"		"7"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dpr"
+				{
+					"gid"		"4FC6FB5CCC0835618479F5A29137D0D1"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
+				}
+				"dprp"
+				{
+					"gid"		"9A707BF9C96E600EEA04D022D38DA1D2"
+					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
+					"download"		"3D2C948DD298272F42A9294690DCF8C0"
+				}
+				"test"
+				{
+					"gid"		"E989822241485B3057F34C12FD7DB516"
+					"size"		"FA14425633D41BFC69C3FB1FECCAF7BC"
+					"download"		"7ACFB7FEB22C9423942EF677D5EE77A7"
+				}
+			}
+		}
+		"737"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8324555370441527017"
+					"size"		"7"
+					"download"		"64"
+				}
+				"csgo_legacy"
+				{
+					"gid"		"8959772282070246004"
+					"size"		"417072383"
+					"download"		"143962432"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"4725409182662061396"
+					"size"		"7"
+					"download"		"64"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"66083810588650349"
+					"size"		"7"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dpr"
+				{
+					"gid"		"E1BC6D16999CD11ACFC139BF71910396"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
+				}
+				"dprp"
+				{
+					"gid"		"7930C89E840A9010E0034BD05559C229"
+					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
+					"download"		"3D2C948DD298272F42A9294690DCF8C0"
+				}
+				"test"
+				{
+					"gid"		"D7DD82E6B5A24231D32EF48780C3B9EF"
+					"size"		"FA14425633D41BFC69C3FB1FECCAF7BC"
+					"download"		"7ACFB7FEB22C9423942EF677D5EE77A7"
+				}
+			}
+		}
+		"738"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5850552343763989973"
+					"size"		"7"
+					"download"		"64"
+				}
+				"csgo_legacy"
+				{
+					"gid"		"313951540668567317"
+					"size"		"920601806"
+					"download"		"741168448"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"3111447360093059437"
+					"size"		"7"
+					"download"		"64"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"5343140543106291271"
+					"size"		"7"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dpr"
+				{
+					"gid"		"448E8F544A63903A43398DC2158796E4"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
+				}
+				"dprp"
+				{
+					"gid"		"5D5BBF5753946DF6FA857B184430D41E"
+					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
+					"download"		"3D2C948DD298272F42A9294690DCF8C0"
+				}
+				"test"
+				{
+					"gid"		"BF554701AE0D0EA685D97E34D078FC9F"
+					"size"		"FA14425633D41BFC69C3FB1FECCAF7BC"
+					"download"		"7ACFB7FEB22C9423942EF677D5EE77A7"
+				}
+			}
+		}
+		"2347770"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3022245820216436540"
+					"size"		"47491702074"
+					"download"		"38070830288"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"3936876648393081712"
+					"size"		"47547624480"
+					"download"		"38114578736"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"7499101475458455804"
+					"size"		"47512016721"
+					"download"		"38084495104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dpr"
+				{
+					"gid"		"FE7483B3B6C5B00475C558881E9880CD"
+					"size"		"E074694B2FEE5A1E2CA5F051D005F589"
+					"download"		"00650C41326FB3272DF4114C7023D033"
+				}
+				"dprp"
+				{
+					"gid"		"EE2DA459D7D45E05F3D35F58EB52B18A"
+					"size"		"179DD4980B1FFF42BB31D64422DAEBC3"
+					"download"		"AC638EF4FE80093ADA2A8569E66260ED"
+				}
+				"test"
+				{
+					"gid"		"A6E65A538C5F0AC4E3E9BBA3FE9733A2"
+					"size"		"EB7977CD7B0248B99DE1EC324C9E384E"
+					"download"		"81EB0646CA04732C04766DF2299D2456"
+				}
+			}
+		}
+		"2347771"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6602066677015601690"
+					"size"		"808071207"
+					"download"		"471652112"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"7502714287439172788"
+					"size"		"808069695"
+					"download"		"471639344"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"3979041636740345651"
+					"size"		"808070695"
+					"download"		"471654576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dpr"
+				{
+					"gid"		"A419CDD43844A74EAF77B7F3AF419314"
+					"size"		"105E76C7AC9C14A61207592E868F57F2"
+					"download"		"C86FFDAAB567E6C05DEA55C244465EDE"
+				}
+				"dprp"
+				{
+					"gid"		"9F22278D3CDF5CE479426EA9C32BCEE7"
+					"size"		"CB85CF5B96612417DB98A4BC292FCF8B"
+					"download"		"3F6A32E22768038365220A3136E271BE"
+				}
+				"test"
+				{
+					"gid"		"7CDB2B5DDAC60DF01A1E7219498685B6"
+					"size"		"09DBA6A2E6C06B80D38F5BD5FD7374C4"
+					"download"		"474558D05FA9D095F83DBB91BD232630"
+				}
+			}
+		}
+		"2347772"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4427303554736365309"
+					"size"		"9276"
+					"download"		"1696"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"4427303554736365309"
+					"size"		"9276"
+					"download"		"1696"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"4427303554736365309"
+					"size"		"9276"
+					"download"		"1696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dpr"
+				{
+					"gid"		"BFF0BC35613E251AA644B3AD6106BE57"
+					"size"		"DBC20A9CAC692E030840098BD2973B2F"
+					"download"		"1A9279777F91B1FD1F672EFAE27398D7"
+				}
+				"dprp"
+				{
+					"gid"		"8F3925E644EA653007413CAC4CA8B9AE"
+					"size"		"BE68905FFECD6FA2C10509E18880467A"
+					"download"		"1B3A2785D2C6A8F1481638CFE2C38DC1"
+				}
+				"test"
+				{
+					"gid"		"27A0BA7B0B45DAEB114ABAD020ADD41A"
+					"size"		"D8F1847A53BE3D6FB1F3ED16818CFBD7"
+					"download"		"C6980B4A20517C4EB0F12FBE31878BC1"
+				}
+			}
+		}
+		"2347773"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2005430250600047234"
+					"size"		"271955565"
+					"download"		"75631216"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"6074129291841125023"
+					"size"		"271955565"
+					"download"		"75630528"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"1439364234896131786"
+					"size"		"271955565"
+					"download"		"75629376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dpr"
+				{
+					"gid"		"F8F61C63745126E6D596EB778B5B85D4"
+					"size"		"6D3285DC26974F7C364195170876545D"
+					"download"		"C7646DB416D796F4A6B01E06E294DBBC"
+				}
+				"dprp"
+				{
+					"gid"		"2A25897DB9E71426FE9AAC3C4CCAB95E"
+					"size"		"AA272085805C9B07512E6AA5EC6E28E8"
+					"download"		"54C666F04F7EF09A4833E202B17CC8B2"
+				}
+				"test"
+				{
+					"gid"		"AA5DFD8F13D74039F81C015DC80A2E96"
+					"size"		"22184A815DE16FE1FBA8FA1910556D6F"
+					"download"		"05B17F9F88299722DA79B815BA775827"
+				}
+			}
+		}
+		"2347774"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2506907270420255040"
+					"size"		"1018065131"
+					"download"		"833784944"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"2506907270420255040"
+					"size"		"1018065131"
+					"download"		"833784944"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"2506907270420255040"
+					"size"		"1018065131"
+					"download"		"833784944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dpr"
+				{
+					"gid"		"97339EC2479D04C4B2D7DA034FD83B0D"
+					"size"		"ACD5A6DB18A3CCB8F89F4E1DEE8F1986"
+					"download"		"C969AD0A36FB24414C58DEF723A2EC7A"
+				}
+				"dprp"
+				{
+					"gid"		"6B567F62C96128A64D727DA4BCB39E98"
+					"size"		"4ED5CE0254E413137F60AB4E7AA70B7A"
+					"download"		"FFB5641887961E246FBA3B26ECD52509"
+				}
+				"test"
+				{
+					"gid"		"6EAFD940A7D3392461EE2CDFCCEBF297"
+					"size"		"2C15C0B359A5552ED65F5921AE5CD0FC"
+					"download"		"66128FCBB69EE857249231876CC41777"
+				}
+			}
+		}
+		"2347775"
+		{
+		}
+		"2347776"
+		{
+		}
+		"2347777"
+		{
+		}
+		"2347778"
+		{
+		}
+		"2347779"
+		{
+			"dlcappid"		"2279721"
+			"config"
+			{
+				"osarch"		"64"
+				"optionaldlc"		"2279721"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4521915933699317593"
+					"size"		"770131356"
+					"download"		"205394512"
+				}
+				"1.40.5.4"
+				{
+					"gid"		"4061099152026416624"
+					"size"		"770126296"
+					"download"		"205379024"
+				}
+				"1.40.5.5"
+				{
+					"gid"		"5705171900453274807"
+					"size"		"770131356"
+					"download"		"205398080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dpr"
+				{
+					"gid"		"46012848A41EA81256768A74B8505A91"
+					"size"		"799FF20AEDD6889BB1EF32C41B3AC212"
+					"download"		"0F0772F30651C81334F9F79A2353ED86"
+				}
+				"dprp"
+				{
+					"gid"		"85AA6134B1FE8B4C7654C2D87541F48E"
+					"size"		"016D3366804ABF4750440443B849B6AD"
+					"download"		"F5F343347964F4A527A26528649510C7"
+				}
+				"test"
+				{
+					"gid"		"63C558BF8EC9A708FC79386ED422ABA6"
+					"size"		"0D7BC733EB39BB793DA69FA49E745E2E"
+					"download"		"5B7EFD2E7F5D3004E4494BDAD2D943E9"
+				}
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16687167"
+				"timeupdated"		"1733790456"
+			}
+			"1.21.3.1"
+			{
+				"buildid"		"611429"
+				"pwdrequired"		"1"
+			}
+			"csgo_legacy"
+			{
+				"buildid"		"12426195"
+				"description"		"Legacy Version of CS:GO"
+				"timeupdated"		"1697161396"
+			}
+			"demo_viewer"
+			{
+				"buildid"		"35423"
+				"description"		"for pre 2013/1/9 demos"
+			}
+			"1.40.5.4"
+			{
+				"sc_schinese"		"1.40.5.4"
+				"buildid"		"16559327"
+				"description"		"1.40.5.4"
+				"timeupdated"		"1732751256"
+			}
+			"1.40.5.5"
+			{
+				"sc_schinese"		"1.40.5.5"
+				"buildid"		"16619281"
+				"description"		"1.40.5.5"
+				"timeupdated"		"1733260857"
+			}
+			"dpr"
+			{
+				"buildid"		"16619281"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733260868"
+			}
+			"dprp"
+			{
+				"buildid"		"16619281"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733260878"
+			}
+			"test"
+			{
+				"buildid"		"15643476"
+				"pwdrequired"		"1"
+				"timeupdated"		"1725919077"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+	"ufs"
+	{
+		"quota"		"1573741824"
+		"maxnumfiles"		"10000"
+	}
+}

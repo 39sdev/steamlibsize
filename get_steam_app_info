@@ -1,0 +1,7 @@
+#!/bin/bash
+steamcmd \
+    +login anonymous \
+    +app_info_request 1403370 \
+    +login anonymous \
+    +app_info_print 1403370 \
+    +quit

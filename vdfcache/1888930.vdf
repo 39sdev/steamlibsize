@@ -1,0 +1,928 @@
+"1888930"
+{
+	"common"
+	{
+		"name"		"The Last of Us™ Part I"
+		"type"		"Game"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"danish"		"1"
+			"dutch"		"1"
+			"finnish"		"1"
+			"norwegian"		"1"
+			"swedish"		"1"
+			"hungarian"		"1"
+			"czech"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"greek"		"1"
+			"latam"		"1"
+		}
+		"icon"		"6991d13038a61e35bade3aabea400c74bbbf966d"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"d96ad9122c1a297b00efe2f8ae911be21c7b66c1"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"italian"		"The Last of Us™ Parte I"
+			"portuguese"		"The Last of Us™ Parte I"
+			"russian"		"Одни из нас™: Часть I"
+			"spanish"		"The Last of Us™ Parte I"
+			"latam"		"The Last of Us™ Part I"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1888930_eula_0"
+				"name"		"The Last of Us™ Part I EULA (RoW)"
+				"url"		"https://store.steampowered.com/eula/1888930_eula_0"
+				"version"		"7"
+				"countries"		"AF,AG,AI,AL,AM,AN,AO,AQ,AR,AS,AW,AX,AZ,BA,BB,BD,BF,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,DJ,DM,DO,DZ,EC,EE,EG,EH,ER,ET,FJ,FK,FM,FO,FX,GA,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GS,GT,GU,GW,GY,HK,HM,HN,HT,ID,IM,IO,IQ,IR,JE,JM,JO,KE,KG,KH,KI,KM,KN,KP,KY,KZ,LA,LC,LK,LR,LS,LT,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NP,NR,NU,PA,PE,PF,PG,PH,PK,PM,PN,PR,PS,PW,PY,RE,RW,SB,SC,SD,SG,SH,SJ,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TT,TV,TW,TZ,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,XD,YE,YT,ZM,ZW"
+			}
+			"1"
+			{
+				"id"		"1888930_eula_1"
+				"name"		"The Last of Us™ Part I EULA (EMEA)"
+				"url"		"https://store.steampowered.com/eula/1888930_eula_1"
+				"countries"		"AD,AE,AT,AU,BE,BG,BH,CH,CY,CZ,DE,DK,ES,FI,FR,GB,GR,HR,HU,IE,IL,IN,IS,IT,KW,LB,LI,LU,MT,NL,NO,NZ,OM,PL,PT,QA,RO,RS,RU,SA,SE,SI,SK,TR,UA,ZA"
+				"version"		"1"
+			}
+			"2"
+			{
+				"id"		"1888930_eula_2"
+				"name"		"The Last of Us™ Part I EULA (JP)"
+				"url"		"https://store.steampowered.com/eula/1888930_eula_2"
+				"countries"		"JP"
+				"version"		"1"
+			}
+			"3"
+			{
+				"id"		"1888930_eula_3"
+				"name"		"The Last of Us™ Part I EULA (KR)"
+				"url"		"https://store.steampowered.com/eula/1888930_eula_3"
+				"countries"		"KR"
+				"version"		"1"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1688515200"
+			"tested_build_id"		"11437285"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.86425515363673"
+				"height_pct"		"60.027737951878116"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"38.86425515363673"
+					"height_pct"		"60.027737951878116"
+				}
+			}
+		}
+		"store_asset_mtime"		"1728600300"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Naughty Dog LLC"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Iron Galaxy Studios"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"PlayStation Publishing LLC"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"PlayStation Studios"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_43"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_59"		"1"
+			"category_60"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"croatian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1680015480"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1888930"
+		"store_tags"
+		{
+			"0"		"1742"
+			"1"		"3835"
+			"2"		"1774"
+			"3"		"4106"
+			"4"		"1667"
+			"5"		"1659"
+			"6"		"3814"
+			"7"		"1697"
+			"8"		"1662"
+			"9"		"4182"
+			"10"		"19"
+			"11"		"3978"
+			"12"		"4064"
+			"13"		"4145"
+			"14"		"5608"
+			"15"		"21"
+			"16"		"4166"
+			"17"		"5984"
+			"18"		"5708"
+			"19"		"7948"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"Naughty Dog LLC"
+		"publisher"		"PlayStation Publishing LLC"
+		"homepage"		"https://www.playstation.com/en-us/the-last-of-us/"
+		"listofdlc"		"2245260,2254450"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Last of Us Part I"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launcher.exe"
+				"arguments"		"service steam"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"t1x-release.exe"
+				"arguments"		"service steam crsfulldump"
+				"config"
+				{
+					"ownsdlc"		"2255770"
+				}
+				"description_loc"
+				{
+					"english"		"(DLC only) t1x release config (full debug)"
+				}
+				"description"		"(DLC only) t1x release config (full debug)"
+			}
+			"3"
+			{
+				"executable"		"t1x-final-pgo-lto.exe"
+				"arguments"		"service steam"
+				"config"
+				{
+					"ownsdlc"		"2255770"
+				}
+				"description_loc"
+				{
+					"english"		"(DLC only) t1x final-pgo-lto config (minimal debug)"
+				}
+				"description"		"(DLC only) t1x final-pgo-lto config (minimal debug)"
+			}
+			"4"
+			{
+				"executable"		"t1x-rtm.exe"
+				"arguments"		"service steam"
+				"config"
+				{
+					"ownsdlc"		"2255770"
+				}
+				"description_loc"
+				{
+					"english"		"(DLC only) t1x rtm config (shipping game)"
+				}
+				"description"		"(DLC only) t1x rtm config (shipping game)"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamcontrollertouchtemplateindex"		"8"
+		"steamconfigurator3rdpartynative"		"65532"
+		"steamcontrollertemplateindex"		"2"
+		"app_mappings"
+		{
+			"1"
+			{
+				"platform"		"linux"
+				"tool"		"proton_hotfix"
+				"comment"		"hotfix-tlou-pso-memory"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1888931"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7149537440347319468"
+					"size"		"68222491956"
+					"download"		"67212858064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"compat"
+				{
+					"gid"		"1467A59C9A34EFCCC3EDAFE4D78C335D"
+					"size"		"2BDA61A6194E2D87921CCC289FB5B84D"
+					"download"		"DD03E2334B94928ABDE4F1332A8C78C3"
+				}
+				"hw_vendors"
+				{
+					"gid"		"269E2420871D1ECEF4556F9A6C714BCF"
+					"size"		"A720D14F30F7038DED2A7334D5C5B3FC"
+					"download"		"38D6FB2193EF3FD03749F6E674E02390"
+				}
+				"hw_vendors_intel"
+				{
+					"gid"		"0D6F15AF3BFA7C460E1AD96BBA32BCDA"
+					"size"		"50FD2540EBA7555869FA3552F8F6BF96"
+					"download"		"83FD64DCB0A2218E61F12823CBC14472"
+				}
+				"release_candidate"
+				{
+					"gid"		"5B186F81CBB41D692D1E80BC09440BA0"
+					"size"		"B346BD49C07A61E685C561FB16C8F21C"
+					"download"		"2F9ACEF8CF6513720363F2BE470B8F47"
+				}
+				"steamdeck"
+				{
+					"gid"		"290C8139F613317586443B5CBEE863A8"
+					"size"		"F3575B6EF82CF07EFD70A87AFDBBF2B5"
+					"download"		"13ACE050088B14EC25E2A223512D22E2"
+				}
+				"dev_daily"
+				{
+					"gid"		"DD6282A9AC6D80C9F88BC1B06147D7E6"
+					"size"		"EB3B7FBE9F4EFF2615D402AD322D16DE"
+					"download"		"4C713F04B86AB33BEFE6239C9FF0CBC7"
+				}
+				"dev_daily_alt"
+				{
+					"gid"		"C011CC1A97D64C14A17D5B0B17F8C1B0"
+					"size"		"E44C9A63A1E920D8B63676B7369421F1"
+					"download"		"062C054BEF9C32088621013351ADD522"
+				}
+				"hw_vendors_amd"
+				{
+					"gid"		"B71F0674998BA1D9C250203DEBE28859"
+					"size"		"E14E6D6D1044458A7A1798013F26C25A"
+					"download"		"6FCA1F0DB52D4A9F217E9B3DD659BB3D"
+				}
+				"test"
+				{
+					"gid"		"C411E53C37B13B53CA859404617D0753"
+					"size"		"74432369B972A8EDBD1F0ED913240410"
+					"download"		"25DFB26241AE2C387B83C67DDDB3DC9A"
+				}
+			}
+		}
+		"1888933"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8136318012250305780"
+					"size"		"3196198173"
+					"download"		"3000765104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"compat"
+				{
+					"gid"		"FC532D56089596C7BD52431461B3350C"
+					"size"		"D8B576D9DBAC8F733E9288734D778CE5"
+					"download"		"8565316846C287AC54B54ED2C79974BC"
+				}
+				"hw_vendors"
+				{
+					"gid"		"7BE6D6C5903B5DD9A56BEDF431D23BB1"
+					"size"		"32450EA870BCA4C31553030151092B73"
+					"download"		"D7318D4CEA193A11E0A369DEAC142770"
+				}
+				"hw_vendors_intel"
+				{
+					"gid"		"4E40CA4A77860983191804F8305508C2"
+					"size"		"218212B943929552EBD6BCADF41C1336"
+					"download"		"7B5C19B3B7480BE255EABF424AAC9EEE"
+				}
+				"release_candidate"
+				{
+					"gid"		"FDBF6AEDE2604DDFBBEEF091254D60A3"
+					"size"		"22B1D44BE9A9E657029ED5AE91045092"
+					"download"		"9B6B5D38F17D0063AE9089A14CBA7D87"
+				}
+				"steamdeck"
+				{
+					"gid"		"63ECFD19CA9640A2FEBABF72016C3FC9"
+					"size"		"90DFAE4493A7BDC62D2CCCE80C180C6D"
+					"download"		"535D4352FEB86BCA1F3001D01BA0634D"
+				}
+				"dev_daily"
+				{
+					"gid"		"4E3AD5B7FC4A466112C9F4ACCCCAA64D"
+					"size"		"DB9D14EEA9C9CC8A78CACAD393797809"
+					"download"		"A47C7F742E10FFFFD1F848E56197607E"
+				}
+				"dev_daily_alt"
+				{
+					"gid"		"3926E1F3DFC40689E650C6BD8FF3F00F"
+					"size"		"015B614296A4C315F510DA8470BC5B0D"
+					"download"		"3A6A22BDBD37AD407A5753E90D718D5B"
+				}
+				"hw_vendors_amd"
+				{
+					"gid"		"3EE5E3B14F2CE33D454C67B04AA94247"
+					"size"		"50166F7390F2B033AAFC2AF509953D9E"
+					"download"		"643C4760B0C1E0FBE45583424CBADFC4"
+				}
+				"test"
+				{
+					"gid"		"CF66322B254FD1347E9FE55CA3E2DB51"
+					"size"		"B17D36C4418F9C2956B02032E4E61D01"
+					"download"		"43AC93C035A855679ACC56C7932B348D"
+				}
+			}
+		}
+		"1888932"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3853558256762083169"
+					"size"		"15971715006"
+					"download"		"14093723856"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"compat"
+				{
+					"gid"		"2560ACD01A954C766FD974E35C3936A5"
+					"size"		"BB014900D6838779F034989156A38FFB"
+					"download"		"1DA8122BE19926AAE3339FC963846061"
+				}
+				"hw_vendors"
+				{
+					"gid"		"BA4F3EAE037E5432B22B6C7D66C361A3"
+					"size"		"7CFC66CEAACA0A1A391343AEBE6221A7"
+					"download"		"48686DE50948D9CFF608E4442B84A0D8"
+				}
+				"hw_vendors_intel"
+				{
+					"gid"		"DF6B7C075411A6A08C25E12829BB9B31"
+					"size"		"9EB2CAE58E987FEF8E77EE13743A4AD8"
+					"download"		"DC874A2D5F6E4A137F8EDFAC36E27565"
+				}
+				"release_candidate"
+				{
+					"gid"		"96166195A2402E36BA98EAB4F5485841"
+					"size"		"DE3746DAA7D62B76DC4ADCB3EBFB7D3F"
+					"download"		"54278A9D2807ABA4C7B48B13E615776C"
+				}
+				"steamdeck"
+				{
+					"gid"		"66F9A37BD634EB092925215EED7AF74E"
+					"size"		"19E5FC99C5D981374DD04F86ADD37C69"
+					"download"		"052753C28D5120194615FD24377EA3A4"
+				}
+				"dev_daily"
+				{
+					"gid"		"648D94CAB548E12306B0B2F14CEEE4DB"
+					"size"		"D7D7B80F4577671171D6E091849FE6BE"
+					"download"		"4CCA0670E55AB97404B0BB3BACC8B6D1"
+				}
+				"dev_daily_alt"
+				{
+					"gid"		"28DA073D7317F0CA08A5A7CCC2C61696"
+					"size"		"6964A6D176663158E90A342A365A6843"
+					"download"		"FF51F2A3480EEB74CCDE2C1794A9C99F"
+				}
+				"hw_vendors_amd"
+				{
+					"gid"		"8D0EAD995E553BE8575BED69BF993167"
+					"size"		"ABC5D2FE2E380FA3FD3BFD4E1C14BDD7"
+					"download"		"3B32E655F27A0F24C97A7565C2ADB209"
+				}
+				"test"
+				{
+					"gid"		"82C8DBCE8AF37656D895007F7DBB3B72"
+					"size"		"66F811C8D7AE5267B512544E591C3B24"
+					"download"		"E9DDF523A95855AC11D47F7507FA2C6C"
+				}
+			}
+		}
+		"2255770"
+		{
+			"dlcappid"		"2255770"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"887962209125645546"
+					"size"		"3913793438"
+					"download"		"531373664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"compat"
+				{
+					"gid"		"EDCC626EDE968D74C02DB3762A3A789C"
+					"size"		"2FCC4267C5D2D667FA2AC9851C0ED47C"
+					"download"		"DD8330EE42408D5A6ADDBB2A33E80CA7"
+				}
+				"hw_vendors"
+				{
+					"gid"		"0817BF43B4D082C7E65D4F86852C52CA"
+					"size"		"EC3EFEC687320678AD6E1A15F8E76FA8"
+					"download"		"6A2A1F6CE234396E48D2A38413A434E8"
+				}
+				"hw_vendors_intel"
+				{
+					"gid"		"F3D528172540D109E802163A0043EC7F"
+					"size"		"AC245C2C0BF6C5AB631E3A70079FA3F2"
+					"download"		"892E6175F2AFA6A591AE49C07EB2DA5C"
+				}
+				"release_candidate"
+				{
+					"gid"		"4003F7145B33CC72B069747BF032FBE3"
+					"size"		"942451ADEDA545B2A59259B84C477BF2"
+					"download"		"10C5CF2F4DCA561AEF116518B5504DE0"
+				}
+				"steamdeck"
+				{
+					"gid"		"6FA2C64338A52A421ABF4E1979FF60FA"
+					"size"		"D00731A72894748C80695BCD96D0F419"
+					"download"		"0B938D85FD3BA092DF69F985F7F81411"
+				}
+				"dev_daily"
+				{
+					"gid"		"69FF9CE4046545A888F46D47317A0A7C"
+					"size"		"5F727B1B8B48674B623A72662B69E08D"
+					"download"		"57DBE1791EDD21B3231FB73666C0DEDD"
+				}
+				"dev_daily_alt"
+				{
+					"gid"		"B99372F19D7D044DBB362C5624C2FD83"
+					"size"		"E255B89929676EF61CB04115C52103A9"
+					"download"		"D1C29DB56A1ACBFC952CBD9ED1685955"
+				}
+				"hw_vendors_amd"
+				{
+					"gid"		"17197C72690D7659E8E49FAAA390019F"
+					"size"		"55EF81D51CCFDAF486B17A1B2459012E"
+					"download"		"34342DE33279E13D951487D911154D07"
+				}
+				"test"
+				{
+					"gid"		"C71892EFC72FDEB629F68A2C8F782345"
+					"size"		"55436F0FA549655747FD18328A827614"
+					"download"		"11E51593A63356DBB118A9F8FC74D338"
+				}
+			}
+		}
+		"2290640"
+		{
+			"dlcappid"		"2290640"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8429566040817910897"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"compat"
+				{
+					"gid"		"CBE0BF3C6E4DC63C0EEBDD3CFC483161"
+					"size"		"5B4753FA29C7A76176EA585F811417FB"
+					"download"		"F7BAB525746B6E0BDD8EAF43F6D928EC"
+				}
+				"hw_vendors"
+				{
+					"gid"		"F68125D6C0591066430B9F9B94FBBF7E"
+					"size"		"A11EE06DBC4A7590B3D5ABC1F050A702"
+					"download"		"20299794DD774BA4E27F58C09137B2A8"
+				}
+				"hw_vendors_intel"
+				{
+					"gid"		"AE07250FB4F46624AF2070C5ED80B833"
+					"size"		"0A97E908B5B46C7DDB0E1C1D1F569A28"
+					"download"		"A86E7A75032B99D456674B5DD6871F17"
+				}
+				"release_candidate"
+				{
+					"gid"		"99D09CC5DB960C71F586D3B93E337D87"
+					"size"		"561558F0529EB485971D61489CCE41E1"
+					"download"		"F5261CE7653DA632ADB71A524B17E165"
+				}
+				"steamdeck"
+				{
+					"gid"		"71DA60F1A3D684555C09D0855C6712E3"
+					"size"		"D7A289CDD772327BA04881283958CE8A"
+					"download"		"3CEE7CC0873B4F6EC6F6988E4E1886F2"
+				}
+				"dev_daily"
+				{
+					"gid"		"AF2DBE3DAD02D4E7095BE3A5A6CB4470"
+					"size"		"D33CB231987E64FCEED0E344D042225D"
+					"download"		"D567BF08C2F1794C339C7E087B5647E5"
+				}
+				"dev_daily_alt"
+				{
+					"gid"		"7582DD9E079500A5DD89B52C6778341F"
+					"size"		"A346DB01FD8F0CFA73678CA758B6526C"
+					"download"		"E9AC2DDD9509B59114471CBDB31ADB88"
+				}
+				"hw_vendors_amd"
+				{
+					"gid"		"93410F6C74D9BB0FB2DEDCDE6D852FCE"
+					"size"		"2B803B8488B07EECBEA4737874E0FC08"
+					"download"		"3C8479EBB4709BD02193716D50F15B4F"
+				}
+				"test"
+				{
+					"gid"		"9A993D191A76D2F8F7A88F1103E08A78"
+					"size"		"8C9FBA49C8A8B4554A6AEAE7298703B3"
+					"download"		"E17C4389CD7F06E6179BC98EAC97BDBE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"14139927"
+				"timeupdated"		"1714064239"
+			}
+			"compat"
+			{
+				"buildid"		"11350172"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685464447"
+			}
+			"hw_vendors"
+			{
+				"buildid"		"11698221"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689706534"
+			}
+			"hw_vendors_intel"
+			{
+				"buildid"		"11698221"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689706562"
+			}
+			"release_candidate"
+			{
+				"buildid"		"11806516"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690499804"
+			}
+			"steamdeck"
+			{
+				"buildid"		"11373832"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685721875"
+			}
+			"dev_daily"
+			{
+				"buildid"		"15681036"
+				"pwdrequired"		"1"
+				"timeupdated"		"1726165148"
+			}
+			"dev_daily_alt"
+			{
+				"buildid"		"15508730"
+				"pwdrequired"		"1"
+				"timeupdated"		"1724982334"
+			}
+			"hw_vendors_amd"
+			{
+				"buildid"		"15681036"
+				"pwdrequired"		"1"
+				"timeupdated"		"1726177714"
+			}
+			"test"
+			{
+				"buildid"		"15322393"
+				"pwdrequired"		"1"
+				"timeupdated"		"1724786085"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"200000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"The Last of Us Part I/users/{Steam3AccountId}/savedata/"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}

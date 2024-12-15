@@ -1,0 +1,86 @@
+"938030"
+{
+	"common"
+	{
+		"name"		"Glass Masquerade - Inceptions Puzzle Pack"
+		"type"		"DLC"
+		"parent"		"511470"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienttga"		"ed2fc3f44edeb6b9f1e7f1488e63817c8a225e52"
+		"clienticon"		"5b516b84122864c1d577b13819ba4b31ac1c9d7d"
+		"icon"		"637bd571f44547a2140bb48a3e7f6783f3d46251"
+		"logo"		"ab8b9a5977d5ac71496ec1540c7908a3beee76a3"
+		"logo_small"		"ab8b9a5977d5ac71496ec1540c7908a3beee76a3_thumb"
+		"osextended"		"macos64"
+		"metacritic_name"		"Glass Masquerade - Inceptions"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_204c250b76939e19c9b25d23f9b77bccf4dc6dd4.jpg"
+		"store_asset_mtime"		"1560616141"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Onyx Lute"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Onyx Lute"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Glass Masquerade"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1536878552"
+		"gameid"		"938030"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"dlcforappid"		"511470"
+		"mustownapptopurchase"		"511470"
+		"developer"		"Onyx Lute"
+		"publisher"		"Onyx Lute"
+		"homepage"		"https://glass-masquerade.com"
+		"dlcavailableonstore"		"1"
+	}
+}

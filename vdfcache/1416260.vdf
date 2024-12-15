@@ -1,0 +1,855 @@
+"1416260"
+{
+	"common"
+	{
+		"name"		"SpellForce 3: Versus Edition"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1416260_eula_0"
+				"name"		"SpellForce 3: Versus Edition EULA"
+				"url"		"https://store.steampowered.com//eula/1416260_eula_0"
+				"version"		"1"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"f4043c2fe5bf59f435d6bb8e63804a220b9b74e0"
+		"logo_small"		"f4043c2fe5bf59f435d6bb8e63804a220b9b74e0_thumb"
+		"icon"		"ada9fad61de52f88468d1f584a6585955fe76f31"
+		"clienticon"		"65045bcc0fdd5a06148a0740f3b0de4483ddc61a"
+		"clienttga"		"3a2690bf1ea2bdf0c85cd7840b2d68b579e14a5d"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1721865600"
+			"tested_build_id"		"9689653"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-9.0-2RC"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"67.44186046511629"
+				"height_pct"		"78.11683685585373"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"67.44186046511629"
+					"height_pct"		"78.11683685585373"
+				}
+			}
+		}
+		"store_asset_mtime"		"1603882587"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Grimlore Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"THQ Nordic"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"SpellForce"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"THQ Nordic"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"2"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_48"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1604424900"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1416260"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"122"
+			"2"		"1643"
+			"3"		"113"
+			"4"		"17305"
+			"5"		"4231"
+			"6"		"1676"
+			"7"		"3859"
+			"8"		"1684"
+			"9"		"1775"
+			"10"		"4166"
+			"11"		"3843"
+			"12"		"7332"
+			"13"		"4345"
+			"14"		"4191"
+			"15"		"4791"
+			"16"		"4604"
+			"17"		"1723"
+			"18"		"8122"
+			"19"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"Grimlore Games"
+		"publisher"		"THQ Nordic"
+		"isfreeapp"		"1"
+		"listofdlc"		"1460150"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SpellForceThree"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SF3ClientFinal.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"BetaKey"		"mgr_testgate"
+				}
+			}
+			"1"
+			{
+				"executable"		"launcher\\Versus\\Launcher.exe"
+				"arguments"		"-launch SF3Final"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"launcher\\Versus\\Launcher.exe"
+				"arguments"		"-launch LevelEditor"
+				"type"		"editor"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"3"
+			{
+				"executable"		"launcher\\Versus\\Launcher.exe"
+				"arguments"		"-launch SF3Debug"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"with Debug Tools"
+				}
+				"description"		"with Debug Tools"
+			}
+			"4"
+			{
+				"executable"		"launcher\\Versus\\Launcher.exe"
+				"arguments"		"-launch ModdingDocs"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Open Modding Documentation"
+				}
+				"description"		"Open Modding Documentation"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,russian,polish"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1416262"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5044997787201685228"
+					"size"		"146372036"
+					"download"		"55121040"
+				}
+				"publictest"
+				{
+					"gid"		"3518023098191065825"
+					"size"		"146910932"
+					"download"		"54953920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"8D7DB5A3EA7B85D8B3393C11CCB72819"
+					"size"		"E67A991AEF5C91ACBD9B4BF66345D3A4"
+					"download"		"41CCF6E313CFDBA409A5A07792F6560F"
+				}
+				"buildtest"
+				{
+					"gid"		"C180F1BFAA343E1CD6F715978A183CA1"
+					"size"		"9B0A5116A81A89D173AAEBEA086EF8DC"
+					"download"		"86E9A904DE95A82C1BA7FDC634D942CA"
+				}
+				"fial"
+				{
+					"gid"		"99AEF56AA7B1D044AF04238FEE9BDEE8"
+					"size"		"743DC1C1DC49BFE5916894D6D44F8B5A"
+					"download"		"4215EC0A88E0072B44574A31165E3CE2"
+				}
+				"kubi"
+				{
+					"gid"		"C05902CD4D1A04C9D69A88992DB50F81"
+					"size"		"3E5F7CECB8FBB6171204A5449E174311"
+					"download"		"7BE52290B7BF51048C6850236A7657F5"
+				}
+				"naka"
+				{
+					"gid"		"4877258B0AD9BEA530E87153B88D6A04"
+					"size"		"AF2CAFB2E226FA9D3E40384659D78027"
+					"download"		"E1B9D77F20597202E648829A33799198"
+				}
+				"playground"
+				{
+					"gid"		"C6F319FA4F633C06F58CDB0D556144CB"
+					"size"		"0DFE43AD82134B3AA20C2FD2862F6E67"
+					"download"		"0DFE43AD82134B3AA20C2FD2862F6E67"
+				}
+				"replay"
+				{
+					"gid"		"52DB03A8FBC0A23222AF1ACFF82A184F"
+					"size"		"655DF029DE238E440D1985865000663A"
+					"download"		"3EB523B3B38561D266B64B927F321C0F"
+				}
+				"replay2022"
+				{
+					"gid"		"18758769F3D2A5CA62F82085FE4CAB85"
+					"size"		"15087DDC9D817C24FF9412AC1DA762C9"
+					"download"		"6CE648A7815AAEFBE4A2C050BBFE027A"
+				}
+				"replaybackup"
+				{
+					"gid"		"B1E72F84262AF3CC1654BBB8E41687B4"
+					"size"		"E452B77A2FF26F6821C4B15880522060"
+					"download"		"16E831EFBD85225248B48C9FB0B2C595"
+				}
+				"replayoct2022"
+				{
+					"gid"		"B592A84A07DAD9B65F2B714B95C43669"
+					"size"		"CFFCD23A470FC2C293CB3EE2BDA7F6A4"
+					"download"		"193B48C52DB9B494D5BD4B3D4943FA6E"
+				}
+				"review"
+				{
+					"gid"		"7DF086C28146E722F840D3E89DB69628"
+					"size"		"45BAFEBEC65ABB546682C840BA4161B9"
+					"download"		"EE019C7B892049D33DA9342571EE4DAF"
+				}
+				"specialpress"
+				{
+					"gid"		"A2F25AA4F1F71368693716BB208D4B5C"
+					"size"		"B987346D99615DB7DEA67DE0424088F1"
+					"download"		"4648E34B1C7095BC91286F6D3CE6B2B9"
+				}
+				"staging"
+				{
+					"gid"		"6CAC81F1D3716C09B2ED778D72F5B666"
+					"size"		"F5520C09D0B04C9A31FB4ED8F89D0C95"
+					"download"		"05FAEBE5068558F634C070B57B6C4E48"
+				}
+				"stream_preview"
+				{
+					"gid"		"2093D634BEC68643823FE73B4242643A"
+					"size"		"DF14A3134FB0B3C559A318732B1206F5"
+					"download"		"DF14A3134FB0B3C559A318732B1206F5"
+				}
+				"testgate"
+				{
+					"gid"		"5D8E0C51CB94E9D62288960F807AC204"
+					"size"		"69D36757DA3E29D593359A9691E3CAB4"
+					"download"		"69D36757DA3E29D593359A9691E3CAB4"
+				}
+			}
+		}
+		"1416261"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4641159150390715040"
+					"size"		"45091996953"
+					"download"		"30148119168"
+				}
+				"publictest"
+				{
+					"gid"		"7203616820566960520"
+					"size"		"45182451288"
+					"download"		"30156504896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"C403E24E81E22E55161E193965DEACC0"
+					"size"		"97196CA536907C5D76F4C6115B0899E6"
+					"download"		"406177D863D8F87E24E8147D3169EF96"
+				}
+				"buildtest"
+				{
+					"gid"		"BA45D12FF540546CC1865E75011E2C86"
+					"size"		"20575F82DF885E8C794F7CA64B6E6B97"
+					"download"		"8C3A6A41BC976B1117FFD146846B9DFC"
+				}
+				"fial"
+				{
+					"gid"		"75E2FC5DB91FFBC772C499227784115B"
+					"size"		"DA43F0BC0C3F61722495473767C3A058"
+					"download"		"BD06DFF79AEA3B717C3D97C574FA44C5"
+				}
+				"kubi"
+				{
+					"gid"		"2568A7D6338D5FF691E78D4222E029C7"
+					"size"		"C98E88A21529E02FA441B49410077B6E"
+					"download"		"5FF3CC833AB48E5D3BECD5895FF4B85F"
+				}
+				"naka"
+				{
+					"gid"		"EB0AB856C9A5E508889A04B7B99D3FAC"
+					"size"		"D9FF5BB737B2CE40B721BECF34F2CD6E"
+					"download"		"7307ACADDEF0E1CC4BF60B047D3100CE"
+				}
+				"playground"
+				{
+					"gid"		"624E55111B4D47D22A08ED7DF70C69A4"
+					"size"		"38EB8561AF9E30A9A953AD778C51B31A"
+					"download"		"ED774298F6F10F2A8E6F89EE5734465E"
+				}
+				"replay"
+				{
+					"gid"		"6A7B5CC3C97E3A6E40CB79B92D1212A3"
+					"size"		"BE9573334230866E17342BF55A696DFC"
+					"download"		"BC7CB0AA9DD13DBF9CBB88E9E3CD2326"
+				}
+				"replay2022"
+				{
+					"gid"		"046EE7069A9623186046B3437CCDABF2"
+					"size"		"7EA37257793833A181867E0ACA27D788"
+					"download"		"4319EA47D0E230A0B715A63F075A7FAF"
+				}
+				"replaybackup"
+				{
+					"gid"		"2E0C33E56C0B06266E286CBF7BF882AD"
+					"size"		"B9FBD68D9EE0486BF07A3F5F8B37086E"
+					"download"		"B20E497E339209C4D83D3168A53E093A"
+				}
+				"replayoct2022"
+				{
+					"gid"		"030777E04FA11DA867CA592A76F98AEB"
+					"size"		"1828C0F132A68EC164FDE129AE6E7BDF"
+					"download"		"56C496BD7C8DB017EBEA1ADE0858DBBF"
+				}
+				"review"
+				{
+					"gid"		"DE050D908D584261EA4454F3C6596C05"
+					"size"		"9C86769E15FA5F5B38CF450A80F082BD"
+					"download"		"273C07980F066A95A71C074D876882EF"
+				}
+				"specialpress"
+				{
+					"gid"		"CB907148A826C741DA6D42BE3640A033"
+					"size"		"10FB7B3BA7C4556801D9C29B94DCACA6"
+					"download"		"DA28165A8009F87A8B4437B22800F66F"
+				}
+				"staging"
+				{
+					"gid"		"FA6CA7FF25C8473E8F33678F434614A9"
+					"size"		"54533C7269F182D8AD5B260F70DE4ADA"
+					"download"		"C23C6AD30028248218F7CD10F336398C"
+				}
+				"stream_preview"
+				{
+					"gid"		"A58DB994FDC6BD065ABB31ABA1CF75D0"
+					"size"		"772049E3313D78E427E692224308A75A"
+					"download"		"EA4AB1F8B12A18CEE5B2C018DA16BCA1"
+				}
+				"testgate"
+				{
+					"gid"		"26C2AE948695690B24825D1EB7408023"
+					"size"		"3D91FE08CE0E7085D6E87CEC2C321DAC"
+					"download"		"19E7078CCE1F5402CAAA9DC9B3226ECD"
+				}
+			}
+		}
+		"1416264"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3320028288632249210"
+					"size"		"2609333511"
+					"download"		"1159162368"
+				}
+				"publictest"
+				{
+					"gid"		"4955462386980615179"
+					"size"		"2537330206"
+					"download"		"1088571760"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"6FABA2667A061917F874CA3885B80D0C"
+					"size"		"61045510F4D5DE665C3BA00D14F1BFDE"
+					"download"		"0314DCC8CBB399EB2BD52F1DA68EA8CD"
+				}
+				"buildtest"
+				{
+					"gid"		"73FDDDB7C65125F16D393A537DF2B287"
+					"size"		"2FF48FEB2DC4CD3F7E06C6613A9E5FB4"
+					"download"		"2FF48FEB2DC4CD3F7E06C6613A9E5FB4"
+				}
+				"fial"
+				{
+					"gid"		"5862B062D49B8940F1191A74574640DC"
+					"size"		"6AA3173E2D589BC51DA1B1431897DBE3"
+					"download"		"9322B803AC68EEAE45466703805DB64A"
+				}
+				"kubi"
+				{
+					"gid"		"E74A28CA7D8C66854968CE738CA8268D"
+					"size"		"0D5DE8D2ECEF69D1B549B5A215FC85DF"
+					"download"		"88D4B2077825E5E54AA67FEAED8ECB5C"
+				}
+				"naka"
+				{
+					"gid"		"75023751E1E11ADE214AD5BC9FA124F8"
+					"size"		"4B9E2E27397D56C84614CF2ED58EF964"
+					"download"		"D0AE49FF9A8E300876E98E6860157EAA"
+				}
+				"playground"
+				{
+					"gid"		"CB25B17F18F9D17D4518F22D23C93D3B"
+					"size"		"0DFE43AD82134B3AA20C2FD2862F6E67"
+					"download"		"0DFE43AD82134B3AA20C2FD2862F6E67"
+				}
+				"replay"
+				{
+					"gid"		"9CC30DC8B0AF948A3BC7286F21739EAE"
+					"size"		"A83E422D9022D43736F6935A26278123"
+					"download"		"746C2877EBC51831C95119141C05185F"
+				}
+				"replay2022"
+				{
+					"gid"		"BBFD7D26B03C84B59BED5F8D16486057"
+					"size"		"BE926B5F365FD99F5E2BAA8B593DE5BA"
+					"download"		"7ED3E60778B1103AA6C78B287C00924D"
+				}
+				"replaybackup"
+				{
+					"gid"		"4CDB47044FD5A040568F6422E972C51D"
+					"size"		"43DE990EE63B9F757CC21C31293AC309"
+					"download"		"F383DF534D6329F1331C365AB4BAF1B3"
+				}
+				"replayoct2022"
+				{
+					"gid"		"622630341A2918637F39CC6CC6099BC1"
+					"size"		"F66CA567005EA5E22A277C7C623E805E"
+					"download"		"A8A5A3E722ED88A2F503C91748E99F1B"
+				}
+				"review"
+				{
+					"gid"		"5B5402715E52646DAA42CF5352E5CA26"
+					"size"		"2D807FD8160DC91898E8961C289C7882"
+					"download"		"91668E9993974E349E45F6F4889F3AB7"
+				}
+				"specialpress"
+				{
+					"gid"		"41AB0C7985BACCD197C63C27E1AF8FBF"
+					"size"		"9E1291E5F06774B86B07DC219FD70464"
+					"download"		"E59AD9E73A436A129CF603C23836AF78"
+				}
+				"staging"
+				{
+					"gid"		"D776F4DC1CEEB0051622E9703945CA1D"
+					"size"		"97007E88BC4545282D240739AA7D7FEA"
+					"download"		"F9464D55AAD04393EE717E01BF14CA17"
+				}
+				"stream_preview"
+				{
+					"gid"		"6EF0CDB11116953788A89993757B3C6F"
+					"size"		"DF14A3134FB0B3C559A318732B1206F5"
+					"download"		"DF14A3134FB0B3C559A318732B1206F5"
+				}
+				"testgate"
+				{
+					"gid"		"6CB5FE785C822135D5DBCA6E0D745097"
+					"size"		"69D36757DA3E29D593359A9691E3CAB4"
+					"download"		"69D36757DA3E29D593359A9691E3CAB4"
+				}
+			}
+		}
+		"workshopdepot"		"1416260"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9689653"
+				"timeupdated"		"1665744689"
+			}
+			"baseline"
+			{
+				"buildid"		"5814766"
+				"pwdrequired"		"1"
+				"timeupdated"		"1605690938"
+			}
+			"buildtest"
+			{
+				"buildid"		"5727248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1603454255"
+			}
+			"fial"
+			{
+				"buildid"		"7829014"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638650803"
+			}
+			"kubi"
+			{
+				"buildid"		"6582524"
+				"pwdrequired"		"1"
+				"timeupdated"		"1619096071"
+			}
+			"naka"
+			{
+				"buildid"		"6278266"
+				"pwdrequired"		"1"
+				"timeupdated"		"1618418031"
+			}
+			"playground"
+			{
+				"buildid"		"9605205"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664333588"
+			}
+			"publictest"
+			{
+				"buildid"		"13518087"
+				"description"		"Public preview builds"
+				"timeupdated"		"1709026457"
+			}
+			"replay"
+			{
+				"buildid"		"8107239"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646271032"
+			}
+			"replay2022"
+			{
+				"buildid"		"7890903"
+				"pwdrequired"		"1"
+				"timeupdated"		"1641942341"
+			}
+			"replaybackup"
+			{
+				"buildid"		"7890903"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646271000"
+			}
+			"replayoct2022"
+			{
+				"buildid"		"9554375"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665756355"
+			}
+			"review"
+			{
+				"buildid"		"5756844"
+				"pwdrequired"		"1"
+				"timeupdated"		"1603999643"
+			}
+			"specialpress"
+			{
+				"buildid"		"7836186"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638811743"
+			}
+			"staging"
+			{
+				"buildid"		"13518087"
+				"pwdrequired"		"1"
+				"timeupdated"		"1708511686"
+			}
+			"stream_preview"
+			{
+				"buildid"		"7394955"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632233465"
+			}
+			"testgate"
+			{
+				"buildid"		"6768446"
+				"pwdrequired"		"1"
+				"timeupdated"		"1622133489"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/SpellForce 3/save"
+				"pattern"		"*.sf3sps"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/SpellForce 3/save"
+				"pattern"		"*.sf3mps"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/SpellForce 3/characters"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"3"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/SpellForce 3/"
+				"pattern"		"config_user.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"4"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/SpellForce 3/"
+				"pattern"		"player.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}

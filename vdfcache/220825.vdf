@@ -1,0 +1,118 @@
+"220825"
+{
+	"common"
+	{
+		"name"		"Zombie Driver HD Burning Garden of Slaughter"
+		"type"		"DLC"
+		"parent"		"220820"
+		"releasestate"		"released"
+		"icon"		"471af2e33c1c898803d6e2cd49787463a85511da"
+		"logo"		"f3217489d60340d06b632226525214ffb4d96652"
+		"logo_small"		"f3217489d60340d06b632226525214ffb4d96652_thumb"
+		"oslist"		"windows"
+		"metacritic_name"		"Zombie Driver HD Burning Garden of Slaughter"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"99195e026a14f7747d80a97849ef71bb10d1201c/capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_7eb2027cc4a8f2aa803885903b2253404294a916.jpg"
+		"store_asset_mtime"		"1726644148"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Exor Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"EXOR Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_15"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1383953709"
+		"gameid"		"220825"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"699"
+		}
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"Exor Studios"
+		"dlcforappid"		"220820"
+		"gamedir"		"ValveTestApp220825"
+		"homepage"		"http://www.zombiedriver.com"
+		"icon"		""
+		"mustownapptopurchase"		"220820"
+		"noservers"		"0"
+		"primarycache"		"7"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"EXOR Studios"
+		"dlcavailableonstore"		"1"
+	}
+}

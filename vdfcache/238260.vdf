@@ -1,0 +1,572 @@
+"238260"
+{
+	"common"
+	{
+		"name"		"Pinball Arcade"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"logo"		"bbccee3097f4f5f7a93e07a4fcd73605a71cb070"
+		"logo_small"		"bbccee3097f4f5f7a93e07a4fcd73605a71cb070_thumb"
+		"icon"		"f75915d17b3449067f901c612d95c7286a5dfb83"
+		"clienttga"		"5512543f8824171bbf6f2d4d70b10ed0009d9e88"
+		"clienticon"		"1099b718d1684ca329b7552cd55c0ceb315fbfbb"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1645488000"
+			"tested_build_id"		"5650517"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Pinball Arcade"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"50"
+					"height_pct"		"50"
+				}
+			}
+		}
+		"store_asset_mtime"		"1572624212"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FarSight Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"FarSight Studios"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_12"		"1"
+			"category_18"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1383598620"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"238260"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"6621"
+			"1"		"113"
+			"2"		"599"
+			"3"		"1773"
+			"4"		"1693"
+			"5"		"597"
+			"6"		"4182"
+			"7"		"3859"
+			"8"		"4004"
+			"9"		"19"
+			"10"		"7743"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"FarSight Studios"
+		"gamedir"		"ValveTestApp238260"
+		"homepage"		"http://www.pinballarcade.com"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"isfreeapp"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"FarSight Studios"
+		"listofdlc"		"238270,238271,238272,238273,268280,268281,326600,326610,394560,394561,493300,493301,639890,639891,908220,908221,908222,908223,908224,908225,908226,908227,929880,1093040"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"PinballArcade"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PinballArcade.exe"
+				"description"		"Launch The Pinball Arcade (DX9)"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"PinballArcade11.exe"
+				"description"		"Play Pinball Arcade (DX11)"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"PinballArcadeSteam.app"
+				"description"		"Launch The Pinball Arcade"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"PBAConfig.exe"
+				"description"		"Launch Configuration Utility"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"4"
+			{
+				"executable"		"PinballArcadeCabinet.exe"
+				"description"		"Play Pinball Arcade in Cabinet Mode (DX11)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"3"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229003"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"overridescddb"		"1"
+		"238261"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6601832109856305996"
+					"size"		"20461593304"
+					"download"		"12102051920"
+				}
+				"cabinet_beta"
+				{
+					"gid"		"3083917768090613245"
+					"size"		"19838396233"
+					"download"		"11715257600"
+				}
+				"osx_default"
+				{
+					"gid"		"2039571931357626667"
+					"size"		"4746061802"
+					"download"		"1997821356751"
+				}
+				"public_beta"
+				{
+					"gid"		"6541550003625221590"
+					"size"		"19838380873"
+					"download"		"11715225360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"arcooda"
+				{
+					"gid"		"D9D55B2D79E2C7826796D59292ACB35A"
+					"size"		"9ACAE6E7D24425E44CB60F77B422A5F1"
+					"download"		"2ADF43CA2182BE8A635E1FE088E155EC"
+				}
+				"arcooda_internal"
+				{
+					"gid"		"BC368C8D097FD706C65B8697041C37C0"
+					"size"		"EF75FCB91789438BA227DEE8040F84FE"
+					"download"		"29309CC03A1B0F022BB12FB13B5074CA"
+				}
+				"arcooda_standalone"
+				{
+					"gid"		"636597224422A649D29F8A173D7564FC"
+					"size"		"75EA7373384EFB0F00445D54BD47C322"
+					"download"		"36DACBE6BE43B6AE67476DA30600443D"
+				}
+				"arcooda_steamcab"
+				{
+					"gid"		"C9BC62DA0A69BF1FD929087EAE1B0B8A"
+					"size"		"5C5DF9DD0B47F04857D71B93209300C9"
+					"download"		"BF951B9B7BB10E910023B9B5F9E2F408"
+				}
+				"beta"
+				{
+					"gid"		"7A88A3CA8440195C41803D5BC235DCE9"
+					"size"		"2613B1B35CE540BAA9C6FA718A7DF790"
+					"download"		"826342834B7D98931C8951D366AE6AD5"
+				}
+				"beta_ui"
+				{
+					"gid"		"085833B6C5CFC4C2631B052EED91575B"
+					"size"		"3CFD300072C61B10D99F2D41FBE9507E"
+					"download"		"C357F319E7EB2288171AF1369A4976CC"
+				}
+				"externalbeta"
+				{
+					"gid"		"8C200045014D1CFC5385BEA42686E568"
+					"size"		"E2916B7874EAC7696726F651FD7BB48E"
+					"download"		"75CD549850C5EB8DBE5D4339CFBBD18A"
+				}
+				"h2h_beta"
+				{
+					"gid"		"C41BA100418CD9E9E0D0F3E3EE1AE067"
+					"size"		"CDABDD68D90720E980C82DA0E2B77FD1"
+					"download"		"3C0B541B0AA4B3914860C497DFE11BBE"
+				}
+				"osx_external_beta"
+				{
+					"gid"		"C098934B6E1D34481126FB4157085544"
+					"size"		"0996ADB0F1839C87A7E6732D9B852D26"
+					"download"		"32DDDA3839CD94FA5AED29862C132026"
+				}
+				"osx_internal_test"
+				{
+					"gid"		"CFE96F874D1D496A573B65E0A29F5E60"
+					"size"		"19DC94AEB0722B96F1644D9E1D8EA9EE"
+					"download"		"BA493FB2222C6964A8069273E1DB2BDC"
+				}
+			}
+		}
+		"238262"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1843759413542542912"
+					"size"		"143000975"
+					"download"		"105978352"
+				}
+				"cabinet_beta"
+				{
+					"gid"		"3919013399986236744"
+					"size"		"127788781"
+					"download"		"105578320"
+				}
+				"osx_default"
+				{
+					"gid"		"4063628049022788647"
+					"size"		"107610729"
+					"download"		"88594704"
+				}
+				"public_beta"
+				{
+					"gid"		"3919013399986236744"
+					"size"		"127788781"
+					"download"		"105578320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"arcooda"
+				{
+					"gid"		"193C14627F936C0F5CA226BF6C457DD4"
+					"size"		"A37A56CE5AB06A529F04F208A4007EA8"
+					"download"		"04BFDF41997B34F2182B409BD15986AA"
+				}
+				"arcooda_internal"
+				{
+					"gid"		"3DF80D685A46BAFC9200042971A1CCAB"
+					"size"		"D6FD13A7176D8EBBC8B2CDD78F6083D0"
+					"download"		"65B0316C8EDC054DD9A745EF337C8BF8"
+				}
+				"arcooda_standalone"
+				{
+					"gid"		"E0C34CE21BA72CEBBB2804EF332F7131"
+					"size"		"A7499FC158F1F3BB6283CA11429A2A39"
+					"download"		"FDC2082067D027883BEE7B22A8378BD7"
+				}
+				"arcooda_steamcab"
+				{
+					"gid"		"2C8FB49DF927210FA517459D57D4970D"
+					"size"		"09889C5B40E65E831B64C188D2972C96"
+					"download"		"4031A1B6CCC41BDFCBAF3E69E4D30C05"
+				}
+				"beta"
+				{
+					"gid"		"B387C692F522C6382249E75A61C2DF3F"
+					"size"		"B51C8A51B8852747B218CF03AB41AE3D"
+					"download"		"82CED4D86071FA3D2CE67578D3385728"
+				}
+				"beta_ui"
+				{
+					"gid"		"BB61560D1E7EB4A04BEB9BEB841E946B"
+					"size"		"B681702147E0BC69F65D71231B0863B9"
+					"download"		"ABF9F5B04952366ED711EE147363FD1C"
+				}
+				"externalbeta"
+				{
+					"gid"		"E206D6B5692399769A547AA0FEF9C054"
+					"size"		"695C9F75C009AB4C43AA7AB0AF666E4C"
+					"download"		"178C2A1CA8A61A27BDC2C2537EC30A40"
+				}
+				"h2h_beta"
+				{
+					"gid"		"4ADFEFA6ABB3EF182F4BF73C552E63A7"
+					"size"		"DB28489E98C3CC0741BB8571D5672D04"
+					"download"		"56A6B7284197946FEB9AA7EC8AB228F6"
+				}
+				"osx_external_beta"
+				{
+					"gid"		"1AC5215A63AB156D0132A4A794C616A5"
+					"size"		"77701175FAC78CB9AB7D538E5CFFA425"
+					"download"		"F947D1AC690A9E57DFA5AA6D797A4237"
+				}
+				"osx_internal_test"
+				{
+					"gid"		"6B53A6659FD509B1A017979FB4AA8D8B"
+					"size"		"F932CA21CF92A94299EF34E82B8706B2"
+					"download"		"268F4A98EAB947C0EB7BEDB465EB6C34"
+				}
+			}
+		}
+		"markdlcdepots"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5650517"
+				"timeupdated"		"1602111493"
+			}
+			"arcooda"
+			{
+				"buildid"		"3279000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1541466976"
+			}
+			"arcooda_internal"
+			{
+				"buildid"		"3123493"
+				"pwdrequired"		"1"
+				"timeupdated"		"1536961053"
+			}
+			"arcooda_standalone"
+			{
+				"buildid"		"3296355"
+				"pwdrequired"		"1"
+				"timeupdated"		"1541894448"
+			}
+			"arcooda_steamcab"
+			{
+				"buildid"		"3296370"
+				"pwdrequired"		"1"
+				"timeupdated"		"1541895098"
+			}
+			"beta"
+			{
+				"buildid"		"5650517"
+				"pwdrequired"		"1"
+				"timeupdated"		"1602088052"
+			}
+			"beta_ui"
+			{
+				"buildid"		"5580943"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600813002"
+			}
+			"cabinet_beta"
+			{
+				"buildid"		"2983841"
+				"timeupdated"		"1532713738"
+			}
+			"externalbeta"
+			{
+				"buildid"		"3559030"
+				"pwdrequired"		"1"
+				"timeupdated"		"1550093779"
+			}
+			"h2h_beta"
+			{
+				"buildid"		"2909444"
+				"pwdrequired"		"1"
+				"timeupdated"		"1530428536"
+			}
+			"osx_default"
+			{
+				"buildid"		"1735085"
+				"description"		"test release"
+				"timeupdated"		"1491332255"
+			}
+			"osx_external_beta"
+			{
+				"buildid"		"2083419"
+				"pwdrequired"		"1"
+				"timeupdated"		"1504210619"
+			}
+			"osx_internal_test"
+			{
+				"buildid"		"4063392"
+				"pwdrequired"		"1"
+				"timeupdated"		"1564608349"
+			}
+			"public_beta"
+			{
+				"buildid"		"2912868"
+				"description"		"Public UI Beta"
+				"timeupdated"		"1530561803"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+	}
+}

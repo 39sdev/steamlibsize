@@ -1,0 +1,89 @@
+"363351"
+{
+	"common"
+	{
+		"name"		"Fort Defense - Bermuda Triangle"
+		"type"		"DLC"
+		"parent"		"343930"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"logo"		"2976625a665e03c83cb83a80e437be253ffb9ccf"
+		"logo_small"		"2976625a665e03c83cb83a80e437be253ffb9ccf_thumb"
+		"icon"		"87c03162b56c00bdc85bf6a3f4e9f8fa0e506ade"
+		"metacritic_name"		"Fort Defense - Bermuda Triangle"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_500c69d791856b561b1a8ec02ecf78d03b030d37.jpg"
+		"store_asset_mtime"		"1436285770"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Creobit"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"8Floor"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1436870541"
+		"gameid"		"363351"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"21"
+			"2"		"492"
+			"3"		"597"
+		}
+		"review_score"		"3"
+		"review_percentage"		"5"
+	}
+	"extended"
+	{
+		"dlcforappid"		"343930"
+		"mustownapptopurchase"		"343930"
+		"developer"		"Creobit"
+		"publisher"		"8Floor"
+		"dlcavailableonstore"		"1"
+	}
+}

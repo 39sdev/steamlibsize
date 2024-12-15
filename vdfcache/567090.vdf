@@ -1,0 +1,206 @@
+"567090"
+{
+	"common"
+	{
+		"name"		"8-Bit Bayonetta"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"logo"		"527cc76d57b7cae5b66329e85db9d372b6d73849"
+		"logo_small"		"527cc76d57b7cae5b66329e85db9d372b6d73849_thumb"
+		"icon"		"16542a77033538639297e00e11fa40bdbf07296e"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"1642e29a4ade05d38f4f7b5f326549c51cc5fd51"
+		"clienttga"		"726f112c9177df6f807abe4db2b1d3450cae9338"
+		"metacritic_name"		"8-Bit Bayonetta"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"80.40669229323785"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"50"
+					"height_pct"		"80.40669229323785"
+				}
+			}
+		}
+		"store_asset_mtime"		"1584535114"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PlatinumGames, Bitbaboon"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1491004260"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"567090"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"597"
+			"3"		"4182"
+			"4"		"3964"
+			"5"		"7208"
+			"6"		"4004"
+			"7"		"3871"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"PlatinumGames, Bitbaboon"
+		"publisher"		"SEGA"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"8BitB"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"8BB.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"567091"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1180430724586303931"
+					"size"		"57183341"
+					"download"		"13613424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"53DCC6B9F11500CD9AA05DC683606D64"
+					"size"		"1A6F67D2489DC6903E12D4C6299C5C42"
+					"download"		"4AC20DF09B002E055DE7CDAED99B1F69"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1635295"
+				"timeupdated"		"1487326447"
+			}
+			"testing"
+			{
+				"buildid"		"1635295"
+				"pwdrequired"		"1"
+				"timeupdated"		"1487326436"
+			}
+		}
+	}
+}

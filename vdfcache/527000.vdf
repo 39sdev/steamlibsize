@@ -1,0 +1,73 @@
+"527000"
+{
+	"common"
+	{
+		"name"		"SWARMRIDERS: Original Soundtrack"
+		"type"		"DLC"
+		"parent"		"490230"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"clienticon"		"d270efb382533de70b09caa92052b87b16cc4de1"
+		"clienttga"		"582883ffcaf01c8c5ee35516004523d2bfabf5aa"
+		"icon"		"5c7aee4b5ec13474f7dc79b12d52b89112741eeb"
+		"logo"		"e796a974d708091525b87bf673316c259d3e710e"
+		"logo_small"		"e796a974d708091525b87bf673316c259d3e710e_thumb"
+		"metacritic_name"		"SWARMRIDERS: Original Soundtrack"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_243c467fc7cddaf0f734d70010119ec7068eeb65.jpg"
+		"store_asset_mtime"		"1473199370"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Walter Machado"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1473311341"
+		"gameid"		"527000"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"dlcforappid"		"490230"
+		"mustownapptopurchase"		"490230"
+		"developer"		"Walter Machado"
+		"dlcavailableonstore"		"1"
+	}
+}

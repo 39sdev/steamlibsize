@@ -1,0 +1,350 @@
+"465520"
+{
+	"common"
+	{
+		"name"		"PRICE"
+		"type"		"Game"
+		"oslist"		"windows"
+		"clienttga"		"d52091b69ba57f85d8f2d81ed3a2e613047fab9c"
+		"clienticon"		"df6052bcaca8cd1df1cf823d660c81c799a803b9"
+		"icon"		"418d0c9aae9ac01592a7af79dcc6f9037cdce984"
+		"logo"		"65be7464fb0f24255b54faf1655b0f901c02cbd2"
+		"logo_small"		"65be7464fb0f24255b54faf1655b0f901c02cbd2_thumb"
+		"ReleaseState"		"released"
+		"metacritic_name"		"PRICE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"45.23118674179963"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"UpperCenter"
+					"width_pct"		"100"
+					"height_pct"		"45.23118674179963"
+				}
+			}
+		}
+		"store_asset_mtime"		"1572853340"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"YETU GAME"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"YETU GAME"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1473991320"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"465520"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"113"
+			"2"		"4085"
+			"3"		"1667"
+			"4"		"492"
+			"5"		"597"
+			"6"		"1756"
+			"7"		"21"
+			"8"		"1698"
+			"9"		"5613"
+			"10"		"1721"
+			"11"		"3799"
+			"12"		"1738"
+			"13"		"1742"
+			"14"		"5716"
+			"15"		"4182"
+			"16"		"4166"
+			"17"		"769306"
+			"18"		"3871"
+			"19"		"4234"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"YETU GAME"
+		"publisher"		"YETU GAME"
+		"homepage"		"http://weibo.com/yetuavg"
+		"isfreeapp"		"1"
+		"listofdlc"		"526410,526411"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"PRICE"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PRICE.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"hasdepotsindlc"		"1"
+		"465521"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5910774405089127322"
+					"size"		"278482201"
+					"download"		"257500256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testversion"
+				{
+					"gid"		"DCB4DE57533549705BCB7BDC1FE2A044"
+					"size"		"3E1EF4B555D29DFF56390069C3E423B4"
+					"download"		"4B0E254949FC77190B0E62ADFD8FF584"
+				}
+			}
+		}
+		"465522"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6976865861481530368"
+					"size"		"302668975"
+					"download"		"286784736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testversion"
+				{
+					"gid"		"95C67B0C7232E447283163EFB5BA3669"
+					"size"		"47887A50BEE64F63C4D189FE368FCE56"
+					"download"		"D2BB9AEC308E7733DB6BC6EB0BEEE9D4"
+				}
+			}
+		}
+		"526411"
+		{
+			"dlcappid"		"526411"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4980441208636500218"
+					"size"		"17973284"
+					"download"		"14934000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testversion"
+				{
+					"gid"		"B57B062B4A71A681EC8B79F29F859A33"
+					"size"		"734B07EB7428982EA1827FB286CB4ED0"
+					"download"		"D7B9293A9FDB529478D18A22B17F16F9"
+				}
+			}
+		}
+		"526410"
+		{
+			"dlcappid"		"526410"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1737277757072305949"
+					"size"		"32496703"
+					"download"		"32540384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testversion"
+				{
+					"gid"		"7FFDCF18A0D2BD41617EA49A6E20AE9C"
+					"size"		"0F748604C81AF98E19EC5A194E58270F"
+					"download"		"9B4FE557832A4427487B09C8FD773A31"
+				}
+			}
+		}
+		"465523"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5439332701045740590"
+					"size"		"342293805"
+					"download"		"323007968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testversion"
+				{
+					"gid"		"96671D4BCA75900EFB44C54234C1B2DC"
+					"size"		"67BBE87F9E001DD364C276E91DDD69A4"
+					"download"		"38912EA8F9D2FE87FAFF14325B924955"
+				}
+			}
+		}
+		"465524"
+		{
+			"config"
+			{
+				"language"		"koreana"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"374454676722241393"
+					"size"		"263802325"
+					"download"		"244497472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testversion"
+				{
+					"gid"		"447B20853F0C97060D40A623C2FB6601"
+					"size"		"7C8752848DC6AF1A927250249FC1D351"
+					"download"		"C6F6D013CF2E7EF4A29241D2CD364BEF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1897962"
+				"timeupdated"		"1497788805"
+			}
+			"testversion"
+			{
+				"buildid"		"1897962"
+				"pwdrequired"		"1"
+				"timeupdated"		"1497759283"
+			}
+		}
+	}
+}

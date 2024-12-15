@@ -1,0 +1,866 @@
+"624270"
+{
+	"common"
+	{
+		"name"		"The Painscreek Killings"
+		"type"		"Game"
+		"logo"		"ddcdadb177fae74cf1c9450d1017ae8f2aac5aa0"
+		"logo_small"		"ddcdadb177fae74cf1c9450d1017ae8f2aac5aa0_thumb"
+		"icon"		"3f814df2932e707a198bbf31d989d2d7b120d310"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"c9849d7c469b60202de373e055139dbd0bd27bd9"
+		"clienticon"		"2ec33e9ff12f2aad115b74d7089189d1ba5c4a92"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1646956800"
+			"tested_build_id"		"8043491"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"The Painscreek Killings"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.89964994165694"
+				"height_pct"		"78.49543940788482"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"47.89964994165694"
+					"height_pct"		"78.49543940788482"
+				}
+			}
+		}
+		"store_asset_mtime"		"1667940124"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"EQ Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"EQ Studios"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_28"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1506495600"
+		"steam_release_date"		"1506542400"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"624270"
+		"store_tags"
+		{
+			"0"		"8369"
+			"1"		"5716"
+			"2"		"3834"
+			"3"		"5613"
+			"4"		"1742"
+			"5"		"1664"
+			"6"		"4166"
+			"7"		"5900"
+			"8"		"1667"
+			"9"		"1695"
+			"10"		"10808"
+			"11"		"21"
+			"12"		"4175"
+			"13"		"3839"
+			"14"		"4191"
+			"15"		"4182"
+			"16"		"4064"
+			"17"		"5094"
+			"18"		"7208"
+			"19"		"5984"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"EQ Studios"
+		"publisher"		"EQ Studios"
+		"homepage"		"https://www.eqstudios.com/painscreekkillings"
+		"listofdlc"		"1172960"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Painscreek Killings"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Painscreek.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"624271"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5252120974477938078"
+					"size"		"8335651120"
+					"download"		"2957086784"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"3681713170957771079"
+					"size"		"8342354763"
+					"download"		"2963946128"
+				}
+				"v1.5.2"
+				{
+					"gid"		"8652429123253375775"
+					"size"		"8365731501"
+					"download"		"2980051520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"235C3E84189A6907C84E60BCC13A61DE"
+					"size"		"A9BF554249A37E02D108D971EA593691"
+					"download"		"A7CE59FB913D3C4EA163008F5866B15D"
+				}
+			}
+		}
+		"624272"
+		{
+			"config"
+			{
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2620416528718728042"
+					"size"		"42992998"
+					"download"		"31571936"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"2620416528718728042"
+					"size"		"42992998"
+					"download"		"31571936"
+				}
+				"v1.5.2"
+				{
+					"gid"		"6424351485955769512"
+					"size"		"42992093"
+					"download"		"31571392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"4ED509B75163FA0BFF5DB41FBFFA6DAE"
+					"size"		"57DF6E9855E2705E56173E2A660CC1C6"
+					"download"		"F2CADAEDC05DE405B5BC6A107FCF0901"
+				}
+			}
+		}
+		"624273"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9113401689002956138"
+					"size"		"41813301"
+					"download"		"29257616"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"9113401689002956138"
+					"size"		"41813301"
+					"download"		"29257616"
+				}
+				"v1.5.2"
+				{
+					"gid"		"6119336177763063466"
+					"size"		"41812861"
+					"download"		"29256928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"88EE11CA196E6A875BCFFF5A3F02903B"
+					"size"		"172BFC78178217E18255DE1E5167BB8A"
+					"download"		"9AE8D3021517FFCD7B2F028F6C2BAA80"
+				}
+			}
+		}
+		"624274"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3483309557296464387"
+					"size"		"45651426"
+					"download"		"32040464"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"3483309557296464387"
+					"size"		"45651426"
+					"download"		"32040464"
+				}
+				"v1.5.2"
+				{
+					"gid"		"7748826107467999896"
+					"size"		"45650989"
+					"download"		"32039776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"053471E3D641A076DBD15FCAD693019A"
+					"size"		"0799CA44C37466528E38E358A3C55A4F"
+					"download"		"F0005EE5D8FF1263A94C96D946150A48"
+				}
+			}
+		}
+		"624275"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1576641828260626275"
+					"size"		"44741557"
+					"download"		"33967120"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"1576641828260626275"
+					"size"		"44741557"
+					"download"		"33967120"
+				}
+				"v1.5.2"
+				{
+					"gid"		"3292670975145890846"
+					"size"		"44740769"
+					"download"		"33966256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"7E78C6009FF23CEE06A0059C866AB759"
+					"size"		"0E0DC3D1711AA94310B5DF8F69E77F1A"
+					"download"		"2E56A5ABCACE63A798FB94E06343B47F"
+				}
+			}
+		}
+		"624276"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5719126999071074803"
+					"size"		"48057624"
+					"download"		"36502016"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"5719126999071074803"
+					"size"		"48057624"
+					"download"		"36502016"
+				}
+				"v1.5.2"
+				{
+					"gid"		"1617309005663595990"
+					"size"		"48056833"
+					"download"		"36501024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"6899F8422A8D8B0421BA45DABC93E408"
+					"size"		"31A8AB203357F357C92C777A7E7FA55F"
+					"download"		"EBD699B41099D71B26BF9A9F574412F5"
+				}
+			}
+		}
+		"624277"
+		{
+			"config"
+			{
+				"language"		"brazilian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3141505981420652071"
+					"size"		"44241912"
+					"download"		"30784864"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"3141505981420652071"
+					"size"		"44241912"
+					"download"		"30784864"
+				}
+				"v1.5.2"
+				{
+					"gid"		"5066084909663902174"
+					"size"		"44241508"
+					"download"		"30784400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"187C8A136F0F47303BECE116133E0C5C"
+					"size"		"281893CA0927F0E88231C0F69A151D3B"
+					"download"		"80F174048125EEFCE37D53A5E63C8524"
+				}
+			}
+		}
+		"624278"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1863495688306118703"
+					"size"		"47275981"
+					"download"		"33188864"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"1863495688306118703"
+					"size"		"47275981"
+					"download"		"33188864"
+				}
+				"v1.5.2"
+				{
+					"gid"		"4493670986180520853"
+					"size"		"47275596"
+					"download"		"33188176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"14F61E2B6CF52A3AA71ABB4F4869C15D"
+					"size"		"E7365A9BD5599740A57489356E7E9D38"
+					"download"		"95E5C4CC833A67711E1AEAD555DBAF02"
+				}
+			}
+		}
+		"624279"
+		{
+			"config"
+			{
+				"language"		"hungarian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3164676227850500857"
+					"size"		"45651991"
+					"download"		"31750224"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"3164676227850500857"
+					"size"		"45651991"
+					"download"		"31750224"
+				}
+				"v1.5.2"
+				{
+					"gid"		"5137285866724775405"
+					"size"		"45651767"
+					"download"		"31749936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"630EEE59D8F27E66C7445F6D7FDAC221"
+					"size"		"B33265FD3F9ED96F7707499A2F45B61D"
+					"download"		"AC29708F9EE8CC248B2F399F7DD4F323"
+				}
+			}
+		}
+		"1172961"
+		{
+			"config"
+			{
+				"language"		"koreana"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"509535806284165371"
+					"size"		"41028117"
+					"download"		"30271296"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"509535806284165371"
+					"size"		"41028117"
+					"download"		"30271296"
+				}
+				"v1.5.2"
+				{
+					"gid"		"3817982598807270958"
+					"size"		"41027814"
+					"download"		"30270912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"C8535ADB784DEB46DA6456D75D8BD78B"
+					"size"		"B449E3179129C57CB21F2AE6825BBF28"
+					"download"		"E0ECA1DC0DA8BE37CAB29A33B899C18E"
+				}
+			}
+		}
+		"1172962"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2593936990782124779"
+					"size"		"46051331"
+					"download"		"32380160"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"2593936990782124779"
+					"size"		"46051331"
+					"download"		"32380160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"A7CA32B11246D55D66D71E87C4AE35FD"
+					"size"		"753DF084FA291663C807889B07885FE3"
+					"download"		"0EFDDDBB0A1B8ED704190A80C0ECFE76"
+				}
+			}
+		}
+		"1172963"
+		{
+			"config"
+			{
+				"language"		"latam"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7297812948485432218"
+					"size"		"44082663"
+					"download"		"30250544"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"7297812948485432218"
+					"size"		"44082663"
+					"download"		"30250544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"F356D46AC754F8BEDF317290CB6D4D90"
+					"size"		"C1F8A963AF3662CD7E3DD31B80F1D2EE"
+					"download"		"63553BF52F3C93C3B695AA2FFABC4BE4"
+				}
+			}
+		}
+		"1172964"
+		{
+			"config"
+			{
+				"language"		"italian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2669229446732706845"
+					"size"		"42925595"
+					"download"		"29152304"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"2669229446732706845"
+					"size"		"42925595"
+					"download"		"29152304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"146D62FE877F2AA528400BDC0686CAA7"
+					"size"		"2DFF2CE1B3D532435F8246A5B06723BD"
+					"download"		"7B2C7023EA51FE2EC419E9652F0D43C4"
+				}
+			}
+		}
+		"1172965"
+		{
+			"config"
+			{
+				"language"		"polish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"91163465045188788"
+					"size"		"46199583"
+					"download"		"32294720"
+				}
+				"hostpitaltweak"
+				{
+					"gid"		"91163465045188788"
+					"size"		"46199583"
+					"download"		"32294720"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"E295A5E1FFD120434D70E40CA187475C"
+					"size"		"1811DE8B1ABACBA54B57BFE8F3DB44B8"
+					"download"		"5DA8ADACD6A0AEDA2AEA403F56E9038C"
+				}
+			}
+		}
+		"1172960"
+		{
+			"dlcappid"		"1172960"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4816606269940181537"
+					"size"		"509855032"
+					"download"		"506938048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"yuritest"
+				{
+					"gid"		"2F4E33075C5850E5C3E95E239030F76A"
+					"size"		"296E8610E1FB6ED413F25BED3F821C9D"
+					"download"		"46AE0EB09DD942554BA6133F93807D93"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16562334"
+				"timeupdated"		"1733022917"
+			}
+			"hostpitaltweak"
+			{
+				"buildid"		"7060267"
+				"description"		"Removed all foliage in Hospital for better GPU performance"
+				"timeupdated"		"1626821976"
+			}
+			"v1.5.2"
+			{
+				"buildid"		"5695925"
+				"timeupdated"		"1602893151"
+			}
+			"yuritest"
+			{
+				"buildid"		"16562334"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732861295"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"EQ Studios/The Painscreek Killings/"
+				"pattern"		"SaveData.txt"
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"EQ Studios/The Painscreek Killings/Resources/screenshots"
+				"pattern"		"*.png"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"EQ Studios/The Painscreek Killings/"
+						"replace"		".steam/steam/steamapps/compatdata/624270/pfx/drive_c/users/steamuser/AppData/LocalLow/EQ Studios/The Painscreek Killings/"
+					}
+				}
+			}
+		}
+	}
+}

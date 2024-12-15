@@ -1,0 +1,424 @@
+"1794470"
+{
+	"common"
+	{
+		"name"		"MILFs of Sunville - Season 1"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"cd6f6b802f487e73b81365600d1d46c7554dbe7a"
+		"logo_small"		"cd6f6b802f487e73b81365600d1d46c7554dbe7a_thumb"
+		"icon"		"896e90793eeadae567330b152fbbedb72d3b6632"
+		"clienticon"		"6d248a762330cacd0cd98780ac709d4a6a1864bb"
+		"clienttga"		"1ee8089ba3c80d08cee0f8abec545b520666e411"
+		"clienticns"		"9b9e6378d2fa50223bbd5065c2b214e52282c6d2"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"4"
+			"3"		"5"
+		}
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1658966400"
+			"tested_build_id"		"9184907"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.53775743707092"
+				"height_pct"		"73.17629071841299"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"45.53775743707092"
+					"height_pct"		"73.17629071841299"
+				}
+			}
+		}
+		"store_asset_mtime"		"1729774744"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"L7team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"L7team"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"MILFs of Sunville"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"persian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1685726817"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1794470"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"6650"
+			"2"		"5611"
+			"3"		"24904"
+			"4"		"3799"
+			"5"		"4175"
+			"6"		"6426"
+			"7"		"4947"
+			"8"		"1742"
+			"9"		"6971"
+			"10"		"492"
+			"11"		"4486"
+			"12"		"4242"
+			"13"		"21"
+			"14"		"5984"
+			"15"		"4711"
+			"16"		"597"
+			"17"		"1719"
+			"18"		"4136"
+			"19"		"4726"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"L7team"
+		"publisher"		"L7team"
+		"listofdlc"		"2455910"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MILFs of Sunville"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MilfsOfSunville.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MilfsOfSunville.app/Contents/MacOS/MilfsOfSunville"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,portuguese,polish,czech,turkish,arabic,brazilian,ukrainian"
+		"hasdepotsindlc"		"1"
+		"1794471"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5411055194289173329"
+					"size"		"7415634714"
+					"download"		"7387662560"
+				}
+				"beta"
+				{
+					"gid"		"5411055194289173329"
+					"size"		"7415634714"
+					"download"		"7387662560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pre-beta"
+				{
+					"gid"		"0B8B35BE2B2C494C407D20E6E98E1F4F"
+					"size"		"61A0E1AB28FD04DECE4AD508DEADAB3D"
+					"download"		"7104A170742F2A620B272A97CEC0471E"
+				}
+			}
+		}
+		"1794472"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"398768327293509753"
+					"size"		"7399894773"
+					"download"		"7382549232"
+				}
+				"beta"
+				{
+					"gid"		"398768327293509753"
+					"size"		"7399894773"
+					"download"		"7382549232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pre-beta"
+				{
+					"gid"		"C5739BB9E1E68F62845F0289377F5218"
+					"size"		"7F7D3F7F7520212AF61D808845A4D8CA"
+					"download"		"B7E063AD66E2F89FFB0C82F5B9E74421"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"15556619"
+				"timeupdated"		"1725179093"
+			}
+			"beta"
+			{
+				"buildid"		"15556619"
+				"description"		"beta"
+				"timeupdated"		"1725178591"
+			}
+			"pre-beta"
+			{
+				"buildid"		"15556619"
+				"pwdrequired"		"1"
+				"timeupdated"		"1725175770"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"RenPy/milfs_of_sunville"
+				"pattern"		"*.save"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"MacHome"
+				"path"		"Library/RenPy/milfs_of_sunville"
+				"pattern"		"*.save"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}

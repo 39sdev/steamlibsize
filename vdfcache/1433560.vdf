@@ -1,0 +1,155 @@
+"1433560"
+{
+	"common"
+	{
+		"name"		"For The King: Lost Civilization Adventure Pack"
+		"type"		"DLC"
+		"parent"		"527230"
+		"releasestate"		"released"
+		"icon"		"4c704cacbb40e3ba8f132341aedf5e7f3fdbeae7"
+		"logo"		"3fe7aefc6e1bd670737aab395ad9bd58f12827e7"
+		"logo_small"		"3fe7aefc6e1bd670737aab395ad9bd58f12827e7_thumb"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"name_localized"
+		{
+			"schinese"		"为了吾王：失落的文明冒险升级包"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"store_screenshot"		"ss_d1755bb8706b02a6197bbe4d4c5383f91a157017.jpg"
+		"store_asset_mtime"		"1612955440"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"IronOak Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Curve Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_49"		"1"
+			"category_43"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_44"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1612980000"
+		"gameid"		"1433560"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"9"
+			"3"		"492"
+			"4"		"1677"
+			"5"		"1716"
+			"6"		"1770"
+			"7"		"10695"
+			"8"		"17389"
+			"9"		"3859"
+			"10"		"17305"
+		}
+		"review_score"		"5"
+		"review_percentage"		"53"
+	}
+	"extended"
+	{
+		"dlcforappid"		"527230"
+		"mustownapptopurchase"		"527230"
+		"developer"		"IronOak Games"
+		"publisher"		"Curve Games"
+		"homepage"		"https://www.ironoakgames.com"
+		"dlcavailableonstore"		"1"
+	}
+}

@@ -1,0 +1,33 @@
+"232644"
+{
+	"common"
+	{
+		"name"		"Sniper Ghost Warrior 2: Multiplayer Expansion Pack"
+		"type"		"DLC"
+		"parent"		"34870"
+		"releasestate"		"released"
+		"logo"		"cf319b412de645df5c1f5be73862ab167f291a22"
+		"logo_small"		"cf319b412de645df5c1f5be73862ab167f291a22_thumb"
+		"icon"		"dfe877efe9274d54a085ad24f5d9a7a0da2c095d"
+		"oslist"		"windows"
+		"associations"
+		{
+		}
+		"gameid"		"232644"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		""
+		"dlcforappid"		"34870"
+		"gamedir"		"ValveTestApp232644"
+		"homepage"		""
+		"icon"		""
+		"mustownapptopurchase"		"34870"
+		"noservers"		"0"
+		"primarycache"		"7"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+	}
+}

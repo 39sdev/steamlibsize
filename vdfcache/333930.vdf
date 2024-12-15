@@ -1,0 +1,416 @@
+"333930"
+{
+	"common"
+	{
+		"name"		"Dirty Bomb"
+		"type"		"Game"
+		"oslist"		"windows"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"333930_eula_0"
+				"name"		"Dirty Bomb EULA"
+				"url"		"http://store.steampowered.com//eula/333930_eula_0"
+			}
+		}
+		"logo"		"b0a7716d2f51f08e4dd173fa8dc38eebe4e357d5"
+		"logo_small"		"b0a7716d2f51f08e4dd173fa8dc38eebe4e357d5_thumb"
+		"icon"		"48a3c464019fc161c2ea17334ca8d545a846a98e"
+		"clienttga"		"f1d34d3ffbb0ecf40237f41debe5678253e8423e"
+		"clienticon"		"2acf265969dc0cb63cdfe849b1a3e8da0af3b705"
+		"ReleaseState"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"brazilian"		"1"
+		}
+		"restricted_countries"		"DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1645228800"
+			"tested_build_id"		"3461293"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Dirty Bomb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"50"
+				"height_pct"		"43"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomCenter"
+					"width_pct"		"50"
+					"height_pct"		"43"
+				}
+			}
+		}
+		"store_asset_mtime"		"1733996073"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Splash Damage"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Warchest Ltd."
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1433260680"
+		"metacritic_score"		"63"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/dirty-bomb?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"333930"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"620519"
+			"1"		"113"
+			"2"		"1663"
+			"3"		"3859"
+			"4"		"1774"
+			"5"		"19"
+			"6"		"5711"
+			"7"		"3839"
+			"8"		"1734"
+			"9"		"1685"
+			"10"		"1775"
+			"11"		"4155"
+			"12"		"3878"
+			"13"		"128"
+			"14"		"4036"
+			"15"		"3835"
+			"16"		"7481"
+			"17"		"4182"
+			"18"		"1695"
+			"19"		"4345"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Splash Damage"
+		"publisher"		"Warchest Ltd."
+		"homepage"		"http://www.dirtybomb.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"355730,376380,414390,420780,420781,426951,426952,442240,470011,470012,483810,492420,649840,649860,649861,701310,701311,701312,766030,780550,780560,780561,866210,866211,866212"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Dirty Bomb"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DirtyBombLauncher.exe"
+				"arguments"		"-flUrl=\"https://api.fireteam.net\" -flDomain=\"net.nexon.shooter.steam\" -flClientIdSecret=\"086418c2-980e-5f4c-a5b3-140414328555:f7f8ba288459923e94240364240e79c4ae95fdfe\""
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Binaries/Win64/ShooterGame-Win32-Shipping.exe"
+				"arguments"		"-flUrl=\"https://api.fireteam.net\" -flDomain=\"net.nexon.shooter.steam\" -flClientIdSecret=\"086418c2-980e-5f4c-a5b3-140414328555:f7f8ba288459923e94240364240e79c4ae95fdfe\" -WITH_GFE"
+				"description"		"Shadowplay Highlights"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"BetaKey"		"ext_test"
+				}
+			}
+			"2"
+			{
+				"executable"		"Binaries/Win32/ShooterGame-Win32-Shipping.exe"
+				"arguments"		"-flUrl=\"https://api.fireteam.net\" -flDomain=\"net.nexon.shooter.steam\" -flClientIdSecret=\"086418c2-980e-5f4c-a5b3-140414328555:f7f8ba288459923e94240364240e79c4ae95fdfe\" -WITH_GFE"
+				"description"		"Coherent"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"BetaKey"		"Beta"
+				}
+			}
+			"3"
+			{
+				"executable"		"DirtyBombLauncher.exe"
+				"arguments"		"-flUrl=\"https://api.fireteam.net\" -flDomain=\"com.warchest.dirtybomb.staging\" -flClientIdSecret=\"086418c2-980e-5f4c-a5b3-140414328555:9f074c3d8d805ca95bf9f0ceb99ce8acacc0e947\"-with_gfe"
+				"description"		"FaceIT Test"
+				"type"		"none"
+				"config"
+				{
+					"BetaKey"		"test_branch"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"228981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"333931"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2784160765443578501"
+					"size"		"7167365895"
+					"download"		"5736648000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"ECE05CE6135A2E21D47E0D778ECF4351"
+					"size"		"EE38144D7F857BD287ABE06C8B19CE74"
+					"download"		"52557A81DBED0589124364056DECF565"
+				}
+				"ext_test"
+				{
+					"gid"		"320413B9F99D2E7C74968642765F964C"
+					"size"		"F8F85B2770CEB5E81C238ECBC265CE0D"
+					"download"		"9B6CE61DDB1FDB700D9F1F33B3EA046A"
+				}
+				"pre-release"
+				{
+					"gid"		"322867B470D93D71250B4DCD4236591E"
+					"size"		"4855514F266D44C7342313DA164049F0"
+					"download"		"35C4FC5E1C0555D4B5AB71C466AF1722"
+				}
+				"test"
+				{
+					"gid"		"3337519F47C5D3BDBA234B0E3262006C"
+					"size"		"B891D20FF9ACDD34FAE8D116A511182B"
+					"download"		"3B47B24B39F416A6164477D22CC47C97"
+				}
+				"test_branch"
+				{
+					"gid"		"D0FE4EDE732145671B61C43D949FCAAA"
+					"size"		"AC6910CBD7C0D4453AD9CE1F3895CAE0"
+					"download"		"E506C03ABD40D9F870C1E0A7B95B8B7B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3461293"
+				"timeupdated"		"1547543572"
+			}
+			"beta"
+			{
+				"buildid"		"2759270"
+				"pwdrequired"		"1"
+				"timeupdated"		"1525963410"
+			}
+			"ext_test"
+			{
+				"buildid"		"2870367"
+				"pwdrequired"		"1"
+				"timeupdated"		"1529311131"
+			}
+			"pre-release"
+			{
+				"buildid"		"3461293"
+				"pwdrequired"		"1"
+				"timeupdated"		"1547222940"
+			}
+			"test"
+			{
+				"buildid"		"2719874"
+				"pwdrequired"		"1"
+				"timeupdated"		"1524666939"
+			}
+			"test_branch"
+			{
+				"buildid"		"3057308"
+				"pwdrequired"		"1"
+				"timeupdated"		"1535017962"
+			}
+		}
+	}
+}

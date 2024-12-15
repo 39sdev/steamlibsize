@@ -1,0 +1,126 @@
+"792420"
+{
+	"common"
+	{
+		"name"		"100% Orange Juice - Core Voice Pack 2"
+		"type"		"DLC"
+		"parent"		"282800"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"a92f9b09703149a973859478b756d9ccc16c3860"
+		"clienticon"		"e200ecf44ef65fa50c4d6666b2507fd28062ebb7"
+		"icon"		"f02847141089fe03c7fe473777b5c058eb43f5de"
+		"logo"		"91fe8a6d972872988279d7455057a7c242901025"
+		"logo_small"		"91fe8a6d972872988279d7455057a7c242901025_thumb"
+		"name_localized"
+		{
+			"japanese"		"100％おれんじじゅ～すっ！ - 初期キャラクターボイスパック２"
+		}
+		"app_retired_publisher_request"		"1"
+		"metacritic_name"		"100% Orange Juice - Core Voice Pack 2"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_58b17edfbb915dc8c79e4b2cd62d208c0bd141dd.jpg"
+		"store_asset_mtime"		"1517229484"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Orange_Juice"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fruitbat Factory"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_29"		"1"
+			"category_8"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1517249126"
+		"gameid"		"792420"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"dlcforappid"		"282800"
+		"mustownapptopurchase"		"282800"
+		"developer"		"Orange_Juice"
+		"publisher"		"Fruitbat Factory"
+		"homepage"		"http://fruitbatfactory.com/100orange/"
+		"dlcavailableonstore"		"1"
+	}
+}

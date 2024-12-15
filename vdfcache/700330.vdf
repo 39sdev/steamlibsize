@@ -1,0 +1,753 @@
+"700330"
+{
+	"common"
+	{
+		"name"		"SCP: Secret Laboratory"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"5585f8471410fe900870cc09e6ed866b8c14c510"
+		"logo_small"		"5585f8471410fe900870cc09e6ed866b8c14c510_thumb"
+		"icon"		"764d1a9134808f7deb0b7f8de042590ec8aa8c5d"
+		"clienttga"		"bfcd7378ae2dd1b56980b57e297e1f92c5b2b78b"
+		"clienticon"		"34e06b0bd5716778398a3ca498fb2e5f585e5635"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"700330_eula_0"
+				"name"		"SCP: Secret Laboratory EULA"
+				"url"		"http://store.steampowered.com//eula/700330_eula_0"
+				"version"		"1"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"polish"		"1"
+			"hungarian"		"1"
+			"czech"		"1"
+			"romanian"		"1"
+			"brazilian"		"1"
+			"vietnamese"		"1"
+			"latam"		"1"
+		}
+		"name_localized"
+		{
+			"schinese"		"SCP秘密实验室 / SCP: Secret Laboratory"
+		}
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1675209600"
+			"tested_build_id"		"9616284"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"SCP: Secret Laboratory"
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"15.697674418604649"
+				"height_pct"		"56.45927333175017"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"15.697674418604649"
+					"height_pct"		"56.45927333175017"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1730391614"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Northwood Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Northwood Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_8"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"serbian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"catalan"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"lithuanian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"galician"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1514563200"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"700330"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"3859"
+			"2"		"1667"
+			"3"		"3839"
+			"4"		"1685"
+			"5"		"3978"
+			"6"		"1774"
+			"7"		"3843"
+			"8"		"1663"
+			"9"		"19"
+			"10"		"10397"
+			"11"		"1662"
+			"12"		"3942"
+			"13"		"1721"
+			"14"		"4166"
+			"15"		"9"
+			"16"		"4026"
+			"17"		"492"
+			"18"		"21"
+			"19"		"1684"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Northwood Studios"
+		"publisher"		"Northwood Studios"
+		"homepage"		"https://scpslgame.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"859210,2702460,2787940"
+	}
+	"config"
+	{
+		"installdir"		"SCP Secret Laboratory"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SCPSL.exe"
+				"arguments"		"-steam"
+				"description"		"Play on Windows"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"4"
+			{
+				"executable"		"SCPSL.exe"
+				"arguments"		"-steam -reset-settings"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"SCP: Secret Laboratory and RESET ALL SETTINGS"
+				}
+				"description"		"SCP: Secret Laboratory and RESET ALL SETTINGS"
+			}
+			"5"
+			{
+				"executable"		"PrivateBeta\\SCPSL.exe"
+				"arguments"		"-steam"
+				"workingdir"		"PrivateBeta"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"859210"
+				}
+				"description_loc"
+				{
+					"english"		"private beta on Windows"
+				}
+				"description"		"private beta on Windows"
+			}
+		}
+		"usemms"		"1"
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,polish"
+		"hasdepotsindlc"		"1"
+		"700331"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8324447856335036777"
+					"size"		"5758831569"
+					"download"		"2167481456"
+				}
+				"publicbeta"
+				{
+					"gid"		"2135600639235894148"
+					"size"		"6239289101"
+					"download"		"2395827648"
+				}
+				"first_version_of_sl_published_on_steam"
+				{
+					"gid"		"7722467700346241918"
+					"size"		"809784354"
+					"download"		"351900304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ci-build"
+				{
+					"gid"		"30EA62BF44784756E86EC95A64859B8F"
+					"size"		"A86DFEBE94C8D9C3EEEA96620FA1F521"
+					"download"		"C561A763BB2727AE1BECD72E3C745D46"
+				}
+				"labapi-beta"
+				{
+					"gid"		"139AC089C18E2CFEB2C82A90C17F8ED6"
+					"size"		"C54A651C0968D8C82BF01A1093E3CE9A"
+					"download"		"DF09BCC63250696E54697C8708D76E73"
+				}
+				"patreon-beta"
+				{
+					"gid"		"3DB425F22EB9454759CD03351EF7549A"
+					"size"		"CF56DB00D65BE7B6A9FF6B0764E502AE"
+					"download"		"0965AEAEB7ECEAC51772837352BA04C3"
+				}
+				"nightly"
+				{
+					"gid"		"C135E1AA8A170D4637DB52B435CAA644"
+					"size"		"C88B71477CC537E9B646E7306BA35A2F"
+					"download"		"CA264991EB2C1957503650B05188762C"
+				}
+				"tech"
+				{
+					"gid"		"414773A0B3D018CC406D8F8DFDFB3C13"
+					"size"		"7D3E2C0117EE7D1E60DD4AF84FBE971E"
+					"download"		"DC671C6D222ED186B4DF7B8BE3BB77A9"
+				}
+				"mr-testing"
+				{
+					"gid"		"75C4893EE8FAE767EE529BCEDFF839DD"
+					"size"		"B61E27EA9961115D186E7F385D1A4FF9"
+					"download"		"720E542AB5CECD26AF0ECA4CD7EDC891"
+				}
+				"mr-testing-2"
+				{
+					"gid"		"45CF51ABEE5B64231998AFCD8C39815C"
+					"size"		"9C617026807BFF35B6A92961A6E0EBE3"
+					"download"		"28D7D611CB5FBC25943F23C56E6DBA38"
+				}
+				"mr-testing-3"
+				{
+					"gid"		"3CDD726EA99AB76E4ECDE79018708CD2"
+					"size"		"52D21D7658C13345D611B67BD4F13782"
+					"download"		"A40BB003D3568861B2B5631399098F71"
+				}
+				"test-build-1"
+				{
+					"gid"		"BE650F629732989CA9D126D1C1B53BA2"
+					"size"		"6D572FB6BC6DD941B924A2C1DA1E1178"
+					"download"		"AC6315C8A516E8A9046931A68054796B"
+				}
+				"thomasjosif-test"
+				{
+					"gid"		"FA9E0F1CF7FC5DC0A0FD74C902A2DFEB"
+					"size"		"790278DDF108687E88C21EAF524E9E1E"
+					"download"		"268A80B4E21E702BCA91275B33207D04"
+				}
+				"qa-testing"
+				{
+					"gid"		"D7FDF6C10EE5AA0C2CC41FD269AC5173"
+					"size"		"2B988FD572EC16420C645421D003D4D4"
+					"download"		"926FA89BC103657A2F4A5B047CACCCDB"
+				}
+				"staff-testing"
+				{
+					"gid"		"F3060E9C56F2F0CCD62C200DFE03091C"
+					"size"		"5DE05B76E431BE10508F449EB149839F"
+					"download"		"B2FE0B1437ECFE95AF69F8A6F76DCFF5"
+				}
+				"marketing-preview"
+				{
+					"gid"		"94F23F95D466A8C0ACC888DC64D40215"
+					"size"		"89AC31A1B1AAE25199E1B8F6E2F8A2B3"
+					"download"		"225E001B27039E52A456A36193B34FF0"
+				}
+				"community-qa"
+				{
+					"gid"		"90C1A6EF122F80C3A2B849CF076E1FE5"
+					"size"		"A5B81FAD218E6042611698C28B518DE8"
+					"download"		"FFE3B5E58A0FE122F0D5C0463567CC8D"
+				}
+			}
+		}
+		"700332"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"32"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"15251936"
+				"timeupdated"		"1731182084"
+			}
+			"ci-build"
+			{
+				"buildid"		"16748555"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734226856"
+			}
+			"labapi-beta"
+			{
+				"buildid"		"16636156"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733500400"
+			}
+			"patreon-beta"
+			{
+				"buildid"		"16480300"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732219028"
+			}
+			"nightly"
+			{
+				"buildid"		"16748938"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734234506"
+			}
+			"tech"
+			{
+				"buildid"		"16190676"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729937963"
+			}
+			"mr-testing"
+			{
+				"buildid"		"16728527"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734110954"
+			}
+			"mr-testing-2"
+			{
+				"buildid"		"16742414"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734140557"
+			}
+			"mr-testing-3"
+			{
+				"buildid"		"16748308"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734222127"
+			}
+			"test-build-1"
+			{
+				"buildid"		"16300845"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730811221"
+			}
+			"thomasjosif-test"
+			{
+				"buildid"		"15659555"
+				"pwdrequired"		"1"
+				"timeupdated"		"1726029636"
+			}
+			"qa-testing"
+			{
+				"buildid"		"16739281"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734204594"
+			}
+			"staff-testing"
+			{
+				"buildid"		"16724701"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734112802"
+			}
+			"marketing-preview"
+			{
+				"buildid"		"15946074"
+				"pwdrequired"		"1"
+				"timeupdated"		"1728234594"
+			}
+			"community-qa"
+			{
+				"buildid"		"15055727"
+				"pwdrequired"		"1"
+				"timeupdated"		"1721302535"
+			}
+			"publicbeta"
+			{
+				"buildid"		"16724701"
+				"description"		"14.0 Public Beta"
+				"timeupdated"		"1734119723"
+			}
+			"first_version_of_sl_published_on_steam"
+			{
+				"buildid"		"2404120"
+				"description"		"First public version SCP:SL (official release)"
+				"timeupdated"		"1610443215"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"31457280"
+		"maxnumfiles"		"20"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"SCP Secret Laboratory"
+				"pattern"		"keybinding.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"3"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"SCP Secret Laboratory"
+				"pattern"		"mutes.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"4"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"SCP Secret Laboratory"
+				"pattern"		"GameOn_*.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"5"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"SCP Secret Laboratory"
+				"pattern"		"cmdbinding.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"6"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"SCP Secret Laboratory"
+				"pattern"		"registry.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"7"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"SCP Secret Laboratory"
+				"pattern"		"favorites.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"8"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"SCP Secret Laboratory"
+				"pattern"		"history.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"9"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"SCP Secret Laboratory"
+				"pattern"		"iphistory.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}

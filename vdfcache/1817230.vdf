@@ -1,0 +1,706 @@
+"1817230"
+{
+	"common"
+	{
+		"name"		"Hi-Fi RUSH"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"arabic"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"clienttga"		"e90040c817389ff4567fb3a4e54368cc9b8a7b5f"
+		"clienticon"		"f9e43ac14ad7655023f4cac5b410a2e780cbab2e"
+		"icon"		"4ab983bdce853739bba2494342425bc206cadfe5"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1817230_eula_1"
+				"name"		"Hi-Fi RUSH EULA"
+				"url"		"https://store.steampowered.com//eula/1817230_eula_1"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1674864000"
+			"tested_build_id"		"10176317"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"1"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Hi-Fi Rush"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"turkish"		"capsule_231x87_turkish.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"turkish"		"header_turkish.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,tr"
+			"library_hero"		"en,tr"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35.0641773628938"
+				"height_pct"		"89.89551175492755"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+					"turkish"		"library_600x900_turkish.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+					"turkish"		"library_600x900_turkish_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+					"turkish"		"library_hero_turkish.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+					"turkish"		"library_hero_turkish_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"35.0641773628938"
+					"height_pct"		"89.89551175492755"
+				}
+			}
+		}
+		"store_asset_mtime"		"1715602714"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tango Gameworks"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bethesda Softworks"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_13"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_29"		"1"
+			"category_60"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1674680400"
+		"metacritic_score"		"90"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/hi-fi-rush?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1817230"
+		"store_tags"
+		{
+			"0"		"1752"
+			"1"		"19"
+			"2"		"1646"
+			"3"		"4182"
+			"4"		"1756"
+			"5"		"4195"
+			"6"		"4106"
+			"7"		"1621"
+			"8"		"1625"
+			"9"		"3955"
+			"10"		"4305"
+			"11"		"4777"
+			"12"		"1719"
+			"13"		"4158"
+			"14"		"4252"
+			"15"		"4085"
+			"16"		"4115"
+			"17"		"1697"
+			"18"		"5752"
+			"19"		"21"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Tango Gameworks"
+		"publisher"		"Bethesda Softworks"
+		"homepage"		"https://bethesda.net/en-US/game/hifirush"
+		"listofdlc"		"2076280,2314670,2314700,2365950"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hi-Fi RUSH"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Hi-Fi-RUSH.exe"
+				"description_loc"
+				{
+					"english"		"Launch default."
+				}
+				"description"		"Launch default."
+			}
+			"1"
+			{
+				"executable"		"Hibiki.exe"
+				"arguments"		"-NOVERIFYGC -NOSCREENMESSAGES -ForceAsyncCompute"
+				"config"
+				{
+					"BetaKey"		"nv_dev"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Development or Test Ver. (ForceAsyncCompute)"
+				}
+				"description"		"Launch Development or Test Ver. (ForceAsyncCompute)"
+			}
+			"2"
+			{
+				"executable"		"Hibiki.exe"
+				"arguments"		"-NOVERIFYGC -NOSCREENMESSAGES"
+				"config"
+				{
+					"BetaKey"		"beta tango_dev it_dev"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Development or Test Ver."
+				}
+				"description"		"Launch Development or Test Ver."
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1817231"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2352550391294550783"
+					"size"		"17198010588"
+					"download"		"16378834080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0043F2E286E7CD514E6C908F963468C2"
+					"size"		"B5F5102E606FD6A81CA1F11875A78E3B"
+					"download"		"FFDD5920DFDFF895780C81263C6EB953"
+				}
+				"eval"
+				{
+					"gid"		"614E6395432E67DAD6081CA8FF8E6620"
+					"size"		"4EB63408B70064882697CB5F6D95D793"
+					"download"		"9D0800E4341562AE071C5525AB0DA8E4"
+				}
+				"it_dev"
+				{
+					"gid"		"9F41FC8F4D9C147A800DAFB36ECBAB23"
+					"size"		"CCCCF142C96CAC3EC5A2D99FD485BD7D"
+					"download"		"49C0C9101098522C382D95FE5DDB39F0"
+				}
+				"marketing"
+				{
+					"gid"		"93FA67916E9D63C18F1553BE4B7168B8"
+					"size"		"1CB7A97794E15C388D7A010D56FCAFF2"
+					"download"		"FA474954F82966219753A0376227972C"
+				}
+				"milestone"
+				{
+					"gid"		"BD732E38EB47E74FEA984AF406DB0C90"
+					"size"		"821A1B35403ED5EF7D008F8A3FDB382F"
+					"download"		"292D836E5029E92EAFBF54AFF09822FF"
+				}
+				"nv_check"
+				{
+					"gid"		"91C633F1645D7D40944AE25D7AB4378C"
+					"size"		"43CD3123B7B16D526CE631E69ED71F4E"
+					"download"		"5AFE2E2A28364D4F27B1EBF9D3DA33DD"
+				}
+				"nv_dev"
+				{
+					"gid"		"9869EF7DAD244283A8CF239C8FEA7D60"
+					"size"		"B417C6E39F1A9102546AC1043E225808"
+					"download"		"0EB0C7CA8CB85AF65BF972444ED5A0C5"
+				}
+				"patch_5_press"
+				{
+					"gid"		"3CD658B42F8925D6BA8E7BA21D3D1162"
+					"size"		"8239201983A4154C05C6AAE19964A2A2"
+					"download"		"FD4816563E91CD7D5F75F87CF958E3B1"
+				}
+				"press"
+				{
+					"gid"		"C24F583B995702AFD541C55FE397A57C"
+					"size"		"D660FC0CCFF22AEC0F8CAF0FD526C9E0"
+					"download"		"67880B6D747CC5AE57A0288312F8E09E"
+				}
+				"protection"
+				{
+					"gid"		"9F4361EFA7F9D21C950B6C96BE02604B"
+					"size"		"EFA49462FA8CAD62614D90A01379F193"
+					"download"		"EAE2AFD96E6438826396D8D63D8010FD"
+				}
+				"shieldtest"
+				{
+					"gid"		"DC8AE5BB722E2FEAE6143EE50B0547D9"
+					"size"		"7EE19CF4516903B289814C3DC576935A"
+					"download"		"558C14FFC9B32710E000E40CBCC3F033"
+				}
+				"temp_test"
+				{
+					"gid"		"5F5F08CE5032A9CCFC632CC4940CADC8"
+					"size"		"C5F0671E44ACE2FFC3AB27BA184AE4B8"
+					"download"		"65DC2A7DD40ED4E21431CC4813B9EBD4"
+				}
+				"daily"
+				{
+					"gid"		"9195EC6F29FE724DEFFBB12FB276F63B"
+					"size"		"44F0A700C08C4C5470AAFB6A2A8FC166"
+					"download"		"3CC6D22B3916391F7CCAB693F98D8D35"
+				}
+				"tango_dev"
+				{
+					"gid"		"0EB4A2A0AEFB19BB9D7D01D55EB99222"
+					"size"		"F36F5366033348DBC4E7533DB27D252E"
+					"download"		"594EE545334FA7B400F6D91BD3241977"
+				}
+			}
+		}
+		"1817232"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2782758537428965591"
+					"size"		"647117896"
+					"download"		"340874016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"AC9E260682E5F50268D2A9D2F754A505"
+					"size"		"77622AEBA80B262D938A659D28452F51"
+					"download"		"9E0FED3035B02ED815DF4CBAB88A4A31"
+				}
+				"eval"
+				{
+					"gid"		"2F8475A58573852222FB8FEF49773599"
+					"size"		"8ACCF28547E530F0EF8A1205F12E8679"
+					"download"		"0ADD03969FE19D37D26D1292BFFD8B7D"
+				}
+				"it_dev"
+				{
+					"gid"		"34E8EE789289E22C6AE712344667089C"
+					"size"		"8ACF483DFE4D7F4963055A8FBB283905"
+					"download"		"CE7FA145744989783C0EF31E8D1FB619"
+				}
+				"marketing"
+				{
+					"gid"		"DCD8718FA1D5764B0558925A249CE748"
+					"size"		"E2538B031AF22BD32CA7E9D7084B5A24"
+					"download"		"FA1426A12F9137DE560BDBB2EABF8347"
+				}
+				"milestone"
+				{
+					"gid"		"00EA54B6C81BB9BDB8D420D499250F33"
+					"size"		"62DD1FCAC411EB5B6C6A6334BBD05C21"
+					"download"		"188A8EBD4CADBF5AF90DF64580872A8C"
+				}
+				"nv_check"
+				{
+					"gid"		"A2D6B7859295E2398C08DB7B03A5DCA4"
+					"size"		"2615E3EBB382AEFCA3963C842D35B73A"
+					"download"		"A75E0D20B2A2CB42BE38E7601BBE4919"
+				}
+				"nv_dev"
+				{
+					"gid"		"080A01C23C73201E4A4E1CDC40DA379B"
+					"size"		"7E433BB49E07C269691433D3EC537DB0"
+					"download"		"0127688D21983FC68B83D69EB85D7429"
+				}
+				"patch_5_press"
+				{
+					"gid"		"99036931E32FC5CF6AEBFACD9119A6F1"
+					"size"		"92E58C3EBFC91F04356C9A778D8F984D"
+					"download"		"E9E28196F027563BBD93B22618612562"
+				}
+				"press"
+				{
+					"gid"		"2E25FBD94B6937B06C2B00803FC64C1D"
+					"size"		"AB23C1BFC6A7625277E97FA0C574D562"
+					"download"		"2C8485A209841546AF5894CF2B649357"
+				}
+				"protection"
+				{
+					"gid"		"98CC505FC84D456DFD196F3D96AE3563"
+					"size"		"98A577E65E497D2E67B3CC2E6C1A6E4F"
+					"download"		"B3B906C2089A6FB1FA0337D46B31C56C"
+				}
+				"shieldtest"
+				{
+					"gid"		"B3F99F4D1C385220010F7F4D7BB2E44B"
+					"size"		"51E62A170712467FEEF71E251D6D4197"
+					"download"		"C0837F1BC777EB6B757A714C2857F6B9"
+				}
+				"temp_test"
+				{
+					"gid"		"0B617DA35BCF7A1C40C1AA4131CB522B"
+					"size"		"FF49DE1EEC6BDD1C80D4AF692B3683D8"
+					"download"		"6494BF9AF74881303B9B1E7C6F087F85"
+				}
+				"daily"
+				{
+					"gid"		"2826F1EF619E72EBEB93286940027FED"
+					"size"		"63ABD775FB03B220F73185B714D42A4F"
+					"download"		"2EBEFCD2EBB14D888574C553D760CCF1"
+				}
+				"tango_dev"
+				{
+					"gid"		"DAF38985986E1D469184796FBA246CC9"
+					"size"		"BE29D45D0E8BDE9CA149893496793217"
+					"download"		"3B5FA683DAC8C83E494B8F1C632D7F8D"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"14142582"
+				"timeupdated"		"1715781706"
+			}
+			"beta"
+			{
+				"buildid"		"10176317"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672857321"
+			}
+			"eval"
+			{
+				"buildid"		"10176317"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672857775"
+			}
+			"it_dev"
+			{
+				"buildid"		"11474581"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686805695"
+			}
+			"marketing"
+			{
+				"buildid"		"11239094"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684254314"
+			}
+			"milestone"
+			{
+				"buildid"		"13334456"
+				"pwdrequired"		"1"
+				"timeupdated"		"1710179021"
+			}
+			"nv_check"
+			{
+				"buildid"		"10176317"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671587197"
+			}
+			"nv_dev"
+			{
+				"buildid"		"9430162"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662017255"
+			}
+			"patch_5_press"
+			{
+				"buildid"		"11562680"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687807351"
+			}
+			"press"
+			{
+				"buildid"		"10176317"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673626479"
+			}
+			"protection"
+			{
+				"buildid"		"14142621"
+				"pwdrequired"		"1"
+				"timeupdated"		"1713858650"
+			}
+			"shieldtest"
+			{
+				"buildid"		"9945811"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668743204"
+			}
+			"temp_test"
+			{
+				"buildid"		"11202237"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683749776"
+			}
+			"daily"
+			{
+				"buildid"		"14463312"
+				"pwdrequired"		"1"
+				"timeupdated"		"1716435749"
+			}
+			"tango_dev"
+			{
+				"buildid"		"13334456"
+				"pwdrequired"		"1"
+				"timeupdated"		"1715832830"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"TangoGameworks/Hi-Fi RUSH (STEAM)/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinSavedGames"
+				"path"		"TangoGameworks/Hi-Fi RUSH (STEAM)/Saved/Config/WindowsNoEditor"
+				"pattern"		"*.ini"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}

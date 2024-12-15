@@ -1,0 +1,744 @@
+"24800"
+{
+	"common"
+	{
+		"name"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+		"clienticon"		"efffba410a06a5fe1343228f9eaccd26a245bc23"
+		"clienttga"		"a120567a1461e26458ba95f56ce9e7dffb70db7b"
+		"icon"		"c65f15f9b850a0becaf708a4668e7f285eeff209"
+		"logo"		"de6777c6cf277967764224514fb200af9197ae2e"
+		"logo_small"		"de6777c6cf277967764224514fb200af9197ae2e_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"24800_eula_1"
+				"name"		"Command and Conquer: Red Alert 3 - Uprising EULA 1"
+				"url"		"http://store.steampowered.com//eula/24800_eula_1"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"danish"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"dutch"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"finnish"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"french"		"Command & Conquer™ Alerte Rouge™ 3 - La Révolte"
+			"german"		"Command & Conquer™ Alarmstufe Rot™ 3 - Uprising"
+			"italian"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"norwegian"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"polish"		"Command & Conquer™ Red Alert™ 3- Powstanie"
+			"portuguese"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"russian"		"Command & Conquer™ Red Alert™ 3- Uprising"
+			"spanish"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"swedish"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"turkish"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"brazilian"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"tchinese"		"《終極動員令：紅色警戒 3》起義時刻"
+			"japanese"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"koreana"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"schinese"		"《命令与征服：红色警戒 3》起义"
+			"czech"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"latam"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"thai"		"Command & Conquer™ Red Alert™ 3 - Uprising"
+			"ukrainian"		"Command & Conquer™ Red Alert™ 3 — Uprising"
+		}
+		"type"		"game"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1646870400"
+			"tested_build_id"		"756"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Command &amp; Conquer: Red Alert 3 - Uprising"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38"
+				"height_pct"		"36"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"38"
+					"height_pct"		"36"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1709219437"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"EA Los Angeles"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Electronic Arts"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Command and Conquer"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1236841200"
+		"steam_release_date"		"1254812400"
+		"metacritic_score"		"64"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/command-conquer-red-alert-3---uprising?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"24800"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1676"
+			"2"		"7332"
+			"3"		"3859"
+			"4"		"4182"
+			"5"		"1678"
+			"6"		"3942"
+			"7"		"19"
+			"8"		"4598"
+			"9"		"1685"
+			"10"		"18594"
+			"11"		"4168"
+			"12"		"1693"
+			"13"		"1756"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+		"mastersubs_granting_app"		"1289670"
+	}
+	"extended"
+	{
+		"developer"		"EA Los Angeles"
+		"gamedir"		"Command and Conquer Red Alert 3 Uprising"
+		"homepage"		"http://www.commandandconquer.com/"
+		"icon"		""
+		"installscript"		"24800_install.vdf"
+		"launcheula"		"http://storefront.steampowered.com/eula_testapp24800"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"24801"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Electronic Arts"
+		"GameManualURL"		"https://store.steampowered.com/manual/24800/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Command and Conquer Red Alert 3 Uprising"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RA3EP1.exe"
+			}
+			"1"
+			{
+				"description"		"View Support Information"
+				"executable"		"Support\\EA Help\\Electronic_Arts_Technical_Support.htm"
+			}
+			"2"
+			{
+				"executable"		"Data\\WorldBuilder.exe"
+				"config"
+				{
+					"BetaKey"		"eacc"
+				}
+				"description_loc"
+				{
+					"english"		"World Builder"
+				}
+				"description"		"World Builder"
+			}
+		}
+		"externalregistrationurl"
+		{
+			"english"		"https://ea.onlineregister.com/?LOCALE=en_US"
+			"french"		"https://ea.onlineregister.com/?LOCALE=fr_FR"
+			"german"		"https://ea.onlineregister.com/?LOCALE=de_DE"
+			"italian"		"https://ea.onlineregister.com/?LOCALE=it_IT"
+			"polish"		"https://ea.onlineregister.com/?LOCALE=pl_PL"
+			"spanish"		"https://ea.onlineregister.com/?LOCALE=es_ES"
+			"russian"		"https://ea.onlineregister.com/?LOCALE=ru_RU"
+			"hungarian"		"https://ea.onlineregister.com/?LOCALE=hu_HU"
+			"czech"		"https://ea.onlineregister.com/?LOCALE=cs_CZ"
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,tchinese,russian,thai,polish,hungarian,czech"
+		"228981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"24801"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2413757782052553859"
+					"size"		"6914895501"
+					"download"		"4904236208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"9FF0EB331B57B56E16936A56ADF3CE44"
+					"size"		"F98CF28A4A14662246CABF0EF78275E5"
+					"download"		"0F9CD674E7356DE8322968E5887B423A"
+				}
+				"eacc"
+				{
+					"gid"		"906D4E4104D6C4F10F5B5CCEBD77E78C"
+					"size"		"BE5DEFC5D9931449ACEF01F41174D121"
+					"download"		"9447CB86FB5AF807FFB5B03CFB7EBF25"
+				}
+			}
+		}
+		"24802"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"67627412952222864"
+					"size"		"1699007779"
+					"download"		"1466635200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"258E0D12DB88AFEB698E92982DDE0144"
+					"size"		"FD349C544660FA42EC35DF4650782D18"
+					"download"		"CC2A83573D5971C40923E1F2C80C7D60"
+				}
+				"eacc"
+				{
+					"gid"		"2749B1D6E21D1D91EC6D1119C497D5DA"
+					"size"		"9418B222CEAB0BB0AD22D05B943CA44C"
+					"download"		"6F5B3FB4E796D8E8FD99FD8288EAFE63"
+				}
+			}
+		}
+		"24803"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8274809045144307161"
+					"size"		"1724826236"
+					"download"		"1484241040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"B37722BCE4E47B15708BB61FD6B38E03"
+					"size"		"2CD5522383DE650C86A4357E738E7E00"
+					"download"		"A39F192594228446D5D5B5B810D9730A"
+				}
+				"eacc"
+				{
+					"gid"		"3AAC5DC7E52B4210581AC7E5F40EB3DB"
+					"size"		"B058208BED443081A6BDB02F1AC1CC3D"
+					"download"		"2D99FF048CD4F4C59E323466EFA2412A"
+				}
+			}
+		}
+		"24804"
+		{
+			"config"
+			{
+				"language"		"czech"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6183748249426468365"
+					"size"		"35343301"
+					"download"		"3119472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"5F2E4A1AD7B675F536769FEAB5C409A6"
+					"size"		"510C9D9EB15AC6F84F79B1C6F12FA2A5"
+					"download"		"93CD56A8CED302E575E793B8A22D6544"
+				}
+				"eacc"
+				{
+					"gid"		"889B9EBC6C36CF95E238486F26D7CF65"
+					"size"		"4D78178E8B0578DA9E4D2C8478104947"
+					"download"		"115F8F909A7B365EB6513D13202DD30C"
+				}
+			}
+		}
+		"24805"
+		{
+			"config"
+			{
+				"language"		"hungarian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2024496939502146595"
+					"size"		"35322313"
+					"download"		"3101232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"53A913F7886472CC5F61C37BB92D95F2"
+					"size"		"A3B98346B52CA260D21F9A567E71A9B2"
+					"download"		"866031CB0E990CE704534A9B0724B618"
+				}
+				"eacc"
+				{
+					"gid"		"443C8F0ED5F8E5E815BB6929EB96362C"
+					"size"		"7CB27CB8D1FD9C8DD4BC65C8AB1FBA50"
+					"download"		"243671FD9BFFF2E52E98D4CB37B92126"
+				}
+			}
+		}
+		"24806"
+		{
+			"config"
+			{
+				"language"		"italian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3840008804493923097"
+					"size"		"1706562908"
+					"download"		"1471994544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"DF312C6E048695A355E102CE468FA9DF"
+					"size"		"D63D5FF2A2E11079389173C9C673276B"
+					"download"		"A341EE36A0DA1D66473A3A2EE8AA180E"
+				}
+				"eacc"
+				{
+					"gid"		"AF4C95B46E16099D61F6F42247D3AD02"
+					"size"		"83707F18BC63D447372B2EF2113AD896"
+					"download"		"0DD14E0955C7C81A71267FDEE1F21E54"
+				}
+			}
+		}
+		"24807"
+		{
+			"config"
+			{
+				"language"		"polish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3726069640455622210"
+					"size"		"35330839"
+					"download"		"3188832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"5F6033DD11F4B2FB3131AB52ED1D803D"
+					"size"		"C334798355EEABFBBD861F7AE958B21D"
+					"download"		"3957756669CE6D94304B249622155FBA"
+				}
+				"eacc"
+				{
+					"gid"		"520FF35B902E66F1E4B49245088E41D3"
+					"size"		"BCB97E032916A2C3B690190566BE696E"
+					"download"		"194D863B3E6A882CAC0365C07DCBA04D"
+				}
+			}
+		}
+		"24808"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1194685021395874683"
+					"size"		"1759037407"
+					"download"		"1517028160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"F86ACEB6BB2673A02E813545B29D3A2B"
+					"size"		"B7CA6DA5688D94418C2FBE1EE16A029D"
+					"download"		"049F112BA51AA17728B61065A44C3005"
+				}
+				"eacc"
+				{
+					"gid"		"B873AECC97FBB4B405A4067CD4FF1F4A"
+					"size"		"712C777DA97A660AAA8A49D9F1846F32"
+					"download"		"88962872E160032B2AE387F49201CCED"
+				}
+			}
+		}
+		"24809"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8179744559122970112"
+					"size"		"1740132467"
+					"download"		"1507224464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"A2D5E3C5E1F4178E14751E0D2C7566B5"
+					"size"		"06F9954ECEDDFF28B02B15AD77E89427"
+					"download"		"4939E462E7B63742F7AF903CF43CACA8"
+				}
+				"eacc"
+				{
+					"gid"		"02AD6DA145EB789CB884A211E8090A85"
+					"size"		"D89AFC79173495B153DFE6DC4E29D752"
+					"download"		"FFC52E7F8C13D3962C16CDEAB037D929"
+				}
+			}
+		}
+		"3287100"
+		{
+			"config"
+			{
+				"language"		"koreana"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"eacc"
+				{
+					"gid"		"E99B0282F3EBF42D17D1BEDAD9B19C89"
+					"size"		"ED36A3C0631CA39CE0F5B2CC077B3A1D"
+					"download"		"F4AEB383D1AA08AFA3D4B11A85F952FF"
+				}
+			}
+		}
+		"3287101"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"eacc"
+				{
+					"gid"		"3771E6168C80D11540A16F699294AE9F"
+					"size"		"9F4768023895FC6A3559E47B0D5B547B"
+					"download"		"91886F182D2C0CFD4B1D6B723260FC40"
+				}
+			}
+		}
+		"3287102"
+		{
+			"config"
+			{
+				"language"		"thai"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"eacc"
+				{
+					"gid"		"EF7D293B4D77720D2F255C7F8921F4C1"
+					"size"		"E89F69C3BED4DE7B5EDC9B315573443C"
+					"download"		"929885317A4F4FB8A161C2F698A3B9A7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13686278"
+				"timeupdated"		"1709986480"
+			}
+			"age_ratings"
+			{
+				"buildid"		"13272124"
+				"pwdrequired"		"1"
+				"timeupdated"		"1706626284"
+			}
+			"eacc"
+			{
+				"buildid"		"16169271"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729792543"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"Red Alert 3 Uprising/Profiles"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Red Alert 3 Uprising"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Red Alert 3 Uprising"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}

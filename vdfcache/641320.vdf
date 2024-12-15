@@ -1,0 +1,1453 @@
+"641320"
+{
+	"common"
+	{
+		"name"		"Cooking Simulator"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"935157cb15a96271153ca111223d82cb3aaf909f"
+		"logo_small"		"935157cb15a96271153ca111223d82cb3aaf909f_thumb"
+		"icon"		"85e75f4415fdd402cf01ce20672cac5256bed5d7"
+		"clienticon"		"092e817967a65c6fe0d8e95c6eeed5518c824f4d"
+		"clienttga"		"7f1b5b1f739642db01c3f1554b9f01559d1b76b4"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"sc_schinese"		"1"
+		}
+		"name_localized"
+		{
+			"sc_schinese"		"烹饪模拟器"
+		}
+		"releasestatesteamchina"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1673654400"
+			"tested_build_id"		"10191236"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Cooking Simulator"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-xc"
+			"library_hero"		"en,zh-xc"
+			"library_logo"		"en,zh-xc"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"51.571594877764795"
+				"height_pct"		"98.10370370370373"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+					"sc_schinese"		"library_600x900_sc_schinese_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+					"sc_schinese"		"library_600x900_sc_schinese.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+					"sc_schinese"		"library_hero_sc_schinese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+					"sc_schinese"		"library_hero_sc_schinese_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+					"sc_schinese"		"logo_sc_schinese.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+					"sc_schinese"		"logo_sc_schinese_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"51.571594877764795"
+					"height_pct"		"98.10370370370373"
+				}
+			}
+		}
+		"store_asset_mtime"		"1718888866"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Big Cheese Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Big Cheese Studio"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Cooking Simulator"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"Big Cheese Studio"
+			}
+			"5"
+			{
+				"type"		"franchise"
+				"name"		"PlayWay S.A."
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1559833200"
+		"metacritic_score"		"64"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/cooking-simulator?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"641320"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"3920"
+			"2"		"4182"
+			"3"		"4175"
+			"4"		"3810"
+			"5"		"4136"
+			"6"		"3968"
+			"7"		"3839"
+			"8"		"5350"
+			"9"		"12472"
+			"10"		"1654"
+			"11"		"1685"
+			"12"		"1702"
+			"13"		"1719"
+			"14"		"8945"
+			"15"		"4711"
+			"16"		"4695"
+			"17"		"19"
+			"18"		"10397"
+			"19"		"7208"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Big Cheese Studio"
+		"publisher"		"Big Cheese Studio"
+		"listofdlc"		"1168680,1227350,1357180,1400460,1575660,2655000"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"CookingSimulator"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CookingSim.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"realm"		"steamglobal"
+				}
+			}
+			"1"
+			{
+				"executable"		"烹饪模拟器.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"realm"		"steamchina"
+				}
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"641321"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"realm"		"steamglobal"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7441174790767563077"
+					"size"		"7800919861"
+					"download"		"6026895712"
+				}
+				"poltergeist"
+				{
+					"gid"		"972027167869808479"
+					"size"		"4559781982"
+					"download"		"3329049200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop_backup"
+				{
+					"gid"		"F215B2ACD32C22449DE3D1C4170B8A56"
+					"size"		"4FE8510A6D383090CE800636C14EFB87"
+					"download"		"484DE9EB3285F6A1ADA3D8462EA9476A"
+				}
+				"internal6"
+				{
+					"gid"		"5F65183D6F56C5B1DD10B0207581A168"
+					"size"		"B8429C9260BF57E42B51F49B5C1EAE97"
+					"download"		"833B2992AF5F67E0244425DCDAA39972"
+				}
+				"internaldev"
+				{
+					"gid"		"A792E85143B1D2C9F47A4392FF35F76B"
+					"size"		"B7B024F73998C1F1F63BA2BE2132D10D"
+					"download"		"3E2348406A773AA4DA8C08954E09E212"
+				}
+				"internalold"
+				{
+					"gid"		"F89AE94E5CAA05556FEAC162F7FBBD94"
+					"size"		"B4FB78BE9901710BDDC4317F77E4D328"
+					"download"		"BE4DAAB0613E409C2ABCB1986B06738A"
+				}
+				"internalrc"
+				{
+					"gid"		"4FF5C52CD1E808FA2F68B3FF300AE445"
+					"size"		"827489369755A2B109F112E38DB15AAD"
+					"download"		"687E2BF32D8C665A0DC6328D0A85249D"
+				}
+				"internalshelter"
+				{
+					"gid"		"51D661A423D875F4E413447AE006C66B"
+					"size"		"019F850C9FE66501D08AE5BFEEA5ED23"
+					"download"		"791E5CC3221E44ED8E05AC8B62120FCD"
+				}
+				"internaltutorial"
+				{
+					"gid"		"ECCF147CF6A3CEB44B0AAF98D382FB2F"
+					"size"		"D68DADB7E0DEA7EABE24D96FA653CE44"
+					"download"		"36BDE69D0DC35C45F78AE1B575F5CAD2"
+				}
+				"lionbridge"
+				{
+					"gid"		"7C4773BC50EBA6B06832E8E5185D21E4"
+					"size"		"971C4B919871DB41CC77EFA23FF0B934"
+					"download"		"41A73CFF75637F0E8D8643BAD331A5E7"
+				}
+				"sounds"
+				{
+					"gid"		"65BE7F9D1C02728F24F320B78EACAE03"
+					"size"		"67331C9429BBBDE309952518E402429F"
+					"download"		"C356DE20CF5C5085202E2DCC01F94C79"
+				}
+				"steam_china_only"
+				{
+					"gid"		"CD5A601BD9860105D03AA1CCAAB2FA2A"
+					"size"		"55DE67DF60D283A3567637DA8A72B4E7"
+					"download"		"4CF13B576362F46B7F37E86BD979AC81"
+				}
+				"testingbranch"
+				{
+					"gid"		"8D2CD16071D077D50B6ACE223BE87CE4"
+					"size"		"98A1D36A32C464B7AE0F87EC9F39B584"
+					"download"		"EE3122D633CF003EF74C972FC4EF5D09"
+				}
+				"testingbranch2"
+				{
+					"gid"		"775CB8EDAC19308FA5E268D1AAA36C5E"
+					"size"		"FA948EF62D10D0200365EE2B3E2099A4"
+					"download"		"E5F0B51795B996CF2F1D2E7CF62699B7"
+				}
+				"bbqtesting"
+				{
+					"gid"		"EB6B8E758D9FD36AFC129D1DF4187C6A"
+					"size"		"D5C2ED233F4A5B73A2B5B085AB30DD3A"
+					"download"		"BFD6B2780A67BF8B072587B1477B1E23"
+				}
+				"internal"
+				{
+					"gid"		"B02F45FE55FE88D61B45A06FA9E6A326"
+					"size"		"03EC98BD73E4287832C34CF2EAA4CA19"
+					"download"		"ED72EA045947BE8AE6772D05AD2B0E93"
+				}
+				"internal2"
+				{
+					"gid"		"0265DED4E94E1B218FAF06D8529B353B"
+					"size"		"4A68C92AC3C2A24CF239E1802C1D9C5E"
+					"download"		"0CE938E2A80F62E62AFADD9198E3E3E6"
+				}
+				"internal3"
+				{
+					"gid"		"33858F8FCBFC7668791147DE7987DC60"
+					"size"		"47278B2E83DA395E1F667DC40C83D3FB"
+					"download"		"637CE66C32B5DA61834B5340C4A45F62"
+				}
+				"internal4"
+				{
+					"gid"		"2DC3B8FDCB1FD1AB2ADD01165D09A5EB"
+					"size"		"17F2177E1F3844C35942E09C90FD418F"
+					"download"		"4EE032D56C2B09940249B5E7A3EE9C60"
+				}
+				"internal5"
+				{
+					"gid"		"A131CB4EDAF06642C507E396CD688BFD"
+					"size"		"CD8F7C2F65C35CF0DE29B9DE4419FD5B"
+					"download"		"86C2A5879FBC575EBE46558EB7245FDD"
+				}
+				"testingbranch3"
+				{
+					"gid"		"821505FDE744BB84EF97FC203078C829"
+					"size"		"015591F68A799D41FC78835BB02820B4"
+					"download"		"47C948A2B5A2F155A97963E6398DEF91"
+				}
+			}
+		}
+		"1139960"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"realm"		"steamglobal"
+			}
+			"dlcappid"		"1139960"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8738189176505780735"
+					"size"		"689737424"
+					"download"		"593096752"
+				}
+				"poltergeist"
+				{
+					"gid"		"8738189176505780735"
+					"size"		"689737424"
+					"download"		"593096752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop_backup"
+				{
+					"gid"		"FD3A3764A1CF5A398FFBEA3A59E40732"
+					"size"		"223A16D3469C5BE074679DE9C83D06EE"
+					"download"		"E6A17C3A25B267D5EE78AC81E7026E76"
+				}
+				"internal6"
+				{
+					"gid"		"AEC3DF32316508684FC1211A9DD7591E"
+					"size"		"A1CBB17BD5591A65CB526EB0E7ADBF2B"
+					"download"		"9E9E0128AA9CC623EC2FC733C581A679"
+				}
+				"internalold"
+				{
+					"gid"		"26B9C82AAAF7930418BF8B54B9666049"
+					"size"		"E6A493AA3D2B16E55221C362471EA25F"
+					"download"		"2BF5CA8BFDE97F52125998688CF506DB"
+				}
+				"internalrc"
+				{
+					"gid"		"282A5CB3EE2A369A828C5EEC00D86E45"
+					"size"		"AEE646875B3C0AD298DE0E279E4DE44E"
+					"download"		"FA3A96279D4164D81E0D637A10EFC62E"
+				}
+				"internalshelter"
+				{
+					"gid"		"F69BF63481DB9CB3E40896A6E91FD802"
+					"size"		"DF9B6364E3E00BAB9CAA44D095774A5B"
+					"download"		"587D2B6E816C7B713E12F529B0383657"
+				}
+				"internaltutorial"
+				{
+					"gid"		"CF10C10D53D4590533B45FC91F51C0B8"
+					"size"		"AF611EFA8F2B442CA5FA34A2C3E623AD"
+					"download"		"71B68B73FDE012836DF8993DF165A2E7"
+				}
+				"lionbridge"
+				{
+					"gid"		"909C093DEABDFBB4A92EDFB1BBB01167"
+					"size"		"55B0AC5E5D687E1B2BF3845391C515F2"
+					"download"		"F7D05328646554A28137146D9CE18C9E"
+				}
+				"sounds"
+				{
+					"gid"		"F7156F885AAEDEA5F0EA42CC0E1F53C2"
+					"size"		"583C9F62B21CB50A20DDDE73A2F50550"
+					"download"		"E1190782A3186B1A905790EB74E491BA"
+				}
+				"steam_china_only"
+				{
+					"gid"		"77851580995287EA297F4D9B5957E1E0"
+					"size"		"C25006045AA96B461280E9940BF964DE"
+					"download"		"95686E6EEE6B5F4EDFA5D4707FE03CA7"
+				}
+				"testingbranch"
+				{
+					"gid"		"DB43FFBB2D70CD7FE620BA58E4625243"
+					"size"		"AABE7012D1919FCECC3AC3EC042AE751"
+					"download"		"C0A4CF8ECB2794AB4116FA883985C6F7"
+				}
+				"testingbranch2"
+				{
+					"gid"		"35EE30E46A35850F4398ACF40B34E899"
+					"size"		"71ED80C275D57AFDDEC55386A6380F98"
+					"download"		"7B4D014B3165A87DA8AB2EFB819B89B4"
+				}
+				"bbqtesting"
+				{
+					"gid"		"268E64EFB62D276E2F9986A05014120E"
+					"size"		"2906B85786A927BC07116CD47EB7F0B8"
+					"download"		"8A9E117F70867222F7FDD23D2BEB007E"
+				}
+				"internal"
+				{
+					"gid"		"D9020EDC17F8670B02C39EB322D361C5"
+					"size"		"70C9AD52655953E1CF288D214B58860B"
+					"download"		"E54D31E15E65C8D5A8D172738050AFF9"
+				}
+				"internal2"
+				{
+					"gid"		"2C875740DA7F8C09119A0BE5F9F21D9B"
+					"size"		"8B7A6251943EB097B4DF950D37B7386C"
+					"download"		"3A3453F59721F3750C1105C1B62455B6"
+				}
+				"internal3"
+				{
+					"gid"		"48BE1E2FE79BD1BEB6B82DB08BDB91D1"
+					"size"		"675F05AD4D2F257C1E26D68119E04672"
+					"download"		"4FE392FC87934CDCEADBC65CB0520444"
+				}
+				"internal4"
+				{
+					"gid"		"F8FF52D56F5ADFEBF6189835281E89A7"
+					"size"		"EAE4FAF85290A66B0C27CEC95530AC47"
+					"download"		"CEEC1C104C965803FE19AE5B1FF0A41A"
+				}
+				"internal5"
+				{
+					"gid"		"ABABA23740BF113F42C7FDC046958AB6"
+					"size"		"9586AEB35778BF1A54F7950E578B7735"
+					"download"		"CC649428A84980A42118CA62EE0FE1B4"
+				}
+				"testingbranch3"
+				{
+					"gid"		"99EC593BEE71A75572E003CE44A9A6DF"
+					"size"		"0E629477F05BFD14C80B790E87276F65"
+					"download"		"A3BD21F64293C70ACCEA6481F5153ECC"
+				}
+			}
+		}
+		"1168680"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"realm"		"steamglobal"
+			}
+			"dlcappid"		"1168680"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4100398676306529269"
+					"size"		"236978899"
+					"download"		"200996256"
+				}
+				"poltergeist"
+				{
+					"gid"		"3863902362290471050"
+					"size"		"232899055"
+					"download"		"197592048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop_backup"
+				{
+					"gid"		"4084A7B0B0B5A3EB811DB2F68B5B2697"
+					"size"		"89DBA31D996260FE4949F5E26B0AB70C"
+					"download"		"8CB033A6879910C2B1E621CCFB2592C9"
+				}
+				"internal6"
+				{
+					"gid"		"9BDB20404F548DC7AC5AC734934329B9"
+					"size"		"CD85CA12BCBD8968B8FE077324152D80"
+					"download"		"AFBB9A069C6EEDCA5411936035F3E9F7"
+				}
+				"internaldev"
+				{
+					"gid"		"03683A1AFFAC5E2111985746694AE81F"
+					"size"		"B66044D8007E31688BFB32040C977AF8"
+					"download"		"5F040822C9236BBCAAB0BC646625CBB4"
+				}
+				"internalold"
+				{
+					"gid"		"087792A5B79D569433316720D1B618B6"
+					"size"		"EAED10AF48888D2EB2DCFED221E00AA5"
+					"download"		"C6F9819C10285B872C7F535BB77D0D12"
+				}
+				"internalrc"
+				{
+					"gid"		"522C9DAB1E7CA157D028BCE6D4CBE8D1"
+					"size"		"CFB4A9772DECFFAC7C5614E2749BA9C5"
+					"download"		"836A4514F6123F9F71411880C71894AB"
+				}
+				"internalshelter"
+				{
+					"gid"		"C7572DFC53B57C5C30453CABDDDE51C7"
+					"size"		"DFC059C90AEDB0856D2ED74C9BE118A2"
+					"download"		"55F750BC357439CB46E93196C88977D5"
+				}
+				"internaltutorial"
+				{
+					"gid"		"2C43160FFEF346D55FA2068067D05A99"
+					"size"		"68625D11B7233B50225BD380F9FCE25C"
+					"download"		"3F4CCBA10E373D20355A3C41AD5F7A5A"
+				}
+				"lionbridge"
+				{
+					"gid"		"A393E90D0DD24477797BAF26FC384BFD"
+					"size"		"3C825FC1B419E70FD09AD072B74A1838"
+					"download"		"8D1C6CE5394FAA89DEF6189D94EF6CBA"
+				}
+				"sounds"
+				{
+					"gid"		"CE1E8C41E9FE457EBFADB25BF01A775A"
+					"size"		"EC9F9ED61F7E4270CE9EED0ED8B6CC22"
+					"download"		"97A766AB29344E78E17F279D875C0AFC"
+				}
+				"steam_china_only"
+				{
+					"gid"		"874EF705D9DECB2116CDAB755EAE8831"
+					"size"		"84E49385FCB044D08803304A3869FBE3"
+					"download"		"B9DDF543AB63DBD73509432F8481D7E5"
+				}
+				"testingbranch"
+				{
+					"gid"		"AE4C7F1CBCFEC52E6324261B8D958148"
+					"size"		"FF3585883C6B2098A200E4B36FFB0018"
+					"download"		"87A666147BC76A55FCEED7A068F80B19"
+				}
+				"testingbranch2"
+				{
+					"gid"		"C382155C8AE71C04829C36E905534D97"
+					"size"		"1C688718BD28745D49B1DB2ED0F2762A"
+					"download"		"268F6BCB79DD613BE5EBFA771445A342"
+				}
+				"bbqtesting"
+				{
+					"gid"		"0D7A15391E27053A0BF7BA32A417EA7D"
+					"size"		"72CDEBE634C2EF6266BF282F21665688"
+					"download"		"A31E5E76DB2FF67C32D36C419AF778F9"
+				}
+				"internal"
+				{
+					"gid"		"678E702127D7B84033E126EA4DFEC44E"
+					"size"		"CBAC17FC8CFF73CF432B5459700EB99C"
+					"download"		"B163801F7726E9BE12A70DDDDB08CA46"
+				}
+				"internal2"
+				{
+					"gid"		"901F2E5AC530F055E5E9CE6EFF7E7B28"
+					"size"		"491ED9E4EC55B02170F2D11F9BA159A4"
+					"download"		"C8DCE0F95480FC49157E57446A6E5582"
+				}
+				"internal3"
+				{
+					"gid"		"5225DA8A089A9D94E073C544D4BE0410"
+					"size"		"269CC6F3292F37C7FCD8D5A03E3018EB"
+					"download"		"A4BA7514BFE614A93DE5D47A8E6D2F12"
+				}
+				"internal4"
+				{
+					"gid"		"BB006060AAF87AA0EA8CCD96EC1F70F6"
+					"size"		"7A15EEC9657623E1B344DF4035ADA8CC"
+					"download"		"71FFB4C917CF75AF7D7CF7C1C8F2B773"
+				}
+				"internal5"
+				{
+					"gid"		"5EACF9AAE848B67DBF155D03D9A413D1"
+					"size"		"CED027FA3707665507757E6DE424214F"
+					"download"		"13B132FEA884313C6FEFA17637FE3C1E"
+				}
+				"testingbranch3"
+				{
+					"gid"		"B50C39C05DEF1E9CE6C4A1F054B6C996"
+					"size"		"7D4770AE6F3D35742FFA574F1EEF14F9"
+					"download"		"A69E16C03B03C8A231FB8F0EFBC820EA"
+				}
+			}
+		}
+		"1227350"
+		{
+			"dlcappid"		"1227350"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4891977348368083467"
+					"size"		"1969423635"
+					"download"		"1784760848"
+				}
+				"poltergeist"
+				{
+					"gid"		"8407915883947809875"
+					"size"		"1960299494"
+					"download"		"1776045552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop_backup"
+				{
+					"gid"		"AE4345A1B09E6D810C7C62291CE9D1DB"
+					"size"		"61FB1F280B15A265C05CBCB9A05759BF"
+					"download"		"D06F87A8437BBF837389140D66CB72D8"
+				}
+				"internal6"
+				{
+					"gid"		"5269351B83B3BD5EA80F05EDC4883E35"
+					"size"		"A06C889194E19BBCBB9488ED050DC18A"
+					"download"		"B3BE477B7F6C35171986DE6DD09E604E"
+				}
+				"internaldev"
+				{
+					"gid"		"6FC2CF172B89DF1E1CF10B204B9977A8"
+					"size"		"548E94A29378D634ECE3D31C4F93D4DE"
+					"download"		"FD909C40F270A91B1843AF53E4AA193A"
+				}
+				"internalold"
+				{
+					"gid"		"EDF342B1F08F5D6AD4F2F16DE936A846"
+					"size"		"59C796C87EBFBD067BD5F5211BE8ECFE"
+					"download"		"0F1BAEE14500B35C853F90E9054DE89B"
+				}
+				"internalrc"
+				{
+					"gid"		"2FFEBB5D52B851121C7BD17AB55D8328"
+					"size"		"28199653DB89050648823E4D61D4554B"
+					"download"		"81BFBB192488B1DB140669CA73C82931"
+				}
+				"internalshelter"
+				{
+					"gid"		"FA9C5B02747B98B6622C1552BD3E30D9"
+					"size"		"F0FB4102581627010E9D46B8F39AF97A"
+					"download"		"DDBE1E2249B42E53A957832AD759FDD9"
+				}
+				"internaltutorial"
+				{
+					"gid"		"B1B210FC09B56CD9EAFC295E7C1A2C89"
+					"size"		"5D311725D8E0C8178765F657CB10F5F2"
+					"download"		"7803699EE0324079B4670AD0422B9595"
+				}
+				"lionbridge"
+				{
+					"gid"		"903AF2E16E33C6C8654D003FFE396C15"
+					"size"		"E6885F22648392AD428103319246603E"
+					"download"		"269B68856D7F682D7A6A84C39D253ED9"
+				}
+				"sounds"
+				{
+					"gid"		"14D17AED06371899ED2A51D958BADF9B"
+					"size"		"7D08AE4CCF626655053BA85336AE7B1B"
+					"download"		"93EA0C79599C4488887D7E215849AC21"
+				}
+				"steam_china_only"
+				{
+					"gid"		"EBDC2525CC62ABDED7235BA425CA561A"
+					"size"		"5A5B6D3229703DABCC85EA684A206F86"
+					"download"		"8FEC40B49C17074FF94455C0E3BA58D3"
+				}
+				"testingbranch"
+				{
+					"gid"		"E0A97561BC7B00D3551AF6E49F6FE4F3"
+					"size"		"83133C67CA19D968A2EEA95BA4F16EFD"
+					"download"		"DB6C6951E4E6DAC239DEE8E340F37EFF"
+				}
+				"testingbranch2"
+				{
+					"gid"		"4EBC6C6F543201150D6EAF9EE2E3BEE2"
+					"size"		"CFE79C6FC8423866DD3ECC4073CD1ECB"
+					"download"		"02565E19DBA9078E092C10B5E9C14C4D"
+				}
+				"bbqtesting"
+				{
+					"gid"		"79B8B2413DA4ECE999ED550491CDA3E0"
+					"size"		"D82096958DE4AE1CB41E31A32E91E53A"
+					"download"		"963AD01AEA5B561B9D2ECF05B19020DB"
+				}
+				"internal"
+				{
+					"gid"		"3D381A9F3ACAC294CDFA1EFFE1B54010"
+					"size"		"60A0CD21A7ADD368A025CA8DB069F741"
+					"download"		"776F63156A9A3D8CD8397F1E1908A150"
+				}
+				"internal2"
+				{
+					"gid"		"D63858BBDF5C8D4BB6CE834C5483B254"
+					"size"		"D2FDAE4D8F9F7470F18AA9FDAA299233"
+					"download"		"88D813BFC4DD5C224A0FDA0DF59FB599"
+				}
+				"internal3"
+				{
+					"gid"		"93DFDA83F9727F0F277608F57E6900DB"
+					"size"		"D3387C37592E7A6568C6162F20742161"
+					"download"		"06B9AE05EAD372BAD77FE223F946570D"
+				}
+				"internal4"
+				{
+					"gid"		"9FC131A486BD99AEA836A19FA1BF2E32"
+					"size"		"057F272BC6E2FFC4A11286E1614FF57D"
+					"download"		"F00E368BC1400C0850A15B1A7886F1C9"
+				}
+				"internal5"
+				{
+					"gid"		"9B9C3044B9C10D3C5F1594BD1850D62A"
+					"size"		"D94DB361849BEB4ECDAC79B9F84928E5"
+					"download"		"E0B9BDE2B525801682870DDDF76A24D8"
+				}
+				"testingbranch3"
+				{
+					"gid"		"9572C5500E9283C83B95667B365C2D39"
+					"size"		"2B692A5364A6D542CD12F3C602DE736D"
+					"download"		"B29D4A42952AB1D5BF3E98B1BE4647CE"
+				}
+			}
+		}
+		"1357180"
+		{
+			"dlcappid"		"1357180"
+			"config"
+			{
+				"oslist"		"windows"
+				"realm"		"steamglobal"
+			}
+		}
+		"1400460"
+		{
+			"dlcappid"		"1400460"
+			"config"
+			{
+				"oslist"		"windows"
+				"realm"		"steamglobal"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5956932355363964017"
+					"size"		"1701917603"
+					"download"		"1489614464"
+				}
+				"poltergeist"
+				{
+					"gid"		"1980294947058981427"
+					"size"		"1646155496"
+					"download"		"1439334320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop_backup"
+				{
+					"gid"		"433C374A16D36ED1C1971CCA8AEE8616"
+					"size"		"4F7385B3F8271CDCBB04808F9FC7A1FA"
+					"download"		"369017309ACC3E7CF4DCC1362B7CC23F"
+				}
+				"internal6"
+				{
+					"gid"		"AF1FF0FD309247CE33C86F020865BCB3"
+					"size"		"CD4DDCB0CD04413C58573C237E6C58B7"
+					"download"		"E98C3D69E56EC6E6DD5E70BE0890AD43"
+				}
+				"internaldev"
+				{
+					"gid"		"F5A51C2AAC3D70FD1AF8E6D96982C932"
+					"size"		"A8FC6FB00A6DE8AEE866E983BB258FD8"
+					"download"		"C24E5FEE62FFED35DEB93A4C9AABE679"
+				}
+				"internalold"
+				{
+					"gid"		"A4AACAD726C6F70AD5711FF4F8F74E81"
+					"size"		"AABDAEFC748D8796EA3C98AC2DE40D08"
+					"download"		"5331AC2ADF223EF62262BBFBCBC5FCCB"
+				}
+				"internalrc"
+				{
+					"gid"		"B782A640213740A2A23053B3C451546C"
+					"size"		"F294D3E0A46C54EE236BD13D96C3B8B3"
+					"download"		"B0A5DF4F538F7C620BC63CD67BF68CA4"
+				}
+				"internalshelter"
+				{
+					"gid"		"CF647BA0BAC3FCF598C07E010F9B31A7"
+					"size"		"228A494528E5BD76D0C8C2B7FFA60D88"
+					"download"		"52E3086ADCBB306090BEEA16091CAB11"
+				}
+				"internaltutorial"
+				{
+					"gid"		"5694B077128EF8B0D5972187DC0DF0FF"
+					"size"		"9E3C06243B74DEDC908DBEDB3572BDF9"
+					"download"		"707EA879883FEE9B6150D23BC59BFDA3"
+				}
+				"lionbridge"
+				{
+					"gid"		"2742BFD95DB19AA953CE4164786200F8"
+					"size"		"A6880B8A9B4CB648DE8F71FEF707F163"
+					"download"		"51005A0328285C049F1B945233D91393"
+				}
+				"sounds"
+				{
+					"gid"		"9204AA62CB01CC292A3B8A25BCD29158"
+					"size"		"709B58B7D33FCC6A0C7554AE61E899CA"
+					"download"		"570690164D4855F4780B0B9085AE7C11"
+				}
+				"steam_china_only"
+				{
+					"gid"		"D1D9739A56C55880D0AC37C18FF57F92"
+					"size"		"EC1F2DE115387684388D872ECBC07731"
+					"download"		"BAF34C88DFCF826F30204655A0325D28"
+				}
+				"testingbranch"
+				{
+					"gid"		"ACF5780C552AB9C6148F264500C9A5F7"
+					"size"		"2337B50E67092B6A76A0C08455568820"
+					"download"		"45AE5F64B18A82985E4820A14E98C389"
+				}
+				"bbqtesting"
+				{
+					"gid"		"27865A3C9C69F139F8037BF2E49ACEA3"
+					"size"		"835543591F7567C610EB8A6308DF7EFA"
+					"download"		"D4371E318B63F7AF9B81F500064B7E16"
+				}
+				"internal"
+				{
+					"gid"		"67032D4D13A49D745D0894E9A46F67FF"
+					"size"		"14DEF50F5115A8A3BC766794A6AEAABE"
+					"download"		"8F13F83DC87CB981A19EB12CEDCF68C1"
+				}
+				"internal2"
+				{
+					"gid"		"21DE0C41B2A3C5C7591E9FC3EB5C4607"
+					"size"		"9D0D5412CAC472497F7116AC42315FBE"
+					"download"		"6CEC1DA9543FE822938C7C7758A0C374"
+				}
+				"internal3"
+				{
+					"gid"		"191001870BF6648BC271FDF1D9948043"
+					"size"		"537CB18468DFF8C029C8557FF3B7D3F4"
+					"download"		"F54FE0F1CF31EAA6961C9C35506EE3D8"
+				}
+				"internal4"
+				{
+					"gid"		"5E06BD0C5C356C2A90AA4BC574610C7A"
+					"size"		"5A275088337ECDCB5D268486C36591B1"
+					"download"		"CF5C0A054D200D449FF6C8D7374AC268"
+				}
+				"internal5"
+				{
+					"gid"		"A8693CAAE05C9415F694D93A939F3D7A"
+					"size"		"5E982CE9CF344257086FC5EB0C2BBD11"
+					"download"		"9DEF20677473C89D814526FE00C5EE72"
+				}
+				"testingbranch3"
+				{
+					"gid"		"E336929A2E5812D63FB6235CDFF7721F"
+					"size"		"461DE0984370D3E507F86B00EEEF1340"
+					"download"		"5FC1E32D67C1EFB8E3B37FBBF3DD34B2"
+				}
+			}
+		}
+		"1575660"
+		{
+			"dlcappid"		"1575660"
+			"config"
+			{
+				"oslist"		"windows"
+				"realm"		"steamglobal"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8168958957666280755"
+					"size"		"2313560657"
+					"download"		"2095415632"
+				}
+				"poltergeist"
+				{
+					"gid"		"6715647609153354260"
+					"size"		"2587535068"
+					"download"		"2345549280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop_backup"
+				{
+					"gid"		"B985B5EB40303B5764273D9CCB4632E1"
+					"size"		"B536AB161EA242376A1708FAA61C5294"
+					"download"		"B3B7185E6D90534825EFEA9D48A75F3E"
+				}
+				"internal6"
+				{
+					"gid"		"5E8D659501C34E0E97907985370401C8"
+					"size"		"7E16B5C8292F47CAEB3CC77AAFDD6022"
+					"download"		"B9C06EC65F31D47C7C9DD77EBE408DC7"
+				}
+				"internaldev"
+				{
+					"gid"		"4DAF32A2CE166FE91A72B14D30FC05EE"
+					"size"		"36A48176A42541DD65550C6B33AB10E2"
+					"download"		"54EF42E10455340097B0C4CFB0E04AA9"
+				}
+				"internalold"
+				{
+					"gid"		"A3E7C0B706AD0DB68F53C272726FD6D2"
+					"size"		"AF63A6C46061530BCF73D59D0FCDB4AC"
+					"download"		"AF63A6C46061530BCF73D59D0FCDB4AC"
+				}
+				"internalrc"
+				{
+					"gid"		"D4A25217ED895920D7004ABBE85818AE"
+					"size"		"20F1A73534814AF6B4B1D23FF1C47A57"
+					"download"		"0E2C3CF527A6F7FCED935865A0DAFB8D"
+				}
+				"internalshelter"
+				{
+					"gid"		"E0CF7720AD4631548E3691DD2A8168B7"
+					"size"		"FDB328D9B88CA9960246C1358C54D3FD"
+					"download"		"6B216E364CCD2A1FDA3FB93D98BF2478"
+				}
+				"internaltutorial"
+				{
+					"gid"		"C6BBDC36EFACF672CA4518BDF2D27D05"
+					"size"		"37E3A51D387BFCC2C00DF4346DE85769"
+					"download"		"A9D2CAFE3BDEA30DD397A26DBF9D1E81"
+				}
+				"lionbridge"
+				{
+					"gid"		"822AD00D5B539E9974D1AEE66F622D5A"
+					"size"		"F3F630F97AC2AA8E618DF0CC6FBB814F"
+					"download"		"C7B1517994438ED3F14DD468D782E68C"
+				}
+				"sounds"
+				{
+					"gid"		"B1B22D6CF9250EA2A0244784D338C0B5"
+					"size"		"FCB5A087C4BE6BBFE99024435BC9713F"
+					"download"		"1BCD9AE9F531375BEDC23EEDB956865A"
+				}
+				"steam_china_only"
+				{
+					"gid"		"FB0F7BF4D884D95E84C717444E561750"
+					"size"		"F332D6F30313E12D312D94D30267ABE3"
+					"download"		"7A9F5C15C418C66F95AB0F5E89C144C3"
+				}
+				"testingbranch"
+				{
+					"gid"		"60AE57AD0352AEEC7575C45A34FEA8CE"
+					"size"		"D41EC6F144611DDBD62B4CDCB2A9500B"
+					"download"		"254C1CE929E494F568FCC7170FD77BDC"
+				}
+				"bbqtesting"
+				{
+					"gid"		"800EF433D4DAF647B416DA18DD8CADD8"
+					"size"		"535A966C4F6B156BEB1B30F059376C9B"
+					"download"		"8D4E7FBC7CA3B512BC26A2875A85C84C"
+				}
+				"internal"
+				{
+					"gid"		"C047C4385501041B44CEE3BCD5E88323"
+					"size"		"867E3AFBF6AA05A28AC9A9FA6AC836CE"
+					"download"		"2F5E814F7947A9AFE897FB73E19346CD"
+				}
+				"internal2"
+				{
+					"gid"		"717617BE79F807F9452935F12EE09074"
+					"size"		"E89DBF2D50E6726D350D8D89111C9B43"
+					"download"		"047510E77E2A0353AF2C72A54FD276CD"
+				}
+				"internal3"
+				{
+					"gid"		"9B3735E35D58342CA865BB9D870998AB"
+					"size"		"DAD626F8FFF7AB1546D5C958E1FF0D14"
+					"download"		"4382D415173B64D27A181F073A8DD6D8"
+				}
+				"internal4"
+				{
+					"gid"		"007D421E9FFDF9543EABCDDF48735EF3"
+					"size"		"A58E4AC57D67B644E46669619E02CA86"
+					"download"		"5CE2CAD257B3FA2A23004A1AD8BB649D"
+				}
+				"internal5"
+				{
+					"gid"		"82A27F3312B6D5073E22DCD620632F43"
+					"size"		"F7A6C157A5C32D61144F6C192BD21E8E"
+					"download"		"3747E19DC0E7D77E2E1C8769DDB8C1DC"
+				}
+				"testingbranch3"
+				{
+					"gid"		"02FB0599F3F9C9933ED5FB606F30DE3E"
+					"size"		"61C2271B90DFD446D47B33EEE2281937"
+					"download"		"463F542E439D0C662F9A19CF392B1687"
+				}
+			}
+		}
+		"641322"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+				"realm"		"steamchina"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1461777323593563761"
+					"size"		"4408337740"
+					"download"		"3214918352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"EBBEFC4AC8A507A38435A358CA5ABD12"
+					"size"		"CB0C2DAFF83CF17AC2623A0A31308D12"
+					"download"		"140206DF5C03F47E2F1FF23BCF58771A"
+				}
+				"bbqtesting"
+				{
+					"gid"		"ED79F8E3BAE534FE3A06090394F18E84"
+					"size"		"71FA8BCFD1E270ECF40557AEEC766D6D"
+					"download"		"471C1A7762ADD28300707335730DC870"
+				}
+				"testingbranch3"
+				{
+					"gid"		"EAADBACB4828B5C126761A6CF27D9C1F"
+					"size"		"48AC49BFCC2CDACCBC46E389617188E6"
+					"download"		"397B420D43494641D051D18CB08F1BF9"
+				}
+			}
+		}
+		"2655000"
+		{
+			"dlcappid"		"2655000"
+			"config"
+			{
+				"oslist"		"windows"
+				"realm"		"steamglobal"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4627632775864866596"
+					"size"		"2829263604"
+					"download"		"2356924000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bbqtesting"
+				{
+					"gid"		"CCC3DA894B8516288A2E3476486EDEAE"
+					"size"		"0B97B0BA1F8204F5F3BAFD804CD9868F"
+					"download"		"446FA988144279A09BEA14D237411180"
+				}
+				"internal"
+				{
+					"gid"		"7CEC7FA8849A982B9E47DC581B9E2CEB"
+					"size"		"30C5BFBB1D8965A8958D04B124A9554D"
+					"download"		"03ED0E6656C54949C6F374EF308F51ED"
+				}
+				"internal2"
+				{
+					"gid"		"D752C5CD5AED251724EC468C8314C9E6"
+					"size"		"06D16FB0323E0441747C26F9F1C7D48E"
+					"download"		"06801DDC01A7B47EC24AA90A03B1EC56"
+				}
+				"internal3"
+				{
+					"gid"		"75B568A742587EF6A0229BBD658A61CA"
+					"size"		"2D333C802C13F2336952C76DCBC0A259"
+					"download"		"87435BD8E2F62641FD75E3201119EFC6"
+				}
+				"internal4"
+				{
+					"gid"		"81695D493B3FE677F41B305724E8721A"
+					"size"		"1F004C11B7E043C96C35A11FD223E7E3"
+					"download"		"BBF1393BF2F2B066DDD540EE0751EA8F"
+				}
+				"internal5"
+				{
+					"gid"		"2643B0C408D479CF765CB938B4A7BF9E"
+					"size"		"F69D705D8D0E51897C46EE8EF8DA8E31"
+					"download"		"0BC3B9B9652EC4DA3238BDA208327FC8"
+				}
+				"testingbranch3"
+				{
+					"gid"		"1A9AA6C54F30F4EE63CDCF623BF13926"
+					"size"		"7315F69909D643E144A09432CD230D00"
+					"download"		"E5374740F5FEA6F04015BFAE8D281E6E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"15650042"
+				"timeupdated"		"1725965172"
+			}
+			"develop_backup"
+			{
+				"buildid"		"10767671"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686846292"
+			}
+			"internal6"
+			{
+				"buildid"		"7721277"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637062212"
+			}
+			"internaldev"
+			{
+				"buildid"		"7553279"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634564219"
+			}
+			"internalold"
+			{
+				"buildid"		"7553297"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634564421"
+			}
+			"internalrc"
+			{
+				"buildid"		"7729055"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637157150"
+			}
+			"internalshelter"
+			{
+				"buildid"		"7724267"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637096266"
+			}
+			"internaltutorial"
+			{
+				"buildid"		"7311625"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630934348"
+			}
+			"lionbridge"
+			{
+				"buildid"		"8626333"
+				"pwdrequired"		"1"
+				"timeupdated"		"1650987052"
+			}
+			"poltergeist"
+			{
+				"buildid"		"7921875"
+				"description"		"Poltergeist"
+				"timeupdated"		"1640105257"
+			}
+			"sounds"
+			{
+				"buildid"		"7665172"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636453279"
+			}
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"11648996"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689818940"
+			}
+			"testingbranch"
+			{
+				"buildid"		"7576781"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635238555"
+			}
+			"testingbranch2"
+			{
+				"buildid"		"5762541"
+				"pwdrequired"		"1"
+				"timeupdated"		"1604076989"
+			}
+			"bbqtesting"
+			{
+				"buildid"		"16179743"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729855920"
+			}
+			"internal"
+			{
+				"buildid"		"16720014"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734000834"
+			}
+			"internal2"
+			{
+				"buildid"		"16721538"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734008613"
+			}
+			"internal3"
+			{
+				"buildid"		"15290993"
+				"pwdrequired"		"1"
+				"timeupdated"		"1723037830"
+			}
+			"internal4"
+			{
+				"buildid"		"15208747"
+				"pwdrequired"		"1"
+				"timeupdated"		"1722407205"
+			}
+			"internal5"
+			{
+				"buildid"		"16654603"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733478835"
+			}
+			"testingbranch3"
+			{
+				"buildid"		"14968704"
+				"pwdrequired"		"1"
+				"timeupdated"		"1720469413"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"Wastelands-Interactive/CookingSim/Saves"
+				"pattern"		"*.cssave"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}

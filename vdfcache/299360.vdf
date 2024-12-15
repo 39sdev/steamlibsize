@@ -1,0 +1,675 @@
+"299360"
+{
+	"common"
+	{
+		"name"		"Block N Load"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"logo"		"2ee188861393cd114390d623deada1d957227c54"
+		"logo_small"		"2ee188861393cd114390d623deada1d957227c54_thumb"
+		"icon"		"7b36dde1b5631c436a1914c9b2a55672e4e1fb51"
+		"clienttga"		"12c0cd1f680d3a6a66cc255770c9ac888f74b0a2"
+		"clienticon"		"59180472ea260000e1d541b03da4a355b91a3807"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"brazilian"		"1"
+		}
+		"eulas"
+		{
+			"1"
+			{
+				"id"		"299360_eula_1"
+				"name"		"Block N Load EULA 1"
+				"url"		"http://store.steampowered.com//eula/299360_eula_1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1665187200"
+			"tested_build_id"		"7756236"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Block N Load"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_354bb6edbde8f04d22b78d13ed4641760bf9009b.jpg"
+		"store_asset_mtime"		"1478024805"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Toadman Interactive"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Artplant"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Toadman Interactive"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"29"
+			"2"		"2"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_8"		"1"
+			"category_29"		"1"
+			"category_15"		"1"
+			"category_30"		"1"
+			"category_2"		"1"
+			"category_17"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1430427600"
+		"metacritic_score"		"72"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/block-n-load?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"299360"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"3859"
+			"3"		"1663"
+			"4"		"1774"
+			"5"		"1643"
+			"6"		"3839"
+			"7"		"9"
+			"8"		"7332"
+			"9"		"5711"
+			"10"		"4155"
+			"11"		"1775"
+			"12"		"5363"
+			"13"		"3810"
+			"14"		"128"
+			"15"		"4136"
+			"16"		"1718"
+			"17"		"1732"
+			"18"		"1719"
+			"19"		"4345"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"showcdkeyonlaunch"		"1"
+		"gamedir"		""
+		"developer"		"Toadman Interactive"
+		"publisher"		"Toadman Interactive"
+		"homepage"		"https://www.blocknload.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"335250,367890,400840,400841,400842,401610"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"BlockNLoad"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BlockNLoadLauncher.exe"
+				"description"		"Launch Block N Load"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"OSX64/BlockNLoad.app"
+				"arguments"		"+no_sound"
+				"description"		"Launch Block N Load"
+				"config"
+				{
+					"oslist"		"macos"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"BlockNLoadLauncher.exe"
+				"description"		"Launch Block N Load"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"5"
+			{
+				"executable"		"Linux64/BlockNLoad.x86-64"
+				"description"		"Launch Block N Load"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"7"
+			{
+				"executable"		"BlockNLoadLauncher.exe"
+				"arguments"		"-force-d3d9"
+				"description"		"[DEV] DirectX 9"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"344020"
+				}
+			}
+			"8"
+			{
+				"executable"		"BlockNLoadLauncher.exe"
+				"arguments"		"-force-opengl"
+				"description"		"[DEV] OpenGL"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"344020"
+				}
+			}
+			"9"
+			{
+				"executable"		"BlockNLoadLauncher.exe"
+				"arguments"		"-force-d3d9"
+				"description"		"[DEV] DirectX 9"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+					"ownsdlc"		"344020"
+				}
+			}
+			"10"
+			{
+				"executable"		"BlockNLoadLauncher.exe"
+				"arguments"		"-force-opengl"
+				"description"		"[DEV] OpenGL"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+					"ownsdlc"		"344020"
+				}
+			}
+		}
+		"signedfiles"
+		{
+			"win64\\blocknload_data\\plugins\\aksoundengine.dll"		"30819D300D06092A864886F70D010101050003818B0030818702818100B6279C179620648F453FE8B43B81D5F3F35C543A31F04E20F9CDB5646A116B07F6B4937D86525547A3195F69A72057521C06A252BB19514E775EF487E46C833A33379B3EEBC5D8206E2E6DCA3123D6149ACAFCF0D7B0B6A8C251E866A54B4BA2245E09163F39DF4E4D77D607025D6FA9C4D59C0880C524244BDE828BBC53DFC5020111"
+			"win64\\blocknload_data\\plugins\\csteamworks.dll"		"30819D300D06092A864886F70D010101050003818B0030818702818100B6279C179620648F453FE8B43B81D5F3F35C543A31F04E20F9CDB5646A116B07F6B4937D86525547A3195F69A72057521C06A252BB19514E775EF487E46C833A33379B3EEBC5D8206E2E6DCA3123D6149ACAFCF0D7B0B6A8C251E866A54B4BA2245E09163F39DF4E4D77D607025D6FA9C4D59C0880C524244BDE828BBC53DFC5020111"
+			"win32\\blocknload_data\\plugins\\aksoundengine.dll"		"30819D300D06092A864886F70D010101050003818B0030818702818100B6279C179620648F453FE8B43B81D5F3F35C543A31F04E20F9CDB5646A116B07F6B4937D86525547A3195F69A72057521C06A252BB19514E775EF487E46C833A33379B3EEBC5D8206E2E6DCA3123D6149ACAFCF0D7B0B6A8C251E866A54B4BA2245E09163F39DF4E4D77D607025D6FA9C4D59C0880C524244BDE828BBC53DFC5020111"
+			"win32\\blocknload_data\\plugins\\csteamworks.dll"		"30819D300D06092A864886F70D010101050003818B0030818702818100B6279C179620648F453FE8B43B81D5F3F35C543A31F04E20F9CDB5646A116B07F6B4937D86525547A3195F69A72057521C06A252BB19514E775EF487E46C833A33379B3EEBC5D8206E2E6DCA3123D6149ACAFCF0D7B0B6A8C251E866A54B4BA2245E09163F39DF4E4D77D607025D6FA9C4D59C0880C524244BDE828BBC53DFC5020111"
+		}
+		"signaturescheckedonlaunch"
+		{
+			"windows"
+			{
+				"0"		"Win64\\BlockNLoad_Data\\Plugins\\AkSoundEngine.dll"
+				"1"		"Win64\\BlockNLoad_Data\\Plugins\\CSteamworks.dll"
+				"2"		"Win32\\BlockNLoad_Data\\Plugins\\AkSoundEngine.dll"
+				"3"		"Win32\\BlockNLoad_Data\\Plugins\\CSteamworks.dll"
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,spanish,russian,portuguese"
+		"299361"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"397304992264619209"
+					"size"		"5671259431"
+					"download"		"1317848320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"BB266EA570097A459D84937E565DDFED"
+					"size"		"EE716C7C6020BE036C1E8A384984AE17"
+					"download"		"F6AB570F24D344227EE11FC2F3C111A8"
+				}
+				"latest"
+				{
+					"gid"		"AFCC93ED1BDDB4C5FB81D531836C26BF"
+					"size"		"AAA936B9B608365176812B14B9D0254D"
+					"download"		"BAEA54FEF05564CBF5F1E15A492D7216"
+				}
+				"live"
+				{
+					"gid"		"42FEB53635A0E41D0C4C9097C822246F"
+					"size"		"BA7D607004285BEF9C4C415EA5A9988C"
+					"download"		"FE3F46A5AA04DE0B0CD6BB2C902B90D7"
+				}
+				"play_test"
+				{
+					"gid"		"B360570B14AB700D33E554B63F11FC04"
+					"size"		"93F733BC6BCBAB4672E0CC93C39600F7"
+					"download"		"E062490726CD6DCF903E81D8067F9617"
+				}
+			}
+		}
+		"299362"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"455633636173316217"
+					"size"		"682843402"
+					"download"		"160811936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"47033C76F0AE7D6A3CB8172A85B36A72"
+					"size"		"3D6480BC21324820D9F02CC5062DF460"
+					"download"		"B7188A7FAC59AC2FD2C5E660BDDB2B88"
+				}
+				"latest"
+				{
+					"gid"		"0318BC5E5ECADEEC93CB8C1B9DE4F1BB"
+					"size"		"A6EBDAEE7ACE66B39ADB4CA3CC339350"
+					"download"		"B5945E110F0CC6C1F90FC7CAF1EABDA8"
+				}
+				"live"
+				{
+					"gid"		"99FF6DBFAA7D64916B91F2CF77A4219F"
+					"size"		"E96EF6C1D85111DFADAB4400D0D88BF9"
+					"download"		"61EBA42DE94A9230068D271687FFA286"
+				}
+				"play_test"
+				{
+					"gid"		"39DEAB29AC8A3F38982B69642AA497DD"
+					"size"		"D5C0CC030900EB5051544E21A75C3B29"
+					"download"		"B66A4B69292B879DF3CAC7B59EA97585"
+				}
+			}
+		}
+		"299363"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5924792689168885970"
+					"size"		"683362371"
+					"download"		"160963968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"8EDDBCFF4BB5C730EB59C3424F406E50"
+					"size"		"5B50E336F1570572006E88A7422CCF04"
+					"download"		"88E502BE0C351975535BBE9F95BCB46E"
+				}
+				"latest"
+				{
+					"gid"		"3F354FD191B9CC8FA80BEDED86C0648B"
+					"size"		"679E0EF9353E7B71B748462C77942AE6"
+					"download"		"51353FA48FFD3FDF2C16A5B4D5079DB1"
+				}
+				"live"
+				{
+					"gid"		"D1F1A3562D40F9A3D316F4CE6D42DE64"
+					"size"		"0A85C35D65D5D6FB079A462EEA9FC4BB"
+					"download"		"7C9F8D8B80902B8CD239992156504A72"
+				}
+				"play_test"
+				{
+					"gid"		"3CD72BE27874DA9C737E4CA2583EFDB4"
+					"size"		"41B32851960470338439E821A02AFFD4"
+					"download"		"7EC9010D0B1BACFE62D0872AE783CF20"
+				}
+			}
+		}
+		"299364"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3711023262075185387"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"D4DEBEED6784A95721BAAE1632C4A408"
+					"size"		"542A2B183F3980CFCB1F9E82C0CF7A93"
+					"download"		"542A2B183F3980CFCB1F9E82C0CF7A93"
+				}
+				"latest"
+				{
+					"gid"		"7A8D84E484C6F550AC080D31F1B91EE9"
+					"size"		"537A6F480DFBD0417FA609D1BF1BDA0F"
+					"download"		"537A6F480DFBD0417FA609D1BF1BDA0F"
+				}
+				"live"
+				{
+					"gid"		"37CA020BFF9FB4F8CB89B5E03FC4DD34"
+					"size"		"C08B1C5929D17B026C38A864E98E001E"
+					"download"		"C08B1C5929D17B026C38A864E98E001E"
+				}
+				"play_test"
+				{
+					"gid"		"62A313B47DCD3150AAD108B831C188EB"
+					"size"		"33D01791B3CA4D2B250A4FA84787C3F3"
+					"download"		"33D01791B3CA4D2B250A4FA84787C3F3"
+				}
+			}
+		}
+		"299365"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4497143008716421031"
+					"size"		"193049"
+					"download"		"40304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"7886E525176C1227C4E786F8D17AC893"
+					"size"		"9833ED5237C2E7BB2A1167FC974042FF"
+					"download"		"504AD78FBADF1F04FA2C7C708D401CC7"
+				}
+				"latest"
+				{
+					"gid"		"6783A09621EEB02B2CA6AE4D4011C190"
+					"size"		"000227A5CD1B3EA40C91A7440DD7E490"
+					"download"		"03B233699E74499B48E4704D818FA11B"
+				}
+				"live"
+				{
+					"gid"		"E7D55AF91E7DAD964B3E63F0DF5DD984"
+					"size"		"7024A26A3C3A5408EC5317A203BAE0AF"
+					"download"		"1540CFFA3407B92D6B2FF21D4C36548D"
+				}
+				"play_test"
+				{
+					"gid"		"4C58200C8F4B964E9EE3432856AFED14"
+					"size"		"19C2049AD4B7CA54C3885BBE8CF24BD7"
+					"download"		"B99027CABDD6CBA220960E30F0DF7C20"
+				}
+			}
+		}
+		"299366"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3931287419649413005"
+					"size"		"2538455036"
+					"download"		"812373696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"E9638025627FD7249E88D08E0575FE7F"
+					"size"		"73E0618EC7149D7668051859F8C5259C"
+					"download"		"20918653F36B64D37E02A64A374AC681"
+				}
+				"latest"
+				{
+					"gid"		"FE4DE66FA49C62BF406421703B908E20"
+					"size"		"FC206F0F81FC37EB7FC3AEED69984C51"
+					"download"		"0340E27348A5AC4B7ECA193D2D76FA1A"
+				}
+				"live"
+				{
+					"gid"		"4F1AC4DA9952AE639B2A650CA046AF96"
+					"size"		"2DC62E7E82A855E5C27FBC8D89618B95"
+					"download"		"39B8C910ACA90BEC15731B9DEFFAE7BA"
+				}
+				"play_test"
+				{
+					"gid"		"DDD55BBEA93028EFD0CC45F69979D580"
+					"size"		"65B115BEA7BE80EBE0AEDC711E80A768"
+					"download"		"E59120480C1F32E33BF1B4A77D1495C7"
+				}
+			}
+		}
+		"299367"
+		{
+			"dlcappid"		"367890"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1206286914390208194"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"793CAE9FCAE35D2EE9AAB6889DC3E039"
+					"size"		"542A2B183F3980CFCB1F9E82C0CF7A93"
+					"download"		"542A2B183F3980CFCB1F9E82C0CF7A93"
+				}
+				"latest"
+				{
+					"gid"		"5D90A6BC629EA69D2023FF8F581FB5AF"
+					"size"		"537A6F480DFBD0417FA609D1BF1BDA0F"
+					"download"		"537A6F480DFBD0417FA609D1BF1BDA0F"
+				}
+				"live"
+				{
+					"gid"		"7AAEF0DCD5DB70749F5C83F7814CFA0D"
+					"size"		"40AC2EBDCAC4EB5B9E1FDF9F59F0D19B"
+					"download"		"04AD54530DAA8509B8DB7E636C7CB224"
+				}
+				"play_test"
+				{
+					"gid"		"3B3FA8D2B08F4788AD6E026792F66C60"
+					"size"		"33D01791B3CA4D2B250A4FA84787C3F3"
+					"download"		"33D01791B3CA4D2B250A4FA84787C3F3"
+				}
+			}
+		}
+		"workshopdepot"		"299360"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7756236"
+				"timeupdated"		"1637597396"
+			}
+			"dev"
+			{
+				"buildid"		"10830596"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679501888"
+			}
+			"latest"
+			{
+				"buildid"		"3746130"
+				"pwdrequired"		"1"
+				"timeupdated"		"1555578651"
+			}
+			"live"
+			{
+				"buildid"		"985095"
+				"pwdrequired"		"1"
+			}
+			"play_test"
+			{
+				"buildid"		"3898100"
+				"pwdrequired"		"1"
+				"timeupdated"		"1559936777"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}

@@ -1,0 +1,145 @@
+"1777420"
+{
+	"common"
+	{
+		"name"		"Sakura Hime - 18+ Adult Only Content"
+		"type"		"DLC"
+		"parent"		"1732740"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"7e9c0f0260c383e1eb0cc2eb375c46669e7b0f0c"
+		"clienticon"		"86d553596ab71e755043585a2af443af4ea7e91f"
+		"icon"		"f0df42a9df585e3eced62727f700f95a548508db"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"4"
+			"3"		"5"
+		}
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_e2825233a033da4e3e8a795a700c24410664fe5e.jpg"
+		"store_asset_mtime"		"1705666390"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GirlGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GirlGames"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"GirlGames"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1633659921"
+		"gameid"		"1777420"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"122"
+			"2"		"597"
+			"3"		"599"
+			"4"		"12095"
+			"5"		"6650"
+			"6"		"9130"
+			"7"		"24904"
+			"8"		"5611"
+			"9"		"4726"
+			"10"		"17894"
+			"11"		"4434"
+			"12"		"1664"
+			"13"		"615955"
+			"14"		"1663"
+			"15"		"4085"
+			"16"		"4182"
+			"17"		"7208"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"dlcforappid"		"1732740"
+		"mustownapptopurchase"		"1732740"
+		"developer"		"GirlGames"
+		"publisher"		"GirlGames"
+		"isfreeapp"		"1"
+		"DLCAvailableOnStore"		"1"
+	}
+}

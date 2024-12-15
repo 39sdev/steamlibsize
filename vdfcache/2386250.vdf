@@ -1,0 +1,303 @@
+"2386250"
+{
+	"common"
+	{
+		"name"		"It gets so lonely here"
+		"type"		"Game"
+		"clienttga"		"08f7afac2f4cb434bf05df08cd0505aae7842b06"
+		"clienticon"		"dade1dd15673fed9f32cc1b1924c01714fe4f128"
+		"icon"		"4c7ca16b7f2ae792bae811f31af54a9bb1c28923"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"ReleaseState"		"released"
+		"name_localized"
+		{
+			"german"		"Es wird hier so einsam"
+			"latam"		"Se siente tan solitario"
+			"ukrainian"		"Стає так самотньо"
+			"schinese"		"孤寂之地"
+			"brazilian"		"Aqui é tão solitário"
+			"russian"		"Здесь становится так одиноко"
+			"french"		"On se sent si seul ici"
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+			"german"		"capsule_231x87_german.jpg"
+			"latam"		"capsule_231x87_latam.jpg"
+			"ukrainian"		"capsule_231x87_ukrainian.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"brazilian"		"capsule_231x87_brazilian.jpg"
+			"french"		"3d7a8b93423deb824aa30d51c51d7c45f4aed0ed/capsule_231x87_french.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"russian"		"header_russian.jpg"
+			"german"		"header_german.jpg"
+			"latam"		"header_latam.jpg"
+			"ukrainian"		"header_ukrainian.jpg"
+			"schinese"		"header_schinese.jpg"
+			"brazilian"		"header_brazilian.jpg"
+			"french"		"header_french.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ru,de,es-419,uk,zh-cn,pt-br,fr"
+			"library_hero"		"en"
+			"library_logo"		"en,ru,de,es-419,uk,zh-cn,pt-br,fr"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+					"russian"		"library_600x900_russian.jpg"
+					"german"		"library_600x900_german.jpg"
+					"latam"		"library_600x900_latam.jpg"
+					"ukrainian"		"library_600x900_ukrainian.jpg"
+					"schinese"		"library_600x900_schinese.jpg"
+					"brazilian"		"library_600x900_brazilian.jpg"
+					"french"		"bf63e30683577d2d1d8d7ac4cf1359c0ca834d79/library_600x900_french.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+					"russian"		"library_600x900_russian_2x.jpg"
+					"german"		"library_600x900_german_2x.jpg"
+					"latam"		"library_600x900_latam_2x.jpg"
+					"ukrainian"		"library_600x900_ukrainian_2x.jpg"
+					"schinese"		"library_600x900_schinese_2x.jpg"
+					"brazilian"		"library_600x900_brazilian_2x.jpg"
+					"french"		"bf63e30683577d2d1d8d7ac4cf1359c0ca834d79/library_600x900_french_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+					"russian"		"logo_russian.png"
+					"german"		"logo_german.png"
+					"latam"		"logo_latam.png"
+					"ukrainian"		"logo_ukrainian.png"
+					"schinese"		"logo_schinese.png"
+					"brazilian"		"logo_brazilian.png"
+					"french"		"84cf4d9b1073b732d5f6c8179bb3a3377d170a3e/logo_french.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+					"russian"		"logo_russian_2x.png"
+					"german"		"logo_german_2x.png"
+					"latam"		"logo_latam_2x.png"
+					"ukrainian"		"logo_ukrainian_2x.png"
+					"schinese"		"logo_schinese_2x.png"
+					"brazilian"		"logo_brazilian_2x.png"
+					"french"		"84cf4d9b1073b732d5f6c8179bb3a3377d170a3e/logo_french_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"UpperCenter"
+					"width_pct"		"100"
+					"height_pct"		"100"
+				}
+			}
+		}
+		"store_asset_mtime"		"1726718986"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ebi-hime"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ebi-hime"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1685024454"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2386250"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"44868"
+			"2"		"7208"
+			"3"		"597"
+			"4"		"4085"
+			"5"		"4726"
+			"6"		"1667"
+			"7"		"4342"
+			"8"		"4947"
+			"9"		"492"
+			"10"		"6426"
+			"11"		"4166"
+			"12"		"31275"
+			"13"		"4182"
+			"14"		"6971"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"ebi-hime"
+		"publisher"		"ebi-hime"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"It gets so lonely here"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Itgetssolonelyhere.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"Itgetssolonelyhere.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"2"
+			{
+				"executable"		"Itgetssolonelyhere.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"2386251"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4883497146022840185"
+					"size"		"272875736"
+					"download"		"139450992"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16015807"
+				"timeupdated"		"1728686481"
+			}
+		}
+	}
+}

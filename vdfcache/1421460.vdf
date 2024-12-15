@@ -1,0 +1,88 @@
+"1421460"
+{
+	"common"
+	{
+		"name"		"NEKO ARENA - Nudity Mode"
+		"type"		"DLC"
+		"parent"		"1173380"
+		"releasestate"		"released"
+		"logo"		"f2e368245722d4109cfa5973aad32aaa27150a1f"
+		"logo_small"		"f2e368245722d4109cfa5973aad32aaa27150a1f_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"0c1ed43cf2356bf6d14ce7fc625f2fa23679087d"
+		"clienttga"		"a5a8c5dcbde33e943027ce5d487be1e1a4f91286"
+		"icon"		"f1f371a014db9b30c5b3ffe06bf27a2804e25bca"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_12968dcd4350f6816cbbd87924d75fe25ba0e839.jpg"
+		"store_asset_mtime"		"1599856191"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Neko Cloud"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1599905963"
+		"gameid"		"1421460"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"492"
+			"3"		"597"
+			"4"		"599"
+			"5"		"6650"
+			"6"		"12095"
+			"7"		"9130"
+		}
+		"review_score"		"7"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"dlcforappid"		"1173380"
+		"mustownapptopurchase"		"1173380"
+		"developer"		"Neko Cloud"
+		"isfreeapp"		"1"
+		"dlcavailableonstore"		"1"
+	}
+}

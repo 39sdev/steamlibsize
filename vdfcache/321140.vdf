@@ -1,0 +1,85 @@
+"321140"
+{
+	"common"
+	{
+		"name"		"GameGuru - Mega Pack 1"
+		"type"		"DLC"
+		"parent"		"266310"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"icon"		"b1807ad0429121b226d427aeb9e4ab88d34c0f4a"
+		"metacritic_name"		"GameGuru Mega Pack 1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_1b44b5bd81ef92881566d25ac03c630378b61d9d.jpg"
+		"store_asset_mtime"		"1535475744"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TheGameCreators"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"TheGameCreators"
+			}
+		}
+		"primary_genre"		"60"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"60"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1432054423"
+		"gameid"		"321140"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"13906"
+			"3"		"8013"
+			"4"		"84"
+			"5"		"87"
+			"6"		"872"
+			"7"		"1036"
+			"8"		"1445"
+			"9"		"1649"
+			"10"		"1663"
+		}
+		"review_score"		"7"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"dlcforappid"		"266310"
+		"mustownapptopurchase"		"266310"
+		"developer"		"TheGameCreators"
+		"publisher"		"TheGameCreators"
+		"homepage"		"https://www.game-guru.com/"
+		"dlcavailableonstore"		"1"
+	}
+}

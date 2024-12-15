@@ -1,0 +1,158 @@
+"1288440"
+{
+	"common"
+	{
+		"name"		"GWENT: The Witcher Card Game - 4k graphic assets pack"
+		"type"		"DLC"
+		"parent"		"1284410"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"c7f5a4770ba6cf7513befbe3c25becdffbf2ac49"
+		"logo_small"		"c7f5a4770ba6cf7513befbe3c25becdffbf2ac49_thumb"
+		"icon"		"3e089897714dfc658a5e62246c342e2826a708e1"
+		"clienticon"		"d2a4faabcc0d2ec12505dc27fdc43cb14efef37d"
+		"clienttga"		"6d89de44498edc21f5b8c1820be0e6911a1f72ec"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"polish"		"capsule_231x87_polish.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"polish"		"header_polish.jpg"
+			"russian"		"header_russian.jpg"
+		}
+		"store_screenshot"		"ss_8026a5343e8bad3a5b41fc1f45a11bb7312e8179.jpg"
+		"store_asset_mtime"		"1587738069"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CD PROJEKT RED"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CD PROJEKT RED"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1589875198"
+		"gameid"		"1288440"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"122"
+			"2"		"113"
+			"3"		"1666"
+			"4"		"32322"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"dlcforappid"		"1284410"
+		"mustownapptopurchase"		"1284410"
+		"developer"		"CD PROJEKT RED"
+		"publisher"		"CD PROJEKT RED"
+		"homepage"		"https://www.playgwent.com"
+		"isfreeapp"		"1"
+		"dlcavailableonstore"		"1"
+	}
+}

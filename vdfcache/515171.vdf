@@ -1,0 +1,87 @@
+"515171"
+{
+	"common"
+	{
+		"name"		"Iron Sea - Lost Land"
+		"type"		"DLC"
+		"parent"		"431750"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"0a72e75165b88a9468b99eab9ea8d3a96c424776"
+		"clienttga"		"ccce9e7953270c671a862d19822fec97b55fd43e"
+		"icon"		"925a86368b8274003ed704129fc72b6e6272a54b"
+		"metacritic_name"		"Iron Sea - Lost Land"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_8786f6d72b546739800b8682d5804885a91edaa4.jpg"
+		"store_asset_mtime"		"1474374769"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Creobit"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"8Floor"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1475767468"
+		"gameid"		"515171"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+			"2"		"597"
+		}
+		"review_score"		"4"
+		"review_percentage"		"21"
+	}
+	"extended"
+	{
+		"dlcforappid"		"431750"
+		"mustownapptopurchase"		"431750"
+		"developer"		"Creobit"
+		"publisher"		"8Floor"
+		"dlcavailableonstore"		"1"
+	}
+}

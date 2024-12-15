@@ -1,0 +1,538 @@
+"614090"
+{
+	"common"
+	{
+		"name"		"Deadbeat Heroes"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"5b771bf5764d7a74a76bd5846327a363db64b8ae"
+		"clienticon"		"c95c71ddf14275d0d6a4e3e6518e9cd780c1c3ee"
+		"icon"		"412af025ecb99f283eefce082b5c343abdc687ea"
+		"logo"		"18af19409d0ead10b6af9e2c91fcdcb1e152c4bd"
+		"logo_small"		"18af19409d0ead10b6af9e2c91fcdcb1e152c4bd_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"614090_eula_0"
+				"name"		"Deadbeat Heroes EULA"
+				"url"		"http://store.steampowered.com//eula/614090_eula_0"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1674172800"
+			"tested_build_id"		"2212340"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Deadbeat Heroes"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.83975366249714"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"45.83975366249714"
+					"height_pct"		"100"
+				}
+			}
+		}
+		"store_asset_mtime"		"1561714375"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Deadbeat Productions"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Square Enix "
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_13"		"1"
+			"category_23"		"1"
+			"category_49"		"1"
+			"category_43"		"1"
+			"category_44"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1507651012"
+		"metacritic_score"		"65"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/deadbeat-heroes?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"614090"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"3841"
+			"2"		"1671"
+			"3"		"1685"
+			"4"		"1743"
+			"5"		"4182"
+			"6"		"492"
+			"7"		"4158"
+			"8"		"4136"
+			"9"		"4036"
+		}
+		"review_score"		"5"
+		"review_percentage"		"63"
+	}
+	"extended"
+	{
+		"developer"		"Deadbeat Productions"
+		"publisher"		"Square Enix "
+		"homepage"		"https://www.upstreamarcade.com/deadbeat-heroes/"
+		"listofdlc"		"714380"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"DeadbeatHeroes"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DeadbeatHeroes.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"6"
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"614091"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4136700042317074023"
+					"size"		"371183660"
+					"download"		"206671312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ageratings"
+				{
+					"gid"		"2E0EA18D06E0B164FB4BE8111DB6B79E"
+					"size"		"80ECC2ED41B8581EF71D97997D4E6000"
+					"download"		"A67DEE0D39650FA1D2CAF3EB885D0957"
+				}
+				"compatibility"
+				{
+					"gid"		"FCF6E73019ACCE11172186F03A3CBBF4"
+					"size"		"3ED7792A047289BCF885D7CBB3C39827"
+					"download"		"856EE93CF26D99BE89D454C82F305A48"
+				}
+				"event"
+				{
+					"gid"		"375F49C45635AE9367EC9E6AB68CD773"
+					"size"		"878591054811E5187811437E13E5F96B"
+					"download"		"B00E4EAC29032BE97FBE4840870A0A5C"
+				}
+				"externaldev"
+				{
+					"gid"		"8B6DEE764779EA557F8BAE3A96BEFCE9"
+					"size"		"9F0A0564E967BC73AD929327C5841076"
+					"download"		"1D99544B1DD0BEA45A66987716456A6D"
+				}
+				"marketing"
+				{
+					"gid"		"B590833B301DF0C28552956D68684E4C"
+					"size"		"C82D40A505A2BF77785D6F537AC3873E"
+					"download"		"AA2205126D44465AFA7816EBD6832FA6"
+				}
+				"playtest"
+				{
+					"gid"		"CEC6B654D2CC874DE8828516E975434D"
+					"size"		"C7839BA9C1AB5FAB27826BD3428597E5"
+					"download"		"DA3B152391C5F50707F4E593504447FF"
+				}
+				"pressandinfluencer"
+				{
+					"gid"		"C70D4AE889CBB52AD6BC497197591064"
+					"size"		"A685A41318F9A98AB6574BBCFA93D0A0"
+					"download"		"44C2970077CB6A694380008CB35DA3A2"
+				}
+				"quality"
+				{
+					"gid"		"EAD089CA04DFDA4FC7D0865F6F8BF69D"
+					"size"		"38359DE8D6F9421C5E3CDFDFF1303063"
+					"download"		"9ACA01ED6B8F24FDAE88BADADA10A345"
+				}
+				"quality2"
+				{
+					"gid"		"398E83B5D7683739A88439AE287DE627"
+					"size"		"877A67EDC3B3F12D842CAE8FCC78DCF1"
+					"download"		"F6C3AC67BD8EF8F94BA0B5E2FD47DD87"
+				}
+				"qualitydebug"
+				{
+					"gid"		"0BA99EB2616AA7344EFD8A009881076B"
+					"size"		"0D829507F91D03A23A7903ED540E8D9B"
+					"download"		"AAFCB4931FFFF5FFBE68A117F7AA7B27"
+				}
+				"seasonal"
+				{
+					"gid"		"93BBE5922DC4AC22ED7710DCFDE726E0"
+					"size"		"E889F18522615A84235FC30F2D3284B3"
+					"download"		"510E208E07AB2894D125D0080B7FB58B"
+				}
+			}
+		}
+		"614092"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4449447613434200320"
+					"size"		"365878844"
+					"download"		"205082400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"compatibility"
+				{
+					"gid"		"E4852244FB809186CBB95D6EEC07C83B"
+					"size"		"8BD9D8F3B7BCD0B4978281CF35A80315"
+					"download"		"39D349E600B9071385F3282AB35E641A"
+				}
+				"marketing"
+				{
+					"gid"		"98B4B368A891B2E587C31FC29EB408BA"
+					"size"		"7619E2F8EF1988EB5E26DF95CFC74E4B"
+					"download"		"9BCFAA05F01454B10265A9908C004C12"
+				}
+				"playtest"
+				{
+					"gid"		"7DED94134D472C8DBB711FC6F9FDD89E"
+					"size"		"DB8E1A44E5D3868CCCD5BC6E71C07AA6"
+					"download"		"980F6D6CF069FD0CACDBF17780810F6A"
+				}
+				"pressandinfluencer"
+				{
+					"gid"		"5DF39CFFC3810BCFF9FF25120579D1CD"
+					"size"		"ABD7F6AE50E71DECF7E2B6F096E5A003"
+					"download"		"5419BE7441470570D8EE83B046543F53"
+				}
+				"quality"
+				{
+					"gid"		"FC30EAC5FC49C0197B56C50E08D1E3FA"
+					"size"		"6DC3DA70023DFF1D41094B941C07D485"
+					"download"		"4AA2D8B98D041E2B1F84AC93573FC095"
+				}
+				"quality2"
+				{
+					"gid"		"7851356558FD8B09FFF51F6B49CBE00D"
+					"size"		"0F755D3636C42256BE6E2241F378C5E1"
+					"download"		"51922B42D353488CB13DDF09589EE1F5"
+				}
+				"qualitydebug"
+				{
+					"gid"		"69CC280B2013765789247B23DA81E2AA"
+					"size"		"913C0544066308925484B76E682DDD94"
+					"download"		"CBDBAB528D6C132540389E54FED422EB"
+				}
+				"seasonal"
+				{
+					"gid"		"C32135391B34D29B3535D9BD726F2379"
+					"size"		"705CCD09FB6CC02DCAFC8A24FBBEBABB"
+					"download"		"DF8C754F54E2B7061BF3AA116227492B"
+				}
+			}
+		}
+		"714380"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3097036330225017996"
+					"size"		"566340327"
+					"download"		"546232656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"compatibility"
+				{
+					"gid"		"391F1FEEBAFD26A59A9CEDA35EB78194"
+					"size"		"530CA7F75EC97F37D9BD71A5F69BC1E5"
+					"download"		"82F4D56556B1DA5342492FEA8DB93FBB"
+				}
+				"marketing"
+				{
+					"gid"		"90A13A6583DB5102C49CC1CE99E1A03E"
+					"size"		"11062BDA17884F42C12D647C963569DD"
+					"download"		"2C36037921A20EA408D0256C6E23534D"
+				}
+				"playtest"
+				{
+					"gid"		"0BE6DAB6F340530A532E0F27080A68A9"
+					"size"		"8F922EF00AA52404F265971D66B68298"
+					"download"		"FAC1D62B3F3E080C13EA0ADB0ED9037B"
+				}
+				"pressandinfluencer"
+				{
+					"gid"		"4760608F2D37F2DBC809650206ED9BE9"
+					"size"		"EF91314F5158A607B9892360B491E6FD"
+					"download"		"EFFFDF49954352C9B55B7913C8FCA463"
+				}
+				"quality"
+				{
+					"gid"		"91113F0B3CF0C287B3BC502BF29D9E96"
+					"size"		"CE50FAEFA21480B67C0D13F9401D3D58"
+					"download"		"2D0F7FCD1A3133E62F602AB37F06B316"
+				}
+				"quality2"
+				{
+					"gid"		"B6C6E0BFF7B30C346DC5349D12D06F7D"
+					"size"		"97355AF7AD0DD8404539E1156DAE5686"
+					"download"		"22D4408D3CCA9B693E11CA7F54C975D6"
+				}
+				"qualitydebug"
+				{
+					"gid"		"5DE9922F43C3EDCC4E46E76C0B879068"
+					"size"		"4BE384E57F49DCFC4E411BD32CAD51C6"
+					"download"		"B71E2B9B531D4AC29982239919974AD5"
+				}
+				"seasonal"
+				{
+					"gid"		"902516952238299927AC9EA5078D26E6"
+					"size"		"7BE34485450013C852DF958155DFFE09"
+					"download"		"755FA9790BA70A9135A14660D041A0DA"
+				}
+			}
+			"dlcappid"		"714380"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2212340"
+				"timeupdated"		"1508928348"
+			}
+			"ageratings"
+			{
+				"buildid"		"2009092"
+				"pwdrequired"		"1"
+				"timeupdated"		"1501770650"
+			}
+			"compatibility"
+			{
+				"buildid"		"2208300"
+				"pwdrequired"		"1"
+				"timeupdated"		"1508338713"
+			}
+			"event"
+			{
+				"buildid"		"2045939"
+				"pwdrequired"		"1"
+				"timeupdated"		"1502968858"
+			}
+			"externaldev"
+			{
+				"buildid"		"2009092"
+				"pwdrequired"		"1"
+				"timeupdated"		"1501770607"
+			}
+			"marketing"
+			{
+				"buildid"		"2208300"
+				"pwdrequired"		"1"
+				"timeupdated"		"1508338680"
+			}
+			"playtest"
+			{
+				"buildid"		"2208300"
+				"pwdrequired"		"1"
+				"timeupdated"		"1508338690"
+			}
+			"pressandinfluencer"
+			{
+				"buildid"		"2208300"
+				"pwdrequired"		"1"
+				"timeupdated"		"1508338699"
+			}
+			"quality"
+			{
+				"buildid"		"2208300"
+				"pwdrequired"		"1"
+				"timeupdated"		"1508319354"
+			}
+			"quality2"
+			{
+				"buildid"		"2195488"
+				"pwdrequired"		"1"
+				"timeupdated"		"1507887575"
+			}
+			"qualitydebug"
+			{
+				"buildid"		"2208271"
+				"pwdrequired"		"1"
+				"timeupdated"		"1508318730"
+			}
+			"seasonal"
+			{
+				"buildid"		"2212340"
+				"pwdrequired"		"1"
+				"timeupdated"		"1508419532"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Deadbeat Productions/DeadbeatHeroes/{64BitSteamID}"
+				"pattern"		"*.dat"
+			}
+		}
+	}
+}

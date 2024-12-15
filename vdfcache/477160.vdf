@@ -1,0 +1,1104 @@
+"477160"
+{
+	"common"
+	{
+		"name"		"Human Fall Flat"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"clienticon"		"f8b14ff5d22ba51dfc3a05b895d469f215a5e5aa"
+		"clienttga"		"5846759317f884abda64b33a87fa8dd96f42bcf2"
+		"icon"		"15c6f6a4d69633a63ee410b24a2417f16d803b06"
+		"logo"		"1b789dec39cb456fc443dd7a48f109bb4f6be1ea"
+		"logo_small"		"1b789dec39cb456fc443dd7a48f109bb4f6be1ea_thumb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"ukrainian"		"1"
+			"sc_schinese"		"1"
+		}
+		"clienticns"		"5375372d526b1d303fba2c3d7175c6630acec61a"
+		"linuxclienticon"		"97eb29efa22e5afd3fbc3cf8b560e3393334b2e3"
+		"osarch"		""
+		"osextended"		"macos64"
+		"name_localized"
+		{
+			"schinese"		"人类一败涂地 / Human Fall Flat"
+			"sc_schinese"		"面条人"
+		}
+		"releasestatesteamchina"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1647043200"
+			"tested_build_id"		"8055898"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Human: Fall Flat"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"d05d7b2b4e2bfe5d9c49ca21610892732a744488/capsule_231x87.jpg"
+			"sc_schinese"		"8349cf1f028fe1a8f63f9037641bee22589344af/capsule_231x87_sc_schinese.jpg"
+			"schinese"		"a2c81e98310655f123d393f014060f838b7362b1/capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-xc"
+			"library_hero"		"en,zh-cn,zh-xc"
+			"library_hero_blur"		"zh-xc,en,zh-cn"
+			"library_logo"		"en,zh-cn,zh-xc"
+			"library_header"		"zh-cn,en,zh-xc"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"26.214981702451198"
+				"height_pct"		"35.77918218546982"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"89ad3341dafe88a579fd225d566d40f66561b653/library_600x900.jpg"
+					"schinese"		"3f422e87f9219ea2c71c964fd63b45c2b0a5b6cd/library_600x900_schinese.jpg"
+					"sc_schinese"		"386e7a0d0b6c31a5e191572e9ea26ec6004d24b3/library_600x900_sc_schinese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"89ad3341dafe88a579fd225d566d40f66561b653/library_600x900_2x.jpg"
+					"schinese"		"3f422e87f9219ea2c71c964fd63b45c2b0a5b6cd/library_600x900_schinese_2x.jpg"
+					"sc_schinese"		"386e7a0d0b6c31a5e191572e9ea26ec6004d24b3/library_600x900_sc_schinese_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"fc593b36d81faa8988fcff92f08974dff10ffad7/library_hero.jpg"
+					"schinese"		"dfc4afb47f22d56b9d478fecbdbd56ea4ef3c178/library_hero_schinese.jpg"
+					"sc_schinese"		"2475903b7af31f5f91db57db9cd55efbb9dfca6c/library_hero_sc_schinese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"fc593b36d81faa8988fcff92f08974dff10ffad7/library_hero_2x.jpg"
+					"schinese"		"dfc4afb47f22d56b9d478fecbdbd56ea4ef3c178/library_hero_schinese_2x.jpg"
+					"sc_schinese"		"2475903b7af31f5f91db57db9cd55efbb9dfca6c/library_hero_sc_schinese_2x.jpg"
+				}
+			}
+			"library_hero_blur"
+			{
+				"image"
+				{
+					"sc_schinese"		"2475903b7af31f5f91db57db9cd55efbb9dfca6c/library_hero_blur_sc_schinese.jpg"
+					"english"		"fc593b36d81faa8988fcff92f08974dff10ffad7/library_hero_blur.jpg"
+					"schinese"		"dfc4afb47f22d56b9d478fecbdbd56ea4ef3c178/library_hero_blur_schinese.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"26.214981702451198"
+					"height_pct"		"35.77918218546982"
+				}
+				"image"
+				{
+					"english"		"c96981761cb747bcd2078347eaffb71e8c5efacb/logo.png"
+					"schinese"		"c3eb88d608c88e03eb8c13313d9e2ad3d54d511c/logo_schinese.png"
+					"sc_schinese"		"logo_sc_schinese.png"
+				}
+				"image2x"
+				{
+					"sc_schinese"		"logo_sc_schinese_2x.png"
+					"english"		"c96981761cb747bcd2078347eaffb71e8c5efacb/logo_2x.png"
+					"schinese"		"c3eb88d608c88e03eb8c13313d9e2ad3d54d511c/logo_schinese_2x.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"schinese"		"688b20cc23b67e60a89f897cedeb7e1f13b4787b/library_header_schinese.jpg"
+					"english"		"204b1f9e80ddadda12f4ffa82432a6abaf03aea7/library_header.jpg"
+					"sc_schinese"		"6db6ecf3e89c13af937367b80940bd44d361c3f0/library_header_sc_schinese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"204b1f9e80ddadda12f4ffa82432a6abaf03aea7/library_header_2x.jpg"
+					"schinese"		"688b20cc23b67e60a89f897cedeb7e1f13b4787b/library_header_schinese_2x.jpg"
+					"sc_schinese"		"c1239017dd750d12787395bffa4c883ac7ab46e5/library_header_sc_schinese_2x.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1732709933"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"No Brakes Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Curve Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Curve Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_29"		"1"
+			"category_39"		"1"
+			"category_36"		"1"
+			"category_44"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_43"		"1"
+			"category_30"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1469206680"
+		"metacritic_score"		"70"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/human-fall-flat?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"477160"
+		"store_tags"
+		{
+			"0"		"1685"
+			"1"		"4136"
+			"2"		"1664"
+			"3"		"21"
+			"4"		"3968"
+			"5"		"3810"
+			"6"		"5537"
+			"7"		"19"
+			"8"		"1695"
+			"9"		"3859"
+			"10"		"3841"
+			"11"		"492"
+			"12"		"7368"
+			"13"		"1719"
+			"14"		"4036"
+			"15"		"597"
+			"16"		"10816"
+			"17"		"5395"
+			"18"		"4182"
+			"19"		"599"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"No Brakes Games"
+		"publisher"		"Curve Games"
+		"homepage"		"http://www.nobrakesgames.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Human Fall Flat"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Human.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+					"schinese"		"Launch"
+					"sc_schinese"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"Human.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+					"sc_schinese"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"2"
+			{
+				"executable"		"Human.x86"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch x86"
+					"sc_schinese"		"Launch"
+				}
+				"description"		"Launch x86"
+			}
+			"3"
+			{
+				"executable"		"Human.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch 64"
+					"sc_schinese"		"Launch"
+				}
+				"description"		"Launch 64"
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"1874356412"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+				"has_localization_schinese"		""
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,polish,turkish,brazilian,ukrainian"
+		"workshopdepot"		"477160"
+		"hasdepotsindlc"		"0"
+		"477161"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"realm"		"steamglobal"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5944575289494756235"
+					"size"		"5040892761"
+					"download"		"1565486544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"arctest"
+				{
+					"gid"		"1956AD71C4D13AE39063F6061692B634"
+					"size"		"4C1104A6D2E11155D9EE2DC5F3C1CB3C"
+					"download"		"0D8C08ADA9C6185D1EC185B4F6F56582"
+				}
+				"foundry"
+				{
+					"gid"		"E0FBAC38CA257A48B4A7309988906AEA"
+					"size"		"F504241C55E0DD71DBB6BE09CC3671C6"
+					"download"		"C8E6121598F146DD642C6619FA1DCE4A"
+				}
+				"legacy"
+				{
+					"gid"		"EA11464A9B503F4DF30D144285051BEF"
+					"size"		"48DB99FF9328788A862B15F717AD356C"
+					"download"		"89BB9D8E2DF29DE2AE31CE060D373A08"
+				}
+				"modder"
+				{
+					"gid"		"3BEA863E510D5AC3BA6BB5CF4AEDF876"
+					"size"		"862CAE568D0E777F8E30EB508962FC5E"
+					"download"		"FE0F0DC49BC97FD573473E18F5840970"
+				}
+				"speedrunner"
+				{
+					"gid"		"81363A2AC92FBAE58F226CDDD6B81346"
+					"size"		"062488E67FDD78848C7786E3E8A3164F"
+					"download"		"11E81290A15B2CEE6B381E5D21CCFC5B"
+				}
+				"streamer"
+				{
+					"gid"		"4189E2AEAB94B8CC971AAD482FC4B422"
+					"size"		"10454BF47A2A083F7CD78B5081A2B835"
+					"download"		"F1532327766CE1533EA7540786AA0995"
+				}
+				"curve"
+				{
+					"gid"		"A983A6D1D9EACA9EB9624DBCF60758FC"
+					"size"		"28DD4BAB8887788972A5F33BB7B7ACF7"
+					"download"		"A49B832D432F7C3E86ADF33989EB5BCB"
+				}
+				"development"
+				{
+					"gid"		"EF77DA9B71382BB2648407B4BC3A98DF"
+					"size"		"4DE4A9404B454071B430CED46939F72D"
+					"download"		"B1C42B99D6A3CBD69D9BFB1787703104"
+				}
+				"devtest"
+				{
+					"gid"		"4FD819CD2F667BE04AE0043C688546E5"
+					"size"		"1000D30CF4F896A2C39F187DEC154019"
+					"download"		"4C2C74DC6E89D06F6B71937760E1D38E"
+				}
+				"partners"
+				{
+					"gid"		"BA79E51CE26F16BCFEF6A7EAE3EBE109"
+					"size"		"F9EDB1BC60A075DE61409FCB093F7CD1"
+					"download"		"E6741FB8293A044042D90326A8A76174"
+				}
+				"staging"
+				{
+					"gid"		"CFE1360EE38162C5152B94D24D53F7C7"
+					"size"		"41D1785E6DCD2487BEF0975AA3ACB270"
+					"download"		"DAC94B08BEA1D79CC0D25FA550099E59"
+				}
+				"steam_china_only"
+				{
+					"gid"		"29FAEAEE7C132F93CF68F7CE32AB31A0"
+					"size"		"F2295680B9305AF8186CD732869F815C"
+					"download"		"D9E99F8847DCDF1CF0E95B03D8701EF5"
+				}
+				"test"
+				{
+					"gid"		"6CFBE53D814E179290E72A0E28CDDCBF"
+					"size"		"A40FA49B110860B92B62D35DB8139C4B"
+					"download"		"FBDD18A72B71F7DB0B3C9502AE420316"
+				}
+			}
+		}
+		"477162"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"realm"		"steamglobal"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"463359195972041738"
+					"size"		"5040892761"
+					"download"		"1565494336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"arctest"
+				{
+					"gid"		"3E64E026437B7BFB6583CA1FBFF97CA3"
+					"size"		"953318E70C0FD2D147504FE7BC42BC2D"
+					"download"		"63DF3D44415D6B20D650C4355ADB442A"
+				}
+				"foundry"
+				{
+					"gid"		"025AEA5C2522C17267390EA65C66FD04"
+					"size"		"01F865A9B48760A10BB81E6D9C278E73"
+					"download"		"894BEA5ECCF42E11338B47B1E4E40680"
+				}
+				"legacy"
+				{
+					"gid"		"D61BD288EF82CB71D49EB584B9A5FCA9"
+					"size"		"372D12CEA99A36B2FCD72426990FBD11"
+					"download"		"B406D0F2214265073CDAE9FC21B47942"
+				}
+				"modder"
+				{
+					"gid"		"863B96FFDA829A5172F46704B1009481"
+					"size"		"DE46D3D9F12F5F20F7465FC5444393A2"
+					"download"		"DCE301B61980B27B627DD184445E51D3"
+				}
+				"speedrunner"
+				{
+					"gid"		"1D9BCC1B12B734A1FDD82CF7D66B4038"
+					"size"		"711784C82D51E7AB59D0AF5D65979649"
+					"download"		"852DE358E375E386B5F300BCA9491980"
+				}
+				"streamer"
+				{
+					"gid"		"22CCC969977F569D06595C634C640237"
+					"size"		"76F1BDC74AAEE8C9EDC939D33905CA72"
+					"download"		"C0C04CA5F656A02560118BEC659F8C40"
+				}
+				"curve"
+				{
+					"gid"		"78DA8FC868A2B627690568078B7F9213"
+					"size"		"28E8F87CAF89B035815671F5194E3660"
+					"download"		"2643476CC9DAD5379CB609D504967C35"
+				}
+				"development"
+				{
+					"gid"		"A75EE1D56D7D1F218E02E3F1BD1814A0"
+					"size"		"4DE4A9404B454071B430CED46939F72D"
+					"download"		"321B6331BA3CA6ED48FB77D1FCC3C9B9"
+				}
+				"devtest"
+				{
+					"gid"		"7E2F82CC43B941A0A7AE5127762588B4"
+					"size"		"4C8E1F5674B865276A644358F53B3F1B"
+					"download"		"4C8E1F5674B865276A644358F53B3F1B"
+				}
+				"partners"
+				{
+					"gid"		"033847475BB6B74DE54C3BE0A275D8FD"
+					"size"		"08FAEC05715E8B03898553BF94A23540"
+					"download"		"8C2858273B92F67AB5D86A32122D047D"
+				}
+				"staging"
+				{
+					"gid"		"B144B0218BBA031841F7EF48ED9C152C"
+					"size"		"41D1785E6DCD2487BEF0975AA3ACB270"
+					"download"		"C1C33BF7789C2C774FB7D1B760973070"
+				}
+				"steam_china_only"
+				{
+					"gid"		"C58880BDF496B352374F5AEA46045BD6"
+					"size"		"B45B68E69B02B1C101F8B17B35007B9A"
+					"download"		"B69128DB885D5EE61CE36FCD88374238"
+				}
+				"test"
+				{
+					"gid"		"CE8799666C5E9E9D7EF4C981A2D6D4D3"
+					"size"		"33770895ADD58C8D4861A665F73BE3D6"
+					"download"		"DCFC36169295D461E9286A02BBEA8565"
+				}
+			}
+		}
+		"477163"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"realm"		"steamglobal"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"129240740414445083"
+					"size"		"1494469867"
+					"download"		"616680464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"arctest"
+				{
+					"gid"		"1C01C3398654AA1E03F8CD0044AA18D3"
+					"size"		"548F5C05606CACEE35986DDFE161D621"
+					"download"		"9542349AA3E620010988B5F5E2A2DB65"
+				}
+				"foundry"
+				{
+					"gid"		"00025CD088A78A6FCEED7687BF814440"
+					"size"		"5FB01B8CBB6326AB6AFAF3017B36D22A"
+					"download"		"682181FD9DF598F0739B390E0CD4267B"
+				}
+				"legacy"
+				{
+					"gid"		"44B5E56B74CCEBF59849D7332517854F"
+					"size"		"A29FFF8EA3F05A5D29B4C4C2D0E348FA"
+					"download"		"69ED268C284E2F650D0DE51835F0A987"
+				}
+				"modder"
+				{
+					"gid"		"986F50B522356C1FC51CF0418B86EC00"
+					"size"		"570674D03882C46E13DAAD88CDE83450"
+					"download"		"862CFCE4C55BCA3B415DC7F034005634"
+				}
+				"speedrunner"
+				{
+					"gid"		"A42CB1AD6812EF4A1D320F9E07111415"
+					"size"		"99CE8B0CB6984410D3E7C4D2EC11DBAE"
+					"download"		"4C569E1B56FBE7AD38FED1CC0CB034F8"
+				}
+				"streamer"
+				{
+					"gid"		"1619C9FE1B35FBB699DC163E06880D8D"
+					"size"		"B19EF5036F9A0AF3C939A0D4735CBB73"
+					"download"		"ED8B46F264958A127E2EE2529953A138"
+				}
+				"curve"
+				{
+					"gid"		"2881DCFDC1E19A543D36D8CF65FBD855"
+					"size"		"8FAB1012BED55EE87410B311894E9B6A"
+					"download"		"8BFD3C52FA1EFB964F8ADE5C55254BA6"
+				}
+				"development"
+				{
+					"gid"		"5848066DBA3A5A909D0F03391A212F22"
+					"size"		"CE2D5B65C44E5D2189889637727D7EE9"
+					"download"		"841AC6BBA478B3AE4C7C6C179C52D015"
+				}
+				"devtest"
+				{
+					"gid"		"720AD6728CFDC56E1A5A91524C263462"
+					"size"		"221F2A42A64AC9D1229294B0555DF565"
+					"download"		"593A6B669F36B63EF7B028904C99251A"
+				}
+				"partners"
+				{
+					"gid"		"FF2DA3EBBE3CC3E1B7C6F3EA2105CD1B"
+					"size"		"47EF0FF3CC16E6752ED5B32AA871281A"
+					"download"		"E0798FBDA9023BEFF4982135CA038219"
+				}
+				"staging"
+				{
+					"gid"		"6D60ACE6C170E35D6C5C635C913CBE69"
+					"size"		"2CF2C6A4F93D9C1F8D77EEF93E011D54"
+					"download"		"5E8FD620704E82AFD9AD5C6C0D035F51"
+				}
+				"steam_china_only"
+				{
+					"gid"		"950BABBCCD2A278AB52DD2A5EAA210A9"
+					"size"		"B1ED5DD339331C13AF8C63F8BA73BE67"
+					"download"		"B65D5C5E92A791E1F3DFFCEDD18027CE"
+				}
+				"test"
+				{
+					"gid"		"4F4957DEA5FEF3F6C2A217DBDE625C1E"
+					"size"		"CBD78F0947D3ED8433D9CE84358176BB"
+					"download"		"3D4FAAF4AFECECD601B5A967D8232DF2"
+				}
+			}
+		}
+		"632870"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6110178810839816362"
+					"size"		"77926307"
+					"download"		"59201904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"arctest"
+				{
+					"gid"		"CD376763402E973E6D7B5F78D1965CBA"
+					"size"		"EE7F4ED18BAB555B54BDAA6038956CF9"
+					"download"		"AD712E9B28B54E4D6599010E15E7497A"
+				}
+				"foundry"
+				{
+					"gid"		"01A1987FAE6BC756B8ECD66818D223B6"
+					"size"		"9A044542D7BBE4D5F6D0EA47DA0ED695"
+					"download"		"4366EBDD254600FCC2C5E4AC3ADC6C37"
+				}
+				"legacy"
+				{
+					"gid"		"F90A22FBD7513661E20341D81F35B176"
+					"size"		"8A392C1B0DB730896A1C1F65E9FB1E4D"
+					"download"		"78A7B2A0BDECAF9419D0791DCF6482D5"
+				}
+				"streamer"
+				{
+					"gid"		"467CCDF2B9A6EF6D5BA95B3EE9E882A1"
+					"size"		"77A9F9F203FE7E8EC43BA05BB2908638"
+					"download"		"4948450379BF4907A5A4B72850B6B79A"
+				}
+				"curve"
+				{
+					"gid"		"55CBEAA7A5FAF3E3B0ED405FE3D6656A"
+					"size"		"49AA72D085F9B7272AF0009A5A370A99"
+					"download"		"EDA098D06BA02E6BDD502AF09AFA10B5"
+				}
+				"development"
+				{
+					"gid"		"D7517B525A2A0345C5653C3ADA1AE880"
+					"size"		"C9576E5A98B265C4C9C32516757B1F83"
+					"download"		"DF08A6FDE729F72BFF749B2D9E887541"
+				}
+				"devtest"
+				{
+					"gid"		"67F2E51CFCA8F16E9D7BBE9195E5B78C"
+					"size"		"C86EC4E7774C9B27E51C7A0CBA2F41BE"
+					"download"		"86A5039C236693153976657806B3FD58"
+				}
+				"partners"
+				{
+					"gid"		"25D17A44F998C50684D2199F77F3E561"
+					"size"		"92031752F95DAABF783B0D7093A68312"
+					"download"		"BBF439B391DD5D9B1F7EF3DBF61E4D20"
+				}
+				"staging"
+				{
+					"gid"		"0170C26AAFCB682FAF365B6A2D7A6295"
+					"size"		"49A40DEEF3109CB6C08FD2B3101DD434"
+					"download"		"027E112B65C955B7E846990DC298E6FF"
+				}
+				"steam_china_only"
+				{
+					"gid"		"333465A5087B3B6C78519D3D3950BEF5"
+					"size"		"194945929368F2FFA9B2BC7747B709C1"
+					"download"		"2E9738ABA113B417964657E5A45790FA"
+				}
+				"test"
+				{
+					"gid"		"0DE16EA6A9ABDF1A5E8496BE68069463"
+					"size"		"11717002EA4CF5EAAD1CF36297904C6C"
+					"download"		"45D7663826B283DD7051573B82805041"
+				}
+			}
+		}
+		"477164"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"803940719847356966"
+					"size"		"270143829"
+					"download"		"271369792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"arctest"
+				{
+					"gid"		"72E524BA43ABA817E1E2C342BA4F57BF"
+					"size"		"C419B5F1A1ADC5FEFD557DD2F233FF0F"
+					"download"		"9374E5E3DF6FED42DA2DBACB329B0FD9"
+				}
+				"curve"
+				{
+					"gid"		"D106AAD0F2A5118A0AC83DEA8A2EC964"
+					"size"		"9B3699D7B48A875556D7212C12116A4C"
+					"download"		"A724B7B9C4DBA87DE1FF7D764CD1D6E2"
+				}
+				"development"
+				{
+					"gid"		"FC23B626D0C003D96AA6A28B1E2D2DB5"
+					"size"		"4516269489518AA89573A251CED076BA"
+					"download"		"D8317BB93508B4D29807CB465DEFCB7B"
+				}
+				"devtest"
+				{
+					"gid"		"CB4D332A3D63F860CB068AAE6E0B7C96"
+					"size"		"D02D12207EFEC2C67983CBBF8F6AED43"
+					"download"		"16962867EA1166D021C64FC0C4726019"
+				}
+				"partners"
+				{
+					"gid"		"E786F2DABE7CBF7F4197BE4609B185F0"
+					"size"		"2DC8F89D830E100737A60A31D4D53D8A"
+					"download"		"98F336233E5C55F32B234E1A3708BC35"
+				}
+				"staging"
+				{
+					"gid"		"A8BD58A24046F5DAFD6C17DCF6AA84DB"
+					"size"		"AB1B1B82E183FC3DE37C349E56660171"
+					"download"		"80B3D3FAA2022A24DE1F7CFD3D5758CA"
+				}
+				"steam_china_only"
+				{
+					"gid"		"B4A6617CEE1030060A280C1E53BAC287"
+					"size"		"2A5FE117118173DE220D835B61B45850"
+					"download"		"7AE931098968F14C3E9AF2A36C981995"
+				}
+				"test"
+				{
+					"gid"		"1A5D0DD1F4BF6660CDEF983836E5DB62"
+					"size"		"D8B5C148EE8562DB849EC11630AD1A73"
+					"download"		"9DDC1F8DE2B7C07EAB88E27320F83868"
+				}
+			}
+		}
+		"477165"
+		{
+			"config"
+			{
+				"realm"		"steamchina"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"931027460059924405"
+					"size"		"8660059251"
+					"download"		"2535445232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"arctest"
+				{
+					"gid"		"F4942B8461D0E82353EFAABA12B6496A"
+					"size"		"C87AB63A06177912732A2DDFE5BAEEEC"
+					"download"		"52EEA2FC4BD1CD345EF514D7E355666E"
+				}
+				"curve"
+				{
+					"gid"		"242B082C006E3EBEED608F8ECFA284B2"
+					"size"		"F5FA81342072277CB602F9C3ECDA4953"
+					"download"		"3AC37F9DB0AD354D91E93BC4B2C7F246"
+				}
+				"development"
+				{
+					"gid"		"8F5EED9A7308BDD4D9B083AAB55F1DB1"
+					"size"		"AE0976C7202DA9DE8841FEB964AD9B6A"
+					"download"		"F84650848994E543320D84D07BB9002D"
+				}
+				"devtest"
+				{
+					"gid"		"E7B8E5064C212ADD30E30C3ECB67B836"
+					"size"		"C4CA79A494562CA91875E7650314A4F8"
+					"download"		"53E605A79CDBF140DAFB338C4803552E"
+				}
+				"partners"
+				{
+					"gid"		"22EA37BF7BFE13620566C6E1EBA359FD"
+					"size"		"767DCC00412A13F06D1B3E79E8C502C7"
+					"download"		"83C79A1D5F57417DB9828D7AB111A501"
+				}
+				"staging"
+				{
+					"gid"		"9E41DCC8290EC8E1ABDD818108825E0B"
+					"size"		"BBCC67ED9D2A637A34E8390A44419EB6"
+					"download"		"37CDCFF63C329595376BB222BE1C9901"
+				}
+				"steam_china_only"
+				{
+					"gid"		"8E98259A68EA4D09A7679840716E47B0"
+					"size"		"B51479541F478FC379AD27ADB695465C"
+					"download"		"A8E58D4E8EEBDF21608A16B21E89F564"
+				}
+				"test"
+				{
+					"gid"		"3ACB22840C0C6E0869BC853372542AAA"
+					"size"		"FD31DA7472ACDFC8D7F2276AD04AD2DF"
+					"download"		"696E2E8E2E0B95FC79A48DEE76E3D2F8"
+				}
+			}
+		}
+		"477166"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1370937131055320715"
+					"size"		"3834164"
+					"download"		"3841424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"curve"
+				{
+					"gid"		"D4B5836945B4886EA186149868C99133"
+					"size"		"0FBBA83162A070B038CD5A45AC006DA9"
+					"download"		"B7961DCC5D54C5F03E00EA471CEDDE3C"
+				}
+				"development"
+				{
+					"gid"		"FDE4268551F7241D3DF0CAEF7BFCFB8E"
+					"size"		"9A78FC780D17A0D4FFD70183FD4283F9"
+					"download"		"ECAE7A46EE9039D5F9679D9F17CCAFAF"
+				}
+				"devtest"
+				{
+					"gid"		"D1F9FE3442AC64F06561250E828D4A1C"
+					"size"		"FBCCB842B72BB66C84FDB7E9EE32A053"
+					"download"		"5F384A7C5D8315810B7EE774091DC716"
+				}
+				"partners"
+				{
+					"gid"		"8681630B24A51FF29789BA3BC33D3F82"
+					"size"		"C960AFAB06AAC3E6C963E92AE7220107"
+					"download"		"B59AA967D0DBC1413B3DF5EA9FF4886C"
+				}
+				"staging"
+				{
+					"gid"		"4DA8654F6E600C36100C07F20D3E4C53"
+					"size"		"B4E837AEF48C3DD8D3ADB2707D2832C5"
+					"download"		"0A16E4441541695FD56D71707F30B139"
+				}
+				"test"
+				{
+					"gid"		"5AD3F7E623149A051725EDEF34FED8AD"
+					"size"		"A5A0332BC2ABF355044A5EB4AA7FE255"
+					"download"		"362368388E3145F4718C691089222BAB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16719926"
+				"timeupdated"		"1734000628"
+			}
+			"arctest"
+			{
+				"buildid"		"6218623"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612960171"
+			}
+			"foundry"
+			{
+				"buildid"		"3985021"
+				"pwdrequired"		"1"
+				"timeupdated"		"1562323924"
+			}
+			"legacy"
+			{
+				"buildid"		"2525535"
+				"pwdrequired"		"1"
+				"timeupdated"		"1539600696"
+			}
+			"modder"
+			{
+				"buildid"		"1455156"
+				"pwdrequired"		"1"
+				"timeupdated"		"1478966773"
+			}
+			"speedrunner"
+			{
+				"buildid"		"1240353"
+				"pwdrequired"		"1"
+				"timeupdated"		"1470068861"
+			}
+			"streamer"
+			{
+				"buildid"		"3376499"
+				"pwdrequired"		"1"
+				"timeupdated"		"1544197415"
+			}
+			"curve"
+			{
+				"buildid"		"16153279"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730222421"
+			}
+			"development"
+			{
+				"buildid"		"16709511"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733931598"
+			}
+			"devtest"
+			{
+				"buildid"		"14275446"
+				"pwdrequired"		"1"
+				"timeupdated"		"1714979368"
+			}
+			"partners"
+			{
+				"sc_schinese"		"Publishing partners"
+				"buildid"		"16153279"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730911646"
+			}
+			"staging"
+			{
+				"buildid"		"16719926"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734000347"
+			}
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"16676760"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733722968"
+			}
+			"test"
+			{
+				"buildid"		"16526741"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732606817"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+	}
+}

@@ -1,0 +1,168 @@
+"1083500"
+{
+	"common"
+	{
+		"name"		"PlanetSide 2 - Test"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"99768940f6ea339c303bce19db04cfccd565304d"
+		"clienttga"		"e310e43a0502eff741367041543e4123037a1256"
+		"icon"		"4a048ec31eba8fb4ed19a1fd8a906041119d3523"
+		"logo"		"979a2cf2d4a21e9a51d4c955fef9b7fbcf081d8b"
+		"logo_small"		"979a2cf2d4a21e9a51d4c955fef9b7fbcf081d8b_thumb"
+		"ReleaseState"		"released"
+		"metacritic_name"		"PlanetSide 2 - Test"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_98e9a8b18a2ef6f481b8dec0567a1419a02088bd.jpg"
+		"store_asset_mtime"		"1557340709"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rogue Planet Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Daybreak Game Company"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PlanetSide"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"29"
+		}
+		"category"
+		{
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1353398400"
+		"steam_release_date"		"1557770400"
+		"community_hub_visible"		"1"
+		"gameid"		"1083500"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"128"
+			"1"		"113"
+			"2"		"19"
+			"3"		"1663"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Rogue Planet Games"
+		"publisher"		"Daybreak Game Company"
+		"homepage"		"http://www.planetside2.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"PlanetSide 2 - Test"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LaunchPad.exe"
+				"arguments"		"Updates:enable=0 Updates:PatchSelf=1 campaignID=1063272  promoID=146 launchPoint=steam launchArgs=STEAM_ENABLED=1"
+				"description"		"Game LaunchPad"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"1083501"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9139230938888452829"
+					"size"		"15043121292"
+					"download"		"12181261984"
+				}
+				"testnext"
+				{
+					"gid"		"1939014720736947581"
+					"size"		"24346420189"
+					"download"		"19115642880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"329C310695949848B66798F94ADC2DF5"
+					"size"		"F17D21371A7266328817FF9092B08678"
+					"download"		"42A39553D0C066F2FA58D7A91AB34127"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4067694"
+				"timeupdated"		"1564781181"
+			}
+			"testing"
+			{
+				"buildid"		"11591688"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689471623"
+			}
+			"testnext"
+			{
+				"buildid"		"11700036"
+				"timeupdated"		"1689307765"
+			}
+		}
+	}
+}

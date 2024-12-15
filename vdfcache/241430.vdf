@@ -1,0 +1,122 @@
+"241430"
+{
+	"common"
+	{
+		"name"		"ENDLESS™ Space - Disharmony"
+		"type"		"DLC"
+		"parent"		"208140"
+		"ReleaseState"		"released"
+		"icon"		"bea8aa5e12458748ea81e4d1c00d0eb4e0bfc1ff"
+		"app_retired_publisher_request"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_3107d2f3d82e29d9f982b29cc8ec2688a6c26380.jpg"
+		"store_asset_mtime"		"1611076372"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"AMPLITUDE Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_27"		"1"
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"gameid"		"241430"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1670"
+			"2"		"1755"
+			"3"		"3942"
+			"4"		"1677"
+			"5"		"1741"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"AMPLITUDE Studios"
+		"dlcforappid"		"208140"
+		"gamedir"		"ValveTestApp241430"
+		"homepage"		"https://www.games2gether.com/endless-space/blogs"
+		"icon"		""
+		"mustownapptopurchase"		"208140"
+		"noservers"		"0"
+		"primarycache"		"7"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"hadthirdpartycdkey"		"1"
+		"publisher"		"SEGA"
+		"GameManualURL"		"https://store.steampowered.com/manual/241430/"
+		"DLCAvailableOnStore"		"1"
+	}
+}

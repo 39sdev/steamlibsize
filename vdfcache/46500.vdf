@@ -1,0 +1,684 @@
+"46500"
+{
+	"common"
+	{
+		"name"		"Syberia"
+		"logo"		"907505ac9678e8c543fd44c12dbaf74ad7a972a9"
+		"logo_small"		"907505ac9678e8c543fd44c12dbaf74ad7a972a9_thumb"
+		"icon"		"bd19a0149639c539662f8bfc6086623dcd517214"
+		"clienttga"		"b967663436b5b650734dbae67ebae8a4cabb307d"
+		"clienticon"		"c677ca9d9519129bb9bdc020d5e056c6d0ba2ab2"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"type"		"game"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1724976000"
+			"tested_build_id"		"259962"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
+		"metacritic_name"		"Syberia"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"52.567094515752615"
+				"height_pct"		"60.63829737894366"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"52.567094515752615"
+					"height_pct"		"60.63829737894366"
+				}
+			}
+		}
+		"store_asset_mtime"		"1574845186"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Microids"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Microids"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Microids"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_29"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1030863600"
+		"steam_release_date"		"1305833340"
+		"metacritic_score"		"82"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/syberia?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"46500"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1698"
+			"2"		"1664"
+			"3"		"7208"
+			"4"		"597"
+			"5"		"1777"
+			"6"		"4166"
+			"7"		"1742"
+			"8"		"5716"
+			"9"		"1693"
+			"10"		"4182"
+			"11"		"769306"
+			"12"		"5411"
+			"13"		"1756"
+			"14"		"1697"
+			"15"		"3942"
+			"16"		"14720"
+			"17"		"1738"
+			"18"		"4975"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Microids"
+		"gamedir"		"Syberia"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"46501"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Microids"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Syberia"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Syberia.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2027456129"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"46501"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1353305385703154673"
+					"size"		"974820646"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"updatebeta"
+				{
+					"gid"		"23CDEE80200F5320B422906D8D6C5016"
+					"size"		"F82E08FCD4CB2C28391E1FBDEBDBD995"
+					"download"		"7FFB167E915A2AF7E162907886A54930"
+				}
+				"oldbuildnodxwrap"
+				{
+					"gid"		"66B8ACDE26288AF027D1AEDF370F6627"
+					"size"		"5B683B6F794CDAEFE998AFDF0B303F76"
+					"download"		"5086DE51542C7876471E89BB4443C89C"
+				}
+			}
+		}
+		"46502"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5921139987701303896"
+					"size"		"275184508"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"updatebeta"
+				{
+					"gid"		"3F6E728E51C1794C483BA946C556D8E4"
+					"size"		"5928ECCFB2307EDC8DD4BA42E98CD63D"
+					"download"		"7FFB167E915A2AF7E162907886A54930"
+				}
+				"oldbuildnodxwrap"
+				{
+					"gid"		"8651904C10650F41D8EAC1DE08D1D567"
+					"size"		"5B683B6F794CDAEFE998AFDF0B303F76"
+					"download"		"D0BB1F742833D8484F43129A00C2E5D2"
+				}
+			}
+		}
+		"46503"
+		{
+			"config"
+			{
+				"language"		"french"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"950879617490861312"
+					"size"		"255346875"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"updatebeta"
+				{
+					"gid"		"B49F74A36BBB95B8DC42904BD1DC5738"
+					"size"		"58812DC6DEA08ACB3321337D7BE7CF79"
+					"download"		"7FFB167E915A2AF7E162907886A54930"
+				}
+				"oldbuildnodxwrap"
+				{
+					"gid"		"E0391D5D1CD18332EFC29A067F348F69"
+					"size"		"56817BB0C0E9AC07D6FFEFCBA7788FD4"
+					"download"		"94F7586568127A306BE8C31D509D2BE3"
+				}
+			}
+		}
+		"46504"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6502711936563955802"
+					"size"		"264677501"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"updatebeta"
+				{
+					"gid"		"8C96FE48AA56140707AAA1162862066F"
+					"size"		"31D7740E604EB35CAC924D1021B84549"
+					"download"		"7FFB167E915A2AF7E162907886A54930"
+				}
+				"oldbuildnodxwrap"
+				{
+					"gid"		"BB7513527B6856142D0E70B349BDB816"
+					"size"		"BD42338C97CFE99CC8E6A5ECCBD3DB3F"
+					"download"		"F261EB6DBA9D591994A4C3E327FAB528"
+				}
+			}
+		}
+		"46505"
+		{
+			"config"
+			{
+				"language"		"spanish"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4021439605940724485"
+					"size"		"255678930"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"updatebeta"
+				{
+					"gid"		"56FA6D86C3048347DFC021E54A8FA8AE"
+					"size"		"F19E21AFAF86CF625A2B2096AE77B050"
+					"download"		"7FFB167E915A2AF7E162907886A54930"
+				}
+				"oldbuildnodxwrap"
+				{
+					"gid"		"910235E0DD316A5310FB005B34443A38"
+					"size"		"3252A5209AD654A654F73786D3DD7D8B"
+					"download"		"B1FECC6CA81B1A7BBDFCAE4FDD9999C1"
+				}
+			}
+		}
+		"46506"
+		{
+			"config"
+			{
+				"language"		"italian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7454374059244914014"
+					"size"		"259485016"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"updatebeta"
+				{
+					"gid"		"384C34F0E64F27987A255CBDDCF82ADE"
+					"size"		"DD9FBE6EEA83BE6BC4112FB8BD7B0437"
+					"download"		"7FFB167E915A2AF7E162907886A54930"
+				}
+				"oldbuildnodxwrap"
+				{
+					"gid"		"08ABCD789DDEFE5050D983B8366FD717"
+					"size"		"F1818F0FF811D133192AA2629BD6295D"
+					"download"		"D4F029A6AAD190A6956C019B8E11E6A2"
+				}
+			}
+		}
+		"46507"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6822888220741680607"
+					"size"		"302469169"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"updatebeta"
+				{
+					"gid"		"76FE501A0B3385C9E4DC7DDB179744B4"
+					"size"		"72DC3B41F5DE82CF5DA753ADAE46964B"
+					"download"		"7FFB167E915A2AF7E162907886A54930"
+				}
+				"oldbuildnodxwrap"
+				{
+					"gid"		"A9D255E998E80CB4D7207CECAF48B13D"
+					"size"		"47BB0A7C6A7BDF94068F3FC0E114ACC4"
+					"download"		"5340612090B56E6AF0C21EA1038BF772"
+				}
+			}
+		}
+		"46508"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7362966276855150739"
+					"size"		"434556222"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"updatebeta"
+				{
+					"gid"		"62692F0E2944FEF8A38E9C780C08C8D0"
+					"size"		"881B6582B1E3B0D1BB3116300D71448E"
+					"download"		"7FFB167E915A2AF7E162907886A54930"
+				}
+				"oldbuildnodxwrap"
+				{
+					"gid"		"68CDC8C3BB42FC411C992D239AA69F91"
+					"size"		"A82DE10B2B7E8091227081A5BAABD1B1"
+					"download"		"44BC9B6E3DF9A002FDA6981590181613"
+				}
+			}
+		}
+		"46509"
+		{
+			"config"
+			{
+				"language"		"polish"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1583365398204184907"
+					"size"		"303489984"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"updatebeta"
+				{
+					"gid"		"184B597369BAD173560B9F2AA32B1A36"
+					"size"		"0D880549EC96581CDF9CE2A8C9C9BA18"
+					"download"		"7FFB167E915A2AF7E162907886A54930"
+				}
+				"oldbuildnodxwrap"
+				{
+					"gid"		"A62720383F4618251F2AFC1340E036DE"
+					"size"		"A60EA66B51E84CCFC02E14C9A7801566"
+					"download"		"9B26C9FE661E7B9822A10C1E96AED9FF"
+				}
+			}
+		}
+		"300670"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3385543475698070728"
+					"size"		"1861166549"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"updatebeta"
+				{
+					"gid"		"883DE9751877BF65DCCB695265F959ED"
+					"size"		"3F0669CDD8B901015DE70B8CE116703C"
+					"download"		"7FFB167E915A2AF7E162907886A54930"
+				}
+				"oldbuildnodxwrap"
+				{
+					"gid"		"174C763CC317DAC7410BFCBAFA4464BC"
+					"size"		"151AB7267884B43350F068E262872C16"
+					"download"		"242D3151540373FE49651CD87DBDD6B4"
+				}
+			}
+		}
+		"300671"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"300672"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"300673"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"300674"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"300675"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"300676"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"300677"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"300678"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"300679"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"259962"
+			}
+			"updatebeta"
+			{
+				"buildid"		"259962"
+				"pwdrequired"		"1"
+			}
+			"oldbuildnodxwrap"
+			{
+				"buildid"		"16707780"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733922799"
+			}
+		}
+	}
+}

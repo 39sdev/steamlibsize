@@ -1,0 +1,148 @@
+"1033890"
+{
+	"common"
+	{
+		"name"		"Kingdom Come: Deliverance - A Woman's Lot"
+		"type"		"DLC"
+		"parent"		"379430"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"fd19969bd46f1cd1fd08ece2df48663456de3033"
+		"logo_small"		"fd19969bd46f1cd1fd08ece2df48663456de3033_thumb"
+		"icon"		"3bf0b78cf88ec04d409aada9c53f54babf82caea"
+		"clienttga"		"7dbc9772085bea4c62762e7d8c289343f8df7469"
+		"clienticon"		"63b1d8bff0f5ed060bdc8caf388381293acc7307"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"metacritic_name"		"Kingdom Come: Deliverance - A Woman's Lot"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_03dd706e9f8f742f9eeb0124b7c263adc27a0092.jpg"
+		"store_asset_mtime"		"1579255133"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Warhorse Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Warhorse Studios"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Prime Matter"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1559062994"
+		"metacritic_score"		"78"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/kingdom-come-deliverance---a-womans-lot?ftag=MCD-06-10aaa1f"
+		"gameid"		"1033890"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"19"
+			"2"		"122"
+			"3"		"4172"
+			"4"		"7208"
+			"5"		"3987"
+			"6"		"1695"
+			"7"		"1742"
+			"8"		"3839"
+			"9"		"4175"
+			"10"		"4182"
+			"11"		"4486"
+		}
+		"review_score"		"5"
+		"review_percentage"		"40"
+	}
+	"extended"
+	{
+		"dlcforappid"		"379430"
+		"mustownapptopurchase"		"379430"
+		"developer"		"Warhorse Studios"
+		"publisher"		"Warhorse Studios"
+		"homepage"		"https://www.kingdomcomerpg.com"
+		"DLCAvailableOnStore"		"1"
+	}
+}

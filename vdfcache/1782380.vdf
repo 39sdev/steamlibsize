@@ -1,0 +1,415 @@
+"1782380"
+{
+	"common"
+	{
+		"name"		"SCP: Containment Breach Multiplayer"
+		"type"		"Game"
+		"name_localized"
+		{
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"5f5f6b3c33ae2a0948da97c4ddef14921bb511c7"
+		"logo_small"		"5f5f6b3c33ae2a0948da97c4ddef14921bb511c7_thumb"
+		"icon"		"63f0143041b06a1a167a30e970a196db951071d7"
+		"clienttga"		"4bad092d8d5fd06aad3ed826c74adca0ad178caa"
+		"clienticon"		"9ddffe55583f7ae347adc07d6e66095aa72a49e6"
+		"ReleaseState"		"released"
+		"languages"
+		{
+			"english"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1665187200"
+			"tested_build_id"		"9275355"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"32.790697674418624"
+				"height_pct"		"66.5637615768226"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"32.790697674418624"
+					"height_pct"		"66.5637615768226"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1633726191"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fusion Creators Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fusion Creators Studio"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Mixarar"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"SCP: Containment Breach"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"29"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_48"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_30"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1635181283"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1782380"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"3859"
+			"2"		"113"
+			"3"		"3843"
+			"4"		"1662"
+			"5"		"1685"
+			"6"		"3839"
+			"7"		"3978"
+			"8"		"4182"
+			"9"		"4191"
+			"10"		"7368"
+			"11"		"3834"
+			"12"		"4166"
+			"13"		"128"
+			"14"		"19"
+			"15"		"21"
+			"16"		"1721"
+			"17"		"1663"
+			"18"		"1775"
+			"19"		"4667"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Fusion Creators Studio"
+		"publisher"		"Fusion Creators Studio"
+		"homepage"		"https://ko-fi.com/fusioncreatorsstudioofficial"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SCP Containment Breach Multiplayer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1782381"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1409537677580006175"
+					"size"		"512780651"
+					"download"		"308118208"
+				}
+				"beta"
+				{
+					"gid"		"6101428524989942099"
+					"size"		"509848225"
+					"download"		"305376128"
+				}
+			}
+		}
+		"workshopdepot"		"1782380"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"14728919"
+				"timeupdated"		"1720095661"
+			}
+			"beta"
+			{
+				"buildid"		"15117135"
+				"description"		"Branch for beta updates."
+				"timeupdated"		"1721684434"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"30"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		""
+				"pattern"		"options.ini"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"Data"
+				"pattern"		"*.ini"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"Saves"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}

@@ -1,0 +1,747 @@
+"548430"
+{
+	"common"
+	{
+		"name"		"Deep Rock Galactic"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"c2b3d9b2a3df9bf3084c5363bb4412ecd3877f89"
+		"logo_small"		"c2b3d9b2a3df9bf3084c5363bb4412ecd3877f89_thumb"
+		"icon"		"e033e23c29a192a17c16a7645a2b423ac64ff447"
+		"clienttga"		"833fb04df6232f6ed6f36101f647bfc00178166f"
+		"clienticon"		"68a027efd8c7a79be74b4efd7b328b7e103e4708"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"danish"		"1"
+			"dutch"		"1"
+			"finnish"		"1"
+			"swedish"		"1"
+			"hungarian"		"1"
+			"czech"		"1"
+			"romanian"		"1"
+			"turkish"		"1"
+			"arabic"		"1"
+			"brazilian"		"1"
+			"bulgarian"		"1"
+			"greek"		"1"
+			"ukrainian"		"1"
+			"vietnamese"		"1"
+			"latam"		"1"
+		}
+		"name_localized"
+		{
+			"schinese"		"深岩银河"
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1667952000"
+			"tested_build_id"		"9890837"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Deep Rock Galactic"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"98.03515337094674"
+				"height_pct"		"52.75875118259225"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+					"schinese"		"library_600x900_schinese_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+					"schinese"		"library_600x900_schinese.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomCenter"
+					"width_pct"		"98.03515337094674"
+					"height_pct"		"52.75875118259225"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1727256669"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ghost Ship Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Coffee Stain Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Coffee Stain Publishing"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_43"		"1"
+			"category_13"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_42"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1589374800"
+		"metacritic_score"		"85"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/deep-rock-galactic?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"548430"
+		"store_tags"
+		{
+			"0"		"7918"
+			"1"		"1685"
+			"2"		"6730"
+			"3"		"1663"
+			"4"		"5125"
+			"5"		"4155"
+			"6"		"1774"
+			"7"		"3834"
+			"8"		"3839"
+			"9"		"4236"
+			"10"		"3942"
+			"11"		"1755"
+			"12"		"19"
+			"13"		"4166"
+			"14"		"353880"
+			"15"		"3993"
+			"16"		"1662"
+			"17"		"1667"
+			"18"		"4342"
+			"19"		"42804"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"onquitdemomsg"		"https://steamstore-a.akamaihd.net/message/8480390441341932649/"
+		"developer"		"Ghost Ship Games"
+		"publisher"		"Coffee Stain Publishing"
+		"homepage"		"http://deeprockgalactic.com"
+		"listofdlc"		"801860,1283090,1283091,1430610,1530640,1797340,1946960,2165590,2291670,2416900,2934390"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Deep Rock Galactic"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FSD.exe"
+				"arguments"		"-nohmd"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Legacy/FSD.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"BetaKey"		"drg_legacy"
+				}
+				"description_loc"
+				{
+					"english"		"2018 Legacy Edition"
+				}
+				"description"		"2018 Legacy Edition"
+			}
+			"2"
+			{
+				"executable"		"FSD.exe"
+				"arguments"		"-nohmd -dx12"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Deep Rock Galactic (DirectX 12)"
+				}
+				"description"		"Deep Rock Galactic (DirectX 12)"
+			}
+			"3"
+			{
+				"executable"		"FSD.exe"
+				"arguments"		"-nohmd -dx11"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Deep Rock Galactic (DirectX 11)"
+				}
+				"description"		"Deep Rock Galactic (DirectX 11)"
+			}
+			"5"
+			{
+				"executable"		"FSD.exe"
+				"arguments"		"-nohmd -disablemodding -fsdsafemode -ngxdisable"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Deep Rock Galactic (Safe Mode)"
+				}
+				"description"		"Deep Rock Galactic (Safe Mode)"
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2215802204"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"1"
+		"548431"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2351511877110710574"
+					"size"		"3622944885"
+					"download"		"3286561328"
+				}
+				"drg_legacy"
+				{
+					"gid"		"8001622440487540435"
+					"size"		"4654006832"
+					"download"		"4171714688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"drg_stable"
+				{
+					"gid"		"CBF392986D04C1116606385670315B59"
+					"size"		"9B684D905DF6F6462875E2C16A346692"
+					"download"		"365EDE2E3C7BEF4F0E9C1BB22FFCFBEE"
+				}
+				"external_m__d"
+				{
+					"gid"		"4CD31298A679A8498CF6ADDED3DA8754"
+					"size"		"0E8A02BBBA53DA38BF95CA34CF3F1C3D"
+					"download"		"7944778F4A7717EE0E9923DB269EAD99"
+				}
+				"external_nonpublic"
+				{
+					"gid"		"53B7A350F90FD208D849D329F2FE4B5C"
+					"size"		"491125749847AE29176C6ABADF1B7713"
+					"download"		"5D11A0A46D6F85EA0A392B8662887E52"
+				}
+				"external_nonpublic_test"
+				{
+					"gid"		"2EBE029309122040AFC3A0C37FC6A222"
+					"size"		"67297B7CB9E1E6C9EBABC2D55BCB8604"
+					"download"		"6E4DBCCD654A9BFD1569135B726D8D70"
+				}
+				"internal_weapons_testing"
+				{
+					"gid"		"B1D4520BB195700110AFCC75FFF3E02A"
+					"size"		"05530D138B19A2A0D4E4952B6ABF1C1F"
+					"download"		"FF59CA18FB4169BE8F50C0FFD3D7BCC3"
+				}
+				"jonastest"
+				{
+					"gid"		"37195CB7D12D1F4A30B86F0610C2356B"
+					"size"		"67C7B88C475E0518FF56EFDCA4BC22A9"
+					"download"		"B27EB611A8B0EB84F0223D9495A4204E"
+				}
+				"publisher_testing"
+				{
+					"gid"		"B9E236F2AC2C1A25C2475BA514A903DB"
+					"size"		"8A67A9D0ECE6814DF0FBACDF9C043E1C"
+					"download"		"94CF6FD97B00E90DD865762414BD9C03"
+				}
+				"recording"
+				{
+					"gid"		"116675C141557D59AE093E427FE5ABAB"
+					"size"		"B6253A23E21F9AB2CEDD6E23B5D49122"
+					"download"		"4CCF5F68160502024AB8096334999EB5"
+				}
+				"special"
+				{
+					"gid"		"BC9AB7AB1E5734F2EF6E201DE32274F3"
+					"size"		"A5D1F83C225B77763F9E4DB45E7D1648"
+					"download"		"303BF2D25631CCCEB88875AFBB11BECC"
+				}
+				"teamcity_test"
+				{
+					"gid"		"95E528F70840E66B6B0EA47D3A7F5FFB"
+					"size"		"EF8E0092B093697E14404F8A700DF15E"
+					"download"		"BDC0CFC7FFFA9FC9A6E77A93E33FF553"
+				}
+				"telemetry_test"
+				{
+					"gid"		"5286AC8FFEC0C2D4600BBA157D9D1FB0"
+					"size"		"3E30762A7B300F40032FFCFA0BFAE725"
+					"download"		"0DBEA398D0A3E2A62BD7871233D6ED15"
+				}
+				"default_dev"
+				{
+					"gid"		"FDD00710799BB819AD3B78BA835B9A84"
+					"size"		"16C5AA30BBE676B50D503F78BCE3118B"
+					"download"		"7BCD53E7DC0EE2C6ECF3CF8F817137AF"
+				}
+				"drg_museum"
+				{
+					"gid"		"EEAD1A71536F1BA912BA4D69B4115766"
+					"size"		"137FEADCCE57DF3E4264BA064263D698"
+					"download"		"15933A7D26974327AB62424CFF1C4FAE"
+				}
+				"experimental_closed"
+				{
+					"gid"		"EF94EDD3012AC8A72BEC043EC88792CC"
+					"size"		"EE272EF63EAF887E7C005F4343643E53"
+					"download"		"9F5CFB313D421FD41986A0AAF9AF17E8"
+				}
+				"external_nonpublic_2"
+				{
+					"gid"		"521C629937E8E7051F4B079582B36A8A"
+					"size"		"CF8D0FC95CDC02409CCE6E66A7048F90"
+					"download"		"5B877201774CDABB48A4430B95E891C9"
+				}
+				"external_private"
+				{
+					"gid"		"40E9D6FCCFA5D60AF34833F2F80BD9B3"
+					"size"		"44DD3D579B55B2BE8CDF46D9FF3ACA6B"
+					"download"		"FCED068A03EED54C204A6564BEFF7975"
+				}
+				"internal_testing"
+				{
+					"gid"		"2448DB8BA1EA1819299F9382AEC48831"
+					"size"		"3360A475A2962BF26E47F875FC668072"
+					"download"		"8E6B276949AD1F1CFD3F0F9280257A05"
+				}
+				"internal_testing_alpha"
+				{
+					"gid"		"36FC3F842F4D60A2B637267541C3B52B"
+					"size"		"561563AEEB4665E4EDE74DCE15E27D34"
+					"download"		"E321E6B299397E3CF2B677B0789B61AD"
+				}
+				"internal_testing_tech"
+				{
+					"gid"		"57925B839FE46042A8BB13C2187BF309"
+					"size"		"403D4224D589B7AB9FB68A8B54EC863E"
+					"download"		"BF82692967E6102BAFA7DC03FE6C69F9"
+				}
+				"latest_translations"
+				{
+					"gid"		"02D33397BBAFB9AC73A16929205C142B"
+					"size"		"F0FB5821C34F71D645D0F28F6310D301"
+					"download"		"A2B7D19187E653F331456BA6D66C3176"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16678700"
+				"timeupdated"		"1733740390"
+			}
+			"drg_stable"
+			{
+				"buildid"		"6590389"
+				"pwdrequired"		"1"
+				"timeupdated"		"1619211508"
+			}
+			"external_m__d"
+			{
+				"buildid"		"6664695"
+				"pwdrequired"		"1"
+				"timeupdated"		"1620394870"
+			}
+			"external_nonpublic"
+			{
+				"buildid"		"12760052"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702393715"
+			}
+			"external_nonpublic_test"
+			{
+				"buildid"		"11295470"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684837877"
+			}
+			"internal_weapons_testing"
+			{
+				"buildid"		"10664422"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677671103"
+			}
+			"jonastest"
+			{
+				"buildid"		"4624174"
+				"pwdrequired"		"1"
+				"timeupdated"		"1580422619"
+			}
+			"publisher_testing"
+			{
+				"buildid"		"9392860"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661784160"
+			}
+			"recording"
+			{
+				"buildid"		"11421041"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686216183"
+			}
+			"special"
+			{
+				"buildid"		"12950782"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702892991"
+			}
+			"teamcity_test"
+			{
+				"buildid"		"6991330"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625645336"
+			}
+			"telemetry_test"
+			{
+				"buildid"		"9947757"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668583850"
+			}
+			"default_dev"
+			{
+				"buildid"		"15728378"
+				"pwdrequired"		"1"
+				"timeupdated"		"1726573686"
+			}
+			"drg_legacy"
+			{
+				"buildid"		"16679110"
+				"description"		"DRG + 2018 Legacy Edition"
+				"timeupdated"		"1733741002"
+			}
+			"drg_museum"
+			{
+				"buildid"		"9444819"
+				"pwdrequired"		"1"
+				"timeupdated"		"1723475568"
+			}
+			"experimental_closed"
+			{
+				"buildid"		"15977521"
+				"pwdrequired"		"1"
+				"timeupdated"		"1728482536"
+			}
+			"external_nonpublic_2"
+			{
+				"buildid"		"14390117"
+				"pwdrequired"		"1"
+				"timeupdated"		"1715870250"
+			}
+			"external_private"
+			{
+				"buildid"		"14559180"
+				"pwdrequired"		"1"
+				"timeupdated"		"1717155186"
+			}
+			"internal_testing"
+			{
+				"buildid"		"16678837"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733739222"
+			}
+			"internal_testing_alpha"
+			{
+				"buildid"		"16678700"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733739558"
+			}
+			"internal_testing_tech"
+			{
+				"buildid"		"14676281"
+				"pwdrequired"		"1"
+				"timeupdated"		"1718194046"
+			}
+			"latest_translations"
+			{
+				"buildid"		"16748892"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734233694"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"FSD/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}

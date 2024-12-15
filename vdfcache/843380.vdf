@@ -1,0 +1,464 @@
+"843380"
+{
+	"common"
+	{
+		"name"		"Super Animal Royale"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"843380_eula_0"
+				"name"		"Super Animal Royale EULA"
+				"url"		"https://store.steampowered.com//eula/843380_eula_0"
+				"version"		"4"
+			}
+		}
+		"logo"		"4b5d317c25dbbe4c644532f55def657d432bc8e2"
+		"logo_small"		"4b5d317c25dbbe4c644532f55def657d432bc8e2_thumb"
+		"icon"		"6a82d5c1f9bb1d7a54fc30dae6b44b123505bc91"
+		"clienticon"		"f96b40ed1636e76e4331a4782d98809eac6d7c1f"
+		"clienttga"		"5a3f8ebf07b272f574eb59101a7396db1a55737d"
+		"clienticns"		"414e7737e8d53db96c86a0de6908e0a607ab8fef"
+		"osextended"		"macos64"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1714780800"
+			"tested_build_id"		"14197520"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-9.0-1RC"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
+		"metacritic_name"		"Super Animal Royale"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"50"
+					"height_pct"		"50"
+				}
+			}
+		}
+		"store_asset_mtime"		"1729013827"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pixile"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pixile"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Super Animal Royale"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"29"
+			"5"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630007656"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"843380"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"176981"
+			"1"		"113"
+			"2"		"4726"
+			"3"		"3859"
+			"4"		"597"
+			"5"		"3843"
+			"6"		"1774"
+			"7"		"128"
+			"8"		"4136"
+			"9"		"4747"
+			"10"		"1685"
+			"11"		"4637"
+			"12"		"19"
+			"13"		"1775"
+			"14"		"492"
+			"15"		"1662"
+			"16"		"4305"
+			"17"		"5350"
+			"18"		"3854"
+			"19"		"21"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Pixile"
+		"publisher"		"Pixile"
+		"homepage"		"https://animalroyale.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"997330,1475530,1475540,1695290,1784150,1899030,1984600,2095020,2173400,2255940,2374860,2524160,2640070,3095340"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Super Animal Royale"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Super Animal Royale.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Super Animal Royale.app/Contents/MacOS/Super Animal Royale"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"843381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8861636263292644670"
+					"size"		"1719206238"
+					"download"		"473334304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"gametest"
+				{
+					"gid"		"FA69D96A21C238C0F6E03096A6BCC388"
+					"size"		"506B62925F3FD79DBFB3D8AF27B87D45"
+					"download"		"2DCFDCDCDAAA3D97305C1B1F6F36B4E3"
+				}
+				"test1"
+				{
+					"gid"		"D72B02797694E44B1C69E85DF9DB46D4"
+					"size"		"8AD3EB63A14DA92705E500245DDEA68B"
+					"download"		"8096112B89FE4077F12986AAA1264CDD"
+				}
+				"developer"
+				{
+					"gid"		"85F6B5E2437732544CF6A4BE63E38A55"
+					"size"		"E762413123D170E6473DFDB1D4CE9009"
+					"download"		"72DD709432928C98ABA3D261025A9C8E"
+				}
+				"preview2"
+				{
+					"gid"		"E7527E8772AFD10B78A1340D716123C8"
+					"size"		"9511A8D1C9C0C58082301423D5E7B013"
+					"download"		"E050A6FC47BF92B43063C9BF41224540"
+				}
+				"superdev"
+				{
+					"gid"		"0F435903E2D81E02F5139FADF5B94A01"
+					"size"		"B1DE6B0967123EE20E56A20FECBE9AA4"
+					"download"		"5FB5504F74329A399D45639348397A9C"
+				}
+			}
+		}
+		"843382"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4047485992436516044"
+					"size"		"1689452163"
+					"download"		"466865328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"gametest"
+				{
+					"gid"		"92674986823D3E7118204AF375BB1606"
+					"size"		"BDE595149A20DD9DC9691D910299BD92"
+					"download"		"46A1F3E7F78D0345B2ACF40B9F78C23D"
+				}
+				"test1"
+				{
+					"gid"		"4D3AF227E54632778B55240D437528A2"
+					"size"		"B8332C1781D4039E364915502C1C7556"
+					"download"		"11E62CCCA9171EF0497AA86192CEB8F9"
+				}
+				"developer"
+				{
+					"gid"		"A0395DAD3A8B9DC55C6C432FB8AAF1DB"
+					"size"		"C89DDC57286450DEACE3696D6163CD39"
+					"download"		"2769E9EBFB23FF8FEDA698ED567AB429"
+				}
+				"preview2"
+				{
+					"gid"		"36750AAC32CC73B6C149A102063FBC0E"
+					"size"		"0310588CBE277676935E4D4DDADD2E6B"
+					"download"		"8B9B3B781E29DCD9873460D9C8B1F73B"
+				}
+				"superdev"
+				{
+					"gid"		"B47B954C169D2D2D9C876687FBC735D5"
+					"size"		"F704E28AED0F3D577C49DC6752D1E8F5"
+					"download"		"588AFB01F88A5039C0DFC74A6A71F895"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16707996"
+				"timeupdated"		"1733992321"
+			}
+			"gametest"
+			{
+				"buildid"		"13539243"
+				"pwdrequired"		"1"
+				"timeupdated"		"1708663170"
+			}
+			"test1"
+			{
+				"buildid"		"4895137"
+				"pwdrequired"		"1"
+				"timeupdated"		"1586854877"
+			}
+			"developer"
+			{
+				"buildid"		"16681499"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733754810"
+			}
+			"preview2"
+			{
+				"buildid"		"16707996"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733924066"
+			}
+			"superdev"
+			{
+				"buildid"		"16707996"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733924074"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000"
+		"maxnumfiles"		"1"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}

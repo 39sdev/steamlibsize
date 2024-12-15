@@ -1,0 +1,169 @@
+"225340"
+{
+	"common"
+	{
+		"name"		"XCOM: Enemy Within"
+		"type"		"DLC"
+		"parent"		"200510"
+		"oslist"		"windows,linux"
+		"logo"		"f646330596d02cd81af9d095d1b1df7c01091def"
+		"logo_small"		"f646330596d02cd81af9d095d1b1df7c01091def_thumb"
+		"icon"		"cdc01a6e59b652f6a340ddd61c333ee0865ddb74"
+		"ReleaseState"		"released"
+		"osarch"		""
+		"metacritic_name"		"XCOM: Enemy Within"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_e3ef39f30c25da9d202d84366f8ba9dbf91960e8.jpg"
+		"store_asset_mtime"		"1537458727"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Firaxis Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Feral Interactive (Linux)"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"2K"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Feral Interactive (Linux)"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_27"		"1"
+			"category_23"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"1"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"1"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"1"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"1"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"metacritic_score"		"86"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/xcom-enemy-within?ftag=MCD-06-10aaa1f"
+		"gameid"		"225340"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1741"
+			"2"		"1708"
+			"3"		"3942"
+			"4"		"1677"
+			"5"		"1673"
+			"6"		"4182"
+			"7"		"7332"
+			"8"		"19"
+			"9"		"4026"
+			"10"		"122"
+			"11"		"4821"
+			"12"		"3859"
+			"13"		"1759"
+			"14"		"14139"
+			"15"		"1733"
+			"16"		"4190"
+			"17"		"4325"
+			"18"		"25085"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Firaxis Games"
+		"dlcforappid"		"200510"
+		"gamedir"		"ValveTestApp225340"
+		"homepage"		"http://www.xcom.com/enemywithin/"
+		"icon"		""
+		"mustownapptopurchase"		"200510"
+		"noservers"		"0"
+		"primarycache"		"7"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"thirdpartycdkey"		"1"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"2K"
+		"DLCAvailableOnStore"		"1"
+	}
+}

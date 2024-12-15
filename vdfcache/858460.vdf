@@ -1,0 +1,424 @@
+"858460"
+{
+	"common"
+	{
+		"name"		"SMITE - Public Test"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienticon"		"28bbf3e47b12772da20420f78fa741f05c1a0e05"
+		"clienttga"		"3af45de2012156f0cdb9e3afd0a42c8bfd5bd166"
+		"icon"		"20e160ebdeddbb45f1066f62797cee2dff94da95"
+		"logo"		"ed84d684b6a3e4afd5bd0ffa86f38320512ecfd5"
+		"logo_small"		"ed84d684b6a3e4afd5bd0ffa86f38320512ecfd5_thumb"
+		"metacritic_name"		"Smite - Public Test"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"50"
+					"height_pct"		"50"
+				}
+			}
+		}
+		"store_asset_mtime"		"1575909091"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hi-Rez Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hi-Rez Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"community_hub_visible"		"1"
+		"gameid"		"858460"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"113"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Hi-Rez Studios"
+		"publisher"		"Hi-Rez Studios"
+		"homepage"		"https://www.smitegame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"smite pt"
+		"launch"
+		{
+			"2"
+			{
+				"executable"		"SmiteEAC64.exe"
+				"arguments"		"-anticheat_settings=PTSSettings.json -pid=019 -steam -seekfreeloadingpcconsole  -eac_dir \"..\\\\EasyAntiCheat\\\\\""
+				"workingdir"		"Binaries"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch 64"
+				}
+				"description"		"Launch 64"
+			}
+			"3"
+			{
+				"executable"		"HirezLauncherUI.app\\Contents\\MacOS\\Smite.app"
+				"arguments"		"-pid=019 -steam -anon"
+				"workingdir"		"HirezLauncherUI.app\\Contents\\MacOS"
+				"description"		"Launch Mac"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"4"
+			{
+				"executable"		"Binaries\\Win64\\SmiteEAC.exe"
+				"arguments"		"-pid=019 -steam -anon -eac_launcher_settings Settings64.json -seekfreeloadingpcconsole -eac_dir \"..\\\\EasyAntiCheat\\\\\""
+				"workingdir"		"Binaries"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"BetaKey"		"pts_latest"
+				}
+				"description_loc"
+				{
+					"english"		"SMITE 64-bit Old EAC"
+				}
+				"description"		"SMITE 64-bit Old EAC"
+			}
+		}
+	}
+	"depots"
+	{
+		"858461"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4904889555528746223"
+					"size"		"41016105441"
+					"download"		"39260089008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pts_hotfix"
+				{
+					"gid"		"FC92E346510355ADB3B676353E943E22"
+					"size"		"F63BA53B4228598FECFAE6E44B8EEE33"
+					"download"		"1F1E2458596EA39FE64B3864B69095F4"
+				}
+				"pts_latest"
+				{
+					"gid"		"825563B10CEE0333A893C0FCFB7CCA4D"
+					"size"		"67ED1CD5439C6F044AE7506FE836DC3B"
+					"download"		"FC760EC72087239E0723BB09F1A37645"
+				}
+				"pts_nda_tester"
+				{
+					"gid"		"238ED41269390CF1913A1E1C2A5248F9"
+					"size"		"402237180AE846BDED46C6A43CE65F8A"
+					"download"		"A4A117A239B7C7D4B7559AD0BACB770E"
+				}
+			}
+		}
+		"858462"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4067352136424872448"
+					"size"		"21641091512"
+					"download"		"13840738768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pts_hotfix"
+				{
+					"gid"		"CA9A378D0795D9B30DC30FC6832CD858"
+					"size"		"1F5700202240AB682DBA55367BCC4994"
+					"download"		"ABD49D7B51964484656174481B698AE1"
+				}
+				"pts_latest"
+				{
+					"gid"		"8EA73980665F6BE077992F753AE380AF"
+					"size"		"C595EF455DD7D912A2B9AD94675F3DF1"
+					"download"		"2E503B47F1C9586E2AEAAA915B427E3D"
+				}
+				"pts_nda_tester"
+				{
+					"gid"		"971D2BA17CCDED508048BF9C867E1620"
+					"size"		"CA458A67F152D63DE4A01B946485F5E3"
+					"download"		"7D5275B2E36684C9FA44053DD8DF88EB"
+				}
+			}
+		}
+		"858463"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6809471240616188214"
+					"size"		"10829410833"
+					"download"		"8236422064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pts_hotfix"
+				{
+					"gid"		"AFB31A509D3DD0E03B1EFB5CCA110324"
+					"size"		"72E62767D288C3BF1868E4F5A9E2D2BF"
+					"download"		"DEE97E23C45818E9C2AF78B1E3052BE1"
+				}
+				"pts_latest"
+				{
+					"gid"		"1C34BDC5C5ADD29E48F2908D8304BCBD"
+					"size"		"28FFA12DCE79A268FDD10CC601B1796F"
+					"download"		"5E0F6B13C7E63FD9EDC1577A78B8FEE2"
+				}
+				"pts_nda_tester"
+				{
+					"gid"		"BE7CBD402657C9F29F05BE7B7791517E"
+					"size"		"89111D474B5A66410F09D4DAF8A95F66"
+					"download"		"50D170ED60725C5F79BBBA07A088B555"
+				}
+			}
+		}
+		"858464"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7095170354694430587"
+					"size"		"9352138410"
+					"download"		"7119918080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pts_hotfix"
+				{
+					"gid"		"B23A05584FD9A5A91D4FF01B30FF8751"
+					"size"		"50DCFAE67858D4CD311E9FE0941A37A8"
+					"download"		"9DEAFD9B2A01A7BED5AE966DCB6DAE1D"
+				}
+				"pts_latest"
+				{
+					"gid"		"6916BF86C5F6614A5FABCA53EC1F09D9"
+					"size"		"5A29CD0D221F9398953EB18281B75A14"
+					"download"		"9F5C7CC72F21A2C339BD2D5DC2B85E6F"
+				}
+				"pts_nda_tester"
+				{
+					"gid"		"18090C47F4E004DF02D6BFE31E6B5B6A"
+					"size"		"7430E2962C917EE551210605E57A8D0A"
+					"download"		"D5C9AECE2EEA5F01906211C12C0A95DE"
+				}
+			}
+		}
+		"858465"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2504018785182972483"
+					"size"		"1634448826"
+					"download"		"1248320864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pts_hotfix"
+				{
+					"gid"		"D42DDA226A9311B7787E04433B313D74"
+					"size"		"022A2C448F9A4B294DC08DC71742C921"
+					"download"		"555530457B5CEC3434587BE437EF75E8"
+				}
+				"pts_latest"
+				{
+					"gid"		"CE7BA4BEE575585CA0FF3AFA78FD50F5"
+					"size"		"32BAB85A9C6F3F57FBF43E6CF1B3E060"
+					"download"		"3AA94AEBBC562D524C67C047AD06B7B2"
+				}
+				"pts_nda_tester"
+				{
+					"gid"		"A6E9168B69AC474F5773740CADA7AF21"
+					"size"		"4BC4397D9CF67C223DCAF132152BD2DC"
+					"download"		"7CC06D867ACB46A15EEA4360429CD760"
+				}
+			}
+		}
+		"858466"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3001259581031684847"
+					"size"		"1500662454"
+					"download"		"1138797584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pts_hotfix"
+				{
+					"gid"		"058790BB9A3FD7A0D962390FAD7A02DC"
+					"size"		"C693619BF8DCA35C29501CD0EEB081DD"
+					"download"		"05DF799615F76B079365BB303F335728"
+				}
+				"pts_latest"
+				{
+					"gid"		"33A13821E865765B48DDD13A4F4F279B"
+					"size"		"25D619535060BADAD882673297A626F2"
+					"download"		"08719C45CF3D21467ABA4B679794C21F"
+				}
+				"pts_nda_tester"
+				{
+					"gid"		"1D7E32808FC087E64FF0059BB3E48882"
+					"size"		"AA0499E4F2288D867554B3918B32EB40"
+					"download"		"733C8B68A15F531B52808F42810D030C"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"15137439"
+				"timeupdated"		"1722458473"
+			}
+			"pts_hotfix"
+			{
+				"buildid"		"15369911"
+				"pwdrequired"		"1"
+				"timeupdated"		"1723647017"
+			}
+			"pts_latest"
+			{
+				"buildid"		"16630198"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733321792"
+			}
+			"pts_nda_tester"
+			{
+				"buildid"		"16220160"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730921103"
+			}
+		}
+	}
+}

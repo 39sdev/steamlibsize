@@ -1,0 +1,238 @@
+"644540"
+{
+	"common"
+	{
+		"name"		"Dies irae ~Amantes amentes~"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"39a503f05a04e5ec27811c048c858f76eb186125"
+		"logo_small"		"39a503f05a04e5ec27811c048c858f76eb186125_thumb"
+		"icon"		"1f74f68180f575818a6141eb61f138db58bfefa1"
+		"clienttga"		"ca4c4a1274f2c41e2bc7681c3d7db7c068cd46ef"
+		"clienticon"		"474064a6322b2eddf942f60e7f4fd9e444a827ed"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"restricted_countries"		"DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1719446400"
+			"tested_build_id"		"3603154"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-9.0-2RC"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
+		"metacritic_name"		"Dies irae ~Amantes amentes~"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_18265921e53498e8f918d960b1e1f6ebb11091cb.jpg"
+		"store_asset_mtime"		"1496217605"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"light"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"views Co., Ltd"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"light"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1496391078"
+		"community_hub_visible"		"1"
+		"gameid"		"644540"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"4085"
+			"2"		"21"
+			"3"		"4667"
+			"4"		"1742"
+			"5"		"113"
+			"6"		"1756"
+			"7"		"12095"
+			"8"		"15277"
+			"9"		"19"
+			"10"		"4345"
+			"11"		"6650"
+			"12"		"4947"
+			"13"		"4150"
+			"14"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"light"
+		"publisher"		"views Co., Ltd"
+		"isfreeapp"		"1"
+		"listofdlc"		"645770,645771,1038510,1038530"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dies irae ~Amantes amentes~"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"malie.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"644541"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6529906334408471580"
+					"size"		"3533074960"
+					"download"		"3304134480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"4497DC2DBE3B37767A6BBC9626FC6B61"
+					"size"		"270C45F082D879C2D60D7F91465CC82D"
+					"download"		"2385B84B5AA1E85C77A7D398DE74C138"
+				}
+			}
+		}
+		"1038510"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8114413723437365805"
+					"size"		"1375729303"
+					"download"		"1371818912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"61AEFA1D413889E5FAF89D619D36309F"
+					"size"		"85E207EF0A03C78BB3118D7E0F1F2CB6"
+					"download"		"E3AD10C468E90A6D3D0C00523E1D31C4"
+				}
+			}
+			"dlcappid"		"1038510"
+		}
+		"1038530"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2628413682391660317"
+					"size"		"351026154"
+					"download"		"352179616"
+				}
+			}
+			"dlcappid"		"1038530"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3603154"
+				"timeupdated"		"1551351079"
+			}
+			"test"
+			{
+				"buildid"		"16644649"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733409720"
+			}
+		}
+	}
+}

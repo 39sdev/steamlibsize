@@ -1,0 +1,848 @@
+"293760"
+{
+	"common"
+	{
+		"name"		"Automation - The Car Company Tycoon Game"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"9a334f718dea16ced8c8462a315c7878d925ef13"
+		"logo_small"		"9a334f718dea16ced8c8462a315c7878d925ef13_thumb"
+		"clienticon"		"136aa034a03e9ce49e4630475a5fdd235cc0025b"
+		"clienttga"		"76be6c7b4d2dcbb2cc76485f1c0f8b9d69239240"
+		"icon"		"122c5b0d86f1c5eb80243d63abb22999061dc414"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1668124800"
+			"tested_build_id"		"8579218"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Automation - The Car Company Tycoon Game"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"44.070011668611386"
+				"height_pct"		"44.899786274044175"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"UpperCenter"
+					"width_pct"		"44.070011668611386"
+					"height_pct"		"44.899786274044175"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1721698523"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Camshaft Software Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Camshaft Software Ltd"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"9"
+			"2"		"28"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_30"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1426176164"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"293760"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"12472"
+			"2"		"1643"
+			"3"		"3810"
+			"4"		"1100687"
+			"5"		"4175"
+			"6"		"9"
+			"7"		"493"
+			"8"		"1702"
+			"9"		"1036"
+			"10"		"1669"
+			"11"		"492"
+			"12"		"699"
+			"13"		"5794"
+			"14"		"4182"
+			"15"		"4695"
+			"16"		"4711"
+			"17"		"3968"
+			"18"		"9204"
+			"19"		"255534"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"gamedir"		"Automation"
+		"serverbrowsername"		"Automation - The Car Company Tycoon Game"
+		"developer"		"Camshaft Software Ltd"
+		"publisher"		"Camshaft Software Ltd"
+		"homepage"		"http://automationgame.com"
+		"gamemanualurl"		"https://store.steampowered.com/manual/293760/"
+		"listofdlc"		"350690,359180"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Automation"
+		"launch"
+		{
+			"7"
+			{
+				"executable"		"Automation_Shipping_Steam.exe"
+				"config"
+				{
+					"BetaKey"		"kee_and_ue4_17"
+				}
+				"description_loc"
+				{
+					"english"		"Play Legacy Automation (Kee Version)"
+					"italian"		"Riproduzione dell'automazione legacy (versione Kee)"
+					"schinese"		"玩旧版本（Kee版）"
+					"russian"		"Играть в устаревшую Automation (версия на Kee Engine)"
+					"polish"		"Zagraj w starszą wersję (Kee wersja)"
+				}
+				"description"		"Play Legacy Automation (Kee Version)"
+			}
+			"8"
+			{
+				"executable"		"UE424/AutomationGame/Binaries/Win64/AutomationGame-Win64-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"BetaKey"		"lcv41_ue424_2021"
+				}
+				"description_loc"
+				{
+					"english"		"Play Legacy Version"
+					"schinese"		"玩旧版本"
+					"russian"		"Играть в устаревшую версию"
+					"polish"		"Zagraj w starszą wersję"
+				}
+				"description"		"Play Legacy Version"
+			}
+			"9"
+			{
+				"executable"		"UE424/AutomationGame/Binaries/Win32/AutomationGame-Win32-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+					"BetaKey"		"lcv41_ue424_2021"
+				}
+				"description_loc"
+				{
+					"english"		"Play Legacy Version"
+					"schinese"		"玩旧版本"
+					"russian"		"Играть в устаревшую версию"
+					"polish"		"Zagraj w starszą wersję"
+				}
+				"description"		"Play Legacy Version"
+			}
+			"10"
+			{
+				"executable"		"UE427/AutomationGame/Binaries/Win64/AutomationGame.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"BetaKey"		"nightly"
+				}
+				"description_loc"
+				{
+					"english"		"Nightly Dev"
+					"italian"		"Sviluppo notturno"
+					"russian"		"Ночная сборка"
+				}
+				"description"		"Nightly Dev"
+			}
+			"11"
+			{
+				"executable"		"UE427/AutomationGame/Binaries/Win64/AutomationGame-Win64-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play Automation"
+					"schinese"		"玩Automation"
+					"russian"		"Играть в Automation"
+					"polish"		"Włącz Automation"
+				}
+				"description"		"Play Automation"
+			}
+			"13"
+			{
+				"executable"		"Automation Launcher Steam.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Troubleshooting Tool"
+					"italian"		"Strumento di risoluzione dei problemi"
+					"russian"		"Инструмент устранения неполадок"
+				}
+				"description"		"Troubleshooting Tool"
+			}
+			"14"
+			{
+				"executable"		"MacNoEditor/AutomationGame-Mac-Shippingx86_64.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Play Automation (Mac)"
+				}
+				"description"		"Play Automation (Mac)"
+			}
+			"16"
+			{
+				"executable"		"UE421/AutomationGame/Binaries/Win64/AutomationGame-Win64-Shipping.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"BetaKey"		"ue4_21"
+				}
+				"description_loc"
+				{
+					"english"		"Launch UE421"
+				}
+				"description"		"Launch UE421"
+			}
+			"17"
+			{
+				"executable"		"Automation Launcher Steam.exe"
+				"config"
+				{
+					"BetaKey"		"ue4_21"
+				}
+				"description_loc"
+				{
+					"english"		"Launcher UE421"
+				}
+				"description"		"Launcher UE421"
+			}
+			"18"
+			{
+				"executable"		"UE427/AutomationGame/Binaries/Win64/AutomationGame-Win64-Shipping.exe"
+				"arguments"		"-vulkan"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play Automation (Vulkan)"
+				}
+				"description"		"Play Automation (Vulkan)"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,japanese,portuguese,polish,turkish,brazilian"
+		"workshopdepot"		"293760"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"293762"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"293761"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5405252291094443494"
+					"size"		"30693764670"
+					"download"		"9743617920"
+				}
+				"lcv_4.2"
+				{
+					"gid"		"4534996427396207041"
+					"size"		"28409166057"
+					"download"		"9391355712"
+				}
+				"lcv41_ue424_2021"
+				{
+					"gid"		"691896837012212079"
+					"size"		"30004274001"
+					"download"		"10653799920"
+				}
+				"ue4_21"
+				{
+					"gid"		"9027665523546215854"
+					"size"		"20716551707"
+					"download"		"5256896736"
+				}
+				"kee_and_ue4_17"
+				{
+					"gid"		"5901505336782578540"
+					"size"		"8376097381"
+					"download"		"3718708144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"exporterrc"
+				{
+					"gid"		"3E03731C038E14561C1A3DB1B6F92970"
+					"size"		"6E79509CAF8BC262F9703679E3EA6234"
+					"download"		"3B05B35F4C17ACB76F68240C6E871873"
+				}
+				"exportertest"
+				{
+					"gid"		"FA36387AE6A56F09666A913ED9288D70"
+					"size"		"4565E47F64250C21AF58AFEFBC39F67B"
+					"download"		"CD6818030C23FE4DA4D442935DE6CA62"
+				}
+				"internal"
+				{
+					"gid"		"7574FD323406F5AD8B8EA949BAA66F3D"
+					"size"		"B0E2B9A5D1E7016CAD6258C9A1DA96CD"
+					"download"		"C0856B4032E49E1CFC661D0B2C3473F4"
+				}
+				"rollback"
+				{
+					"gid"		"F03A9F0D3844DDCF33DECB708CBA03C4"
+					"size"		"9F93DE4EBC0D556F50EE9B498B6CB1C0"
+					"download"		"6B049C3BD71EEB1E0B3B855C00903E44"
+				}
+				"soundtest"
+				{
+					"gid"		"2A5A0816356EEEA736D10783DCCCEB38"
+					"size"		"937ABD551D47355A4A504BFCFF679E60"
+					"download"		"644264DE8A02CFBDCAF169197BA96303"
+				}
+				"closedbeta"
+				{
+					"gid"		"F809FD3A618236D3971F9DA9C007F26B"
+					"size"		"E707855E2073F56CFC13116F3283B906"
+					"download"		"6F8EB67B8AC80FBAD296D0ABE9EB2864"
+				}
+				"mac_testing"
+				{
+					"gid"		"293FA1E207DCC74C71031323CFF5D5BD"
+					"size"		"A4924B7B399F277DC5A78D4070224D48"
+					"download"		"D64316BA2443BCC8F6ACC5E25542C5E4"
+				}
+			}
+		}
+		"359180"
+		{
+			"dlcappid"		"359180"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2123245250755802066"
+					"size"		"347932256"
+					"download"		"299104768"
+				}
+				"lcv_4.2"
+				{
+					"gid"		"2123245250755802066"
+					"size"		"347932256"
+					"download"		"299104768"
+				}
+				"lcv41_ue424_2021"
+				{
+					"gid"		"2123245250755802066"
+					"size"		"347932256"
+					"download"		"299104768"
+				}
+				"ue4_21"
+				{
+					"gid"		"2123245250755802066"
+					"size"		"347932256"
+					"download"		"299104768"
+				}
+				"kee_and_ue4_17"
+				{
+					"gid"		"2123245250755802066"
+					"size"		"347932256"
+					"download"		"299104768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"exporterrc"
+				{
+					"gid"		"A830D9955996DE8932F4BF1295384A87"
+					"size"		"74C0360DA9496757CC00544F8171557B"
+					"download"		"2B128C7697BB4FD2862735968ADDE137"
+				}
+				"exportertest"
+				{
+					"gid"		"F9C5C1E11F7BA9E01A6A006453DC8365"
+					"size"		"A693D5898A2C9553DE9A9FB68F99A9F9"
+					"download"		"55AC78405467786E73AB99F9B27D3277"
+				}
+				"internal"
+				{
+					"gid"		"379B22C327B51F99896E51A0E3D03EA4"
+					"size"		"F37255EE72DC0B90D1CA45372BA4C629"
+					"download"		"628E6B2980A2A87247EC2C036D695F16"
+				}
+				"rollback"
+				{
+					"gid"		"B90F8C15E58EB841F0892489F4F372C9"
+					"size"		"F575707C90359444D62598E50F8F299F"
+					"download"		"C3B92A34056AA324B3411FCC3C94B591"
+				}
+				"soundtest"
+				{
+					"gid"		"B966CCD97A7BF2E4F9C5C2CF523D43D4"
+					"size"		"82F90D37DBAD8D06BD77E8510B72200B"
+					"download"		"0DD13740DD22D80B13CBD94076DB84D5"
+				}
+				"closedbeta"
+				{
+					"gid"		"66E23397A6B51906F29012FEEEBDF54D"
+					"size"		"FB20A6FD367E27C32833B4AE0D284BD7"
+					"download"		"9B04CEE824471370313E858B141E5E55"
+				}
+				"mac_testing"
+				{
+					"gid"		"1AA0EEC3B7DD00BAC9BEC09CAF283124"
+					"size"		"75E9232A9CBA05DD0AA866DC8C6E51CB"
+					"download"		"12560D7EA07D4E2C3AE96517DFEB272C"
+				}
+			}
+		}
+		"293763"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7913112453872615129"
+					"size"		"29925108692"
+					"download"		"9822498848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"exporterrc"
+				{
+					"gid"		"9DD997881A04439C9BA421D4391CABA5"
+					"size"		"D8BAE91C744553AF9C8328FFAF5D0AD1"
+					"download"		"11AC76AE9562CC771CB31FBDD6F448EC"
+				}
+				"exportertest"
+				{
+					"gid"		"D030E2E3C67D6001413A7027F5FA1D75"
+					"size"		"289F9E67D102963182A4BEBA0CA8C1B9"
+					"download"		"9AA5CFC4FC1BC30B2F5E928C0073EBC9"
+				}
+				"internal"
+				{
+					"gid"		"1ECC50134EFC479861952D6EF29922FD"
+					"size"		"93D3C75CF336A307B7B502D5BEA3D21D"
+					"download"		"F9B32CA941AC2AEAE9FAFCA1AF8D9617"
+				}
+				"rollback"
+				{
+					"gid"		"2F7E825926FF4918736DE4A3854DB149"
+					"size"		"A1C36C494450C6F183A5DE8B05255174"
+					"download"		"2D93A4579D9CAF46BF230EC8615A2091"
+				}
+				"soundtest"
+				{
+					"gid"		"3F3A45D93E0BEC591794612F38269361"
+					"size"		"414D84B0889FBD4105907D9D0FAB364A"
+					"download"		"94494D2BE23E842850595868C5B59DA7"
+				}
+				"closedbeta"
+				{
+					"gid"		"FDB02ADF4E2F8935475F2CB447DA20D8"
+					"size"		"586C9B9C6B2F7914318CE24F40C76D88"
+					"download"		"E577CC7BFF8ADCE809B7DBA2830DB680"
+				}
+				"mac_testing"
+				{
+					"gid"		"30E6C698532598ED8B4A309D5F1D8708"
+					"size"		"559B89F89F810AD83CB448FF6F811A08"
+					"download"		"33D94AED566F887147E26D72FDC134D7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"15110129"
+				"timeupdated"		"1721640594"
+			}
+			"exporterrc"
+			{
+				"buildid"		"15178962"
+				"pwdrequired"		"1"
+				"timeupdated"		"1722188303"
+			}
+			"exportertest"
+			{
+				"buildid"		"15870611"
+				"pwdrequired"		"1"
+				"timeupdated"		"1727665439"
+			}
+			"internal"
+			{
+				"buildid"		"16733880"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734086431"
+			}
+			"rollback"
+			{
+				"buildid"		"13388767"
+				"pwdrequired"		"1"
+				"timeupdated"		"1720136524"
+			}
+			"soundtest"
+			{
+				"buildid"		"14852243"
+				"pwdrequired"		"1"
+				"timeupdated"		"1719460575"
+			}
+			"closedbeta"
+			{
+				"buildid"		"16733880"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734096482"
+			}
+			"lcv_4.2"
+			{
+				"buildid"		"10287257"
+				"description"		"LCV4.2 Final  Version"
+				"timeupdated"		"1703116928"
+			}
+			"lcv41_ue424_2021"
+			{
+				"buildid"		"8579218"
+				"description"		"2021 Legacy Version, Using Unreal Engine 4.24 and campaign LCV4.1"
+				"timeupdated"		"1670538196"
+			}
+			"ue4_21"
+			{
+				"buildid"		"4853180"
+				"description"		"2020 Version for Older computers"
+				"timeupdated"		"1587339987"
+			}
+			"kee_and_ue4_17"
+			{
+				"buildid"		"3157205"
+				"description"		"2018 Legacy Version. Last Build of Kee."
+				"timeupdated"		"1551074757"
+			}
+			"mac_testing"
+			{
+				"buildid"		"11556849"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687750851"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"AutomationGame"
+				"pattern"		"*.db"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"AutomationGame/Saved/SaveGames"
+				"pattern"		"AgreementSaveGame427.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"AutomationGame/Saved/SaveGames"
+				"pattern"		"FixtureSaveGame421.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"AutomationGame/Saved/SaveGames"
+				"pattern"		"PhotoSceneSaveGame427.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"4"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"AutomationGame/Saved/SaveGames"
+				"pattern"		"PlayerPaints427.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"5"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"AutomationGame/Saved/SaveGames"
+				"pattern"		"UnitSettings427.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}

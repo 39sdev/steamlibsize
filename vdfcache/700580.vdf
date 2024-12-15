@@ -1,0 +1,720 @@
+"700580"
+{
+	"common"
+	{
+		"name"		"Rust - Staging Branch"
+		"type"		"Beta"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"logo"		"d83228eaef6c95c244976b6dc6ab357e6c7f0911"
+		"logo_small"		"d83228eaef6c95c244976b6dc6ab357e6c7f0911_thumb"
+		"clienttga"		"35c8e5a3ad4b435df025910d95f24e49a64dbb7b"
+		"clienticon"		"acf87ad23570b3c81f8c9cfc19544a07edd8b632"
+		"icon"		"820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c"
+		"clienticns"		"abb808c6e7bb5e97119f0ae1a80cdd7681fecfc2"
+		"linuxclienticon"		"fdd1ccf5c2013cf6fc87eb0876affd64ba5e938b"
+		"requireskbmouse"		"1"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"parent"		"252490"
+		"associations"
+		{
+		}
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"700580"
+		"exfgls"		"9"
+	}
+	"config"
+	{
+		"installdir"		"RustStaging"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"rust.exe"
+				"arguments"		"-logfile output_log.txt -timestamps -disable-gpu-skinning +nexus.serverlistenabled 1"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"./rust.app"
+				"arguments"		"-logfile output_log.txt -timestamps -disable-gpu-skinning --normal-rendering +nexus.serverlistenabled 1"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"2"
+			{
+				"executable"		"rust"
+				"arguments"		"-logfile output_log.txt -timestamps -disable-gpu-skinning +nexus.serverlistenabled 1"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"700581"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7159906201799880938"
+					"size"		"36419176174"
+					"download"		"20471559792"
+				}
+				"2021.3.29"
+				{
+					"gid"		"9021919204274340210"
+					"size"		"29007248203"
+					"download"		"17274265648"
+				}
+				"crash"
+				{
+					"gid"		"6544165040415151734"
+					"size"		"17642197804"
+					"download"		"9150407856"
+				}
+				"aux02"
+				{
+					"gid"		"7057532216814029300"
+					"size"		"37166527602"
+					"download"		"20863822080"
+				}
+				"main"
+				{
+					"gid"		"7910915464370448378"
+					"size"		"36419196078"
+					"download"		"20471582736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backport-update"
+				{
+					"gid"		"C6307EEB4A4AF29B0457FC4CB5D714C3"
+					"size"		"6F2C5D0B477D6FD9F9BB5B7A073F212C"
+					"download"		"91A920D15C845DA1B84CE9A7A2D5F380"
+				}
+				"cctv"
+				{
+					"gid"		"F4D728C69B7BC232A4428E1DFCDCA8C6"
+					"size"		"956FE3C6DDA1349DEB852B575C720A67"
+					"download"		"9434018FC533DF0310C8449D78501EE7"
+				}
+				"contacts-update"
+				{
+					"gid"		"A6B7A51FE6246CD8570785B10EFC874A"
+					"size"		"2F5747C82E770496D8E9B7DCCA03A29E"
+					"download"		"CCC3281F6BDCF7356CF6F43920EED199"
+				}
+				"demo"
+				{
+					"gid"		"4E415AF5005FBB30C96AFFED24F3CF5F"
+					"size"		"3CB5418387B90D3411CD4DC729D992D2"
+					"download"		"B05B6143D1783C11E32F9CBE9ACF13CC"
+				}
+				"experimental"
+				{
+					"gid"		"D6EC4894C4E98FDB9A0AA5D651DDD4C0"
+					"size"		"C1FAE8CE6004FC03CA6C76C023D97BCC"
+					"download"		"2B2D66552C674A50555583826265440B"
+				}
+				"experimental-debug"
+				{
+					"gid"		"4FF4FFB2AEB2C1823BB123309232BE93"
+					"size"		"52FE62DEFE5AFF7BBE15258CEEF2EF81"
+					"download"		"E5E9FCBDD6C8CA9EF9B23DBFC16A94F0"
+				}
+				"gestures"
+				{
+					"gid"		"C5B178E16764F5DDACBA4E80AFC0166A"
+					"size"		"B9429F6B255280A68F27663375BB440B"
+					"download"		"8F5E5A7EAFE48DDBBF371A796AD36E97"
+				}
+				"test-debug"
+				{
+					"gid"		"38F31EFF3D5D0E1E15CDB9DD43214A16"
+					"size"		"3BCB5CFF171404F5B9FBAF88DAB589F4"
+					"download"		"9B738F09948B55F701329CF6DCF7D7A5"
+				}
+				"trailer"
+				{
+					"gid"		"B6B235ED84E93A942044C647A79B5D8B"
+					"size"		"A1057F1EAAB4B0CE5E827A8CFA3E582C"
+					"download"		"664A116AA57BCE0D09646197A5F8DEBA"
+				}
+				"workcart-update"
+				{
+					"gid"		"10A7D7CC7EF694F19EF88B170CB38939"
+					"size"		"CB1C947FCABB10DB86F289150060DDFF"
+					"download"		"A2A4BEF74CD344C4710D4F7175F829F4"
+				}
+				"aux01"
+				{
+					"gid"		"83A8724F6CBB1DF77798780FA8FDC0EC"
+					"size"		"0A59512ABBB4A4B090E763BF1D2CD0B4"
+					"download"		"8C5F735BCBAB3B9FD3EFF763F65BBFDD"
+				}
+				"aux01-debug"
+				{
+					"gid"		"A7D3E342EED8714FBD4CFD6604170920"
+					"size"		"F0DEDD8633374995B1AD365455A2998D"
+					"download"		"3E76C1C98207893F300779CB33BAFFCF"
+				}
+				"aux02-debug"
+				{
+					"gid"		"F135FEF30258A6AEA5E552C59A564F65"
+					"size"		"4BBAC55D7ED25ACE20E792CD89CE5D4A"
+					"download"		"70A3F39C056F4DE344F40DE5BAE4A059"
+				}
+				"aux03"
+				{
+					"gid"		"F157154CE62C292E1971347A4DABC18C"
+					"size"		"24D1D9E02AF1702A632BC7A7DDCA95CF"
+					"download"		"790F257C3C2CB8434309362E3EE61801"
+				}
+				"aux03-debug"
+				{
+					"gid"		"13F476498D3DCE2409A220397BDDEF4F"
+					"size"		"2C6BDF280299E376B7930648533695B8"
+					"download"		"A72EA8A1535E33909FA7768A4B372802"
+				}
+				"debug"
+				{
+					"gid"		"5907B2420E9B8B2C43D34BA549DDD3BC"
+					"size"		"834DD0DE805AA046604CA3BA6EFB4B09"
+					"download"		"EE07A0BD557BC5E6FD7E9B876FC0AFF6"
+				}
+				"media"
+				{
+					"gid"		"1F38D72B1D38FD5B966DBFAAA82101EA"
+					"size"		"1818D2B8FA23E4600A1B510646CE7C1E"
+					"download"		"DF7A5C5FB523460C2A3AE2D1ADB08B55"
+				}
+				"media-debug"
+				{
+					"gid"		"07EABEB8305B0E88301A6847CEFE7625"
+					"size"		"EFFC1D33E0016EFE2A54D0736655468A"
+					"download"		"FEE6A32BD5B6352AC96FB166CA1F8500"
+				}
+				"test"
+				{
+					"gid"		"32F0E8EBA0C7B4630D2E2A2D25997E9A"
+					"size"		"B2BD01C02315410C5C884935E6386820"
+					"download"		"01498EF486CA2AD349BCD72BEAF7D465"
+				}
+			}
+		}
+		"700582"
+		{
+			"sharedinstall"		""
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6387335754240014539"
+					"size"		"669714441"
+					"download"		"240943264"
+				}
+				"2021.3.29"
+				{
+					"gid"		"2926565576496631824"
+					"size"		"936275836"
+					"download"		"562871632"
+				}
+				"crash"
+				{
+					"gid"		"6643408220322733983"
+					"size"		"603349952"
+					"download"		"318946912"
+				}
+				"aux02"
+				{
+					"gid"		"1120376268223440643"
+					"size"		"754537102"
+					"download"		"310818112"
+				}
+				"main"
+				{
+					"gid"		"8031588450286955049"
+					"size"		"664636311"
+					"download"		"239719264"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backport-update"
+				{
+					"gid"		"9DB0B3B32935010531A08AE0D78484F7"
+					"size"		"25CA8AA2527129EEE6B9AC7109E5B89E"
+					"download"		"42C4C33108BDA06D5A2D5CD64EF8CC16"
+				}
+				"cctv"
+				{
+					"gid"		"C162DFF659005FDC11C08F47A2CA5F50"
+					"size"		"C5A297D1BE5BF984DC8036BBA5DF78EA"
+					"download"		"6AF0BFE293DD29F419A157A4D4954C6A"
+				}
+				"contacts-update"
+				{
+					"gid"		"B424C3B57065292FA33E45DD1312F1C6"
+					"size"		"5467604F00E094248DDE5BF98F5A8BA2"
+					"download"		"08CBD5B7D267D16CCC08F2C84D8A0BCB"
+				}
+				"demo"
+				{
+					"gid"		"138523CAC80057A095A42512457D62DD"
+					"size"		"4E18FBD17F1B9C1B0074BB87DC08EC2B"
+					"download"		"61BE5F619D242D82D0BADD06F71AB023"
+				}
+				"experimental"
+				{
+					"gid"		"71FCB8155F3123F6D75A0E0F402659EB"
+					"size"		"1739AE8AD8003796D05D063254D9AA48"
+					"download"		"6C9C162940967A48BB496E899FF1975E"
+				}
+				"experimental-debug"
+				{
+					"gid"		"AE1EBB400491AE2E57A5142862A09EBF"
+					"size"		"D0A7634A0BFE8E8C3489CF23834B1762"
+					"download"		"15B94EECDBF2A4FCA35BF93B2FD975AD"
+				}
+				"gestures"
+				{
+					"gid"		"D8441BECA6C08D59AB348A6AB2DB3E53"
+					"size"		"B7AA0B6E662368856D321F7001C9928C"
+					"download"		"74030FC7CA434FEE1ACE75D7DE3BE757"
+				}
+				"test-debug"
+				{
+					"gid"		"DA73D2C3AD81BAD738FEA5D239F0D5E8"
+					"size"		"261E98F417C2F92A19C6B5A4407D743C"
+					"download"		"B81304F62B3C92D1B73734385BA55608"
+				}
+				"trailer"
+				{
+					"gid"		"18C363DC0799B42F89E0347AA4543086"
+					"size"		"7402CCE2ECEACEEFB28042612AB5130B"
+					"download"		"97BE0CE4EB3CA6DCE6E8744B559B19EE"
+				}
+				"workcart-update"
+				{
+					"gid"		"DCD2997C52587698AFB65883120C8EE0"
+					"size"		"11EFA08F3395283C4E152C3CD18B3C1E"
+					"download"		"04706FD289ECA52B3BCF6D95F4B9F974"
+				}
+				"aux01"
+				{
+					"gid"		"04269B49C72927377BD53839768A4649"
+					"size"		"B7A966C39BAEC1F02465C4132587AF24"
+					"download"		"06D515060CA1184D83ABD6A724EFDCFB"
+				}
+				"aux01-debug"
+				{
+					"gid"		"B3538C24822673CC0DC97301683D4D14"
+					"size"		"00507AF8A8DB7E8CDA3D44A6DD3C9969"
+					"download"		"91E8F37A10F6BF261018F0F3D3D5800A"
+				}
+				"aux02-debug"
+				{
+					"gid"		"601224CC33D30E0726A7A9A86281E10E"
+					"size"		"5186351B825482D96D4C0EE6C4728518"
+					"download"		"38B3279CCE6D0E9F3545A4DA94CB5E82"
+				}
+				"aux03"
+				{
+					"gid"		"DECEE1E3416104C08393C30B298E2577"
+					"size"		"6CF2322316E62B1FC278304FEA635893"
+					"download"		"FB3368AAE9EDB10E0BB606768D65A758"
+				}
+				"aux03-debug"
+				{
+					"gid"		"96408E40BA552854CC46E497902116A1"
+					"size"		"D4E7248BD222685F476256935CBA0A35"
+					"download"		"60705A11F38B2EF3060949E5E77FEF9C"
+				}
+				"debug"
+				{
+					"gid"		"F13CA2C5D717DEDC2F5E463E724984CA"
+					"size"		"BE21C2BB0ECE4E1586F568CD31ED06D6"
+					"download"		"7A5CB5F36D749282C9678521E1B6FCCE"
+				}
+				"media"
+				{
+					"gid"		"5FB17F7D083F4CEAE0B8D21217F79E5C"
+					"size"		"7CF8B87EDE75D85A9EE00D1167285646"
+					"download"		"B82FC293558AAC8B924B08A171BB04F8"
+				}
+				"media-debug"
+				{
+					"gid"		"11F65F50D4AB6BA8C0084F0DCBCAD989"
+					"size"		"77D1F41756EFCCD5D26B5E7ECB48FBEC"
+					"download"		"8294804BFD6C63B574B76E519A06E5DE"
+				}
+				"test"
+				{
+					"gid"		"C0B7529CF73D061C1817B1E1F90B0F6E"
+					"size"		"643C5E8B3098364870D8A4EF5BBFCCE0"
+					"download"		"3040EFDB129B2EE25C4390495D52F082"
+				}
+			}
+		}
+		"700583"
+		{
+			"sharedinstall"		""
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2593669622208383525"
+					"size"		"7727407311"
+					"download"		"2503781040"
+				}
+				"2021.3.29"
+				{
+					"gid"		"4586948001370832567"
+					"size"		"5793760199"
+					"download"		"1936644144"
+				}
+				"crash"
+				{
+					"gid"		"8971463725738639198"
+					"size"		"3106614358"
+					"download"		"1012075248"
+				}
+				"aux02"
+				{
+					"gid"		"1686720267532408226"
+					"size"		"0"
+					"download"		"0"
+				}
+				"main"
+				{
+					"gid"		"4082298713972345907"
+					"size"		"7727427252"
+					"download"		"2503819184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backport-update"
+				{
+					"gid"		"B4F81C0771BADE0E7C3298094C6B695C"
+					"size"		"FED7A051BD65E4E3CC91570B839B3840"
+					"download"		"CBFF24EA24A012DE12C9FB6EDEC7C7DE"
+				}
+				"cctv"
+				{
+					"gid"		"2B8BAE88815FA7F045A10073D44A69DB"
+					"size"		"6A5AD4E6C5A6F2C12FC3A6CF632F22C8"
+					"download"		"6688DE539CA2AA291634D808DE910722"
+				}
+				"contacts-update"
+				{
+					"gid"		"F56CE197C9B378DB361D2183F13B26B2"
+					"size"		"08ABCECC391DDB3573E31DB863839691"
+					"download"		"9490EAAE6BF5EF30BFABB76CE6A72F14"
+				}
+				"demo"
+				{
+					"gid"		"4ABBFD9A4FE6FBDBB5910D3E1A95915B"
+					"size"		"3DE5C27411278C302A6621E29E63C435"
+					"download"		"5F2136CBFD00E3A4407FE6A0DB765D8D"
+				}
+				"experimental"
+				{
+					"gid"		"9185CA493D89B85697F4C104ADD7B1AB"
+					"size"		"30940FEE618169C588B42E14BC4C4399"
+					"download"		"4C55CD6304FD27C0BF00099A9B111DFF"
+				}
+				"experimental-debug"
+				{
+					"gid"		"4B71A39FAC9CD134A200EC94B3D7128B"
+					"size"		"AD7232CE281C05C8EBB4C32BB899D63D"
+					"download"		"3FF5174DF15965AFA5466592920EDA78"
+				}
+				"gestures"
+				{
+					"gid"		"E97F21103B5B09D5EBFAA0132384B1B2"
+					"size"		"7D4C90D5605F256C1F903525F2803AEF"
+					"download"		"9DCFC0D84D6CA939B2598242C9CE735E"
+				}
+				"test-debug"
+				{
+					"gid"		"83E7BC69BE16CCB228758AC643C1C5C9"
+					"size"		"EBC2E465A740D731ACB201BF75789F70"
+					"download"		"30B92E337CB54F7E5E3EAB3BD54DEAE6"
+				}
+				"trailer"
+				{
+					"gid"		"34269B4EDEB21A43A8977EA89797EB00"
+					"size"		"CD3A9944EB3B93B0C5D993BE045DA5A7"
+					"download"		"CD3A9944EB3B93B0C5D993BE045DA5A7"
+				}
+				"workcart-update"
+				{
+					"gid"		"45CA83FA16234C1C9E38F3FF344EF278"
+					"size"		"5C26187E430B7AA4AF5D617AAABD4261"
+					"download"		"6E7BCD7859DC754308EF2B520499D093"
+				}
+				"aux01"
+				{
+					"gid"		"E708FC3A8F469A957F3A0BA2AA1C71FB"
+					"size"		"FF7C11E0FEE652CD15E790F45DFFE66B"
+					"download"		"FF7C11E0FEE652CD15E790F45DFFE66B"
+				}
+				"aux01-debug"
+				{
+					"gid"		"AB6DB84FA40D3D4A3BEF90C5DE2B6E23"
+					"size"		"89618FD711C2CFD8D6AEAB8CFFF33F0D"
+					"download"		"89618FD711C2CFD8D6AEAB8CFFF33F0D"
+				}
+				"aux02-debug"
+				{
+					"gid"		"7E39B2A97385E50596A0E6975147BBE3"
+					"size"		"F1B173188F093D6C2BC2FB8B245E891D"
+					"download"		"F1B173188F093D6C2BC2FB8B245E891D"
+				}
+				"aux03"
+				{
+					"gid"		"A478E6CEAC16FD8EB42096D487E6AC1B"
+					"size"		"05D6CA4E42879E0CC7B79DFEAABA9164"
+					"download"		"05D6CA4E42879E0CC7B79DFEAABA9164"
+				}
+				"aux03-debug"
+				{
+					"gid"		"E042BFBD42019178694717503F5A8C37"
+					"size"		"CF803FC6C8E847DAA18B0C40116190C9"
+					"download"		"CF803FC6C8E847DAA18B0C40116190C9"
+				}
+				"debug"
+				{
+					"gid"		"2BE48155F09A7C17DEC27995391A389D"
+					"size"		"1B40F630B01532F28D067B7D3AA41C4B"
+					"download"		"11D77D8961AF6D35F7A9B8729DAC4C78"
+				}
+				"media"
+				{
+					"gid"		"F3D3F61D1F562B82CF30F66F93B21142"
+					"size"		"7B5AEBBC21E0A62554960121B188053C"
+					"download"		"7B5AEBBC21E0A62554960121B188053C"
+				}
+				"media-debug"
+				{
+					"gid"		"55191BB075C45CC095B87BF5B225570B"
+					"size"		"A107F1B438C4B60267E4369007C12D3E"
+					"download"		"A107F1B438C4B60267E4369007C12D3E"
+				}
+				"test"
+				{
+					"gid"		"9608F7EF7BF3D6A8304CE317EC30A01B"
+					"size"		"BAACDDD88597C204BB34C61AE05229BC"
+					"download"		"FEB28C0F9E0416350ACAA7CE8E7C5F08"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16734745"
+				"timeupdated"		"1734093018"
+			}
+			"2021.3.29"
+			{
+				"buildid"		"13466514"
+				"description"		"Unity 2021.3.29"
+				"timeupdated"		"1708012363"
+			}
+			"backport-update"
+			{
+				"buildid"		"6684725"
+				"pwdrequired"		"1"
+				"timeupdated"		"1620805124"
+			}
+			"cctv"
+			{
+				"buildid"		"5581128"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600812169"
+			}
+			"contacts-update"
+			{
+				"buildid"		"6831665"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623158883"
+			}
+			"crash"
+			{
+				"buildid"		"6485627"
+				"description"		"troubleshoot"
+				"timeupdated"		"1617450529"
+			}
+			"demo"
+			{
+				"buildid"		"5208238"
+				"pwdrequired"		"1"
+				"timeupdated"		"1592994460"
+			}
+			"experimental"
+			{
+				"buildid"		"10309694"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673551206"
+			}
+			"experimental-debug"
+			{
+				"buildid"		"10309718"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673551404"
+			}
+			"gestures"
+			{
+				"buildid"		"6482939"
+				"pwdrequired"		"1"
+				"timeupdated"		"1617449977"
+			}
+			"test-debug"
+			{
+				"buildid"		"10168620"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671277752"
+			}
+			"trailer"
+			{
+				"buildid"		"11806183"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690503462"
+			}
+			"workcart-update"
+			{
+				"buildid"		"6485637"
+				"pwdrequired"		"1"
+				"timeupdated"		"1617450991"
+			}
+			"aux01"
+			{
+				"buildid"		"16740134"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734121669"
+			}
+			"aux01-debug"
+			{
+				"buildid"		"16740147"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734121755"
+			}
+			"aux02"
+			{
+				"buildid"		"16739208"
+				"description"		"upandcoming"
+				"timeupdated"		"1734114792"
+			}
+			"aux02-debug"
+			{
+				"buildid"		"16739234"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734114977"
+			}
+			"aux03"
+			{
+				"buildid"		"16639710"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733382610"
+			}
+			"aux03-debug"
+			{
+				"buildid"		"16639731"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733382714"
+			}
+			"debug"
+			{
+				"buildid"		"16740931"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734127698"
+			}
+			"main"
+			{
+				"buildid"		"16740913"
+				"timeupdated"		"1734127525"
+			}
+			"media"
+			{
+				"buildid"		"14363551"
+				"pwdrequired"		"1"
+				"timeupdated"		"1715697530"
+			}
+			"media-debug"
+			{
+				"buildid"		"14363592"
+				"pwdrequired"		"1"
+				"timeupdated"		"1715697662"
+			}
+			"test"
+			{
+				"buildid"		"14876990"
+				"pwdrequired"		"1"
+				"timeupdated"		"1720107226"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"2000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"cfg"
+				"pattern"		"keys.cfg"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"cfg"
+				"pattern"		"favorites.cfg"
+			}
+		}
+	}
+}

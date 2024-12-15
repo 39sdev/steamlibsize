@@ -1,0 +1,147 @@
+"481360"
+{
+	"common"
+	{
+		"name"		"Tricky Towers - Animal Suits Pack"
+		"type"		"DLC"
+		"parent"		"437920"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"clienticon"		"eaf07cd0ea5b51ccd615ecaa408d60db4bd824d1"
+		"clienttga"		"ba5e4f31063cb8838ab47c009fe55ecb6fbca67b"
+		"icon"		"925835804b06ce7974b843082a4a417845f230a4"
+		"metacritic_name"		"Spirit Animal Pack"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_5a681f9c6f5da4a7c312ff324a99024eea17acec.jpg"
+		"store_asset_mtime"		"1477323972"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"WeirdBeard"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"WeirdBeard"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1470139014"
+		"gameid"		"481360"
+		"store_tags"
+		{
+			"0"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"dlcforappid"		"437920"
+		"mustownapptopurchase"		"437920"
+		"developer"		"WeirdBeard"
+		"publisher"		"WeirdBeard"
+		"homepage"		"http://www.trickytowers.com"
+		"dlcavailableonstore"		"1"
+	}
+}

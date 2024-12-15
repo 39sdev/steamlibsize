@@ -1,0 +1,236 @@
+"29900"
+{
+	"common"
+	{
+		"name"		"Dark Sector"
+		"logo"		"7d3cc2cc9b9228be0a09dd5b0bc71204fee9976b"
+		"logo_small"		"7d3cc2cc9b9228be0a09dd5b0bc71204fee9976b_thumb"
+		"icon"		"e1eede77996260a65a37d3610634ed88a0b6a6db"
+		"clienttga"		"b2a4047f60a4d591c7cce6f0e69433f85d672ca6"
+		"clienticon"		"27aa2fe24e8c06162e249267a7bf99b6145126e4"
+		"metacritic_url"		"pc/darksector"
+		"type"		"game"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"metacritic_name"		"Dark Sector"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_hero_blur"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.69819758528595"
+				"height_pct"		"14.933093462749568"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"6c6a65309d596354ae94585757bb6e61e74dd30b/library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"6c6a65309d596354ae94585757bb6e61e74dd30b/library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image2x"
+				{
+					"english"		"7bf8f6c38a7d94047e9127d5b4a42ff8f9d20618/library_hero_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"7bf8f6c38a7d94047e9127d5b4a42ff8f9d20618/library_hero.jpg"
+				}
+			}
+			"library_hero_blur"
+			{
+				"image"
+				{
+					"english"		"7bf8f6c38a7d94047e9127d5b4a42ff8f9d20618/library_hero_blur.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"470ee4318d3274bebe7e2199ef905d3e6880652c/logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"49.69819758528595"
+					"height_pct"		"14.933093462749568"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"9d4f0c27a0ab9e5a45461dee44afa703e652912c/library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1732649198"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Digital Extremes"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Digital Extremes"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1237791600"
+		"steam_release_date"		"1237919400"
+		"metacritic_score"		"66"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/dark-sector?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"29900"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"3814"
+			"2"		"4345"
+			"3"		"4182"
+			"4"		"1774"
+			"5"		"4667"
+			"6"		"1697"
+			"7"		"1667"
+			"8"		"3942"
+			"9"		"1685"
+			"10"		"3859"
+			"11"		"4026"
+			"12"		"4166"
+			"13"		"1646"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Digital Extremes"
+		"gamedir"		"Dark Sector"
+		"homepage"		"https://www.digitalextremes.com/"
+		"icon"		""
+		"installscript"		"29900_install.vdf"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"29901"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Digital Extremes"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Dark Sector"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DS.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"29901"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7741648810492456352"
+					"size"		"5986994719"
+					"download"		"0"
+				}
+				"beta_branch"
+				{
+					"gid"		"7741648810492456352"
+					"size"		"5986994719"
+					"download"		"0"
+				}
+			}
+		}
+		"29902"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2916220800507834911"
+					"size"		"433"
+					"download"		"0"
+				}
+				"beta_branch"
+				{
+					"gid"		"2916220800507834911"
+					"size"		"433"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3698"
+			}
+			"beta_branch"
+			{
+				"buildid"		"3698"
+			}
+		}
+	}
+}

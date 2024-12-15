@@ -1,0 +1,187 @@
+"1622941"
+{
+	"common"
+	{
+		"name"		"Dead by Daylight - Escape Expansion Pack"
+		"type"		"DLC"
+		"parent"		"381210"
+		"releasestate"		"released"
+		"logo"		"7e4203b418b87ae59ebb97d24611092a1084f799"
+		"logo_small"		"7e4203b418b87ae59ebb97d24611092a1084f799_thumb"
+		"icon"		"83fe9b4c59b73d32a118b64a249db12a89852cdc"
+		"clienticon"		"a90e3b5b22d4d1acbdd9e34276da969010f5226e"
+		"clienttga"		"edecaf42427a1fb37e560c1631555f0a18320269"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_1b8a870b36e318f08d67eae143ca07d6dbf50c5a.jpg"
+		"store_asset_mtime"		"1701189731"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Behaviour Interactive Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Behaviour Interactive Inc."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Dead by Daylight"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_33"		"1"
+			"category_29"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_49"		"1"
+			"category_43"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_27"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1623772272"
+		"gameid"		"1622941"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4345"
+			"2"		"4667"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+		"review_score_bombs"		"8"
+		"review_percentage_bombs"		"82"
+	}
+	"extended"
+	{
+		"dlcforappid"		"381210"
+		"mustownapptopurchase"		"381210"
+		"developer"		"Behaviour Interactive Inc."
+		"publisher"		"Behaviour Interactive Inc."
+		"homepage"		"http://www.deadbydaylight.com"
+		"dlcavailableonstore"		"1"
+	}
+}

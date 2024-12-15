@@ -1,0 +1,160 @@
+"275700"
+{
+	"common"
+	{
+		"name"		"Arma 3 Zeus"
+		"type"		"DLC"
+		"parent"		"107410"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"logo"		"51f031fdec573291d373ad3f6156f6691892c84c"
+		"logo_small"		"51f031fdec573291d373ad3f6156f6691892c84c_thumb"
+		"icon"		"8ddaadf0fd6beb4464ae667e367000d6d091ecd2"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"metacritic_name"		"Arma 3 Zeus"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_b8724c7bfab52cb3e2e2d30d6442a77f3d16c3cf.jpg"
+		"store_asset_mtime"		"1397128085"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bohemia Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bohemia Interactive"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_13"		"1"
+			"category_18"		"1"
+			"category_17"		"1"
+			"category_30"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+			"category_48"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1397170140"
+		"gameid"		"275700"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"9"
+			"2"		"599"
+			"3"		"3859"
+			"4"		"4168"
+			"5"		"3810"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"dlcforappid"		"107410"
+		"mustownapptopurchase"		"107410"
+		"developer"		"Bohemia Interactive"
+		"publisher"		"Bohemia Interactive"
+		"homepage"		"http://www.arma3.com/dlc/zeus"
+		"dlcavailableonstore"		"1"
+	}
+}

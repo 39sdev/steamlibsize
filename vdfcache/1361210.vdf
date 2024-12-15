@@ -1,0 +1,685 @@
+"1361210"
+{
+	"common"
+	{
+		"name"		"Warhammer 40,000: Darktide"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"c4e0990ff034cf6c48fb96649229e6362b866629"
+		"logo"		"c6ad85a382123df028437790eb2a16ae9337e33b"
+		"logo_small"		"c6ad85a382123df028437790eb2a16ae9337e33b_thumb"
+		"clienticon"		"a60f1ef9c4cec69235108acb0b7c40970a5cc1af"
+		"name_localized"
+		{
+			"schinese"		"战锤40K：暗潮"
+			"tchinese"		"戰鎚40K：黑潮"
+		}
+		"clienttga"		"3f04a6fb99c18d1b0186873067cc08d24e8acb47"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1361210_eula_0"
+				"name"		"Warhammer 40,000: Darktide EULA"
+				"url"		"https://store.steampowered.com//eula/1361210_eula_0"
+				"version"		"4"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1722902400"
+			"tested_build_id"		"14924241"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-5pin"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_hero_blur"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"55.13491221475944"
+				"height_pct"		"88.08154858726431"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image2x"
+				{
+					"english"		"d2d99882edb2a2fd665eb1c260f009177f8bd1b4/library_600x900_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"d2d99882edb2a2fd665eb1c260f009177f8bd1b4/library_600x900.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image2x"
+				{
+					"english"		"fb2ff47e1a36f730a1eb4602d432e40f55ce2f06/library_hero_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"fb2ff47e1a36f730a1eb4602d432e40f55ce2f06/library_hero.jpg"
+				}
+			}
+			"library_hero_blur"
+			{
+				"image"
+				{
+					"english"		"fb2ff47e1a36f730a1eb4602d432e40f55ce2f06/library_hero_blur.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"55.13491221475944"
+					"height_pct"		"88.08154858726431"
+				}
+				"image"
+				{
+					"english"		"39059c955030e12fe422bcec94ecc6f1cd187d81/logo.png"
+				}
+				"image2x"
+				{
+					"english"		"39059c955030e12fe422bcec94ecc6f1cd187d81/logo_2x.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"5e8873c3a7a0f8bbb00cbf3608bfce276176a3a2/library_header.jpg"
+				}
+				"image2x"
+				{
+					"english"		"5e8873c3a7a0f8bbb00cbf3608bfce276176a3a2/library_header_2x.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1733236268"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fatshark"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fatshark"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Warhammer"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Fatshark"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_22"		"1"
+			"category_13"		"1"
+			"category_18"		"1"
+			"category_35"		"1"
+			"category_27"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1669831200"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1361210"
+		"store_tags"
+		{
+			"0"		"4106"
+			"1"		"1667"
+			"2"		"3993"
+			"3"		"12286"
+			"4"		"1685"
+			"5"		"4155"
+			"6"		"5310"
+			"7"		"4175"
+			"8"		"1646"
+			"9"		"1663"
+			"10"		"6730"
+			"11"		"1774"
+			"12"		"4166"
+			"13"		"4747"
+			"14"		"1678"
+			"15"		"1659"
+			"16"		"4342"
+			"17"		"3839"
+			"18"		"19"
+			"19"		"3978"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Fatshark"
+		"publisher"		"Fatshark"
+		"homepage"		"http://www.playdarktide.com"
+		"listofdlc"		"1981790,2215000"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Warhammer 40,000 DARKTIDE"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launcher\\launcher.exe"
+				"workingdir"		"launcher\\"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launcher backend"
+				}
+				"description"		"Launcher backend"
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1361211"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5339390926073608375"
+					"size"		"74779132812"
+					"download"		"61563932576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"empty"
+				{
+					"gid"		"70E1941983839A818E7AFBAB40A1BFC8"
+					"size"		"1C1805B6BCBD0F33AAA0D8F9BBEC4DDF"
+					"download"		"663372877681E0105360A300F1110B05"
+				}
+				"launcher_testing"
+				{
+					"gid"		"9D7F2DD59590300E93A113B1D0A752E4"
+					"size"		"E133AE8A23CE3ED83E8B776D7486E933"
+					"download"		"D4FAD60B6E1CF1796ED1EC65678CE57E"
+				}
+				"d_bckp"
+				{
+					"gid"		"5A6B26B6F2FD7BF0A0BF35D9091FD4EA"
+					"size"		"A13E70B498B2D4FAF4BEA9D285984E0E"
+					"download"		"0B3F39F9777C4DEAAC2FAAEBEC2B30AA"
+				}
+				"experimental"
+				{
+					"gid"		"D542BA7000B54016B04CF55325BB6B06"
+					"size"		"B65F3A05D62B4461A602B4082C8660C8"
+					"download"		"2F51A8F58CFE28C9329BCCA91A239EEB"
+				}
+				"experimental_testing"
+				{
+					"gid"		"1BB6A0422B36CFCDA37D4BF21AA679C3"
+					"size"		"2688A35D37CA1C7EC5CB15505F98D034"
+					"download"		"F7C36B6B743E57B86949F07AB14EA901"
+				}
+				"release1_main"
+				{
+					"gid"		"B747702EF24F2DBEB0A539E2DE98B5FA"
+					"size"		"2DD66FA311ADF77573FB19A25F670D44"
+					"download"		"9216798EE41B34FB901C0ACB1FDC6CAB"
+				}
+				"release1_main_backup"
+				{
+					"gid"		"49C724A57891AC6EEC6D2BE56E15A7E9"
+					"size"		"2C2A05CB3FC74F1D95955DE5BD0E4D5E"
+					"download"		"5625CA4F64D7310CF8BE1D90AF101D91"
+				}
+				"release2_main"
+				{
+					"gid"		"BC3C877E4255027612F64BC9D95ADA61"
+					"size"		"A74BF6D11A0BCACEFFEFA09A1A197967"
+					"download"		"684CCB180C846C054877EF59E77E13CE"
+				}
+				"release2_main_backup"
+				{
+					"gid"		"C5C8A553C31D6B5FD020848CD8504E75"
+					"size"		"DFD93C03A8F8B9C18FC179FAB634EDC2"
+					"download"		"352BEBE63BB669A92698ECA6E5A79F4E"
+				}
+			}
+		}
+		"1361212"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4010762489019108229"
+					"size"		"624647505"
+					"download"		"242616384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"empty"
+				{
+					"gid"		"94181BD99696A22ED0183FB5E0B71480"
+					"size"		"1C1805B6BCBD0F33AAA0D8F9BBEC4DDF"
+					"download"		"663372877681E0105360A300F1110B05"
+				}
+				"launcher_testing"
+				{
+					"gid"		"4EFBD214AFC07B9DD2297BC79F36F16B"
+					"size"		"4AA1F155A10F05C847EAF9AA5E7E03B7"
+					"download"		"BCA4096C1FD7A09EE53505906B9BD366"
+				}
+				"d_bckp"
+				{
+					"gid"		"784E9637A5594179702F9088DA6EF342"
+					"size"		"DBF260BB7EC20D0FE38459E4B79887FA"
+					"download"		"0A566198DBAB7EDF33D3D668CDBB9567"
+				}
+				"experimental"
+				{
+					"gid"		"7F711D96EA95A6BEF9716007BC943284"
+					"size"		"54F5F063E1F08E8CAF150162479ACBD6"
+					"download"		"F38857F4F5BE077708C5042E653464B6"
+				}
+				"experimental_testing"
+				{
+					"gid"		"AC7E28A29CB60EE375543C7A9ED00B1E"
+					"size"		"0459BEA48723EEA62B90F9079D053B38"
+					"download"		"676A6D6F3E65108D09138D9ED2AEFF0F"
+				}
+				"release1_main"
+				{
+					"gid"		"966F40705AE93413063BB1D9E503B5D5"
+					"size"		"4D0CEB373EB6994BD061CED56A55F1E1"
+					"download"		"4E67698BDCB0E568EEE84E4D78AEF6E0"
+				}
+				"release1_main_backup"
+				{
+					"gid"		"C652FDAA1FD8ADC0C8D65046DFAE8ECB"
+					"size"		"849B0365BD785593A1F57C68DD6EB443"
+					"download"		"076DAEAB06D807C57AC71881C2ABED56"
+				}
+				"release2_main"
+				{
+					"gid"		"95BB446AFF1B12BD3AD722AE5181F282"
+					"size"		"41F129C8ACEA382A1191AE972F03F4D9"
+					"download"		"BD5C19120DA4E5C945D604B704F9F027"
+				}
+				"release2_main_backup"
+				{
+					"gid"		"DE52203BA6FD650FBD0BD7BE1529AB84"
+					"size"		"316D87ECE6E9F6D88C2EC01BE77661F4"
+					"download"		"49AAB81777B3367F3D994A09798E5178"
+				}
+			}
+		}
+		"1361213"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1386737198080273648"
+					"size"		"225115837"
+					"download"		"104356352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"launcher_testing"
+				{
+					"gid"		"838470A09EF69C3AE0716CD4C01E617A"
+					"size"		"CB1BC84A748CD0D6428C275C4824BDAD"
+					"download"		"A3C389CCC66DF99FFAEF94EA81AAD70C"
+				}
+				"d_bckp"
+				{
+					"gid"		"EF145934A9DB92330B2ADAFB50E229D2"
+					"size"		"4B9C1209FDAA185B2A15603C11CC3DC0"
+					"download"		"DDDC5238DE533F727136B037FA0330F5"
+				}
+				"experimental"
+				{
+					"gid"		"B35CD8F5D6AAADE0481FA810698A4507"
+					"size"		"176CB79517CAA02F0C2527ACA5589DE6"
+					"download"		"B6DC3EF7AD67E989DFBD0C9E4FBC2CBA"
+				}
+				"experimental_testing"
+				{
+					"gid"		"113E1E2964EC33B53B75EB8A95284740"
+					"size"		"823B49197E3EFFEC79ADCA7078840DD1"
+					"download"		"0CDEE73F657F005B7D201A61E6FE2479"
+				}
+				"release1_main"
+				{
+					"gid"		"C8E18A845348C474E8366645556D80BD"
+					"size"		"C64BBBA0524F30B25189E1E5BC82C8E9"
+					"download"		"6A3BFC734DD8994107400F9643193F8C"
+				}
+				"release1_main_backup"
+				{
+					"gid"		"AFEB5512BDE9DAFC225AF23590DA947B"
+					"size"		"DB3FAF1D67657C665493463ED247771C"
+					"download"		"79399F344A26FCD5D204E84A40CB1681"
+				}
+				"release2_main"
+				{
+					"gid"		"F21A446A92CB4C8BBFAE703A0D79D16C"
+					"size"		"65F99E799E37667B4E0820A2746A2569"
+					"download"		"44052BAF2427C621B2D1682E40D67710"
+				}
+				"release2_main_backup"
+				{
+					"gid"		"93A478B3032D99B8C3F75297E4D09E7D"
+					"size"		"2E14BE09CE3B928898CE8F1019DFC8FF"
+					"download"		"9B049370E136E8B31BFE1353BC4C09B4"
+				}
+			}
+		}
+		"1361214"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6725101280412858870"
+					"size"		"445915046"
+					"download"		"144346944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"empty"
+				{
+					"gid"		"6FE34353E69A0E378D9F3059534F20E7"
+					"size"		"1C1805B6BCBD0F33AAA0D8F9BBEC4DDF"
+					"download"		"663372877681E0105360A300F1110B05"
+				}
+				"launcher_testing"
+				{
+					"gid"		"1A5C3C1AD9D4C5376ABD20E873311293"
+					"size"		"665E6116860F7ABE434628F6773DF1DE"
+					"download"		"790C07D7C66BC224FE631D77B8C755B2"
+				}
+				"d_bckp"
+				{
+					"gid"		"D0F0D27813842B5550E19C9ADBC9E487"
+					"size"		"1D03D3B03CF62FD6CBFF859CB24A536A"
+					"download"		"EE13D535F66DC9D7167C0C848FAEDAE1"
+				}
+				"experimental"
+				{
+					"gid"		"DF9C77E39C3EDD2B891EBEC06B90E2A8"
+					"size"		"8B4516481D646B4D136DFA4DCC78E8BB"
+					"download"		"283C564174B60C34471DF4B59004DA30"
+				}
+				"experimental_testing"
+				{
+					"gid"		"330FB1AF95250C395AF3011F919EA1D7"
+					"size"		"2785865121CE5A44885A81ED913BDA5B"
+					"download"		"7A564FFC46A5F3530F8A4881D559140B"
+				}
+				"release1_main"
+				{
+					"gid"		"329F2F6B3AFD8ECB8ECFB7BFA6A58AAE"
+					"size"		"08EA786F8BCE0A07DA1F484A74687C65"
+					"download"		"F2878174940C46AD353B04A9027E62DE"
+				}
+				"release1_main_backup"
+				{
+					"gid"		"0BC40C5975687E3BAA3F17F5D0A0F909"
+					"size"		"6CC4F2EAE4E51079A5DF2323DB31A95D"
+					"download"		"0845C74BFBD157230F92F95C8079DB42"
+				}
+				"release2_main"
+				{
+					"gid"		"389A20655D5406DAEDBF9D1567A8ABF0"
+					"size"		"5EEBA893CA56D97686962E873C777B82"
+					"download"		"BE55BD2C8F1D7CF03D8F733D792AB168"
+				}
+				"release2_main_backup"
+				{
+					"gid"		"F362777C953045DAF84B1289EB86F5A2"
+					"size"		"6D6A7DC755378E6B28A76EC4775F8B32"
+					"download"		"0770E231DFD31F2CCC271B2BA21A7939"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16698530"
+				"timeupdated"		"1733997586"
+			}
+			"empty"
+			{
+				"buildid"		"9653811"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665048465"
+			}
+			"launcher_testing"
+			{
+				"buildid"		"12528789"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698218889"
+			}
+			"d_bckp"
+			{
+				"buildid"		"16658713"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733996257"
+			}
+			"experimental"
+			{
+				"buildid"		"16698530"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733997606"
+			}
+			"experimental_testing"
+			{
+				"buildid"		"16698530"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733997622"
+			}
+			"release1_main"
+			{
+				"buildid"		"16404421"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731579112"
+			}
+			"release1_main_backup"
+			{
+				"buildid"		"16404507"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731579502"
+			}
+			"release2_main"
+			{
+				"buildid"		"16736463"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734099427"
+			}
+			"release2_main_backup"
+			{
+				"buildid"		"16404511"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731579529"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"5"
+	}
+}

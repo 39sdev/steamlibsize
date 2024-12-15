@@ -1,0 +1,543 @@
+"572520"
+{
+	"common"
+	{
+		"name"		"Dropzone"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"304c0140d1763e4c2ea1add7bfc182c8e8de56fe"
+		"logo_small"		"304c0140d1763e4c2ea1add7bfc182c8e8de56fe_thumb"
+		"clienttga"		"d3b9259adddeda453400eb17f47771dbee6dbb28"
+		"clienticon"		"f38453476b57d76d0b0c845440915ed9ba1ad33e"
+		"icon"		"d8124fbb6d7c4898e6a8e0fa519ce055d0841077"
+		"clienticns"		"8a0036057c2f1301b401a727238312aeb1fa2076"
+		"linuxclienticon"		"ed818856be92235691ca5c7cd9cefb30fded52e3"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1689811200"
+			"tested_build_id"		"7476789"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Dropzone"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_e37854a28b515f0d084f69387098ac19f0d1c995.jpg"
+		"store_asset_mtime"		"1497957908"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sparkypants Studios LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sparkypants Studios LLC"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"2"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1487145600"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"572520"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"1718"
+			"3"		"493"
+			"4"		"19"
+			"5"		"1775"
+			"6"		"4821"
+			"7"		"5055"
+			"8"		"1676"
+			"9"		"3942"
+			"10"		"3878"
+			"11"		"492"
+			"12"		"3843"
+			"13"		"1685"
+			"14"		"4026"
+			"15"		"122"
+			"16"		"6730"
+			"17"		"4747"
+			"18"		"4295"
+			"19"		"1645"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Sparkypants Studios LLC"
+		"publisher"		"Sparkypants Studios LLC"
+		"homepage"		"https://www.sparkypants.com/dropzone/"
+		"isfreeapp"		"1"
+		"listofdlc"		"586940,619970,639070"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dropzone"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin\\DropzoneSteamClient_x32_rel.exe"
+				"workingdir"		"bin"
+				"description"		"Dropzone Production"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"bin\\DropzoneSteamClient_x32_rel.exe"
+				"arguments"		"--services_url=https://dz-next-staging.sparkypants.com/"
+				"workingdir"		"bin"
+				"description"		"Next"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"BetaKey"		"dznext_staging-next"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,russian,portuguese,polish,turkish,brazilian"
+		"572521"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4127177944930712557"
+					"size"		"8313789291"
+					"download"		"2865685680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dznext_staging-dev"
+				{
+					"gid"		"FBD50769D4FE40D22CB19C876D4DF8B1"
+					"size"		"7237F19A792AAAA7A5695ACF3C32E970"
+					"download"		"0FB6DF8A618B3A95AC64A3CDE13E8DAB"
+				}
+				"dznext_staging-next"
+				{
+					"gid"		"1BD1D1E837BAB60E8A016720799D0D3B"
+					"size"		"67BC9D6AA27736774CE14A768583829E"
+					"download"		"C5479AA63935421D54B51D906B5448B4"
+				}
+				"sp_prod-qa_prod"
+				{
+					"gid"		"5641935E67780AA3CD1C14395AB5F397"
+					"size"		"BE193D4D25D7FB391B1889E0CE9CB790"
+					"download"		"3D435E5B815BC441950EE312791DCD68"
+				}
+				"sp_staging-coherent"
+				{
+					"gid"		"E31A950B9DA2CE21BD6B50C5F856020F"
+					"size"		"D6B48326646DB83C897B3D6E72F7B827"
+					"download"		"C6335CD864A4E1AA91286DF6D034C0B4"
+				}
+				"sp_staging-dev"
+				{
+					"gid"		"DA56F80377CB58EE2A6A981D1905608E"
+					"size"		"436B72C61D5D89F25A94A569EF47520C"
+					"download"		"69E1AEF19B9DB6223441B88C7268CA6D"
+				}
+				"sp_staging-dg"
+				{
+					"gid"		"9F02FB23711558DFD1D2F6F8999750CD"
+					"size"		"48EB54C7616D46305A040576F670E33A"
+					"download"		"A09F6D1E9185149F2098EC22603CF53E"
+				}
+				"sp_staging-ptr"
+				{
+					"gid"		"20E2C2F4043317823DB9ACACE1AE02CF"
+					"size"		"D386F7FE932DD1FF171A8E640E188732"
+					"download"		"E77169DCFE6ED9550B1BA933596B4B3A"
+				}
+				"sp_staging-qa"
+				{
+					"gid"		"03891170CCC8EE7B73C9F8203BDCD86D"
+					"size"		"1F1BACA40EF07C38DB32A9DC21410DFF"
+					"download"		"1D2E8A9F255D560FFB067C5980352BE0"
+				}
+				"sp_staging-redux"
+				{
+					"gid"		"2761C4B98AB5C4F8A8517359E1A0B273"
+					"size"		"A980763BE2D9F26237A297D659C42E07"
+					"download"		"645C0B3B7E38B69956735628CD31B121"
+				}
+				"sp_staging-smoketest"
+				{
+					"gid"		"1350AF1D166BF425958B05FC257EF831"
+					"size"		"D89C63276226DC37C3DA897ACD8B31E0"
+					"download"		"D2F28E4CAAC9A89BD277EEEE0C556EDC"
+				}
+				"staging-smoketest"
+				{
+					"gid"		"BC35E869251D2B37541CDC929D40920D"
+					"size"		"A4DAF198453C4FFFFE13B3E2CA4A6D2C"
+					"download"		"716ED85085187632EC93F6891445F541"
+				}
+			}
+		}
+		"586940"
+		{
+			"dlcappid"		"586940"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"410867178877761129"
+					"size"		"664761685"
+					"download"		"620457920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dznext_staging-dev"
+				{
+					"gid"		"E050F425E4AC7C655F65206A0917C5FD"
+					"size"		"71980199C7A1CF00CE44ABFA762EC070"
+					"download"		"F5429F9788531EF873D042ED8E08F7BE"
+				}
+				"dznext_staging-next"
+				{
+					"gid"		"EE9C21FF75E985E45A843E10A89C83D5"
+					"size"		"CC2AB7370D04206226F27E007ACCA586"
+					"download"		"7F85CA615445154B91CF84A69A97822F"
+				}
+				"sp_prod-qa_prod"
+				{
+					"gid"		"7DCDA91EAAAC961258819EBCDE8F52C3"
+					"size"		"CE67B6B85E8E9C99685E28CBE1DBD782"
+					"download"		"F9254100903071DBBAEF673840BF7EA8"
+				}
+				"sp_staging-coherent"
+				{
+					"gid"		"DCDCEBFCAC0D1B0F5A765CDA4DE62369"
+					"size"		"2004EAB56D5EC9E1D1DFDC895275CAF2"
+					"download"		"47DF05007CBC072EBB3CEB08130621BA"
+				}
+				"sp_staging-dev"
+				{
+					"gid"		"C71CC3317120C8A2AA08901FB70C901A"
+					"size"		"115118A129F8BA381169854B1844F16F"
+					"download"		"EF242725DF439C4E87B6CE85D59D206D"
+				}
+				"sp_staging-dg"
+				{
+					"gid"		"8D746FA9817392BF5EEABE114B30DD7A"
+					"size"		"9E713975894D4C7E4C5721AC2C0987E7"
+					"download"		"9CBE3ADA988E391694F52598CD0CA1C9"
+				}
+				"sp_staging-ptr"
+				{
+					"gid"		"9190E46A8754DDFE8AC07ABDE7E74FA4"
+					"size"		"2B66AA61CBDF0B5A29D3EB2FF0010B03"
+					"download"		"58504A52DB5CE08B8F6C31B2DF8AB805"
+				}
+				"sp_staging-qa"
+				{
+					"gid"		"61E2B9F0E0F6F786CDBC4A10A9846BB8"
+					"size"		"C98D1A143ADC606D42889E2B71577311"
+					"download"		"9CF816F0A2B5AD9502E275B9C11F3D1B"
+				}
+				"sp_staging-redux"
+				{
+					"gid"		"2E4571F47B5052D178AACBFA0B69CD6B"
+					"size"		"A6A96C3B6678712EBDC8771D821F65D3"
+					"download"		"A16A0C899813FACCC527DF7A46137ABD"
+				}
+				"sp_staging-smoketest"
+				{
+					"gid"		"6B735EE041746CB2098344266ADFEB85"
+					"size"		"C7BDF530C39B181864AFE1C91CD9152E"
+					"download"		"50FBF87D6103188C284714268AA4026B"
+				}
+				"staging-smoketest"
+				{
+					"gid"		"4BA43E6A0EE6B3B455C3F269B99EFF27"
+					"size"		"A7AADADD48ED403036DBAD8A11F6CD7A"
+					"download"		"4FF88BE8CF86E4C814AD5A5E70F23207"
+				}
+			}
+		}
+		"572522"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7834634349870287518"
+					"size"		"10636655"
+					"download"		"1630448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dznext_staging-dev"
+				{
+					"gid"		"D0884D754B8ED5A210453AD97E4762C9"
+					"size"		"3D1A35FF1400DCFF8AB009DB16191846"
+					"download"		"C48B28424A4B95DD27F4A7021F135744"
+				}
+				"dznext_staging-next"
+				{
+					"gid"		"6C9EC2B2609B980714866753B504DDFC"
+					"size"		"33078F2D50A43FB107BE4853B826C882"
+					"download"		"B851F082EA85B957117630383C736485"
+				}
+				"sp_prod-qa_prod"
+				{
+					"gid"		"3E0D9F0933A86FA0C6FFF16AD94C07BA"
+					"size"		"FC588BED16B4F9983AAFA825A1D1AFFE"
+					"download"		"2E094EE3AC863A7AE27003808BEE1494"
+				}
+				"sp_staging-coherent"
+				{
+					"gid"		"A3D9E86AE161A71FBAFEC55F0DBB75BE"
+					"size"		"D8C3AE5F8E03F33733A47266A5674110"
+					"download"		"AF9425545FE9BECB4E58A0A7BBF791C5"
+				}
+				"sp_staging-dev"
+				{
+					"gid"		"D49D1F1DAFE4575DF2FD79A465F7AC9B"
+					"size"		"CAD8456718BBAB90227626B2995B9F63"
+					"download"		"E484E44E5FB23FA808770EDF58EF5B36"
+				}
+				"sp_staging-dg"
+				{
+					"gid"		"106D9A3B69B4D4BC8A23540D38F854C9"
+					"size"		"BDDE240B31EE37FFC501B718761677E5"
+					"download"		"EF47CEB88BB2D0E51023E18CB230C516"
+				}
+				"sp_staging-ptr"
+				{
+					"gid"		"68D93F6CD39F1AD29CF9A00B7018E1EC"
+					"size"		"A3B26E8D8F8EF3D93C9646231B34B14B"
+					"download"		"D2BFF1760E52331DB89A8758C5BFAA68"
+				}
+				"sp_staging-qa"
+				{
+					"gid"		"50465CEFC8CCF4DF5B48015A5DE78F2B"
+					"size"		"6BDFD8713933413FD6A3EE71E2C11DBF"
+					"download"		"97B4E8CC7EC2F66960D035B5CA3F803D"
+				}
+				"sp_staging-redux"
+				{
+					"gid"		"B8A9386B29884DBF5126DCCFACDBBCD9"
+					"size"		"881F95238C521465B2CA13394E3277B3"
+					"download"		"128961C2AA5AD4F0B2BB3D96AFA51C0A"
+				}
+				"sp_staging-smoketest"
+				{
+					"gid"		"3928CFC98E3E58088E3FFADAD304B36F"
+					"size"		"B1DEE6B726AA295950D4C4D5DB36E2E9"
+					"download"		"F38BE45B23FDBD442F021CF9A030F92C"
+				}
+				"staging-smoketest"
+				{
+					"gid"		"5F92CC53329EC76F4F6FE258866AF068"
+					"size"		"9E2B11E2292DFD350E53D802DDCEA034"
+					"download"		"46CB0BAB1A876002540CF5C7D8B7F00D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7476789"
+				"timeupdated"		"1633381149"
+			}
+			"dznext_staging-dev"
+			{
+				"buildid"		"2348424"
+				"pwdrequired"		"1"
+				"timeupdated"		"1512657792"
+			}
+			"dznext_staging-next"
+			{
+				"buildid"		"2165565"
+				"pwdrequired"		"1"
+				"timeupdated"		"1506957745"
+			}
+			"sp_prod-qa_prod"
+			{
+				"buildid"		"7476789"
+				"pwdrequired"		"1"
+				"timeupdated"		"1633380921"
+			}
+			"sp_staging-coherent"
+			{
+				"buildid"		"2115893"
+				"pwdrequired"		"1"
+				"timeupdated"		"1505376538"
+			}
+			"sp_staging-dev"
+			{
+				"buildid"		"6196411"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612546497"
+			}
+			"sp_staging-dg"
+			{
+				"buildid"		"2075544"
+				"pwdrequired"		"1"
+				"timeupdated"		"1504024302"
+			}
+			"sp_staging-ptr"
+			{
+				"buildid"		"2100376"
+				"pwdrequired"		"1"
+				"timeupdated"		"1505213667"
+			}
+			"sp_staging-qa"
+			{
+				"buildid"		"2372605"
+				"pwdrequired"		"1"
+				"timeupdated"		"1513356078"
+			}
+			"sp_staging-redux"
+			{
+				"buildid"		"2664231"
+				"pwdrequired"		"1"
+				"timeupdated"		"1522967994"
+			}
+			"sp_staging-smoketest"
+			{
+				"buildid"		"6196411"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612544081"
+			}
+			"staging-smoketest"
+			{
+				"buildid"		"2348678"
+				"pwdrequired"		"1"
+				"timeupdated"		"1512661943"
+			}
+		}
+	}
+}

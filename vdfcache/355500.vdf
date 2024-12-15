@@ -1,0 +1,218 @@
+"355500"
+{
+	"common"
+	{
+		"name"		"Leadwerks Game Launcher"
+		"type"		"Application"
+		"releasestate"		"released"
+		"clienticon"		"b42843bf2419c9d29960381ca6f3a39f7234a227"
+		"clienttga"		"8a65cd2bf0ed44e547e20893baabea7242408fca"
+		"icon"		"d22cbd6cbfae5fb7c06da054d2618323ff8c8a91"
+		"oslist"		"windows"
+		"logo"		"dd81780cb561a6c758677c4fddd99ee73e0afbd7"
+		"logo_small"		"dd81780cb561a6c758677c4fddd99ee73e0afbd7_thumb"
+		"controllervr"
+		{
+			"kbm"		"1"
+		}
+		"osarch"		""
+		"metacritic_name"		"Leadwerks Game Launcher"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_cd67777c4643d5e6c4937f2a65c8183943dc3cea.jpg"
+		"store_asset_mtime"		"1460428805"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Leadwerks Software"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Leadwerks Software"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"51"
+			"1"		"53"
+			"2"		"54"
+			"3"		"56"
+			"4"		"57"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_33"		"1"
+			"category_30"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1440452643"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"355500"
+		"exfgls"		"6"
+		"store_tags"
+		{
+			"0"		"1445"
+			"1"		"87"
+			"2"		"493"
+			"3"		"872"
+			"4"		"1036"
+			"5"		"84"
+			"6"		"13906"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Leadwerks Software"
+		"publisher"		"Leadwerks Software"
+		"homepage"		"http://www.leadwerks.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Leadwerks Game Launcher"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GameLauncher.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"gamelauncher.sh"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollerconfigfileids"		"535774237"
+		"enablegameoverlayforapp"		"1"
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"355501"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7393004455321657800"
+					"size"		"49509416"
+					"download"		"13963360"
+				}
+				"beta"
+				{
+					"gid"		"7393004455321657800"
+					"size"		"49509416"
+					"download"		"13963360"
+				}
+				"v4.2"
+				{
+					"gid"		"200658936793160026"
+					"size"		"33658800"
+					"download"		"9421616"
+				}
+				"v4.3"
+				{
+					"gid"		"5063714535449469494"
+					"size"		"35045876"
+					"download"		"9710896"
+				}
+			}
+		}
+		"workshopdepot"		"355500"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2574570"
+				"timeupdated"		"1520167085"
+			}
+			"beta"
+			{
+				"buildid"		"2574570"
+				"description"		"Latest build for testing"
+				"timeupdated"		"1520167094"
+			}
+			"v4.2"
+			{
+				"buildid"		"1558821"
+				"description"		"Archive"
+				"timeupdated"		"1485807576"
+			}
+			"v4.3"
+			{
+				"buildid"		"1620993"
+				"description"		"Archive"
+				"timeupdated"		"1499441015"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}

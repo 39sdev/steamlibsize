@@ -1,0 +1,357 @@
+"1952540"
+{
+	"common"
+	{
+		"name"		"Voltaire - The Vegan Vampire"
+		"type"		"Game"
+		"clienticon"		"0337f5ff94809a8e4e8c8fe44b87cc70e840b5c5"
+		"clienttga"		"da5e102cb82f2ed19f32bb9605a4e80be0bb4aa2"
+		"icon"		"7e7a735c114aee1dbf011ef119d44e86ec5a8f12"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1697846400"
+			"tested_build_id"		"12475446"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"16.182169854660515"
+				"height_pct"		"52.73217960896067"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomCenter"
+					"width_pct"		"16.182169854660515"
+					"height_pct"		"52.73217960896067"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1719414501"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Digitality Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"indie.io"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"indie.io"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1698335941"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1952540"
+		"store_tags"
+		{
+			"0"		"1685"
+			"1"		"122"
+			"2"		"42804"
+			"3"		"1645"
+			"4"		"87918"
+			"5"		"599"
+			"6"		"7332"
+			"7"		"552282"
+			"8"		"97376"
+			"9"		"1662"
+			"10"		"3959"
+			"11"		"3871"
+			"12"		"4018"
+			"13"		"1646"
+			"14"		"4726"
+			"15"		"10816"
+			"16"		"19"
+			"17"		"3859"
+			"18"		"597"
+			"19"		"4305"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Digitality Games"
+		"publisher"		"indie.io"
+	}
+	"config"
+	{
+		"installdir"		"Voltaire - The Vegan Vampire"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Voltaire The Vegan Vampire.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"1952541"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7429226589154270704"
+					"size"		"3270419411"
+					"download"		"2165714544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta-branch"
+				{
+					"gid"		"84D0DE0A7909CE41499965C5446A5925"
+					"size"		"F885CE4DC04F041019D39536A34D3662"
+					"download"		"DAD32811D79C830B529BB866A252A969"
+				}
+				"events-branch"
+				{
+					"gid"		"F90998BD4B470D9C1CCE46CA8E937E38"
+					"size"		"4489DEC4E640E95DA1C95D0B6F4586D3"
+					"download"		"A55A54BBAB26C45FE36F093E5424B43A"
+				}
+				"steam_deck_verification"
+				{
+					"gid"		"97339657C01BB21B2168D16521518A4D"
+					"size"		"3C417451071A4055CED8094190B5ABC8"
+					"download"		"482343669119A0C85E4F035B88E1F8E2"
+				}
+				"devs-branch"
+				{
+					"gid"		"68E9632D04DAD649D69CA95E343E88BF"
+					"size"		"2DD19881023ACEF6E8B4F81AA629752E"
+					"download"		"395C9AE3003CC80DB4AC51198BE9B82D"
+				}
+				"milestone-branch"
+				{
+					"gid"		"120487265399D840439AE38B24EE7702"
+					"size"		"55603D2A388D139F4F488EDBAA6782FC"
+					"download"		"F4ACFEFE9814EBB4FED55886FC778991"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"15202364"
+				"timeupdated"		"1722955223"
+			}
+			"beta-branch"
+			{
+				"buildid"		"10300597"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673461872"
+			}
+			"events-branch"
+			{
+				"buildid"		"12191513"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694716883"
+			}
+			"steam_deck_verification"
+			{
+				"buildid"		"12475446"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697658256"
+			}
+			"devs-branch"
+			{
+				"buildid"		"15202364"
+				"pwdrequired"		"1"
+				"timeupdated"		"1722955231"
+			}
+			"milestone-branch"
+			{
+				"buildid"		"15202364"
+				"pwdrequired"		"1"
+				"timeupdated"		"1722955239"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"sync_while_suspended"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Digitality Games/Voltaire The Vegan Vampire"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Digitality Games/Voltaire The Vegan Vampire"
+						"replace"		".config/unity3d/Digitality Games/Voltaire The Vegan Vampire"
+					}
+				}
+			}
+		}
+	}
+}

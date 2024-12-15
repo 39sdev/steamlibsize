@@ -1,0 +1,560 @@
+"1593500"
+{
+	"common"
+	{
+		"name"		"God of War"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"dutch"		"1"
+			"hungarian"		"1"
+			"czech"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"greek"		"1"
+			"latam"		"1"
+		}
+		"clienticon"		"13a56d5a2f9248b14f6d2cc0486e2b05b19d9554"
+		"clienttga"		"f3c37a904bc82866c00c4c7f2316df898b9d075b"
+		"icon"		"8aa5e7e0e55cad682c7f2e65e075c3bc04dfc1cb"
+		"logo"		"ebc40b87c3a83f4be048a8809032fb87bcd8b501"
+		"logo_small"		"ebc40b87c3a83f4be048a8809032fb87bcd8b501_thumb"
+		"controllervr"
+		{
+			"xinput"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1593500_eula_0"
+				"name"		"God of War EULA (RoW)"
+				"url"		"https://store.steampowered.com/eula/1593500_eula_0"
+				"version"		"6"
+				"countries"		"AF,AG,AI,AL,AM,AN,AO,AQ,AR,AS,AW,AX,AZ,BA,BB,BD,BF,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,DJ,DM,DO,DZ,EC,EE,EG,EH,ER,ET,FJ,FK,FM,FO,FX,GA,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GS,GT,GU,GW,GY,HK,HM,HN,HT,ID,IM,IO,IQ,IR,JE,JM,JO,KE,KG,KH,KI,KM,KN,KP,KY,KZ,LA,LC,LK,LR,LS,LT,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NP,NR,NU,PA,PE,PF,PG,PH,PK,PM,PN,PR,PS,PW,PY,RE,RW,SB,SC,SD,SG,SH,SJ,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TT,TV,TW,TZ,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,XD,YE,YT,ZM,ZW"
+			}
+			"1"
+			{
+				"id"		"1593500_eula_1"
+				"name"		"God of War EULA (EMEA)"
+				"url"		"https://store.steampowered.com/eula/1593500_eula_1"
+				"countries"		"AD,AE,AT,AU,BE,BG,BH,CH,CY,CZ,DE,DK,ES,FI,FR,GB,GR,HR,HU,IE,IL,IN,IS,IT,KW,LB,LI,LU,MT,NL,NO,NZ,OM,PL,PT,QA,RO,RS,RU,SA,SE,SI,SK,TR,UA,ZA"
+				"version"		"1"
+			}
+			"2"
+			{
+				"id"		"1593500_eula_2"
+				"name"		"God of War EULA (JP)"
+				"url"		"https://store.steampowered.com/eula/1593500_eula_2"
+				"countries"		"JP"
+				"version"		"1"
+			}
+			"3"
+			{
+				"id"		"1593500_eula_3"
+				"name"		"God of War EULA (KR)"
+				"url"		"https://store.steampowered.com/eula/1593500_eula_3"
+				"countries"		"KR"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1643846400"
+			"tested_build_id"		"8008283"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+			}
+		}
+		"metacritic_name"		"God of War"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"34.84327465275683"
+				"height_pct"		"99.49495699094965"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"34.84327465275683"
+					"height_pct"		"99.49495699094965"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1639001778"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Santa Monica Studio"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Jetpack Interactive"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"PlayStation Publishing LLC"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"PlayStation Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_43"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1642175940"
+		"metacritic_score"		"93"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/god-of-war?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1593500"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4182"
+			"2"		"1742"
+			"3"		"21"
+			"4"		"16094"
+			"5"		"3993"
+			"6"		"1697"
+			"7"		"122"
+			"8"		"1646"
+			"9"		"4667"
+			"10"		"1695"
+			"11"		"1684"
+			"12"		"3834"
+			"13"		"4166"
+			"14"		"4345"
+			"15"		"4231"
+			"16"		"29482"
+			"17"		"5608"
+			"18"		"4191"
+			"19"		"6730"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Santa Monica Studio"
+		"publisher"		"PlayStation Publishing LLC"
+	}
+	"config"
+	{
+		"installdir"		"GodOfWar"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GoW.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65532"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2747642923"
+			{
+				"controller_type"		"controller_ps5"
+				"enabled_branches"		"default,amd_test,experimental,intel_test,internal_gold,jetpack_rollback,latest_platinum,nvidia_test,qa_gold,ratings"
+				"use_action_block"		"false"
+			}
+			"2747679229"
+			{
+				"controller_type"		"controller_switch_pro"
+				"enabled_branches"		"default,amd_test,experimental,intel_test,internal_gold,jetpack_rollback,latest_platinum,nvidia_test,qa_gold,ratings"
+				"use_action_block"		"false"
+			}
+			"2747642644"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,amd_test,experimental,intel_test,internal_gold,jetpack_rollback,latest_platinum,nvidia_test,qa_gold,ratings"
+				"use_action_block"		"false"
+			}
+			"2747644299"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,amd_test,experimental,intel_test,internal_gold,jetpack_rollback,latest_platinum,nvidia_test,qa_gold,ratings"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek,latam"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1593501"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2535153423663269664"
+					"size"		"68973454991"
+					"download"		"37134232112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"amd_test"
+				{
+					"gid"		"ADF28CB11A8865F9AAC9389D244116B3"
+					"size"		"7D6E3674BBE2405605B57DA0F8AEE3F3"
+					"download"		"DD73F3708E6CFDA4E1C7BF06FCB59261"
+				}
+				"intel_test"
+				{
+					"gid"		"2115BDA45CD48ED64DFB971F88830E4C"
+					"size"		"9EC392B56B87D884ACB6BC369194705A"
+					"download"		"B051DAAD83C93E43144521B31E950891"
+				}
+				"internal_gold"
+				{
+					"gid"		"87A04CDD67C33BF13B531436CB9B2C0A"
+					"size"		"875C2EA4EBEE63EA5375ED28B4938F4B"
+					"download"		"1CB4F0A87B4BE6191E7E0678E27491A3"
+				}
+				"jetpack_rollback"
+				{
+					"gid"		"16DA1F79CBC71579316338B3BF0F25A6"
+					"size"		"7205CC0B5C356627EA08F2DF7D6466FB"
+					"download"		"A73FEDF644CD6DAE18EAF45D56A77AD0"
+				}
+				"latest_platinum"
+				{
+					"gid"		"3AA2F7BC7C30E097B12CE081E856D187"
+					"size"		"D764A62FD8FCD033555D77B3F5CFAB2D"
+					"download"		"C3B19AAFCEAD4B0B3FDB1B0EEBD40E40"
+				}
+				"nvidia_test"
+				{
+					"gid"		"EB6637A32276742D8D4A1815F3A33346"
+					"size"		"E816693D7E7E74B67D1B4D5F4847185A"
+					"download"		"697A7BBB43F41EF09FA15C4BE562B549"
+				}
+				"qa_gold"
+				{
+					"gid"		"B8CA52800576D4C583D2ED8DFA325D8E"
+					"size"		"344256EA382CCD5457CDB75F43F49E2C"
+					"download"		"4442FE58CAE858B28EF2EE017E71364F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11168363"
+				"timeupdated"		"1684775718"
+			}
+			"amd_test"
+			{
+				"buildid"		"8812909"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653583219"
+			}
+			"intel_test"
+			{
+				"buildid"		"8414382"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647963192"
+			}
+			"internal_gold"
+			{
+				"buildid"		"11168441"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683330151"
+			}
+			"jetpack_rollback"
+			{
+				"buildid"		"8008342"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646440528"
+			}
+			"latest_platinum"
+			{
+				"buildid"		"11168363"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683329183"
+			}
+			"nvidia_test"
+			{
+				"buildid"		"8414382"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647963205"
+			}
+			"qa_gold"
+			{
+				"buildid"		"8097540"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643927246"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"33554400"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinSavedGames"
+				"path"		"God of War/{Steam3AccountID}"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}

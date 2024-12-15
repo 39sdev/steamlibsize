@@ -1,0 +1,117 @@
+"1317230"
+{
+	"common"
+	{
+		"name"		"Unit Pack - Hearts of Iron IV: Allied Armor"
+		"type"		"DLC"
+		"parent"		"394360"
+		"ReleaseState"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"c0d8997a95db06ac805940c8afee9b2c3dbefbee"
+		"logo_small"		"c0d8997a95db06ac805940c8afee9b2c3dbefbee_thumb"
+		"icon"		"c4596df4feae3846f1771c01a65cb2d9ec5da6c4"
+		"small_capsule"
+		{
+			"english"		"9d1dfd276800b3b0973fb8e6bbb1d43f838ad5cd/capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_3ba5f0bddcec46e61abeb241a8f34b636c8021fb.jpg"
+		"store_asset_mtime"		"1729082534"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paradox Development Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paradox Interactive"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_27"		"1"
+			"category_9"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1591257724"
+		"gameid"		"1317230"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"599"
+			"2"		"3987"
+			"3"		"4364"
+			"4"		"4684"
+		}
+		"review_score"		"5"
+		"review_percentage"		"53"
+	}
+	"extended"
+	{
+		"dlcforappid"		"394360"
+		"mustownapptopurchase"		"394360"
+		"developer"		"Paradox Development Studio"
+		"publisher"		"Paradox Interactive"
+		"homepage"		"http://www.heartsofiron4.com/"
+		"DLCAvailableOnStore"		"1"
+	}
+}

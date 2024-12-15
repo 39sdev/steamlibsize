@@ -1,0 +1,153 @@
+"639600"
+{
+	"common"
+	{
+		"name"		"Arma 3 Malden"
+		"type"		"DLC"
+		"parent"		"107410"
+		"releasestate"		"released"
+		"clienttga"		"6fc0092391e53887561bf1a8e89dc02deb741ba5"
+		"logo"		"943606f28068a89ab7f97171fd2ba5c69a502598"
+		"logo_small"		"943606f28068a89ab7f97171fd2ba5c69a502598_thumb"
+		"icon"		"6f623735caba884b17b335e7e474978bd72d96cc"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"metacritic_name"		"Arma 3 Malden"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_aa018499efe337a7a39a5f75c3b84a2286e5d571.jpg"
+		"store_asset_mtime"		"1498118435"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bohemia Interactive"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_13"		"1"
+			"category_18"		"1"
+			"category_17"		"1"
+			"category_30"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_36"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1498135260"
+		"gameid"		"639600"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"599"
+			"2"		"9"
+			"3"		"4168"
+			"4"		"1708"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"dlcforappid"		"107410"
+		"mustownapptopurchase"		"107410"
+		"developer"		"Bohemia Interactive"
+		"homepage"		"http://www.arma3.com"
+		"dlcavailableonstore"		"1"
+	}
+}

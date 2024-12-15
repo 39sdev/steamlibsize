@@ -1,0 +1,98 @@
+"365940"
+{
+	"common"
+	{
+		"name"		"Dungeon of the ENDLESS™ - Australium Update"
+		"type"		"DLC"
+		"parent"		"249050"
+		"releasestate"		"released"
+		"icon"		"18e86a6deff308821609655a618c5c0ce83a8036"
+		"logo"		"b44dac321b0b3336790dc8e63aad5fb1bcc4f577"
+		"logo_small"		"b44dac321b0b3336790dc8e63aad5fb1bcc4f577_thumb"
+		"metacritic_name"		"Dungeon of the Endless"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_8ff6c8709a2bbfd50d105049b2b27a8be3077ddf.jpg"
+		"store_asset_mtime"		"1637756287"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"AMPLITUDE Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"3"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_27"		"1"
+			"category_18"		"1"
+			"category_38"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_49"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"metacritic_score"		"79"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/dungeon-of-the-endless?ftag=MCD-06-10aaa1f"
+		"gameid"		"365940"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"9"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"dlcforappid"		"249050"
+		"mustownapptopurchase"		"249050"
+		"developer"		"AMPLITUDE Studios"
+		"publisher"		"SEGA"
+		"homepage"		"http://www.amplitude-studios.com/dungeon-of-the-endless"
+		"dlcavailableonstore"		"1"
+	}
+}

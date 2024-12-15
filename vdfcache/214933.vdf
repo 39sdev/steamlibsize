@@ -1,0 +1,145 @@
+"214933"
+{
+	"common"
+	{
+		"name"		"BioShock Infinite - Season Pass"
+		"type"		"DLC"
+		"parent"		"8870"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"logo"		"68c13c182f55c1e077b3c51278df6453c1924d09"
+		"logo_small"		"68c13c182f55c1e077b3c51278df6453c1924d09_thumb"
+		"icon"		"a0f27dc1b1dcde250b4c8b8b7f8c36e4dbf253af"
+		"osarch"		""
+		"metacritic_name"		"BioShock Infinite - Season Pass Bonus Content"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_c42be54ba7c05bd88dbbec4784409363d452a38b.jpg"
+		"store_asset_mtime"		"1395335945"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Irrational Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Virtual Programming (Linux)"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"2K"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1364317200"
+		"gameid"		"214933"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1663"
+			"2"		"4166"
+			"3"		"1742"
+			"4"		"4182"
+			"5"		"1774"
+			"6"		"21"
+			"7"		"3839"
+			"8"		"7208"
+			"9"		"1777"
+			"10"		"3942"
+			"11"		"1756"
+			"12"		"1667"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"Irrational Games"
+		"dlcforappid"		"8870"
+		"gamedir"		"ValveTestApp214933"
+		"homepage"		"http://www.bioshockinfinite.com/"
+		"icon"		""
+		"mustownapptopurchase"		"8870"
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"validoslist"		"windows,macos"
+		"publisher"		"2K"
+		"dlcavailableonstore"		"1"
+	}
+}

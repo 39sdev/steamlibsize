@@ -1,0 +1,148 @@
+"379310"
+{
+	"common"
+	{
+		"name"		"LISA the Joyful"
+		"type"		"DLC"
+		"parent"		"335670"
+		"ReleaseState"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"86f23d8ed7d108cdd18e9e788fdd0080189f1d7f"
+		"logo_small"		"86f23d8ed7d108cdd18e9e788fdd0080189f1d7f_thumb"
+		"icon"		"0408865eff90e637e834bd95a21df81349eacdf9"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"metacritic_name"		"LISA the Joyful"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_84bf08a05dead047f1fed2a91cc91e5a2f4397a8.jpg"
+		"store_asset_mtime"		"1690824840"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dingaling"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Serenity Forge"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Serenity Forge"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1440478800"
+		"gameid"		"379310"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"492"
+			"2"		"21"
+			"3"		"1756"
+			"4"		"1721"
+			"5"		"1742"
+			"6"		"5923"
+			"7"		"7208"
+			"8"		"3964"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"dlcforappid"		"335670"
+		"mustownapptopurchase"		"335670"
+		"developer"		"Dingaling"
+		"publisher"		"Serenity Forge"
+		"homepage"		"http://www.lisatherpg.com/"
+		"dlcavailableonstore"		"1"
+	}
+}

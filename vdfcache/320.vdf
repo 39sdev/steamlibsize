@@ -1,0 +1,661 @@
+"320"
+{
+	"common"
+	{
+		"clienticon"		"dddaffd2724873ff767b211b26f17c822c3eea30"
+		"clienttga"		"f1f5ca656a5257166ea447a7beef62736f4dec3e"
+		"icon"		"795e85364189511f4990861b578084deef086cb1"
+		"logo"		"6dd9f66771300f2252d411e50739a1ceae9e5b30"
+		"logo_small"		"dd3ada61e68c08243e6cf64b120d75f1dface5b1"
+		"name"		"Half-Life 2: Deathmatch"
+		"clienticns"		"7ed8afafaa686cd5d69151ae5290707313efd44e"
+		"oslist"		"windows,macos,linux"
+		"linuxclienticon"		"e60aa12d2f74ea482f41e7abb9ac4eed2331de08"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"danish"		"1"
+			"dutch"		"1"
+			"finnish"		"1"
+			"norwegian"		"1"
+			"swedish"		"1"
+			"hungarian"		"1"
+			"czech"		"1"
+			"romanian"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"bulgarian"		"1"
+			"greek"		"1"
+			"ukrainian"		"1"
+		}
+		"osarch"		""
+		"osextended"		""
+		"type"		"game"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1664928000"
+			"tested_build_id"		"6935373"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Half-Life 2: Deathmatch"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"36.78640153944838"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"UpperCenter"
+					"width_pct"		"36.78640153944838"
+					"height_pct"		"100"
+				}
+			}
+		}
+		"store_asset_mtime"		"1568756407"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Valve"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Valve"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_8"		"1"
+			"category_16"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1099296000"
+		"community_hub_visible"		"1"
+		"gameid"		"320"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1663"
+			"2"		"3859"
+			"3"		"1774"
+			"4"		"3839"
+			"5"		"3942"
+			"6"		"3968"
+			"7"		"3878"
+			"8"		"4136"
+			"9"		"1685"
+			"10"		"3916"
+			"11"		"1775"
+			"12"		"5547"
+			"13"		"1669"
+			"14"		"4166"
+			"15"		"21"
+			"16"		"1756"
+			"17"		"4182"
+			"18"		"4667"
+			"19"		"3843"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Valve"
+		"gamedir"		"hl2mp"
+		"homepage"		"http://www.steampowered.com/"
+		"icon"		"steam/games/icon_hl2"
+		"icon2"		"steam/games/icon_hl2_dull"
+		"noservers"		"0"
+		"order"		"5"
+		"primarycache"		"321"
+		"serverbrowsername"		"Half-Life 2: Deathmatch"
+		"sourcegame"		"1"
+		"state"		"eStateUnAvailable"
+		"vacmacmodulecache"		"160"
+		"vacmodulecache"		"202"
+		"vacmodulefilename"		"sourceinit.dat"
+		"validoslist"		"macos,windows"
+		"no_revenue_accumulation"		"1"
+		"developer_url"		"http://www.valvesoftware.com"
+		"publisher"		"Valve"
+		"aliases"		"hl2 deathmatch, half life 2 deathmatch, hl2dm"
+	}
+	"config"
+	{
+		"signedfiles"
+		{
+			"client.dll"		"30819D300D06092A864886F70D010101050003818B0030818702818100B1260881BDFE84463D88C6AB8DB914A2E593893C10508B8A5ABDF692E9A5419A3EDBAE86A052849983B75E3B425C18178B260003D857DF0B6505C6CF9C84F5859FCE3B63F1FB2D4818501F6C5FA4AD1430EEB081A74ABD74CD1F4AA1FCCA3B88DD0548AED34443CEB52444EAE9099AA4FE66B2E6224D02381C248025C7044079020111"
+			"engine.dll"		"30819D300D06092A864886F70D010101050003818B0030818702818100B1260881BDFE84463D88C6AB8DB914A2E593893C10508B8A5ABDF692E9A5419A3EDBAE86A052849983B75E3B425C18178B260003D857DF0B6505C6CF9C84F5859FCE3B63F1FB2D4818501F6C5FA4AD1430EEB081A74ABD74CD1F4AA1FCCA3B88DD0548AED34443CEB52444EAE9099AA4FE66B2E6224D02381C248025C7044079020111"
+			"server.dll"		"30819D300D06092A864886F70D010101050003818B0030818702818100B1260881BDFE84463D88C6AB8DB914A2E593893C10508B8A5ABDF692E9A5419A3EDBAE86A052849983B75E3B425C18178B260003D857DF0B6505C6CF9C84F5859FCE3B63F1FB2D4818501F6C5FA4AD1430EEB081A74ABD74CD1F4AA1FCCA3B88DD0548AED34443CEB52444EAE9099AA4FE66B2E6224D02381C248025C7044079020111"
+			"sourcevr.dll"		"30819D300D06092A864886F70D010101050003818B0030818702818100B1260881BDFE84463D88C6AB8DB914A2E593893C10508B8A5ABDF692E9A5419A3EDBAE86A052849983B75E3B425C18178B260003D857DF0B6505C6CF9C84F5859FCE3B63F1FB2D4818501F6C5FA4AD1430EEB081A74ABD74CD1F4AA1FCCA3B88DD0548AED34443CEB52444EAE9099AA4FE66B2E6224D02381C248025C7044079020111"
+			"hl2.exe"		"30819D300D06092A864886F70D010101050003818B0030818702818100B1260881BDFE84463D88C6AB8DB914A2E593893C10508B8A5ABDF692E9A5419A3EDBAE86A052849983B75E3B425C18178B260003D857DF0B6505C6CF9C84F5859FCE3B63F1FB2D4818501F6C5FA4AD1430EEB081A74ABD74CD1F4AA1FCCA3B88DD0548AED34443CEB52444EAE9099AA4FE66B2E6224D02381C248025C7044079020111"
+		}
+		"systemprofile"		"1"
+		"installdir"		"Half-Life 2 Deathmatch"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-steam -game hl2mp"
+				"vacmodulefilename"		"resource\\sourceinit.dat"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"hl2_osx"
+				"arguments"		"-steam -game hl2mp"
+				"vacmodulefilename"		"resource\\sourceinit_macos.dat"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"hl2.sh"
+				"arguments"		"-game hl2mp -steam"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"hl2mp.exe"
+				"arguments"		"-steam"
+				"vacmodulefilename"		"resource\\sourceinit.dat"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+					"BetaKey"		"frog"
+				}
+			}
+			"4"
+			{
+				"executable"		"hl2mp_win64.exe"
+				"arguments"		"-steam"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"BetaKey"		"frog"
+				}
+			}
+			"5"
+			{
+				"executable"		"hl2mp.sh"
+				"arguments"		"-steam"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+					"BetaKey"		"frog"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"app_mappings"
+		{
+			"0"
+			{
+				"platform"		"linux"
+				"tool"		"SteamLinuxRuntime_sniper"
+				"branch"		"frog"
+			}
+		}
+		"steamvrsupport"		"1"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"3368336232"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+			"3368336427"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+			"3368336689"
+			{
+				"controller_type"		"controller_xbox360"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+			"3368337726"
+			{
+				"controller_type"		"controller_ps5"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"11"
+	}
+	"depots"
+	{
+		"321"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4713197502847306022"
+					"size"		"3052958921"
+					"download"		"1793880512"
+				}
+				"beta"
+				{
+					"gid"		"4713197502847306022"
+					"size"		"3052958921"
+					"download"		"1793880512"
+				}
+				"previous_build"
+				{
+					"gid"		"6505941761483987192"
+					"size"		"3052958921"
+					"download"		"1793880512"
+				}
+				"steam_legacy"
+				{
+					"gid"		"1700097421443197544"
+					"size"		"2929578360"
+					"download"		"1760174752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"frog"
+				{
+					"gid"		"69A70C312078211E19A51E46F67C3415"
+					"size"		"F918035767E8A02F784C63701F613398"
+					"download"		"9B3ACF8456917337A70B4511D113F4AB"
+				}
+			}
+		}
+		"320"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3819643336630980180"
+					"size"		"825728"
+					"download"		"43024"
+				}
+				"beta"
+				{
+					"gid"		"3819643336630980180"
+					"size"		"825728"
+					"download"		"43024"
+				}
+				"previous_build"
+				{
+					"gid"		"3819643336630980180"
+					"size"		"825728"
+					"download"		"43024"
+				}
+				"steam_legacy"
+				{
+					"gid"		"2909718736535203058"
+					"size"		"825728"
+					"download"		"43024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"frog"
+				{
+					"gid"		"B9AC90107763A227574FAFB98F69C0AD"
+					"size"		"D20092DA0498D3625C21DCA40542D457"
+					"download"		"F1648F12555039153BE1785DC14EC839"
+				}
+			}
+		}
+		"232371"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"588887960764738176"
+					"size"		"265702913"
+					"download"		"99303568"
+				}
+				"beta"
+				{
+					"gid"		"588887960764738176"
+					"size"		"265702913"
+					"download"		"99303568"
+				}
+				"previous_build"
+				{
+					"gid"		"1049594648635401552"
+					"size"		"265689089"
+					"download"		"99354384"
+				}
+				"steam_legacy"
+				{
+					"gid"		"7182904708520697775"
+					"size"		"129089583"
+					"download"		"53862336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"frog"
+				{
+					"gid"		"772336047A113DCCA634C2048B233A0B"
+					"size"		"4D82DF53BE27DBC654F9661C719D5754"
+					"download"		"C5F4EEDF02AF930175A1B16EC248D3DA"
+				}
+			}
+		}
+		"232372"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7975694277620604106"
+					"size"		"66765227"
+					"download"		"15910848"
+				}
+				"beta"
+				{
+					"gid"		"7975694277620604106"
+					"size"		"66765227"
+					"download"		"15910848"
+				}
+				"previous_build"
+				{
+					"gid"		"7975694277620604106"
+					"size"		"66765227"
+					"download"		"15910848"
+				}
+				"steam_legacy"
+				{
+					"gid"		"1100769364994475803"
+					"size"		"75481337"
+					"download"		"21786576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"frog"
+				{
+					"gid"		"C9D7A2A6BA21A2742CD704BEDFAA483D"
+					"size"		"5406B64D52FB013DED1EDF4B00206B0D"
+					"download"		"A54B4D0C100CAC5E37D5559993209DD9"
+				}
+			}
+		}
+		"232373"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2609542532779200256"
+					"size"		"153315226"
+					"download"		"50096256"
+				}
+				"beta"
+				{
+					"gid"		"2609542532779200256"
+					"size"		"153315226"
+					"download"		"50096256"
+				}
+				"previous_build"
+				{
+					"gid"		"3760418082858632025"
+					"size"		"153310142"
+					"download"		"50109040"
+				}
+				"steam_legacy"
+				{
+					"gid"		"8751923425137362848"
+					"size"		"85339667"
+					"download"		"30458848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"frog"
+				{
+					"gid"		"4D655875C2585245BDC7B06641C35846"
+					"size"		"E4CCD9B079CE5E5E7EA1C7FFF423E3C9"
+					"download"		"C0817F7E01F2FE21467816DC64B5098F"
+				}
+			}
+		}
+		"209"
+		{
+			"config"
+			{
+				"lowviolence"		"1"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7768366331652052321"
+					"size"		"48700"
+					"download"		"13200"
+				}
+				"beta"
+				{
+					"gid"		"7768366331652052321"
+					"size"		"48700"
+					"download"		"13200"
+				}
+				"previous_build"
+				{
+					"gid"		"7768366331652052321"
+					"size"		"48700"
+					"download"		"13200"
+				}
+				"steam_legacy"
+				{
+					"gid"		"5452253894472573318"
+					"size"		"47205"
+					"download"		"14144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"frog"
+				{
+					"gid"		"1DCCBA3C3F52C54EF334E593DD0EDBAB"
+					"size"		"6B7212671311CDBAD7403D4C7CA38B4B"
+					"download"		"768FA5C45D366ECA2D69D8E0488A837B"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16544454"
+				"timeupdated"		"1732661369"
+			}
+			"beta"
+			{
+				"buildid"		"16544454"
+				"description"		"upcoming fixes"
+				"timeupdated"		"1732660093"
+			}
+			"frog"
+			{
+				"buildid"		"16743472"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734152174"
+			}
+			"previous_build"
+			{
+				"buildid"		"16478333"
+				"description"		"the last released update"
+				"timeupdated"		"1732661345"
+			}
+			"steam_legacy"
+			{
+				"buildid"		"6935373"
+				"description"		"Pre-20th Anniversary Build"
+				"timeupdated"		"1731780353"
+			}
+		}
+	}
+}

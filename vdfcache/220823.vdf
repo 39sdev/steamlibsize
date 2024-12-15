@@ -1,0 +1,110 @@
+"220823"
+{
+	"common"
+	{
+		"name"		"Zombie Driver HD Apocalypse Pack"
+		"type"		"DLC"
+		"parent"		"220820"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"a454e776ce22a5d06d4383c16a55d6a7fa06b050"
+		"logo_small"		"a454e776ce22a5d06d4383c16a55d6a7fa06b050_thumb"
+		"icon"		"73499b3b5699fe23187ad4d452ca31f56f0aa918"
+		"metacritic_name"		"Zombie Driver DLC1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"e0aae73a135b70e850588c68fa8561becaa3e2fa/capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_405d43a9b3722f8bfe6ca43958d84be675183dab.jpg"
+		"store_asset_mtime"		"1726586463"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"EXOR Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"EXOR Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_18"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"french"
+			{
+				"supported"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+			}
+			"italian"
+			{
+				"supported"		"1"
+			}
+			"polish"
+			{
+				"supported"		"1"
+			}
+			"spanish"
+			{
+				"supported"		"1"
+			}
+		}
+		"gameid"		"220823"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"19"
+			"2"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"EXOR Studios"
+		"dlcforappid"		"220820"
+		"gamedir"		"ValveTestApp220823"
+		"homepage"		"www.zombiedriver.com"
+		"icon"		""
+		"mustownapptopurchase"		"220820"
+		"noservers"		"0"
+		"primarycache"		"7"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"EXOR Studios"
+		"dlcavailableonstore"		"1"
+	}
+}

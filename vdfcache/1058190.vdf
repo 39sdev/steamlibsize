@@ -1,0 +1,130 @@
+"1058190"
+{
+	"common"
+	{
+		"name"		"Bus Simulator 18 - Official map extension"
+		"type"		"DLC"
+		"parent"		"515180"
+		"releasestate"		"released"
+		"clienttga"		"cc48098c33b48999dc9ee717cc9a194208a03589"
+		"clienticon"		"35e2a18b9074464b72ceebe0b8c36f4f82053e77"
+		"icon"		"846567c34caf4b972158fe392d5dd55844cd7b40"
+		"logo"		"10ed3b32e63c97248e5332421a20e44530b2d5c1"
+		"logo_small"		"10ed3b32e63c97248e5332421a20e44530b2d5c1_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"metacritic_name"		"Bus Simulator 18 - 1. official map extension"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_49341a996aa7020c8763b28f7e3c91c1f83469f9.jpg"
+		"store_asset_mtime"		"1592477549"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"stillalive studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"astragon Entertainment"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_33"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_28"		"1"
+			"category_59"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1558544335"
+		"gameid"		"1058190"
+		"store_tags"
+		{
+			"0"		"599"
+		}
+		"review_score"		"5"
+		"review_percentage"		"63"
+	}
+	"extended"
+	{
+		"dlcforappid"		"515180"
+		"mustownapptopurchase"		"515180"
+		"developer"		"stillalive studios"
+		"publisher"		"astragon Entertainment"
+		"homepage"		"http://www.bussimulator-game.com"
+		"dlcavailableonstore"		"1"
+	}
+}

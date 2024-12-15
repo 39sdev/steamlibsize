@@ -1,0 +1,717 @@
+"1451810"
+{
+	"common"
+	{
+		"name"		"LEGO® 2K Drive"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"8b504924c396534b2e0d72bc1cf9cd579dd3e550"
+		"clienttga"		"3ebcc8eedec875fc2278af0baea3beb35fa975a9"
+		"icon"		"8310e788a7972d6ae815c157a58207b5bb50f369"
+		"name_localized"
+		{
+			"schinese"		"乐高®2K竞速"
+			"tchinese"		"樂高®2K 飆風賽車"
+			"japanese"		"レゴ®2K ドライブ"
+			"koreana"		"레고® 2K 드라이브"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"danish"		"1"
+			"dutch"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1451810_eula_0"
+				"name"		"LEGO® 2K Drive EULA"
+				"url"		"https://store.steampowered.com//eula/1451810_eula_0"
+				"version"		"2"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1694649600"
+			"tested_build_id"		"12037163"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"1"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"9e60dee49a2ce68f7da2c37beb715ce09d90dc0e/capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_hero_blur"		"en"
+			"library_logo"		"en,ja"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35.12745372562577"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"f9cca9fc3e0515582021d1a403f3efe442df5079/library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"f9cca9fc3e0515582021d1a403f3efe442df5079/library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"2a02653cc29fb77d24e11acd93b9fada15fee830/library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"2a02653cc29fb77d24e11acd93b9fada15fee830/library_hero_2x.jpg"
+				}
+			}
+			"library_hero_blur"
+			{
+				"image"
+				{
+					"english"		"2a02653cc29fb77d24e11acd93b9fada15fee830/library_hero_blur.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"7cfb4c88d5ba2f1d2cb3307cd8dbb3d16e092537/logo.png"
+					"japanese"		"68de2f137c2964d2db1388086f55d881be83c934/logo_japanese.png"
+				}
+				"image2x"
+				{
+					"english"		"7cfb4c88d5ba2f1d2cb3307cd8dbb3d16e092537/logo_2x.png"
+					"japanese"		"68de2f137c2964d2db1388086f55d881be83c934/logo_japanese_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"35.12745372562577"
+					"height_pct"		"100"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1732232323"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Visual Concepts"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"2K"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"LEGO"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_35"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_60"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1684468860"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1451810"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"1736"
+			"2"		"1643"
+			"3"		"3810"
+			"4"		"4136"
+			"5"		"5350"
+			"6"		"4102"
+			"7"		"3834"
+			"8"		"4305"
+			"9"		"1719"
+			"10"		"1644"
+			"11"		"7622"
+			"12"		"4191"
+			"13"		"1697"
+			"14"		"1773"
+			"15"		"1695"
+			"16"		"4747"
+			"17"		"1775"
+			"18"		"6730"
+			"19"		"701"
+		}
+		"review_score"		"5"
+		"review_percentage"		"61"
+	}
+	"extended"
+	{
+		"allowmicrotxnfromrestrictedcountries"		"0"
+		"microtxnrestrictedcountries"		"RU,BY"
+		"developer"		"Visual Concepts"
+		"publisher"		"2K"
+		"homepage"		"https://lego.2k.com/drive"
+		"listofdlc"		"2353080,2353081,2353082,2353083,2353140,2353142,2353143,2353144,2353150,2353151,2353152,2353153,2353154,2353155"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"LEGO2KDrive"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LEGO2KDrive.exe"
+				"type"		"default"
+			}
+			"2"
+			{
+				"executable"		"ArtemisClient.exe"
+				"config"
+				{
+					"BetaKey"		"submission-final"
+				}
+				"description_loc"
+				{
+					"english"		"Really Launch the Game"
+				}
+				"description"		"Really Launch the Game"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1451811"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6655680017474260221"
+					"size"		"12556406889"
+					"download"		"11888631552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2kreview"
+				{
+					"gid"		"5342AAAFB29F36F56F65C468D30213DE"
+					"size"		"7EDAB2C28F4B68BD07EE588CCA200B87"
+					"download"		"1D93612740BA6EDBA7396846F754DC97"
+				}
+				"ancillary-partners"
+				{
+					"gid"		"203F25452803A07EBDBD9C717BF8071B"
+					"size"		"7FDF26116D87EBEF8F6049B5431CF2B9"
+					"download"		"72DFDEA4438FAFE6467041C63CB96504"
+				}
+				"devdevdev"
+				{
+					"gid"		"E192E4F397C5FDCC281AE997DEEAA3CC"
+					"size"		"240F0C2DCF0F3A5DC00669416D74F03D"
+					"download"		"65811860C1D7A6DF6963336378A2B680"
+				}
+				"devnightly"
+				{
+					"gid"		"136E0AB37DFE8196F5B31443D5730D1D"
+					"size"		"3169A67BA464F382A689C7DD886D8AB0"
+					"download"		"08F6999545193EE982678C2C3D187E0F"
+				}
+				"devnightly-test"
+				{
+					"gid"		"AD14DF4746E6FAA85A12A4B5D57CE547"
+					"size"		"0230F1107C96EB9268CA79CB0604FDA9"
+					"download"		"63AEA4FCF3F3AC29C9242F390775FC7B"
+				}
+				"event2"
+				{
+					"gid"		"D6687F567E170442582A4253556516F1"
+					"size"		"DCFAF25F9FF60C1C2DAD9FB1820E47AE"
+					"download"		"78D402D893547E00B83EB86E1C2F19B1"
+				}
+				"eventbranch"
+				{
+					"gid"		"1B221F93A49556FFAC51E4CD1C99A2B9"
+					"size"		"2A4E43406D376A9F4D74494F60515F29"
+					"download"		"C218938005D2E249CDFDCA63BD034D3D"
+				}
+				"exec-review"
+				{
+					"gid"		"72824A5F84AD6B8B39C1CC3B2C17EFCD"
+					"size"		"298FCDF3023A9496A54911F013FEC374"
+					"download"		"A384816A907C4AEBBA3C2D37A8354F71"
+				}
+				"first-playable"
+				{
+					"gid"		"55D33A4CC02EC91B8AA1B7749BF35A94"
+					"size"		"6234BE3D41A05E1B71EFDE75EACF7E23"
+					"download"		"FF70145414C5376EF2BBA6E469407B0D"
+				}
+				"gen8-disk-final"
+				{
+					"gid"		"B9A07A96E1944C18CBDD5A002D393EE5"
+					"size"		"88581E39F4E0DEE4C755B07839D59E03"
+					"download"		"3C1F67626A91D2BD57784E39372024AD"
+				}
+				"gen9-disk-final"
+				{
+					"gid"		"A83F1807215F275D12DB8A750DF782D7"
+					"size"		"777F0D91C3FFDB860D9A9B875C4C75CF"
+					"download"		"CCEC4172C55A26202CCB472997A19E5D"
+				}
+				"legodemo"
+				{
+					"gid"		"035854915099E0E620B4811A58FD9222"
+					"size"		"C7CA08ABBD4F908EC73ADB15D14C3FC9"
+					"download"		"2912CB44DE6129BFD6820E226FBA06BA"
+				}
+				"penultimate"
+				{
+					"gid"		"F29E02A10CA961026E2287D19FBD97C0"
+					"size"		"BA85A31D878DD04E7E56C916C3FE14F1"
+					"download"		"BC09D585FB77441548FA70EE38FD265F"
+				}
+				"pre-release-review"
+				{
+					"gid"		"79BCDEC5E5E6C688BC44D13459347217"
+					"size"		"438C7A88DF8DFF6C772B3499A6382DD3"
+					"download"		"6BA21080FDFAAA2F4367ECA0480877B1"
+				}
+				"qa-dev"
+				{
+					"gid"		"910E43BF8124271D6D01B4C19DDE1A66"
+					"size"		"5D60FF0A382A9CCA299A8575B4DE7461"
+					"download"		"6CFA9EA817CA29438E93C6FE567E0A26"
+				}
+				"release-dev"
+				{
+					"gid"		"B39F6E3B46E237F3175DFBBED3FB21E9"
+					"size"		"7EA796602AE6262332EBF224EC4895D1"
+					"download"		"F9ED160032279B5C07595A0326C7B2E5"
+				}
+				"release2"
+				{
+					"gid"		"38055668582DB32CAABE5608CFAE0B72"
+					"size"		"8B26575DF27084922188DDCC2B0BD7C1"
+					"download"		"5E82FBE2C603A98903F819349AB2D3B8"
+				}
+				"release2-test"
+				{
+					"gid"		"E070C0AB8A592A0EB77349FD5B0A0E27"
+					"size"		"1613660B65A2672431FE9ED6CC114EE1"
+					"download"		"6A9BF12E853EF009C391691457BD3D2A"
+				}
+				"release3"
+				{
+					"gid"		"2ECBA744C41555CC7D7783449DFD7CD4"
+					"size"		"C0986162ABEF5F25D88BBB4342A68427"
+					"download"		"6BA58C89576C8B8BBF6033CCF70AB98E"
+				}
+				"releasebranch"
+				{
+					"gid"		"0E5E94997930CDDCBB7D178350948BB7"
+					"size"		"9FAB6FCE5B56E2BD62A2E727BFD0A258"
+					"download"		"762A1DBBD8BEDFD7713EA79DF89EFB4A"
+				}
+				"staging"
+				{
+					"gid"		"3783F091DA386981C5C9DC965D9E46FE"
+					"size"		"B546CC462F40023936A4F350BA7FDBC9"
+					"download"		"BB6A326D3B553145F8E55B99AC3B138F"
+				}
+				"staging2"
+				{
+					"gid"		"2DC4B070409A333E127EADD6BDE4571B"
+					"size"		"6237445321140085F42EF72283D1AA4A"
+					"download"		"7F242E7A53CE94E642BA3EEFFE1FEA09"
+				}
+				"submission-final"
+				{
+					"gid"		"794319190B022D995B7EFF3AFDCBB5D7"
+					"size"		"5ED75CF6E3D05A4FC70DB7D6EE1935F5"
+					"download"		"D400269E6BC4A447ACF5D9931E167D59"
+				}
+				"update5-sub2-live-march-13"
+				{
+					"gid"		"CCD3637813387660EE99531FA8393469"
+					"size"		"FE4C9F000E98E36BDFEB0BADB52C5D08"
+					"download"		"481A361FFA964D9E3B7D2BC28553DE7E"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,thai,japanese,polish,danish,dutch,brazilian,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13944079"
+				"timeupdated"		"1712595475"
+			}
+			"2kreview"
+			{
+				"buildid"		"11278369"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684981573"
+			}
+			"ancillary-partners"
+			{
+				"buildid"		"11052502"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682109774"
+			}
+			"devdevdev"
+			{
+				"buildid"		"13949240"
+				"pwdrequired"		"1"
+				"timeupdated"		"1712234913"
+			}
+			"devnightly"
+			{
+				"buildid"		"13949737"
+				"pwdrequired"		"1"
+				"timeupdated"		"1712237349"
+			}
+			"devnightly-test"
+			{
+				"buildid"		"13949544"
+				"pwdrequired"		"1"
+				"timeupdated"		"1712236250"
+			}
+			"event2"
+			{
+				"buildid"		"10708305"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678180012"
+			}
+			"eventbranch"
+			{
+				"buildid"		"11168996"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683337628"
+			}
+			"exec-review"
+			{
+				"buildid"		"11168659"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683645116"
+			}
+			"first-playable"
+			{
+				"buildid"		"5999154"
+				"pwdrequired"		"1"
+				"timeupdated"		"1651273832"
+			}
+			"gen8-disk-final"
+			{
+				"buildid"		"10827666"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680994495"
+			}
+			"gen9-disk-final"
+			{
+				"buildid"		"10800450"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680994453"
+			}
+			"legodemo"
+			{
+				"buildid"		"12296325"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695861138"
+			}
+			"penultimate"
+			{
+				"buildid"		"12911822"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702085441"
+			}
+			"pre-release-review"
+			{
+				"buildid"		"11168659"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683584213"
+			}
+			"qa-dev"
+			{
+				"buildid"		"13649274"
+				"pwdrequired"		"1"
+				"timeupdated"		"1709667796"
+			}
+			"release-dev"
+			{
+				"buildid"		"13407217"
+				"pwdrequired"		"1"
+				"timeupdated"		"1707419074"
+			}
+			"release2"
+			{
+				"buildid"		"13142172"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704938201"
+			}
+			"release2-test"
+			{
+				"buildid"		"12916811"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702087428"
+			}
+			"release3"
+			{
+				"buildid"		"13460944"
+				"pwdrequired"		"1"
+				"timeupdated"		"1707968574"
+			}
+			"releasebranch"
+			{
+				"buildid"		"13944079"
+				"pwdrequired"		"1"
+				"timeupdated"		"1712197984"
+			}
+			"staging"
+			{
+				"buildid"		"9047939"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656718256"
+			}
+			"staging2"
+			{
+				"buildid"		"9598137"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664767283"
+			}
+			"submission-final"
+			{
+				"buildid"		"10881958"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680907624"
+			}
+			"update5-sub2-live-march-13"
+			{
+				"buildid"		"13460944"
+				"pwdrequired"		"1"
+				"timeupdated"		"1710293001"
+			}
+		}
+	}
+}

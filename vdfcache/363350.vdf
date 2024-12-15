@@ -1,0 +1,90 @@
+"363350"
+{
+	"common"
+	{
+		"name"		"Fort Defense - Atlantic Ocean"
+		"type"		"DLC"
+		"parent"		"343930"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"logo"		"a8179a4bfe937c28b08236841506397279264b9f"
+		"logo_small"		"a8179a4bfe937c28b08236841506397279264b9f_thumb"
+		"icon"		"6c2a85fbe6d2ae630470193073981c5fc5feee2b"
+		"metacritic_name"		"Fort Defense - Atlantic Ocean"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_7e9a4a275fde383ca74525e0073b03dcc1ea7695.jpg"
+		"store_asset_mtime"		"1434956769"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Creobit"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"8Floor"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1435563185"
+		"gameid"		"363350"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"21"
+			"2"		"492"
+			"3"		"597"
+		}
+		"review_score"		"4"
+		"review_percentage"		"27"
+	}
+	"extended"
+	{
+		"dlcforappid"		"343930"
+		"mustownapptopurchase"		"343930"
+		"developer"		"Creobit"
+		"publisher"		"8Floor"
+		"homepage"		"https://www.facebook.com/8FloorGames"
+		"dlcavailableonstore"		"1"
+	}
+}

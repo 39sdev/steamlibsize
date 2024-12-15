@@ -1,0 +1,134 @@
+"1392840"
+{
+	"common"
+	{
+		"name"		"RimWorld - Ideology"
+		"type"		"DLC"
+		"parent"		"294100"
+		"ReleaseState"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"logo"		"7325949264a3f97cfdf1fdaf272077c3a80aa339"
+		"logo_small"		"7325949264a3f97cfdf1fdaf272077c3a80aa339_thumb"
+		"icon"		"ac7aa6eedf5c5b94f74737f0b2bb4c5169384855"
+		"name_localized"
+		{
+			"schinese"		"RimWorld - 文化"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_feae6c54ebbcca44078439b96351def115010dd9.jpg"
+		"store_asset_mtime"		"1627488216"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ludeon Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ludeon Studios"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1626800481"
+		"gameid"		"1392840"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+			"2"		"599"
+			"3"		"220585"
+			"4"		"7332"
+			"5"		"1662"
+			"6"		"12472"
+			"7"		"1669"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"dlcforappid"		"294100"
+		"mustownapptopurchase"		"294100"
+		"developer"		"Ludeon Studios"
+		"publisher"		"Ludeon Studios"
+		"homepage"		"https://ludeon.com"
+		"dlcavailableonstore"		"1"
+	}
+}

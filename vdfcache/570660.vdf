@@ -1,0 +1,140 @@
+"570660"
+{
+	"common"
+	{
+		"name"		"The Binding of Isaac: Afterbirth+"
+		"type"		"DLC"
+		"ReleaseState"		"released"
+		"logo"		"6af4e7a5c245f81343e8eab558548dd9dbfa39ea"
+		"logo_small"		"6af4e7a5c245f81343e8eab558548dd9dbfa39ea_thumb"
+		"icon"		"c36b970972e68750ffb68f4e3b5b27c0bc3165f3"
+		"clienticon"		"26c3ed69ed30e8d78469f14867e59cbc778d6065"
+		"clienttga"		"f722cfc77e4bf8d507493891dfea70dbc875d172"
+		"parent"		"250900"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"metacritic_name"		"The Binding of Isaac: Afterbirth+"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_c998efdddfa2e4fb9e34cfa1366fb419c6634bb1.jpg"
+		"store_asset_mtime"		"1481762584"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nicalis, Inc."
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Edmund McMillen"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Nicalis, Inc."
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Binding of Isaac"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_13"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_29"		"1"
+			"category_33"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1483430400"
+		"steam_release_date"		"1483485240"
+		"gameid"		"570660"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"42804"
+			"2"		"4026"
+			"3"		"4711"
+			"4"		"21"
+			"5"		"19"
+			"6"		"3964"
+			"7"		"1669"
+			"8"		"1716"
+			"9"		"4182"
+			"10"		"1756"
+			"11"		"3871"
+			"12"		"1720"
+			"13"		"3841"
+			"14"		"4342"
+			"15"		"4345"
+			"16"		"3959"
+			"17"		"4166"
+			"18"		"1667"
+			"19"		"4758"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+	}
+	"extended"
+	{
+		"dlcforappid"		"250900"
+		"mustownapptopurchase"		"401920"
+		"developer"		"Nicalis, Inc."
+		"publisher"		"Nicalis, Inc."
+		"homepage"		"http://www.bindingofisaac.com"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Binding of Isaac Afterbirth+"
+	}
+	"depots"
+	{
+		"570661"
+		{
+			"dlcappid"		"570660"
+		}
+		"workshopdepot"		"570660"
+	}
+	"ufs"
+	{
+		"quota"		"1073741824"
+		"maxnumfiles"		"10000"
+	}
+}

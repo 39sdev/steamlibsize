@@ -1,0 +1,656 @@
+"1062830"
+{
+	"common"
+	{
+		"name"		"Embr"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"2ace3385a11cd1c50027f26f0a7131cdb7d1aad7"
+		"logo_small"		"2ace3385a11cd1c50027f26f0a7131cdb7d1aad7_thumb"
+		"icon"		"f9ba2d14f2b4e50989dd46de4dca141b13b636b1"
+		"clienticns"		"6983011d90ff1218ee376d37dd56f644fc1f52b6"
+		"clienttga"		"6d3c1fd3dfc0f8dd906649c59e1e761913696b81"
+		"clienticon"		"37b83f2e538b87f57cc0e0aedd4c8bb85e1c75b3"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"灭火先锋 / Embr"
+			"tchinese"		"滅火先鋒 / Embr"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1062830_eula_0"
+				"name"		"Embr EULA"
+				"url"		"https://store.steampowered.com//eula/1062830_eula_0"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1656460800"
+			"tested_build_id"		"7862699"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Embr"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw"
+			"library_hero"		"en,zh-cn,zh-tw"
+			"library_logo"		"en,zh-cn,zh-tw"
+			"library_header"		"zh-tw,en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"46.61565280931798"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+					"schinese"		"library_600x900_schinese.jpg"
+					"tchinese"		"library_600x900_tchinese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+					"schinese"		"library_600x900_schinese_2x.jpg"
+					"tchinese"		"library_600x900_tchinese_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+					"schinese"		"library_hero_schinese.jpg"
+					"tchinese"		"library_hero_tchinese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+					"schinese"		"library_hero_schinese_2x.jpg"
+					"tchinese"		"library_hero_tchinese_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+					"schinese"		"logo_schinese.png"
+					"tchinese"		"logo_tchinese.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"46.61565280931798"
+					"height_pct"		"100"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"tchinese"		"library_header_tchinese.jpg"
+					"english"		"library_header.jpg"
+					"schinese"		"library_header_schinese.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1706289330"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Muse Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Curve Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Curve Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"28"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_48"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1632409456"
+		"metacritic_score"		"72"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/embr?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1062830"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"599"
+			"2"		"9"
+			"3"		"597"
+			"4"		"1685"
+			"5"		"3859"
+			"6"		"4508"
+			"7"		"4136"
+			"8"		"4182"
+			"9"		"492"
+			"10"		"3843"
+			"11"		"3839"
+			"12"		"7481"
+			"13"		"4711"
+			"14"		"4305"
+			"15"		"4747"
+			"16"		"4195"
+			"17"		"493"
+			"18"		"4191"
+			"19"		"4252"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Muse Games"
+		"publisher"		"Curve Games"
+		"homepage"		"http://embrgame.com/"
+		"listofdlc"		"1363500,1518080,1843280"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Embr"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FireProject.exe"
+				"arguments"		"-force-d3d11"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"FireProject.exe"
+				"arguments"		"-force-vulkan"
+				"description"		"Play Embr (Vulkan)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1062831"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2194872376799639831"
+					"size"		"9721016912"
+					"download"		"1720047808"
+				}
+				"stadiacrossplay"
+				{
+					"gid"		"1437928793703029788"
+					"size"		"9588923456"
+					"download"		"1676077040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"autobuild"
+				{
+					"gid"		"E7A6DBFB1AC670D671C9ADDC059D287C"
+					"size"		"60333C939E406E9EEB8E74DC90749F83"
+					"download"		"EDF38329F1E43F6099047B248396280D"
+				}
+				"cameron"
+				{
+					"gid"		"6702AA3BEBEE4BE1CB6088991D49AB30"
+					"size"		"2BB6764EA6F92A77C1E4D990B464D764"
+					"download"		"77676DC495877BEB03834E8A48157537"
+				}
+				"cert"
+				{
+					"gid"		"E8CC0321227F1023B059DD5215F65F98"
+					"size"		"EDD0FC45B4499E2C6E8C4290823667F4"
+					"download"		"09DE9FED6572FF57A8BEC481CA8DCC49"
+				}
+				"corsairtest"
+				{
+					"gid"		"C42F06215759437FED0946C59549176E"
+					"size"		"CE5210E234F188BA4B715458B0F40206"
+					"download"		"3753C0FE5763EA2189221962282DAE51"
+				}
+				"crosstest"
+				{
+					"gid"		"67EF5F95B2E13817AC8DC66E056E8794"
+					"size"		"C1A4A3322EBF71CC1DA0F26A640DBAA4"
+					"download"		"FE9147D35CDB896DD8DE9DECC3952C68"
+				}
+				"cu_1"
+				{
+					"gid"		"D5444F12659CBB30370D6B3D84B6EC68"
+					"size"		"3060B66F77E19737FA855363A06EEB9B"
+					"download"		"9730721CAC90A17483E039C13784C1D6"
+				}
+				"livestage"
+				{
+					"gid"		"1B085BE3FB4CD82E7F33A7B38106F05F"
+					"size"		"59BF26642CD768CAD55B441E2614F59A"
+					"download"		"63DA2A8672127DEFAB103AE21C31C631"
+				}
+				"ms11"
+				{
+					"gid"		"BEE24CF11D2C97E1E0691ED7CD26C86B"
+					"size"		"C3891FEB05A9C5D12700254DB7A22E70"
+					"download"		"EC26E249DA94A5090A27F4A85C7A8C4C"
+				}
+				"ms12"
+				{
+					"gid"		"A307D8D6E7C984A9D9D950B136B8DBBC"
+					"size"		"24B3F0948A48C22FF99B8598C5170196"
+					"download"		"A96227348C70C2F8E05D850B47949267"
+				}
+				"ms13"
+				{
+					"gid"		"2EBF7D5ED6132D98265FCB845B9780F7"
+					"size"		"F29D75A6D1489CF259F69BF4078B2A3A"
+					"download"		"1EE8C527EA12C5B91D9A08F3FC703A54"
+				}
+				"ms14"
+				{
+					"gid"		"E0BE99C83D7E71C1A1FBD3E31916A9B9"
+					"size"		"528A637120E1BBDD15AEB32395DDA047"
+					"download"		"6FB27D96C8EBCED07FE40475674A8EEC"
+				}
+				"ms15"
+				{
+					"gid"		"F1AD53A82672038AC175EE2D7F886653"
+					"size"		"A286618E5178B0316304918FB351EA26"
+					"download"		"DB8623C312AC0A2220E5850DBE91D52A"
+				}
+				"ms16"
+				{
+					"gid"		"9A5A02CEC6574CEC7E6CEEE077329A15"
+					"size"		"E1D6F8DC7BBE7A6B359A0845A4D4845E"
+					"download"		"2139E3B41226AE60B86C117B08BD65A0"
+				}
+				"prbuilds"
+				{
+					"gid"		"9637CA6BD1F2F398198F4F183754FF5D"
+					"size"		"E06FD4C777344BE38A0E772E27308F19"
+					"download"		"B3512126F65D40B0A891719E37B68CFA"
+				}
+				"privatetest"
+				{
+					"gid"		"8E7DF274505BD0CC16081E7AB15FE898"
+					"size"		"BC13D70066169DC300234A999D8E256E"
+					"download"		"4534561B435E0CE30779F043E1D1B649"
+				}
+				"publictest"
+				{
+					"gid"		"6D1922C23F362E509340046A1FB829D7"
+					"size"		"176FC57171DDAD260CD3B5810BF889A1"
+					"download"		"CD87E90AD3CA7143B3D83699B9BD14D4"
+				}
+				"qabackup"
+				{
+					"gid"		"63B890ED5029CF933DF2158F3A6BDFDD"
+					"size"		"6E633E7BB3B65CFC5629A2E2F5F6231A"
+					"download"		"7B26BD94BD26107F9D167645377EA0E8"
+				}
+				"qatest"
+				{
+					"gid"		"E3ACE41C590D43557FF4E99A00454729"
+					"size"		"94B50D899B7A554CF4B75FE41FEE5A7E"
+					"download"		"AC6A990777830907B56E21EF1F50D012"
+				}
+				"queso"
+				{
+					"gid"		"33FC2EF840B38E1199BE344E250CE3DB"
+					"size"		"F32EBAA6CF7042802DFF65C72A081640"
+					"download"		"9A5C79868BD2CDC8309BD07E8476B010"
+				}
+				"secrethosrpublictest"
+				{
+					"gid"		"541E1DBB3E13FD3809888868EA3F8307"
+					"size"		"4296A06C3AAA1668475B078BD42804F1"
+					"download"		"AA7DA5754E0D3DB39B9C258573BF66CE"
+				}
+				"teyon"
+				{
+					"gid"		"17251E0008B34F4CB3749232B820AA59"
+					"size"		"8FFBF45FB6E11979165D37E041FBDBF5"
+					"download"		"B347B887423AC27CCCB2B94B92C5033A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7862699"
+				"timeupdated"		"1641477085"
+			}
+			"autobuild"
+			{
+				"buildid"		"7520181"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634051324"
+			}
+			"cameron"
+			{
+				"buildid"		"6962675"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625127322"
+			}
+			"cert"
+			{
+				"buildid"		"6491024"
+				"pwdrequired"		"1"
+				"timeupdated"		"1617626693"
+			}
+			"corsairtest"
+			{
+				"buildid"		"7236073"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629989905"
+			}
+			"crosstest"
+			{
+				"buildid"		"5016564"
+				"pwdrequired"		"1"
+				"timeupdated"		"1589540924"
+			}
+			"cu_1"
+			{
+				"buildid"		"7361593"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632131838"
+			}
+			"livestage"
+			{
+				"buildid"		"7862699"
+				"pwdrequired"		"1"
+				"timeupdated"		"1639146354"
+			}
+			"ms11"
+			{
+				"buildid"		"6177369"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612287792"
+			}
+			"ms12"
+			{
+				"buildid"		"6348171"
+				"pwdrequired"		"1"
+				"timeupdated"		"1615223807"
+			}
+			"ms13"
+			{
+				"buildid"		"6568320"
+				"pwdrequired"		"1"
+				"timeupdated"		"1618897369"
+			}
+			"ms14"
+			{
+				"buildid"		"6906287"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624288426"
+			}
+			"ms15"
+			{
+				"buildid"		"7124472"
+				"pwdrequired"		"1"
+				"timeupdated"		"1627906462"
+			}
+			"ms16"
+			{
+				"buildid"		"7299132"
+				"pwdrequired"		"1"
+				"timeupdated"		"1631023330"
+			}
+			"prbuilds"
+			{
+				"buildid"		"7664959"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637586432"
+			}
+			"privatetest"
+			{
+				"buildid"		"7175629"
+				"pwdrequired"		"1"
+				"timeupdated"		"1628721234"
+			}
+			"publictest"
+			{
+				"buildid"		"6777359"
+				"pwdrequired"		"1"
+				"timeupdated"		"1622225313"
+			}
+			"qabackup"
+			{
+				"buildid"		"6853918"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623422259"
+			}
+			"qatest"
+			{
+				"buildid"		"7862536"
+				"pwdrequired"		"1"
+				"timeupdated"		"1639144692"
+			}
+			"queso"
+			{
+				"buildid"		"7175629"
+				"pwdrequired"		"1"
+				"timeupdated"		"1628721223"
+			}
+			"secrethosrpublictest"
+			{
+				"buildid"		"7278985"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630535638"
+			}
+			"stadiacrossplay"
+			{
+				"buildid"		"7058363"
+				"description"		"Maintains version parity to Stadia if they are ever out of sync"
+				"timeupdated"		"1629296566"
+			}
+			"teyon"
+			{
+				"buildid"		"7180604"
+				"pwdrequired"		"1"
+				"timeupdated"		"1628788230"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576"
+		"maxnumfiles"		"5"
+	}
+}

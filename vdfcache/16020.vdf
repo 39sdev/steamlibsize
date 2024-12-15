@@ -1,0 +1,117 @@
+"16020"
+{
+	"common"
+	{
+		"name"		"Samantha Swift and the Hidden Roses of Athena"
+		"logo"		"58c1bf37adf4a874b7876b9ca18aeead63e1f980"
+		"logo_small"		"58c1bf37adf4a874b7876b9ca18aeead63e1f980_thumb"
+		"icon"		"cae3bb204bf138d6555bce70c514690f57d1dbdc"
+		"clienttga"		"4845487db563c6cadc681213d34adfba40a4338d"
+		"clienticon"		"78745c004ea9b73553c52cf2904dc1ff18aa47c2"
+		"type"		"game"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"0000005691.jpg"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MumboJumbo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Accelerate Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1225436400"
+		"steam_release_date"		"1225488240"
+		"community_hub_visible"		"1"
+		"gameid"		"16020"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1738"
+			"2"		"21"
+			"3"		"7208"
+			"4"		"1664"
+			"5"		"1698"
+		}
+		"review_score"		"5"
+		"review_percentage"		"59"
+	}
+	"extended"
+	{
+		"developer"		"MumboJumbo"
+		"gamedir"		"Samantha Swift and the Hidden Roses of Athen"
+		"homepage"		"http://www.mumbojumbo.com/game/game/113"
+		"icon"		""
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"16021"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Accelerate Games"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Samantha Swift and the Hidden Roses of Athena"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SamanthaSwiftAndTheHiddenRosesOfAthena.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"16021"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6530882115980525115"
+					"size"		"162668702"
+					"download"		"793952258"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"381915"
+			}
+		}
+	}
+}

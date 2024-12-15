@@ -1,0 +1,145 @@
+"967920"
+{
+	"common"
+	{
+		"name"		"Hentai Loli vs Pedobear"
+		"type"		"Game"
+		"icon"		"e97c584f178eff651912073df586e3a2521dd954"
+		"logo"		"8abdf9ed30e3da842b27d13e6cab683006edb1fe"
+		"logo_small"		"8abdf9ed30e3da842b27d13e6cab683006edb1fe_thumb"
+		"clienttga"		"d70a5269196765a4260dea63323592ae79519599"
+		"clienticon"		"bc3a0b75c5296b660e641e40349e9e111e7c2156"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"metacritic_name"		"Hentai Loli vs Pedobear"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_66d7b3ccee65123b31026d0f047d8fe199b26ddf.jpg"
+		"store_asset_mtime"		"1540500812"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Selo tech.corp."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Selo tech.corp."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1539932400"
+		"steam_release_date"		"1541523460"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"967920"
+		"store_tags"
+		{
+			"0"		"4085"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Selo tech.corp."
+		"publisher"		"Selo tech.corp."
+	}
+	"config"
+	{
+		"installdir"		"Hentai Loli vs Pedobear"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HentaiLolivsPedobear.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"967921"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"607976546337881560"
+					"size"		"400311844"
+					"download"		"128160496"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3281565"
+				"timeupdated"		"1541530304"
+			}
+		}
+	}
+}

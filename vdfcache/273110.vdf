@@ -1,0 +1,333 @@
+"273110"
+{
+	"common"
+	{
+		"name"		"Counter-Strike Nexon"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"icon"		"f8de906498a0428e06b5e31450b40093e645abbe"
+		"clienticon"		"58353f5a63c25a0eca884dbf09b45cc086839f32"
+		"clienttga"		"154794ec4e94e1ffb1f051e4d428ae00a8fd34d7"
+		"logo"		"a8d61fd1ac297f8da6b61b4c1c66ef0958cb7cab"
+		"logo_small"		"a8d61fd1ac297f8da6b61b4c1c66ef0958cb7cab_thumb"
+		"clienticns"		"73f4492cd42640fa5da489bf34b18946b8245c24"
+		"linuxclienticon"		"f7f960a892575ca9ca01a033dd094745031f48ea"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"273110_eula_0"
+				"name"		"Counter-Strike Nexon: Zombies EULA"
+				"url"		"http://store.steampowered.com//eula/273110_eula_0"
+				"version"		"3"
+			}
+			"1"
+			{
+				"id"		"273110_eula_1"
+				"name"		"Counter-Strike Nexon: Studio EULA"
+				"url"		"https://store.steampowered.com//eula/273110_eula_1"
+				"version"		"1"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"turkish"		"1"
+			"indonesian"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1652313600"
+			"tested_build_id"		"8673430"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheat_Other"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"58fe355bc3b6e10db61c271784c0b4b46d83ff49/capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"59.939883645766"
+				"height_pct"		"73.66666666666666"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"59.939883645766"
+					"height_pct"		"73.66666666666666"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1724213233"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Valve"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"NEXON"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"NEXON"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"29"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_2"		"1"
+			"category_13"		"1"
+			"category_20"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1412665200"
+		"steam_release_date"		"1412697600"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"273110"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1663"
+			"2"		"1659"
+			"3"		"3810"
+			"4"		"6730"
+			"5"		"1775"
+			"6"		"1774"
+			"7"		"1667"
+			"8"		"3859"
+			"9"		"19"
+			"10"		"1685"
+			"11"		"3839"
+			"12"		"3978"
+			"13"		"3843"
+			"14"		"4345"
+			"15"		"4136"
+			"16"		"5348"
+			"17"		"4342"
+			"18"		"4191"
+			"19"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+		"review_score_bombs"		"5"
+		"review_percentage_bombs"		"66"
+	}
+	"extended"
+	{
+		"developer"		"Valve"
+		"publisher"		"NEXON"
+		"isfreeapp"		"1"
+		"listofdlc"		"381150,381151,381152,404240,429450,451430,453590"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"CSNZ"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin/cstrike-online.exe"
+				"description"		"Launch"
+				"workingdir"		"bin"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,spanish,russian,turkish"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"cl252019"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3375734430471297238"
+					"size"		"11085268430"
+					"download"		"10285210144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"CD7658B05D612825A90EDFAB25977CCF"
+					"size"		"4EC010DDB2759B28900E1E14A3B1AEB4"
+					"download"		"71F1BA837B2C74BE43F432E2A4CBAB62"
+				}
+			}
+		}
+		"cl336427"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16701581"
+				"timeupdated"		"1733883231"
+			}
+			"alpha"
+			{
+				"buildid"		"336259"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}

@@ -1,0 +1,122 @@
+"801310"
+{
+	"common"
+	{
+		"name"		"Glass Masquerade - Lunar Year Puzzle"
+		"type"		"DLC"
+		"parent"		"511470"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"3fb118d9b6c5195ac219eb6bd52d86d1cf30b0e2"
+		"logo_small"		"3fb118d9b6c5195ac219eb6bd52d86d1cf30b0e2_thumb"
+		"icon"		"637bd571f44547a2140bb48a3e7f6783f3d46251"
+		"clienttga"		"ed2fc3f44edeb6b9f1e7f1488e63817c8a225e52"
+		"clienticon"		"5b516b84122864c1d577b13819ba4b31ac1c9d7d"
+		"metacritic_name"		"Glass Masquerade - Lunar Year Puzzle"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_259cf36a4cdef80c3638f8678ef1354f498515a4.jpg"
+		"store_asset_mtime"		"1560616702"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Onyx Lute"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Onyx Lute"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1518146198"
+		"gameid"		"801310"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"492"
+			"2"		"1664"
+			"3"		"1654"
+			"4"		"1756"
+			"5"		"4166"
+		}
+		"review_score"		"8"
+		"review_percentage"		"99"
+	}
+	"extended"
+	{
+		"dlcforappid"		"511470"
+		"mustownapptopurchase"		"511470"
+		"developer"		"Onyx Lute"
+		"publisher"		"Onyx Lute"
+		"homepage"		"https://glass-masquerade.com"
+		"isfreeapp"		"1"
+		"dlcavailableonstore"		"1"
+	}
+}

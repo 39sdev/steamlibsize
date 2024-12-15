@@ -1,0 +1,120 @@
+"1238090"
+{
+	"common"
+	{
+		"name"		"Mirror's Edge™ Catalyst Runner Kit Bundle"
+		"type"		"DLC"
+		"parent"		"1233570"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"4894deabbb997f317e78c7c7b49f3c5f33038643"
+		"clienttga"		"b35f15779bb2cfa8aa5c6bc6c119f03c0305218e"
+		"icon"		"171dfe364f3d4a8dc52b38d655ecfb7ebdaeb845"
+		"logo"		"76ad200206cbf665bab27ac0cd140bfe9fa7c6e2"
+		"logo_small"		"76ad200206cbf665bab27ac0cd140bfe9fa7c6e2_thumb"
+		"app_retired_publisher_request"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_c743e2841933405885b1ba574416ee6fb11fb21e.jpg"
+		"store_asset_mtime"		"1597728976"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DICE"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Electronic Arts"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1591282842"
+		"gameid"		"1238090"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4036"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"dlcforappid"		"1233570"
+		"mustownapptopurchase"		"1233570"
+		"developer"		"DICE"
+		"publisher"		"Electronic Arts"
+		"dlcavailableonstore"		"1"
+	}
+}

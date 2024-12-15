@@ -1,0 +1,796 @@
+"1502190"
+{
+	"common"
+	{
+		"name"		"From Space"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"010daa90537b00ccc9a87e5ba5c34ffe2edeea3d"
+		"logo"		"fcd153831e9b9e90029ac942594d94084cf83d0c"
+		"logo_small"		"fcd153831e9b9e90029ac942594d94084cf83d0c_thumb"
+		"clienttga"		"fea2365fbc5dc0b7398fbbb5f9279517135817d0"
+		"clienticon"		"775f1231c3e358a156baae0114d04bd3bccb064e"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		" 霓虹入侵者 / From Space"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1502190_eula_0"
+				"name"		"From Space EULA"
+				"url"		"https://store.steampowered.com//eula/1502190_eula_0"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1670976000"
+			"tested_build_id"		"10064099"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,ko,ja"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-cn,ko"
+			"library_header"		"ko,ja,zh-cn,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.96576413159263"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+					"schinese"		"library_600x900_schinese.jpg"
+					"koreana"		"library_600x900_koreana.jpg"
+					"japanese"		"library_600x900_japanese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+					"schinese"		"library_600x900_schinese_2x.jpg"
+					"koreana"		"library_600x900_koreana_2x.jpg"
+					"japanese"		"library_600x900_japanese_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+					"schinese"		"library_hero_schinese.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"44.96576413159263"
+					"height_pct"		"100"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+					"schinese"		"logo_schinese.png"
+					"koreana"		"logo_koreana.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"koreana"		"library_header_koreana.jpg"
+					"japanese"		"library_header_japanese.jpg"
+					"schinese"		"library_header_schinese.jpg"
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1706291750"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Triangle Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Curve Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Curve Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1667494775"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1502190"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1685"
+			"2"		"3843"
+			"3"		"4637"
+			"4"		"3859"
+			"5"		"4758"
+			"6"		"21"
+			"7"		"4791"
+			"8"		"4106"
+			"9"		"4231"
+			"10"		"1774"
+			"11"		"353880"
+			"12"		"5711"
+			"13"		"5350"
+			"14"		"4166"
+			"15"		"7481"
+			"16"		"3942"
+			"17"		"4136"
+			"18"		"492"
+			"19"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+	}
+	"extended"
+	{
+		"developer"		"Triangle Studios"
+		"publisher"		"Curve Games"
+		"listofdlc"		"2235290,2260110,2260121,2260122,2496240,2496250"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"From Space"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FromSpace.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"1502191"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3719060340204501252"
+					"size"		"3751766554"
+					"download"		"1994006192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"14E2832E5ECD2E964DB2561F39E0F696"
+					"size"		"92AF906D553F29B79480F01D64C8682F"
+					"download"		"A7D2BC14F6DEBB41D507B4572A516A82"
+				}
+				"content_creation"
+				{
+					"gid"		"4B901CD4FAB7AE5764966474073F9B92"
+					"size"		"6774FE7162AC0B722CEF3327B4836F23"
+					"download"		"A7778DE557A6A838F45905EA7387CF95"
+				}
+				"deck"
+				{
+					"gid"		"1BFE844131BD0BFC71978CA0FA8B3D10"
+					"size"		"652F934C2474BF0B10D3B5C0DEA47771"
+					"download"		"74D2BABD6E691B9B0FEE9965A0BD4735"
+				}
+				"development"
+				{
+					"gid"		"CD46A430C4B7773FEDAD7525125E2592"
+					"size"		"E0B9BAFE6DD2D976EF1005679E402F3A"
+					"download"		"2C1A0959B85AA2702CDEC675041423DC"
+				}
+				"development2"
+				{
+					"gid"		"CAA34B2142086D9FBDC4D050876113FB"
+					"size"		"7C81069716805248C3C8631AEB9A0342"
+					"download"		"223F6F6050C6239DBC4C4937EFBCD10F"
+				}
+				"development3"
+				{
+					"gid"		"51F243436C2CACC23E472AEA7F1177CD"
+					"size"		"FD7E2B58D3E6361854F8D638635B456D"
+					"download"		"9B512D8019AC5C0246FB4DBAE9BA7E0B"
+				}
+				"development4"
+				{
+					"gid"		"15FB02E1FA4F039439520FE629DC4F9B"
+					"size"		"6E24FE28465DCF47204CB526D6FA2A8C"
+					"download"		"E40DFB0708BEECD23B3847A05091A1EB"
+				}
+				"drops"
+				{
+					"gid"		"7E386350451621F83EA36CCBFDF9A81D"
+					"size"		"23C10FA05BD06CB37FA512CF54D1E353"
+					"download"		"944FF818459D4F93A914EF5A13A440EA"
+				}
+				"playtest"
+				{
+					"gid"		"999337E9E6F19BDB0A1E2CD3C3CA602D"
+					"size"		"8A345D0D26381635D66A1061BFCAE54F"
+					"download"		"4F6B1F4B97B169D61695CFD48E30F57F"
+				}
+				"prototype"
+				{
+					"gid"		"0BBF8B9922E3833DA12ED2788B43B3D5"
+					"size"		"B3183ABED2884F78930F63EED16CE805"
+					"download"		"69D214BBB3066C9A394CCF32A5ECE0E6"
+				}
+				"qa_network_s"
+				{
+					"gid"		"8C8A6D3DB7F113FD1E0994C25E33DBAC"
+					"size"		"8CF18AEBAB2DE028FAFACA7592586AE4"
+					"download"		"8AEC5BA726B237C7604F5D87EFF1EB92"
+				}
+				"quality_assurance"
+				{
+					"gid"		"D9844A6C6E1CF284C31FF8631A4F1F36"
+					"size"		"1410C76508718636AE5F45C31BA51618"
+					"download"		"CE229DBF19A2A2E5F1AA54D42C1D1463"
+				}
+				"quality_assurance_live"
+				{
+					"gid"		"0DD0AB3D6E8420F2C784F1046556CF6A"
+					"size"		"C455EE110DC3B79FF9A989A2F7537F21"
+					"download"		"7E0102601292783B4258C99B9A7746E0"
+				}
+				"quality_assurance_patch_staging"
+				{
+					"gid"		"8165851B45159C44F35A23F251C013DE"
+					"size"		"720E153D5EBB518E8640F6265542F27A"
+					"download"		"5E032BB9F027C4397F367480C7948E10"
+				}
+				"quality_assurance_patch_staging_live"
+				{
+					"gid"		"241727E1FC099B027805924ED7604644"
+					"size"		"6826F4DFCE13CFE2ABE7BCE1448ADD2B"
+					"download"		"B637978474B13838092F80066A754917"
+				}
+				"quality_assurance_staging"
+				{
+					"gid"		"96BB4965E7EE15BC6F59332A97201CED"
+					"size"		"A02A95424FC53D14E1E6CF9DC9CD4D6C"
+					"download"		"CB757336FAD5B22C9AACABC56BBB970D"
+				}
+				"quality_assurance_staging_live"
+				{
+					"gid"		"7CC9DE2C79AA642C94EF1C695EA3B486"
+					"size"		"B1BF64BF155D19C80DF96EF40A24828D"
+					"download"		"D7DAD30C4D3BB8A9931A7B17CFFFCAC2"
+				}
+				"resistanceplus"
+				{
+					"gid"		"41B622E6ECCB5089F0C195864002BB40"
+					"size"		"31FADE2BBF3AE65938A8F21D561D641E"
+					"download"		"380A265AC465AA27E048ABE3FC5459B9"
+				}
+				"review"
+				{
+					"gid"		"E8691DF85529CA2E00FCDF6B757D811F"
+					"size"		"C1FE3E397DF408C92B9A152B51058A7A"
+					"download"		"4CE3D9D1998309D84F2672D7EBC70DD5"
+				}
+				"testing"
+				{
+					"gid"		"3020E1A321A41C05BF9A99F0430DE766"
+					"size"		"82E802B5B0FA0AAD8EF1A0080F746703"
+					"download"		"90164020400A78DE7B5A28E1ED3CBCAD"
+				}
+			}
+		}
+		"1502192"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1125281782622473501"
+					"size"		"275916706"
+					"download"		"247970032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"25C2C107FC97B60DE287BB1C46BFD60D"
+					"size"		"79A60AA1857A23C76432A6D7A55A26B3"
+					"download"		"2BC59D108A33691D7F912D002879654D"
+				}
+				"content_creation"
+				{
+					"gid"		"348FD8F771E700C118909275537E9AA2"
+					"size"		"D8EFB877FF6D3F5CFFB6CAF58045719A"
+					"download"		"CB5F1C075E26F5ED563A6AD7402F0280"
+				}
+				"development"
+				{
+					"gid"		"6DC96DB6FC5140453C9E30F1DC4E74C3"
+					"size"		"DFE6E5F9B5381CFD453B9FFC069D5B65"
+					"download"		"FD7C234FB5FF2013CCD080934BAB9975"
+				}
+				"development2"
+				{
+					"gid"		"09AA97A2794C840FB216481208F0E6B0"
+					"size"		"6B64CC7B59B3B4EA5228E546677B4196"
+					"download"		"36B5706BC35686D6B84C0CE807199826"
+				}
+				"development3"
+				{
+					"gid"		"7B8C4D4645048E84BD6EB191271DB961"
+					"size"		"89B36A7F3BEEE62F4D5BAD93AF34FF28"
+					"download"		"2ED0F3A4514F98EA2AE74DFD6C76D068"
+				}
+				"development4"
+				{
+					"gid"		"41393C0BA8ADC212593F06CF4A789B26"
+					"size"		"3E49F51E33987C43BF0DFA6EA010BDCB"
+					"download"		"AC6E8C6455D0A73094C8CE557151B161"
+				}
+				"drops"
+				{
+					"gid"		"520EEE14C8DC6ED7480965444DB5BDB6"
+					"size"		"5E5EBB5FE5E2038BCDE2DFCBC8DDED59"
+					"download"		"3A2CA74BFC96F2E58C7A2B1B23FA5531"
+				}
+				"playtest"
+				{
+					"gid"		"B873CB1E31250125BEC2BFD8241A6A07"
+					"size"		"D1A1B0C61F46F1A421BD90B3733B8254"
+					"download"		"796A79E073D0F169C8404EAF234B9E65"
+				}
+				"prototype"
+				{
+					"gid"		"E654284A87FE307DB5B30F21154C0F04"
+					"size"		"4B7C65068BB6200ACFC2DDE2E49CBA60"
+					"download"		"90A2F908BAC81C74899D9423E3966CBF"
+				}
+				"qa_network_s"
+				{
+					"gid"		"F5D4B3BD830D71A21DD12DF612238802"
+					"size"		"6CA7E09BE93C9BA1C98F1195C1055BBE"
+					"download"		"EEAA434A17E7BE33BCB66AA2CD811F24"
+				}
+				"quality_assurance"
+				{
+					"gid"		"90FFD6B47DB786433D556F1F463DE777"
+					"size"		"F04A5D75A6B17D8334FCF664F975B995"
+					"download"		"10F0CBDFB186AA00ABFE5CFD29405455"
+				}
+				"quality_assurance_patch_staging"
+				{
+					"gid"		"1F1BD09AB9B12EC72A1AF2CE95587285"
+					"size"		"15DC8D14FFFBCB2C21DDC2693C80A834"
+					"download"		"D84CC8116E32FC077E36BD948AA1C17D"
+				}
+				"quality_assurance_patch_staging_live"
+				{
+					"gid"		"F56D5C8DA77EA54BE4B71C6F3FD23D31"
+					"size"		"A987AD925BC124DFB76640F7C713DE06"
+					"download"		"79DC1ECD9FB3276A5C161CFEEB522491"
+				}
+				"quality_assurance_staging"
+				{
+					"gid"		"343E87AEE1D89429287EAF15B5690D41"
+					"size"		"93F28245C72C732668BFC8237A1F01DE"
+					"download"		"C093B23E826597896DCED12276CCC088"
+				}
+				"quality_assurance_staging_live"
+				{
+					"gid"		"6A2FB4AD566CFBD0444E963F88A33D5E"
+					"size"		"40CD003BE56A7649AE5A24A2A47E40FC"
+					"download"		"728E853B830C14DD6273FE9CD805ED21"
+				}
+				"resistanceplus"
+				{
+					"gid"		"A7A0CE09A81B3A5140F681C330EE0BE9"
+					"size"		"E87099D0E67B47E31A6F8AD8C011EE63"
+					"download"		"B7EF0DEF801F7A4513C7E83526AEF60B"
+				}
+				"review"
+				{
+					"gid"		"CF006A15B1FB697623AC3D0EEFAFAFF0"
+					"size"		"77C0B8FD4FD124A806147CA440D3DE45"
+					"download"		"9A19BB2C5FF8F42D0DF2FEF12C8539B1"
+				}
+				"testing"
+				{
+					"gid"		"A710FA2BC9022805D080080CDC37FD24"
+					"size"		"DDEFE2F1826B96CD9F9DFF9149310399"
+					"download"		"FAEC55D1B6C7BCB00511E7BC2750D7DD"
+				}
+			}
+		}
+		"1502193"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4835819129888018920"
+					"size"		"13052466"
+					"download"		"12858400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"content_creation"
+				{
+					"gid"		"F27334D2AAB8313C72733786F9845EDB"
+					"size"		"27F69C1C6BDB3437764D6992642F70D6"
+					"download"		"E1B50AF379BE5A2F8429700018BB8804"
+				}
+				"development4"
+				{
+					"gid"		"CCB7FD288881C90D50B0291AC6E2C0B8"
+					"size"		"49CB5C7DB1663D766F9AABFD7EA5F520"
+					"download"		"CEEBB35848FF97DD33EB085CC40AF7F8"
+				}
+				"playtest"
+				{
+					"gid"		"5324CB91CCF2D901B174D7A75BB312D9"
+					"size"		"73553F5C4344A195DEE340F27126C12F"
+					"download"		"DDF31D776050CAD33255B93D26011531"
+				}
+				"prototype"
+				{
+					"gid"		"2433ACDC9D9DACE5D423CCF5B800C5BC"
+					"size"		"8A928FE5A696B5548916B43182104C1C"
+					"download"		"81AD9B56C682D31CB813371DAB20582D"
+				}
+				"quality_assurance_patch_staging"
+				{
+					"gid"		"EA52C7C6D4DF3FF1E18630FCD38063E3"
+					"size"		"DB6EC402BEAD1DFCEF257E1FDCA57D59"
+					"download"		"D5BA1C2EE68779A4CFAEF17A5A55DAFF"
+				}
+				"quality_assurance_patch_staging_live"
+				{
+					"gid"		"DFDBBBA16699A10FE7CF5B71EFE0EE4A"
+					"size"		"902D820CFD79649DD35E0EB48BD7F22C"
+					"download"		"6B706E2F5B26748E69C0B610AAD0BD4F"
+				}
+				"resistanceplus"
+				{
+					"gid"		"C2A12CE00011528B688CB6755A1BEBD6"
+					"size"		"61BB8915695F5B211D6FE6FE6EC5BA0F"
+					"download"		"7E58CC12482ABF2C80DD1CB1A1CA2835"
+				}
+				"review"
+				{
+					"gid"		"5C55CF62A2F9FBB1CDAB3A8E2FF8DCCC"
+					"size"		"85C5118364964984359D4DEC708BD91E"
+					"download"		"69A4188CDBD6813F0191BB8CB6DEBA13"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13445210"
+				"timeupdated"		"1707841397"
+			}
+			"beta"
+			{
+				"buildid"		"10281780"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673521006"
+			}
+			"content_creation"
+			{
+				"buildid"		"12641552"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699371856"
+			}
+			"deck"
+			{
+				"buildid"		"10435394"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675098969"
+			}
+			"development"
+			{
+				"buildid"		"13102195"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704470451"
+			}
+			"development2"
+			{
+				"buildid"		"13236236"
+				"pwdrequired"		"1"
+				"timeupdated"		"1705914619"
+			}
+			"development3"
+			{
+				"buildid"		"12373000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696585539"
+			}
+			"development4"
+			{
+				"buildid"		"12345025"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696344675"
+			}
+			"drops"
+			{
+				"buildid"		"11271374"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684496729"
+			}
+			"playtest"
+			{
+				"buildid"		"12167245"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694510099"
+			}
+			"prototype"
+			{
+				"buildid"		"12186104"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694677644"
+			}
+			"qa_network_s"
+			{
+				"buildid"		"10281780"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673262119"
+			}
+			"quality_assurance"
+			{
+				"buildid"		"13370030"
+				"pwdrequired"		"1"
+				"timeupdated"		"1707142448"
+			}
+			"quality_assurance_live"
+			{
+				"buildid"		"13369820"
+				"pwdrequired"		"1"
+				"timeupdated"		"1707141407"
+			}
+			"quality_assurance_patch_staging"
+			{
+				"buildid"		"12570253"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698659382"
+			}
+			"quality_assurance_patch_staging_live"
+			{
+				"buildid"		"12570503"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698660987"
+			}
+			"quality_assurance_staging"
+			{
+				"buildid"		"12689782"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699885622"
+			}
+			"quality_assurance_staging_live"
+			{
+				"buildid"		"12690014"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699885635"
+			}
+			"resistanceplus"
+			{
+				"buildid"		"12078441"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693483739"
+			}
+			"review"
+			{
+				"buildid"		"12087997"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693566086"
+			}
+			"testing"
+			{
+				"buildid"		"11757235"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689943719"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Triangle Studios/FromSpace/{64BitSteamID}"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}

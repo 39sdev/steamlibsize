@@ -1,0 +1,22 @@
+"314780"
+{
+	"common"
+	{
+		"name"		"Valkyria Chronicles™ Hard EX Mode"
+		"type"		"DLC"
+		"parent"		"294860"
+		"ReleaseState"		"released"
+		"logo"		"08316e1d6a45d8e13de7f5e1a1480cf4efff15cf"
+		"logo_small"		"08316e1d6a45d8e13de7f5e1a1480cf4efff15cf_thumb"
+		"icon"		"95d2e24c04d949247655f319ec0cea51d9069513"
+		"associations"
+		{
+		}
+		"gameid"		"314780"
+	}
+	"extended"
+	{
+		"dlcforappid"		"294860"
+		"mustownapptopurchase"		"294860"
+	}
+}

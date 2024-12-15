@@ -1,0 +1,674 @@
+"1174180"
+{
+	"common"
+	{
+		"name"		"Red Dead Redemption 2"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"clienticon"		"5bf6edd7efb1110b457da905e7ac696c6c619ed1"
+		"clienttga"		"e69621de934671dd4bec2760c73deafb5ecd382a"
+		"icon"		"5106abd9c1187a97f23295a0ba9470c94804ec6c"
+		"logo"		"d66accca2fc5061fa51804a88ce1cc7bfbd25c66"
+		"logo_small"		"d66accca2fc5061fa51804a88ce1cc7bfbd25c66_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1174180_eula_0"
+				"name"		"Red Dead Redemption 2 EULA"
+				"url"		"https://store.steampowered.com//eula/1174180_eula_0"
+				"version"		"1"
+			}
+		}
+		"exfgls"		"1"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1709596800"
+			"tested_build_id"		"13334406"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"1"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-9.0-1RC"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+				"proton_compat_config"		"nativevulkanloader,"
+			}
+		}
+		"metacritic_name"		"Red Dead Redemption 2"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.025670945157536"
+				"height_pct"		"93.92068392305866"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"54.025670945157536"
+					"height_pct"		"93.92068392305866"
+				}
+			}
+		}
+		"store_asset_mtime"		"1671484934"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rockstar Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rockstar Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Red Dead Redemption"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1575565200"
+		"metacritic_score"		"93"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/red-dead-redemption-2?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1174180"
+		"store_tags"
+		{
+			"0"		"1695"
+			"1"		"1742"
+			"2"		"1647"
+			"3"		"21"
+			"4"		"3859"
+			"5"		"19"
+			"6"		"4175"
+			"7"		"4182"
+			"8"		"1774"
+			"9"		"4166"
+			"10"		"6041"
+			"11"		"5411"
+			"12"		"5611"
+			"13"		"3814"
+			"14"		"1756"
+			"15"		"1697"
+			"16"		"4345"
+			"17"		"3810"
+			"18"		"3839"
+			"19"		"1663"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"allowmicrotxnfromrestrictedcountries"		"0"
+		"microtxnrestrictedcountries"		"RU,BY"
+		"developer"		"Rockstar Games"
+		"publisher"		"Rockstar Games"
+		"homepage"		"https://www.rockstargames.com/reddeadredemption2/"
+		"listofdlc"		"1190050,1190051"
+	}
+	"config"
+	{
+		"installdir"		"Red Dead Redemption 2"
+		"uselaunchcommandline"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PlayRDR2.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2160443358"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"app_mappings"
+		{
+			"1"
+			{
+				"platform"		"linux"
+				"tool"		"proton_experimental"
+				"comment"		"experimental needed"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1174181"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4757128409362785099"
+					"size"		"746"
+					"download"		"528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external"
+				{
+					"gid"		"08B5F23D18BC4144537A9AE1E7200486"
+					"size"		"31316AFA31A3B399EA6EF57339AD6896"
+					"download"		"CD5485D0D440F5BB08FDEE521E994ABA"
+				}
+				"qabeta"
+				{
+					"gid"		"6B1C84AC686C188758483C513A7841D8"
+					"size"		"B46FE173E78E1EECBAF54C33FF0BD19B"
+					"download"		"DF60979A23BA2D88D172FDB67BD40802"
+				}
+				"qalive"
+				{
+					"gid"		"F0CE91F30C2064B1A97D0E5534350FBA"
+					"size"		"C0F717BCEBDF0D73CF08CF08FE0B09C4"
+					"download"		"B9163BCE629DF16C90576D98D2E56C94"
+				}
+				"qatest"
+				{
+					"gid"		"15CFC162EB5A51B84FCE725CA2583DA2"
+					"size"		"AFAD7AE2D82D0C5730D0340B37F6613F"
+					"download"		"2B11D5F1749EF6339E61AA0016B5A918"
+				}
+			}
+		}
+		"1174182"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2258488483491377476"
+					"size"		"78804578319"
+					"download"		"78293674288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external"
+				{
+					"gid"		"208C40667D1DAA1EE525346B0968F101"
+					"size"		"E3B9411F4D765627F7F95544E6ACA0C3"
+					"download"		"3D8AF9757176C4B80B3B780080CBC57E"
+				}
+				"qabeta"
+				{
+					"gid"		"57BF6EE16A50C146FB5B0D0178D80BC0"
+					"size"		"DC16EA0EA385C735B7EC90F458C74DE1"
+					"download"		"91E749DEE10CC2096C9F6F9F7247A76E"
+				}
+				"qalive"
+				{
+					"gid"		"BE3101DE8141FC9F2464D3A909330D53"
+					"size"		"4722747DA18A9ACDDE437F334B93A0FB"
+					"download"		"BE23C4D6F0F284F429EF9365D587CE88"
+				}
+				"qatest"
+				{
+					"gid"		"49EB46E448D343B9AD5CF149C9298076"
+					"size"		"00D7E45EA7FD15B30BAC3E3EEDF8772E"
+					"download"		"12750EF51FB481862893ADAA694B5355"
+				}
+			}
+		}
+		"1174183"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4785346550216140531"
+					"size"		"390640"
+					"download"		"174240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external"
+				{
+					"gid"		"E48C799A21FEDF696C3BC9F114F1277D"
+					"size"		"28D1C60567C4145A2069D5727B1A2F85"
+					"download"		"0D9528E7C2EEB0DE3209E7011E4C0B65"
+				}
+				"qabeta"
+				{
+					"gid"		"224CCF3C03A987DE5BEA7FE64453CE74"
+					"size"		"A92937C7101D2FD6D260DCFCFABA1522"
+					"download"		"4987C1506C7599147A084A35C9623BE2"
+				}
+				"qalive"
+				{
+					"gid"		"45AC6D212C5F59D98A205DFFBFD89F02"
+					"size"		"2009C8607ACB8DD14B5A1EC81A28C428"
+					"download"		"58D83CF6D9EFD412D9816D15672440A5"
+				}
+				"qatest"
+				{
+					"gid"		"4826B9361F0AAFCF1A50963F0FB8102D"
+					"size"		"2C0F7DF31979DED7DC1175A3DA593705"
+					"download"		"12F25535CF5AA1237F985C9FEF6F160E"
+				}
+			}
+		}
+		"1174184"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2698939236196220127"
+					"size"		"5460348964"
+					"download"		"5241887744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external"
+				{
+					"gid"		"0303092EADC06D51AB311B1D073FA88A"
+					"size"		"E22DCC8C6366825EB2A6BB5654F5F35D"
+					"download"		"722F5392BF633A031A5AE31CE5C3FCD2"
+				}
+				"qabeta"
+				{
+					"gid"		"475DFC26BCA2430FE53D62228E9B54DC"
+					"size"		"92B334F895DFED39312A9A07A1E8214F"
+					"download"		"2D85E5DBEA81C239B82A7285A9CF494A"
+				}
+				"qalive"
+				{
+					"gid"		"22BBB6AD373D07085734409F01C70138"
+					"size"		"859763B817D0B3D7DEB2014D32858A8D"
+					"download"		"01063AA5E6FF2D925F0AA2FF15DA2E65"
+				}
+				"qatest"
+				{
+					"gid"		"5AE9F247584F0E48932B3050FEC8BAB7"
+					"size"		"5EDB9EE7EFD782B1D5CB8ED430D637F1"
+					"download"		"FB2A6ED31B2A1FBC1198895D4EA89E21"
+				}
+			}
+		}
+		"1174185"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8173342615013177810"
+					"size"		"17767404187"
+					"download"		"16261263088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external"
+				{
+					"gid"		"5DFD15DFE5D77A44AA33F8F3702A6298"
+					"size"		"3E99CD48022E88F4BDF28E91D0F04735"
+					"download"		"85CF82686642CC1CCE0DF5D71E56E1AB"
+				}
+				"qabeta"
+				{
+					"gid"		"BEFB7281F76820AF6613496917B9F51B"
+					"size"		"DB214ADCBB0AEAEBE90F5A5B76CE2495"
+					"download"		"7185CF2D6923DB75B666B730B6A51609"
+				}
+				"qalive"
+				{
+					"gid"		"1932D5B5FCE2FB9E354632FC031E6A01"
+					"size"		"3BF82AF9E86D415CC3D730FF9F1C541D"
+					"download"		"E3C8E46A6712844E70CC8D7F66471162"
+				}
+				"qatest"
+				{
+					"gid"		"92AE0E3F78DF3F54E63B92AE837D171D"
+					"size"		"8C7A6C88EA3DCCD8C54E4F924255646C"
+					"download"		"168C374FA69C7F9170F9CFF1714B4BA0"
+				}
+			}
+		}
+		"1174186"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"357926288062992323"
+					"size"		"26009156930"
+					"download"		"20901920112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external"
+				{
+					"gid"		"DC34BC00FC59ECFDE9CB4989E0BFAFE0"
+					"size"		"B9C25BB095FF5393906A2C80A85A0137"
+					"download"		"D4777225BEB72EFAFB637449301E09EE"
+				}
+				"qabeta"
+				{
+					"gid"		"745E4E4BE54A4E785AE31EAC6C8AB8DE"
+					"size"		"9B8E762F4F6B24AF1F00F755EFFC311B"
+					"download"		"A9B2A5114646B159175A44594192849C"
+				}
+				"qalive"
+				{
+					"gid"		"9CAEDFD571DEAF4CA0CBE905E767EC8C"
+					"size"		"5B79FEA48E2E552A855701F65BAD9253"
+					"download"		"E62199C31D4B2582C1DD77DE9CDCF17C"
+				}
+				"qatest"
+				{
+					"gid"		"9D74615230FA0EDBD90A7FF76A740D1C"
+					"size"		"45B81C76D7281C44663424F62B9453F4"
+					"download"		"0E0B2E0109E8F3C5155C9C6A4D5E504B"
+				}
+			}
+		}
+		"1899671"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4314480538513998869"
+					"size"		"225194261"
+					"download"		"182006816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qabeta"
+				{
+					"gid"		"0DF8149DC02CAB6693F5F77D89CAFB5F"
+					"size"		"05B0644BB9CB54D2B04EEBD6A249D775"
+					"download"		"4F7C4C72FA575CC1E5DF86C957E11DDF"
+				}
+				"qalive"
+				{
+					"gid"		"BD71F08A7078D8D75E408E858CC1CFC3"
+					"size"		"74432A88D87D999A69F1EC76D8705CDB"
+					"download"		"3C78438F88849CCAEE35003E6D71AB9D"
+				}
+				"qatest"
+				{
+					"gid"		"3519B9BA5DC6A64A43EA4EFE843FBEBF"
+					"size"		"D29D65D5E9CB7470406E6010AAD90F87"
+					"download"		"90BFBAF643BE2882C172A954D5D8F890"
+				}
+			}
+			"depotfromapp"		"1899670"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13773296"
+				"timeupdated"		"1710843129"
+			}
+			"external"
+			{
+				"buildid"		"4427137"
+				"pwdrequired"		"1"
+				"timeupdated"		"1574770241"
+			}
+			"qabeta"
+			{
+				"buildid"		"13773296"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729164658"
+			}
+			"qalive"
+			{
+				"buildid"		"15833859"
+				"pwdrequired"		"1"
+				"timeupdated"		"1727339701"
+			}
+			"qatest"
+			{
+				"buildid"		"13185360"
+				"pwdrequired"		"1"
+				"timeupdated"		"1705413633"
+			}
+		}
+	}
+}

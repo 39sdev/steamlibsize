@@ -1,0 +1,1096 @@
+"108600"
+{
+	"common"
+	{
+		"name"		"Project Zomboid"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"logo"		"391ddf7e88fb4517d3d11bb11373af3a8cc3bd3b"
+		"logo_small"		"391ddf7e88fb4517d3d11bb11373af3a8cc3bd3b_thumb"
+		"clienttga"		"b4db8d370187c036e90f1094d5636efcfba1c509"
+		"icon"		"2bd4642ae337e378e7b04a19d19683425c5f81a4"
+		"clienticns"		"16d32dd6f2f86e87bebb2058801f982d41ac5f33"
+		"clienticon"		"b8036444b2a8889663bc232c142ac888e8353415"
+		"ReleaseState"		"released"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"108600_eula_1"
+				"name"		"Project Zomboid EULA"
+				"url"		"https://store.steampowered.com//eula/108600_eula_1"
+				"version"		"7"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1648857600"
+			"tested_build_id"		"8368918"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Project Zomboid"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"24.377932670637634"
+				"height_pct"		"67.01388888888891"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"24.377932670637634"
+					"height_pct"		"67.01388888888891"
+				}
+			}
+		}
+		"store_asset_mtime"		"1655867622"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Indie Stone"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Indie Stone"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"3"
+			"2"		"28"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_9"		"1"
+			"category_29"		"1"
+			"category_18"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_39"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_30"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1383897600"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"108600"
+		"store_tags"
+		{
+			"0"		"1662"
+			"1"		"1659"
+			"2"		"1695"
+			"3"		"3859"
+			"4"		"1100689"
+			"5"		"3810"
+			"6"		"3835"
+			"7"		"1685"
+			"8"		"1702"
+			"9"		"1643"
+			"10"		"492"
+			"11"		"599"
+			"12"		"122"
+			"13"		"3978"
+			"14"		"4175"
+			"15"		"5851"
+			"16"		"4182"
+			"17"		"3871"
+			"18"		"21"
+			"19"		"493"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"The Indie Stone"
+		"gamedir"		"zomboid"
+		"homepage"		"http://www.projectzomboid.com"
+		"icon"		""
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"108601"
+		"state"		"eStateAvailable"
+		"serverbrowsername"		"Project Zomboid"
+		"publisher"		"The Indie Stone"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"ProjectZomboid"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ProjectZomboid32.exe"
+				"description"		"32 Bit"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"Project Zomboid.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"projectzomboid.sh"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"4"
+			{
+				"executable"		"projectzomboid.sh"
+				"arguments"		"-safemode"
+				"description"		"Compatibility Mode"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"5"
+			{
+				"executable"		"Project Zomboid.app"
+				"arguments"		"-safemode"
+				"description"		"Compatibility Mode"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"8"
+			{
+				"executable"		"ProjectZomboid64.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"64 Bit"
+				}
+				"description"		"64 Bit"
+			}
+			"9"
+			{
+				"executable"		"ProjectZomboid64.bat"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Alternate Launch (May work when default fails)"
+				}
+				"description"		"Alternate Launch (May work when default fails)"
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"108602"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8080354949014295165"
+					"size"		"7175738008"
+					"download"		"2266537392"
+				}
+				"unstable"
+				{
+					"gid"		"8080354949014295165"
+					"size"		"7175738008"
+					"download"		"2266537392"
+				}
+				"legacy_41_78_7"
+				{
+					"gid"		"7607573219841652195"
+					"size"		"7174822030"
+					"download"		"2266235024"
+				}
+				"legacy41_77"
+				{
+					"gid"		"8029446020725683831"
+					"size"		"7155698164"
+					"download"		"2252081648"
+				}
+				"legacy41_73"
+				{
+					"gid"		"6883955926007864744"
+					"size"		"7152955841"
+					"download"		"2251619712"
+				}
+				"legacy_41_71"
+				{
+					"gid"		"3974265827940517939"
+					"size"		"4877227005"
+					"download"		"2102999632"
+				}
+				"legacy41_68"
+				{
+					"gid"		"3013930118823090691"
+					"size"		"4691354908"
+					"download"		"1918970032"
+				}
+				"legacy40"
+				{
+					"gid"		"6161845285216739528"
+					"size"		"3220198660"
+					"download"		"1284871440"
+				}
+				"38.30(pre-vehicles)"
+				{
+					"gid"		"2110518077863012336"
+					"size"		"2359722496"
+					"download"		"679236192"
+				}
+				"build-39-vehicles"
+				{
+					"gid"		"231208379938381225"
+					"size"		"3009078520"
+					"download"		"1077417472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"si"
+				{
+					"gid"		"15FFBBFFE765B53144F5BD49697274A3"
+					"size"		"F1CFFA31D9EBA4C4DADE56853ED0506D"
+					"download"		"543462453E57BF8731871B69FC4A2DAD"
+				}
+				"thesearetheendtimes"
+				{
+					"gid"		"44929373ED9EC270398BE1064A8DF4A0"
+					"size"		"191DEB94CF2543845A16E716F3BDDCC4"
+					"download"		"4181B9254305791CC6AA5EB17AB23081"
+				}
+				"whatevers"
+				{
+					"gid"		"50E4244C7B327632BA59754388C6809B"
+					"size"		"63E5868B7AC682F0AF682907A3BDB2E1"
+					"download"		"5583D202087DD4D31C8F92B8B6211369"
+				}
+				"wips"
+				{
+					"gid"		"EAEF830140157265D2A4860CD0730A97"
+					"size"		"3E9E252BAF352E819ADE53E7D1AF1C0D"
+					"download"		"ADF3F7CB57C4AF8A73083D82BCE2FDC2"
+				}
+				"nightly"
+				{
+					"gid"		"9947171571A78E099824D81342572375"
+					"size"		"B5A4A53CA86D34DBBF3104820DED5B99"
+					"download"		"C5247BDA7547D4744EB62F8D49635EAF"
+				}
+				"mptesting"
+				{
+					"gid"		"6AE8791FDAB2B503B31E381E891B1427"
+					"size"		"E5A42376744B1B7F0BEDFE5A93DA0AA3"
+					"download"		"14336661AA54E859CC26CA6907A648B6"
+				}
+				"animwork"
+				{
+					"gid"		"CABB7F24D1484AC9ACBCD69BBF4178E2"
+					"size"		"8D35D25855FBF8ACA94C1FCDBD373206"
+					"download"		"58B4E36BE6FA44FD49CB1258F89DF0C4"
+				}
+				"getoutofhereyoufilthyspy"
+				{
+					"gid"		"C60B35BAD623E5E86C7D66D83D82492C"
+					"size"		"7337083A8B66128EA9957B8FB8099C07"
+					"download"		"9B39805462B0E6130B0DB2280DA75F9E"
+				}
+				"noiseworks"
+				{
+					"gid"		"94F875BB9ECAA6A87A26F192289DE307"
+					"size"		"54EF64C393DE73A1FCB97ED398155F05"
+					"download"		"B8C85763D11A36BA7C3F0128143B59A6"
+				}
+				"si2siharder"
+				{
+					"gid"		"48A2603903A3DAFD07FF22120F38AD7E"
+					"size"		"11BE9FDDDE09510EC755110138DC2E1F"
+					"download"		"80ACC10A32EF12B63103CB8F2C12F019"
+				}
+				"steamdecktest"
+				{
+					"gid"		"269AF051041539A00B0B03185458D0A9"
+					"size"		"20648B2C67C51712C805851566C5D7BD"
+					"download"		"D3FBE68547476BDE8EE6D095DB847D3F"
+				}
+				"testing"
+				{
+					"gid"		"F76BE64F293EC1A90CEEDB84D9F71E31"
+					"size"		"B6D3B642FD1CB7A4F932C709B55B707D"
+					"download"		"EFE8FEA0FE92BC0EFD7F8319C8D32DA3"
+				}
+				"testing2"
+				{
+					"gid"		"0D580CAB1169EBDF1792259E7C476279"
+					"size"		"AC0D562116A611968C396EC17B3F5E20"
+					"download"		"2A4A4075D714B93D629D23D1939A860B"
+				}
+				"trailerbuild"
+				{
+					"gid"		"CC96CC6CACA1F7AC50845D74E31F8B6C"
+					"size"		"0EAF46EE18D8DF7F2FDEE38DDAE99D16"
+					"download"		"D36D60A62921EF02BA37AF33D6AB6006"
+				}
+				"whatsecretsliehere"
+				{
+					"gid"		"5066DC0684467E85F0D77A4FBC1E232B"
+					"size"		"14FBF1A88D153F123703E05CC5EBBA66"
+					"download"		"8795D46EB1F0A69CC814B1DF41527C22"
+				}
+			}
+		}
+		"108603"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4357688155565392515"
+					"size"		"7200710610"
+					"download"		"2272871760"
+				}
+				"unstable"
+				{
+					"gid"		"4357688155565392515"
+					"size"		"7200710610"
+					"download"		"2272871760"
+				}
+				"legacy_41_78_7"
+				{
+					"gid"		"5229608682402597842"
+					"size"		"7199794632"
+					"download"		"2272569392"
+				}
+				"legacy41_77"
+				{
+					"gid"		"2375120442475213459"
+					"size"		"7180666670"
+					"download"		"2258416256"
+				}
+				"legacy41_73"
+				{
+					"gid"		"8594570266995432584"
+					"size"		"7177934279"
+					"download"		"2257951760"
+				}
+				"legacy_41_71"
+				{
+					"gid"		"5292311799456437797"
+					"size"		"4901975289"
+					"download"		"2109228992"
+				}
+				"legacy41_68"
+				{
+					"gid"		"7477315468393310762"
+					"size"		"4716167408"
+					"download"		"1925218064"
+				}
+				"legacy40"
+				{
+					"gid"		"2901627108538846647"
+					"size"		"3484671471"
+					"download"		"1353198672"
+				}
+				"38.30(pre-vehicles)"
+				{
+					"gid"		"2025289189699877611"
+					"size"		"3157220752"
+					"download"		"1211617056"
+				}
+				"build-39-vehicles"
+				{
+					"gid"		"4616772916413634926"
+					"size"		"2979060174"
+					"download"		"1032043744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"si"
+				{
+					"gid"		"1F3AE7F5C279A748118056CFD5733709"
+					"size"		"F5B20CF122CBB5D074E9BE3DEA63D720"
+					"download"		"C728AC269C81307E1EE365F1B66447D2"
+				}
+				"thesearetheendtimes"
+				{
+					"gid"		"D6E0600F18012B4A6C0E53DF76C1FF59"
+					"size"		"4BAD292CF8005E1298A699D987E2F3E7"
+					"download"		"6D0E2DC2E228CBFADDE534EF1D3BA2D7"
+				}
+				"whatevers"
+				{
+					"gid"		"59FBFF549E69D2B1F81CAB0D46C24B1D"
+					"size"		"B1780634DAAFB16EE6A7B93DA9483182"
+					"download"		"8991E34322A072D8030B2E59F3B82E1F"
+				}
+				"wips"
+				{
+					"gid"		"49F0D055B69D9506C397C24079D9DCA3"
+					"size"		"546EE5968DEEE2CE7C0C451D003E5E37"
+					"download"		"B7E0F9153A7CBD3D2B20E3280B8EB0B5"
+				}
+				"nightly"
+				{
+					"gid"		"975E192808E1BA583A877366CBB59871"
+					"size"		"4B37931170AB37FD4C5CC09232BCAEA4"
+					"download"		"A0F00323BE8A246C4845495839D338E7"
+				}
+				"mptesting"
+				{
+					"gid"		"03F98E3658E25A81D5ACD0A74D4B7D04"
+					"size"		"905247FF74DA0662A3A39F8493792972"
+					"download"		"13AB371985B48A4F89AD064ACE276655"
+				}
+				"animwork"
+				{
+					"gid"		"F5D80124200ECA015284E861BEF60B3E"
+					"size"		"99FAFBAE0017FEBD3D0B83371D1BC4B3"
+					"download"		"AC1E8EA7FC702387CE9B0CC273DCDD60"
+				}
+				"getoutofhereyoufilthyspy"
+				{
+					"gid"		"BD08F445193C30DEDAD8F91E6C6AD078"
+					"size"		"879EFDD9B1C2D29B5AF0B39E499137AB"
+					"download"		"B16F3CA732C314DE3DE0A18161784CC3"
+				}
+				"noiseworks"
+				{
+					"gid"		"FD4835BE90A8CEFCF43F5C7BD306C5C9"
+					"size"		"A1E0C9C8D8D2BB1A77B359A1BB03F0C3"
+					"download"		"C469A65510853ECC6FE8980D8CC2194C"
+				}
+				"si2siharder"
+				{
+					"gid"		"E983FDFC836E4D624F56D09C73296655"
+					"size"		"525FF3A6AEEE84B681DBDFCFC2F93BC2"
+					"download"		"E0379CFD29379EB318743E2A7675F0CB"
+				}
+				"steamdecktest"
+				{
+					"gid"		"E836EA5839335642C3A3C4ED33682DB1"
+					"size"		"2A16AB6647EA51979053EE0DC233DF63"
+					"download"		"A518441092931917C2A1B43FB1F18999"
+				}
+				"testing"
+				{
+					"gid"		"17365BC3FB1ACE0C8D74B83A91102480"
+					"size"		"B0B68CEB7B59CFB569402D1BAA68750A"
+					"download"		"9E515BB96D9E854909D335A2E5615BC8"
+				}
+				"testing2"
+				{
+					"gid"		"701CF35C02AB22338D61D8C4D0115860"
+					"size"		"C0D67AAE8F88FDCED87555249F44C8A7"
+					"download"		"98007BD235D4491DC5DADED9DE54F148"
+				}
+				"trailerbuild"
+				{
+					"gid"		"F364BC0BCABFF0B4DA2D11E65C321FC0"
+					"size"		"D4EDC65587CA6462EA8251DB307C59DB"
+					"download"		"6CEF73787C543D76D622F5D568D6E7D0"
+				}
+				"whatsecretsliehere"
+				{
+					"gid"		"F573A26B2FA07DF2783F939CD5EDAD37"
+					"size"		"8A236AE455B5A8F92538897F6D7C52E8"
+					"download"		"CD5CAE801BF3D13F37C74471C6A620E8"
+				}
+			}
+		}
+		"108604"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7649580527091758034"
+					"size"		"7305916710"
+					"download"		"2287844816"
+				}
+				"unstable"
+				{
+					"gid"		"7649580527091758034"
+					"size"		"7305916710"
+					"download"		"2287844816"
+				}
+				"legacy_41_78_7"
+				{
+					"gid"		"5425527854041061861"
+					"size"		"7305000732"
+					"download"		"2287542448"
+				}
+				"legacy41_77"
+				{
+					"gid"		"3971493100605727297"
+					"size"		"7285876356"
+					"download"		"2273389744"
+				}
+				"legacy41_73"
+				{
+					"gid"		"8028257807616859543"
+					"size"		"7283118773"
+					"download"		"2272904464"
+				}
+				"legacy_41_71"
+				{
+					"gid"		"1421160739276282271"
+					"size"		"5007304523"
+					"download"		"2124243168"
+				}
+				"legacy41_68"
+				{
+					"gid"		"4757127765721375332"
+					"size"		"4821359586"
+					"download"		"1940204832"
+				}
+				"legacy40"
+				{
+					"gid"		"7314538702962021307"
+					"size"		"3436718730"
+					"download"		"1346089424"
+				}
+				"38.30(pre-vehicles)"
+				{
+					"gid"		"3304842459355341651"
+					"size"		"2510961342"
+					"download"		"688548608"
+				}
+				"build-39-vehicles"
+				{
+					"gid"		"8598263918377230418"
+					"size"		"3163244456"
+					"download"		"1087811504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"si"
+				{
+					"gid"		"F11D9CC0B1862DE6522CF6784319731E"
+					"size"		"D6057EC85EE3259F2963C8CF84E867F4"
+					"download"		"88B21249B5B8F98E81E0390A48C44918"
+				}
+				"thesearetheendtimes"
+				{
+					"gid"		"18CA48D559093DB7FA3FF81F45F9B84E"
+					"size"		"A5BE1836C2BFC2A78260AC8380EE6D8A"
+					"download"		"5C634FFA3943DF7B74692A9045C1B8FB"
+				}
+				"whatevers"
+				{
+					"gid"		"C723186958AAA9A3B0AA5BAD5208C416"
+					"size"		"990206D85151273CB2257FD6531F78A8"
+					"download"		"06A661F682CDC7908CD0E7AEBF1BD4D9"
+				}
+				"wips"
+				{
+					"gid"		"0117867AD5AC6A57524A1B1E1DA9FDB3"
+					"size"		"BFF240843E4B7F73236F84448534300A"
+					"download"		"9A5C1FDA68C54F26C389A9B52789776B"
+				}
+				"nightly"
+				{
+					"gid"		"12BA72027A07D2571A020BD1024BE22C"
+					"size"		"A4F5F32406C6D41246FEF23FB8123F01"
+					"download"		"8009FB8D76AF4B1ABE29E177F6C4D71D"
+				}
+				"mptesting"
+				{
+					"gid"		"C547D188C312F697822BFE7BE51CD485"
+					"size"		"83E5DE335E80C058BD6FD63749B485C8"
+					"download"		"E2D3DFEB718C35A77DF9B54575C651BD"
+				}
+				"animwork"
+				{
+					"gid"		"F92527ADAC82D1DF475BF00EB6917870"
+					"size"		"6FBADF9781F043C3EB4240933F9BBCC5"
+					"download"		"6564178002E0CF092A14813B6DD731B7"
+				}
+				"getoutofhereyoufilthyspy"
+				{
+					"gid"		"285F1A8136F009C713AF5B521F0F2B86"
+					"size"		"16F5A11C9D08B7FFDDDB17E04CE928F7"
+					"download"		"B6E5EF3113B80E54AD75DEE227B85272"
+				}
+				"noiseworks"
+				{
+					"gid"		"87A64BD2B74F9DD43787DBB6E016DF62"
+					"size"		"B0D25ADC86A25F7CC9BD92A416CAB95C"
+					"download"		"3B2501F41FFE83621AC4BA243BB0413B"
+				}
+				"si2siharder"
+				{
+					"gid"		"D7ED40E9C06739C370FD6E09A0EE183C"
+					"size"		"09B5E92DCDCD3B63AE5ECD6A42D7C25B"
+					"download"		"CFE0C8A627A6F490EE8662F45BE032C4"
+				}
+				"steamdecktest"
+				{
+					"gid"		"E37767DA636041BDA9CEAED7EC2E1BFA"
+					"size"		"408A420AD3E3299F5D468801ADB5A903"
+					"download"		"03056667819A2F2DA3B1CEFF31A3D924"
+				}
+				"testing"
+				{
+					"gid"		"8A177438BA8B60F2D1C62152BD0A6C57"
+					"size"		"254D7CDB4850F3C419B99178EB8355B4"
+					"download"		"E39A981F93C0C4862B763468C667C7C6"
+				}
+				"testing2"
+				{
+					"gid"		"3EAA744E2C79868139F310306023640B"
+					"size"		"416800AEE9CC6EB8D784F1C32E0A9406"
+					"download"		"A06D90F79AA7493BC139D5264959DCB1"
+				}
+				"trailerbuild"
+				{
+					"gid"		"82DEF5A05E7D7C5F1AC08829CEE3A25A"
+					"size"		"1185466A88047B53BF6640FC66AEE8AC"
+					"download"		"9F27DD210FBA012947EDDC480C2B2090"
+				}
+				"whatsecretsliehere"
+				{
+					"gid"		"5CE08CCBB64C37F86B83E4A6DBC053BF"
+					"size"		"16E805183B98F7ED87C523D8B80B381C"
+					"download"		"AE066CCAE37C792276DEC823907EFF7E"
+				}
+			}
+		}
+		"108601"
+		{
+			"systemdefined"		"1"
+		}
+		"workshopdepot"		"108600"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10105824"
+				"timeupdated"		"1670843288"
+			}
+			"si"
+			{
+				"buildid"		"16749012"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734235726"
+			}
+			"thesearetheendtimes"
+			{
+				"buildid"		"16746789"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734216044"
+			}
+			"whatevers"
+			{
+				"buildid"		"16526698"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732552771"
+			}
+			"wips"
+			{
+				"buildid"		"16718317"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733992203"
+			}
+			"nightly"
+			{
+				"buildid"		"16748646"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734228785"
+			}
+			"unstable"
+			{
+				"buildid"		"10105824"
+				"description"		"unstable - BACKUP FIRST"
+				"timeupdated"		"1670506870"
+			}
+			"legacy_41_78_7"
+			{
+				"buildid"		"9905455"
+				"description"		"legacy_41_78_7"
+				"timeupdated"		"1669222528"
+			}
+			"legacy41_77"
+			{
+				"buildid"		"9763098"
+				"description"		"legacy41_77"
+				"timeupdated"		"1668099789"
+			}
+			"legacy41_73"
+			{
+				"buildid"		"9303585"
+				"description"		"legacy41_73"
+				"timeupdated"		"1664904380"
+			}
+			"legacy_41_71"
+			{
+				"buildid"		"8781039"
+				"description"		"legacy_41_71"
+				"timeupdated"		"1659030464"
+			}
+			"legacy41_68"
+			{
+				"buildid"		"8405627"
+				"description"		"legacy41_68"
+				"timeupdated"		"1652979211"
+			}
+			"legacy40"
+			{
+				"buildid"		"3417012"
+				"description"		"Classic Zomboid"
+				"timeupdated"		"1639990841"
+			}
+			"mptesting"
+			{
+				"buildid"		"16747098"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734202404"
+			}
+			"animwork"
+			{
+				"buildid"		"16727272"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734039460"
+			}
+			"getoutofhereyoufilthyspy"
+			{
+				"buildid"		"16746789"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734212279"
+			}
+			"38.30(pre-vehicles)"
+			{
+				"buildid"		"2309123"
+				"description"		"legacy b38 build"
+				"timeupdated"		"1524048033"
+			}
+			"build-39-vehicles"
+			{
+				"buildid"		"2857997"
+				"description"		"legacy b39 build"
+				"timeupdated"		"1540896904"
+			}
+			"noiseworks"
+			{
+				"buildid"		"16570400"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732819749"
+			}
+			"si2siharder"
+			{
+				"buildid"		"16727677"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734041959"
+			}
+			"steamdecktest"
+			{
+				"buildid"		"8368918"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647283096"
+			}
+			"testing"
+			{
+				"buildid"		"16746789"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734198133"
+			}
+			"testing2"
+			{
+				"buildid"		"16435056"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731833942"
+			}
+			"trailerbuild"
+			{
+				"buildid"		"4723347"
+				"pwdrequired"		"1"
+				"timeupdated"		"1582885838"
+			}
+			"whatsecretsliehere"
+			{
+				"buildid"		"16662829"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733527321"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}

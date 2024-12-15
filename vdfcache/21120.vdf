@@ -1,0 +1,148 @@
+"21120"
+{
+	"common"
+	{
+		"name"		"F.E.A.R.: Perseus Mandate"
+		"clienticon"		"e751ff1f56bf674f7be29761cb30682bd250f32f"
+		"clienttga"		"c512ac371385bf08405f88ba043cd478e7d95dfd"
+		"icon"		"7b1d0271f2735ca66e1cb681eb4da1a7c985d53f"
+		"logo"		"df122e0ee9eb2a5371910ffda0f8a3382e09232e"
+		"logo_small"		"df122e0ee9eb2a5371910ffda0f8a3382e09232e_thumb"
+		"sortas"		"F.E.A.R. 1: Perseus Mandate"
+		"type"		"game"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1669939200"
+			"tested_build_id"		"15017"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Monolith "
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Timegate"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Warner Bros. Interactive Entertainment"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_62"		"1"
+		}
+		"community_hub_visible"		"1"
+		"gameid"		"21120"
+		"store_tags"
+		{
+			"0"		"19"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"cwdoverride"		"FEARXP2"
+		"dependantonapp"		"21090"
+		"developer"		"Monolith "
+		"gamedir"		"F.E.A.R. - Ultimate Shooter Edition"
+		"homepage"		""
+		"icon"		""
+		"installscript"		"21090_install.vdf"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"21091"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Warner Bros. Interactive Entertainment"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"FEAR Ultimate Shooter Edition"
+		"launch"
+		{
+			"0"
+			{
+				"description"		"Launch Fear: Perseus Mandate"
+				"executable"		"FEARXP2\\FEARXP2.exe"
+				"workingdir"		"FEARXP2"
+			}
+		}
+	}
+	"depots"
+	{
+		"21091"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"21090"
+			"sharedinstall"		"2"
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+		}
+	}
+}

@@ -1,0 +1,408 @@
+"625340"
+{
+	"common"
+	{
+		"name"		"XERA: Survival"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"90b309f00e3830470c715034e67fd040a279833c"
+		"eulas"
+		{
+			"1"
+			{
+				"id"		"625340_eula_1"
+				"name"		"XERA: Survival EULA"
+				"url"		"https://store.steampowered.com//eula/625340_eula_1"
+			}
+		}
+		"logo"		"91cb21bcea51c1fb964c7dda84a15330ab4ead99"
+		"logo_small"		"91cb21bcea51c1fb964c7dda84a15330ab4ead99_thumb"
+		"icon"		"efc58ad262c99d59c18fe5a8f041715c38d6122a"
+		"clienttga"		"4e6c4842f425069bf6e04d3eb750869cd14609dc"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1654128000"
+			"tested_build_id"		"8541025"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"simultaneous_gamepad_mouse"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"market_presence"		"1"
+		"metacritic_name"		"XERA: Survival"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.25670945157527"
+				"height_pct"		"78.72340524211268"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"40.25670945157527"
+					"height_pct"		"78.72340524211268"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1708667205"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Spotted Kiwi Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Spotted Kiwi Interactive"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"29"
+			"4"		"28"
+			"5"		"2"
+			"6"		"37"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_35"		"1"
+			"category_29"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1632717814"
+		"community_hub_visible"		"1"
+		"gameid"		"625340"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"7332"
+			"1"		"1100689"
+			"2"		"3859"
+			"3"		"113"
+			"4"		"1662"
+			"5"		"1702"
+			"6"		"1695"
+			"7"		"3835"
+			"8"		"5752"
+			"9"		"1643"
+			"10"		"3810"
+			"11"		"128"
+			"12"		"1774"
+			"13"		"19"
+			"14"		"1663"
+			"15"		"3814"
+			"16"		"353880"
+			"17"		"1775"
+			"18"		"6730"
+			"19"		"1697"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"gamedir"		"XERA: Survival"
+		"serverbrowsername"		"XERA: Survival"
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=625340"
+		"additional_dependencies"
+		{
+			"0"
+			{
+				"src_os"		"windows"
+				"dest_os"		"linux"
+				"appid"		"1826330"
+				"comment"		"EAC runtime"
+			}
+		}
+		"developer"		"Spotted Kiwi Interactive"
+		"publisher"		"Spotted Kiwi Interactive"
+		"homepage"		"https://xeragame.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"997680,1069420,1069421,1069422,1079670,1079671,1641160,1641161"
+	}
+	"config"
+	{
+		"installdir"		"XERA"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"XERA_Launcher.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"625341"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4752370078202489315"
+					"size"		"49077152267"
+					"download"		"22101053296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"communityqa"
+				{
+					"gid"		"D12D51134EF8B682D2D41F0794F122A9"
+					"size"		"F57876266D1370CF71A43A2632CE59CF"
+					"download"		"F1B47C85EEA4945609E73942F41B293E"
+				}
+				"development"
+				{
+					"gid"		"15E7C85AED41D75ECAFAB4FBE6B3A37C"
+					"size"		"A2CB01202797F31C73134F5FDE3F290F"
+					"download"		"0A7E22C043DAFB07CC420257F5919AE0"
+				}
+				"easyanticheat"
+				{
+					"gid"		"3C407610B39F1AB514F1505C6CC52D09"
+					"size"		"75DE3A43628A449136F2AE333C113973"
+					"download"		"D61CF371BDB601895A892F8A98970E51"
+				}
+				"testing"
+				{
+					"gid"		"FBB1B8428D6ACBBD0815E78472C5F7AB"
+					"size"		"5D7CFA0B5F845D28D9433F88D9FAE014"
+					"download"		"4F6CA060D062C5FB70A767993D93C920"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"15544389"
+				"timeupdated"		"1725020048"
+			}
+			"communityqa"
+			{
+				"buildid"		"15544389"
+				"pwdrequired"		"1"
+				"timeupdated"		"1725020017"
+			}
+			"development"
+			{
+				"buildid"		"14526086"
+				"pwdrequired"		"1"
+				"timeupdated"		"1716941340"
+			}
+			"easyanticheat"
+			{
+				"buildid"		"14526086"
+				"pwdrequired"		"1"
+				"timeupdated"		"1716941333"
+			}
+			"testing"
+			{
+				"buildid"		"14592256"
+				"pwdrequired"		"1"
+				"timeupdated"		"1717467252"
+			}
+		}
+	}
+}

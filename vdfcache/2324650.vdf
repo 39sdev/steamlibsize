@@ -1,0 +1,304 @@
+"2324650"
+{
+	"common"
+	{
+		"name"		"The Murder of Sonic the Hedgehog"
+		"type"		"Game"
+		"icon"		"0da85d6bca94f4e4e81b71deb3145859d094d5d1"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2324650_eula_0"
+				"name"		"The Murder of Sonic the Hedgehog EULA"
+				"url"		"https://store.steampowered.com//eula/2324650_eula_0"
+				"version"		"3"
+			}
+		}
+		"clienttga"		"8f6bbfa8e97a5e2e6e251bb741450a5b0ca837aa"
+		"clienticon"		"7dfd2aff8e8d03d7c69c61ea90012a80e6ee1168"
+		"name_localized"
+		{
+			"koreana"		"소닉 더 헤지혹 살인 사건"
+			"tchinese"		"刺猬索尼克的謀殺懸案"
+			"schinese"		"刺猬索尼克谋杀案"
+			"japanese"		"ソニック・ザ・ヘッジホッグ殺人事件"
+		}
+		"ReleaseState"		"released"
+		"clienticns"		"c752064a834d3e3a81d995a4c6e79fb8d81fed45"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1680307200"
+			"tested_build_id"		"10885483"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_GamepadNotEnabledByDefault"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"80.05857823691215"
+				"height_pct"		"58.40829981023819"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"80.05857823691215"
+					"height_pct"		"58.40829981023819"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1679677852"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SEGA"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Sonic the Hedgehog"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1680289460"
+		"community_hub_visible"		"1"
+		"gameid"		"2324650"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"113"
+			"2"		"1698"
+			"3"		"597"
+			"4"		"4182"
+			"5"		"5716"
+			"6"		"5613"
+			"7"		"1719"
+			"8"		"31275"
+			"9"		"1721"
+			"10"		"4136"
+			"11"		"6815"
+			"12"		"4726"
+			"13"		"1756"
+			"14"		"5851"
+			"15"		"4085"
+			"16"		"599"
+			"17"		"492"
+			"18"		"1625"
+			"19"		"21"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"SEGA"
+		"publisher"		"SEGA"
+		"homepage"		"https://sonicthehedgehog.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Themurderofsonicthehedgehog"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Murder of Sonic The Hedgehog\\The Murder of Sonic The Hedgehog.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"The Murder of Sonic The Hedgehog.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2324651"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5893388171112463528"
+					"size"		"468947293"
+					"download"		"289664176"
+				}
+			}
+		}
+		"2324652"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3544581423900058731"
+					"size"		"493159839"
+					"download"		"297283504"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10885483"
+				"timeupdated"		"1680122555"
+			}
+		}
+		"privatebranches"		"1"
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"3"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+	}
+}

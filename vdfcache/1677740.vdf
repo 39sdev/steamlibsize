@@ -1,0 +1,606 @@
+"1677740"
+{
+	"common"
+	{
+		"name"		"Stumble Guys"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"4517b0a1eff3befd699ede64a57e3f816d581be7"
+		"logo"		"750f7d6fdfac74f94c53109758c28b818421a2aa"
+		"logo_small"		"750f7d6fdfac74f94c53109758c28b818421a2aa_thumb"
+		"clienticon"		"8aa1f4d9871e03ff531fb580497b1ee53320304b"
+		"clienttga"		"76aab0eb00545f546a0b480f928d0af0ed03420e"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1677740_eula_0"
+				"name"		"Stumble Guys EULA"
+				"url"		"https://store.steampowered.com//eula/1677740_eula_0"
+				"version"		"2"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"dutch"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"vietnamese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1655424000"
+			"tested_build_id"		"8179080"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.01633605600934"
+				"height_pct"		"46.58054727105383"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"48.01633605600934"
+					"height_pct"		"46.58054727105383"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1729830427"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Scopely"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Scopely"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"29"
+			"4"		"37"
+		}
+		"category"
+		{
+			"category_18"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1633608780"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1677740"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"176981"
+			"2"		"3859"
+			"3"		"3843"
+			"4"		"4136"
+			"5"		"1685"
+			"6"		"19"
+			"7"		"4747"
+			"8"		"128"
+			"9"		"597"
+			"10"		"492"
+			"11"		"1775"
+			"12"		"5395"
+			"13"		"5350"
+			"14"		"699"
+			"15"		"4305"
+			"16"		"4195"
+			"17"		"4726"
+			"18"		"7178"
+			"19"		"1773"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"allowmicrotxnfromrestrictedcountries"		"0"
+		"microtxnrestrictedcountries"		"RU,BY"
+		"developer"		"Scopely"
+		"publisher"		"Scopely"
+		"homepage"		"https://www.scopely.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Stumble Guys"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Stumble Guys.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"stumble.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"1677741"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"980192067589506650"
+					"size"		"1562089876"
+					"download"		"1059029696"
+				}
+				"beta"
+				{
+					"gid"		"5560975817238939399"
+					"size"		"1557601693"
+					"download"		"1055646208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"B6CF00C1FD023011D83FD1F422C8BCC2"
+					"size"		"01D70C2F99D21A4A2B4A6F24FC5CF8C1"
+					"download"		"17A9D4CEC6BBBE2643563D5871CE0EA9"
+				}
+				"console_tests"
+				{
+					"gid"		"DE5519B9B6038A26086AB7AB7FE8C080"
+					"size"		"CC18A341E060EFFA6EB78F3FA3D3EF6E"
+					"download"		"3E626A34D265768E9C406AA9815DD42D"
+				}
+				"development"
+				{
+					"gid"		"BD4E8D9549BA43F3316067248F995234"
+					"size"		"0102FE0456F2258A1466964BA9285DA2"
+					"download"		"EAD438B7EC2267A48ECA2574A483106B"
+				}
+				"modl_test"
+				{
+					"gid"		"A27B6F6CE774E8016D8158578F04BA40"
+					"size"		"FBF329D94E9F057C90E901E102597A7F"
+					"download"		"35706A3FEC988976D4AA052DA47812FE"
+				}
+				"playtime"
+				{
+					"gid"		"A55FA0EEE56E7353671172B45980A4EC"
+					"size"		"DBD19729D28C616A505289CEE62168C8"
+					"download"		"A0C3C5EFBACBE787FB897C6691DF1EDC"
+				}
+				"qa_beta"
+				{
+					"gid"		"3E98FED04440BC907FCB8C0D767859C2"
+					"size"		"6B722484C2990C0FF763969EF5534B55"
+					"download"		"252F8704CC4859EAD1696E178A24DBCB"
+				}
+				"qa_closedbeta"
+				{
+					"gid"		"90E52821BFAEB4C07401AD42E9B54AFC"
+					"size"		"1C93A8F8D0EC374C4D9F21144A101EC8"
+					"download"		"C109C840698B7C786B31BFB8E868FBA1"
+				}
+				"qa_live"
+				{
+					"gid"		"31420D4E715DA0F152E17AC904DD3D2E"
+					"size"		"9B5F36A3A069336923928B96C09A2C46"
+					"download"		"4B023801134B06B3600DF89560F3EAA3"
+				}
+				"qa_test"
+				{
+					"gid"		"B7A11BF94435E6A70B7FB90B199A1F71"
+					"size"		"99781ADDECBB55C7E1179AB4236220E5"
+					"download"		"8662A0480EDAD69B556DAE327ECD0A91"
+				}
+				"qa_test_2"
+				{
+					"gid"		"04D784F9B1444C3793101909CC12B129"
+					"size"		"51292D58E5C597101A08E3A06C358DDB"
+					"download"		"10C5537B1FAF2E0462FC79E113139E06"
+				}
+				"qa_test_3"
+				{
+					"gid"		"A0188559E140CCD0AA71C91056F629F2"
+					"size"		"06C84655B8AD5ADA0FE362822A46C1D0"
+					"download"		"21E32843F68C55CC237BAF9574F5D29F"
+				}
+				"qa_test_4"
+				{
+					"gid"		"78D7E1525A113FBB0E5AC397A03C7006"
+					"size"		"A0A191721415F48174A08E25C1D5EADD"
+					"download"		"F5FC0A167C3FF0E3426E49CECB9130F9"
+				}
+				"qa_test_5"
+				{
+					"gid"		"0DD7ADB0B72B21FABAD04528255E88ED"
+					"size"		"B1BB1A07B9014A1641A73F8083265820"
+					"download"		"8A41C82F8F1EBF8148509F38BC346469"
+				}
+				"qa_test_6"
+				{
+					"gid"		"E11AF4B6F92F3F5A9C8D02DE7232A3B1"
+					"size"		"442748CE465188BAEC1293E4171AD171"
+					"download"		"3A2CA2821F75F1CC87C2771A9B858CB1"
+				}
+				"staging"
+				{
+					"gid"		"73FC9996B6038EF938AE9A68C55351BD"
+					"size"		"7321C7CF65D6CA0994C62E1052AC74AC"
+					"download"		"A5D8A41072B12E211F777FA339970CF3"
+				}
+				"staging2"
+				{
+					"gid"		"20BDE417EF14AE8BECCE492873763E3E"
+					"size"		"3861398BFBCFDB4314145885F8EB6CE0"
+					"download"		"D2D7963AC23EAC0948077906B7A58CCC"
+				}
+				"tacocat"
+				{
+					"gid"		"71D15A7442C885D975173F48DFDCF660"
+					"size"		"5E8FEB51F5AA9591DF5FDDBA0AD79AC9"
+					"download"		"3DC7F06D21B78C9B4BF34BFE6FCA083C"
+				}
+				"tech_pod_tests"
+				{
+					"gid"		"82FAA8FC830E3C8B737AB59DE160621E"
+					"size"		"4FAD5095B19A1B9180A0F72E25941B6E"
+					"download"		"323B1BF45E930D11AC3ED4A203636B1A"
+				}
+				"tech_pod_tests_2"
+				{
+					"gid"		"872A6C6B5B7298539392ACCDA84ABAA4"
+					"size"		"F8F1875CA35803D5021AD2E7FB80CC18"
+					"download"		"F9F2DBF1F841EF757F758F710A8D62AD"
+				}
+			}
+		}
+		"1677742"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"2C6D752471475534BD9661CE3FD777FE"
+					"size"		"299D045B987FD26DFB65533B72759641"
+					"download"		"7200BB3E28563CA74F8E63A55130B07F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16698065"
+				"timeupdated"		"1733920068"
+			}
+			"beta"
+			{
+				"buildid"		"16581074"
+				"description"		"open beta"
+				"timeupdated"		"1732897954"
+			}
+			"closed_beta"
+			{
+				"buildid"		"16364717"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731406584"
+			}
+			"console_tests"
+			{
+				"buildid"		"15739254"
+				"pwdrequired"		"1"
+				"timeupdated"		"1726647416"
+			}
+			"development"
+			{
+				"buildid"		"16645756"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733415025"
+			}
+			"modl_test"
+			{
+				"buildid"		"16711812"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733945156"
+			}
+			"playtime"
+			{
+				"buildid"		"16036860"
+				"pwdrequired"		"1"
+				"timeupdated"		"1728911659"
+			}
+			"qa_beta"
+			{
+				"buildid"		"16739501"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734117510"
+			}
+			"qa_closedbeta"
+			{
+				"buildid"		"16364717"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731325960"
+			}
+			"qa_live"
+			{
+				"buildid"		"16724340"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734022651"
+			}
+			"qa_test"
+			{
+				"buildid"		"16724397"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734023190"
+			}
+			"qa_test_2"
+			{
+				"buildid"		"16726248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734033596"
+			}
+			"qa_test_3"
+			{
+				"buildid"		"16646221"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733418092"
+			}
+			"qa_test_4"
+			{
+				"buildid"		"16739614"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734117750"
+			}
+			"qa_test_5"
+			{
+				"buildid"		"16644285"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733408126"
+			}
+			"qa_test_6"
+			{
+				"buildid"		"16328536"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730988668"
+			}
+			"staging"
+			{
+				"buildid"		"16725570"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734029507"
+			}
+			"staging2"
+			{
+				"buildid"		"16645800"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733415287"
+			}
+			"tacocat"
+			{
+				"buildid"		"14860216"
+				"pwdrequired"		"1"
+				"timeupdated"		"1719500290"
+			}
+			"tech_pod_tests"
+			{
+				"buildid"		"15124675"
+				"pwdrequired"		"1"
+				"timeupdated"		"1721738359"
+			}
+			"tech_pod_tests_2"
+			{
+				"buildid"		"15047221"
+				"pwdrequired"		"1"
+				"timeupdated"		"1721121100"
+			}
+		}
+	}
+}

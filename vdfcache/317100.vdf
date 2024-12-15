@@ -1,0 +1,619 @@
+"317100"
+{
+	"common"
+	{
+		"name"		"Republique"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"brazilian"		"1"
+		}
+		"clienticon"		"579378e06bd0c7daffc48f0fef79b2a825abab40"
+		"clienttga"		"6bfc4a63997dc612c223166aa0bfb97612e33b7c"
+		"icon"		"e04ed6b34c4726713f67318e7109e3ab73c7af8c"
+		"clienticns"		"1a5a301bccfda5d32508ff1cd50d07fc54525516"
+		"logo"		"49e24bb1c54371f03687e6f507d10916e94cf0ef"
+		"logo_small"		"49e24bb1c54371f03687e6f507d10916e94cf0ef_thumb"
+		"linuxclienticon"		"38725e431d4ae6da7eb8f652b3266936db7fe1a2"
+		"restricted_countries"		"DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1647302400"
+			"tested_build_id"		"3325525"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"République"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_ff72f670c2f1ca704c5f73836360b650db8ef90d.jpg"
+		"store_asset_mtime"		"1542743647"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Camouflaj"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Camouflaj"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_14"		"1"
+			"category_13"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1424937600"
+		"steam_release_date"		"1424927040"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"317100"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"1687"
+			"1"		"21"
+			"2"		"4115"
+			"3"		"7208"
+			"4"		"492"
+			"5"		"19"
+			"6"		"1698"
+			"7"		"5030"
+			"8"		"4166"
+			"9"		"1742"
+			"10"		"4242"
+			"11"		"3942"
+			"12"		"1664"
+			"13"		"4182"
+			"14"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"Camouflaj"
+		"publisher"		"Camouflaj"
+		"homepage"		"http://www.camouflaj.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"319240"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Republique"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Republique.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Republique.app"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,spanish,russian,japanese,brazilian"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"317101"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2077480605682918428"
+					"size"		"6380725080"
+					"download"		"5443980224"
+				}
+				"local"
+				{
+					"gid"		"8942274172120967248"
+					"size"		"7800481263"
+					"download"		"3923138592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ambassadors"
+				{
+					"gid"		"AD050E45097FE509D84B024EB00A2EA0"
+					"size"		"9EB55B8EFE7A0D10A8C7D7A489C887C5"
+					"download"		"59166AF0CD63358445F25FD676F7438B"
+				}
+				"beta"
+				{
+					"gid"		"A8788295C06BB114DDCB410DDFF42D4D"
+					"size"		"57CEF1A7036F84E3551011A63DA915B0"
+					"download"		"CA120117868A1D5E0862C57B369D8911"
+				}
+				"devs"
+				{
+					"gid"		"99279C8CEAC7FD2B0AE752E81C414045"
+					"size"		"BA4BB98B406D4D7CE6F45BC7FFA04B3F"
+					"download"		"F01BDFCE25924075FF63B6109CA4210F"
+				}
+				"drm-free"
+				{
+					"gid"		"DCE8F6F9A06CA4BB8020924EF7182072"
+					"size"		"43A675C8F977A7529D50576216726682"
+					"download"		"64EC762DAB194ADEF0B01B1B150A9E78"
+				}
+				"partners"
+				{
+					"gid"		"B04C3EF48B2516CD7FC42E7A726D0F2E"
+					"size"		"C89E998319041773D608C74AE512D92B"
+					"download"		"A55C5485AAB65180A6DC822B60572BED"
+				}
+				"reviewers"
+				{
+					"gid"		"420558B6A13B6FCB43F7C44912E06392"
+					"size"		"394F22C00B776C733ABF70FD6112AADB"
+					"download"		"9C6067D64FA9F56EBE0F12CE087F9AF4"
+				}
+				"testing"
+				{
+					"gid"		"A80FEB575AF80E6233C7D5B3D0A89DCD"
+					"size"		"A4208A39B876BBE3A5EFBDD8A8DF9F9D"
+					"download"		"789767B219CC89B083554FB6BC532C60"
+				}
+			}
+		}
+		"317102"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3866299341474039440"
+					"size"		"6455742280"
+					"download"		"5491260160"
+				}
+				"local"
+				{
+					"gid"		"2066731800306669310"
+					"size"		"7838901351"
+					"download"		"3928070144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ambassadors"
+				{
+					"gid"		"F840907132462C2E411F4D5887E010D6"
+					"size"		"6031017AACFFBAB00B5459AED0DD1F19"
+					"download"		"9CAD853120F8FFA1F8B0AA219618B09C"
+				}
+				"beta"
+				{
+					"gid"		"3D238839F567501B719E0E9CC6C41722"
+					"size"		"F86A50FE0B6C0877D29C76EAB8F69081"
+					"download"		"ABD612CE8195C589B88C35D48B5FF6A9"
+				}
+				"devs"
+				{
+					"gid"		"87B3BBEF9F534C80851F7EF2D0B69E06"
+					"size"		"4A1C5500BEE760A27E7CB9816C39F1B2"
+					"download"		"88A81BFB37F35512FEC8C040C9DB8FC7"
+				}
+				"drm-free"
+				{
+					"gid"		"040D53A1B7EC9A7BD2FDCE8A996AD530"
+					"size"		"EAC3C0F69B2739B777B4200C455373A7"
+					"download"		"3F0998EC62C8AB5EFBBF5973CE36EEAC"
+				}
+				"partners"
+				{
+					"gid"		"21DEDD720D0B52B110CAD84B216CA25B"
+					"size"		"C69A276FF51B247D5D85B5E0C00B12DE"
+					"download"		"AAFB9E5EF8FB4E8A44F9908BEEC20AA2"
+				}
+				"reviewers"
+				{
+					"gid"		"632C0217695BD9262D00B168E41F2BAD"
+					"size"		"5956779DF3984CFF4079AD49EFD159EC"
+					"download"		"D878800E4E2160D3B3F3D31BF2682F8F"
+				}
+				"testing"
+				{
+					"gid"		"A5480575A30099CA1FC069D1D13F22D8"
+					"size"		"F6A79B4393536E843C7EE2384E8354E7"
+					"download"		"97592716A7A838970EC9585633D58236"
+				}
+			}
+		}
+		"317103"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+		}
+		"319240"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3179679745298308290"
+					"size"		"2329650477"
+					"download"		"1867863952"
+				}
+				"local"
+				{
+					"gid"		"925772256416422059"
+					"size"		"4391787559"
+					"download"		"3520292896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ambassadors"
+				{
+					"gid"		"6E040891D3D3AB93263A62071CB2083E"
+					"size"		"98C2E33C371FE122BFB1BC5E4A876ECC"
+					"download"		"6D91521A4444F193A8ACA2C8985BFD00"
+				}
+				"beta"
+				{
+					"gid"		"BBC315E4A4C11C2479F05FA6ED260EFA"
+					"size"		"4FCC8605F6D627E606D8781690375F1E"
+					"download"		"9F7BB3ABC5468F3260632EDD70483BF1"
+				}
+				"devs"
+				{
+					"gid"		"DF776C061772B9A9E87599D6BE362864"
+					"size"		"56D2DAA946B877FFE9A79CB2CDD8C24A"
+					"download"		"1E406075846EF14D5B9362E8D1F66F73"
+				}
+				"drm-free"
+				{
+					"gid"		"FA66CA326DB1BD60356D98CFEC54A4D1"
+					"size"		"35989EE3248E6E1A7FCC72E1C0539782"
+					"download"		"918136A99348FF12662CB67DA63D3BB2"
+				}
+				"partners"
+				{
+					"gid"		"62058497D3FAEAC153B8397C84782693"
+					"size"		"AD04650D62A8F161BDA8B990EC1EDAA7"
+					"download"		"5659E0E3D538A8E5A532A68B21EA8276"
+				}
+				"reviewers"
+				{
+					"gid"		"BFE1B0302D95D5BA0BBCB7C981BAC432"
+					"size"		"FCF9F1760D749533CA99429758372B60"
+					"download"		"F7C7B2DA66EC534D4F20447C03970520"
+				}
+				"testing"
+				{
+					"gid"		"82054DA4AF9DB241EF1E3D1D508300F0"
+					"size"		"CEFDE3BC8C2B29F5B6B0B0A5E30B6F9A"
+					"download"		"971A76404954B7009A64930EDEAECADD"
+				}
+			}
+			"dlcappid"		"319240"
+		}
+		"319241"
+		{
+			"dlcappid"		"319240"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2256930550341287554"
+					"size"		"249366682"
+					"download"		"105072848"
+				}
+				"local"
+				{
+					"gid"		"2256930550341287554"
+					"size"		"249366682"
+					"download"		"105072848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"drm-free"
+				{
+					"gid"		"2CFA4201D35F2F83EA8D34DD3A1D53B0"
+					"size"		"671C6697C55CB9976DA2444F56023D2C"
+					"download"		"6C93C85D8F3F77589C782DAD31142373"
+				}
+				"partners"
+				{
+					"gid"		"5A8F2911C24A7264DE632798D32E52E5"
+					"size"		"77909533BB58A9EF22BF9507AE87CCD6"
+					"download"		"FC9EB559FD0F9019E906685DAC8B1CE2"
+				}
+				"reviewers"
+				{
+					"gid"		"4AE48606242A981733E897B4A91E8D0F"
+					"size"		"1BF5589D9C34B0D300D34FB5F9D022D6"
+					"download"		"C042A6786AE77930AFAC2CDBD773745C"
+				}
+				"testing"
+				{
+					"gid"		"D6F3AAC2A44A97135E10F6F1FD284D83"
+					"size"		"4906247E095E419E3F55FAECA29314EB"
+					"download"		"2F50436DB3EBAEC9143FBE045D4E093D"
+				}
+			}
+		}
+		"319242"
+		{
+			"dlcappid"		"319240"
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"979792060345189221"
+					"size"		"250958830"
+					"download"		"106807728"
+				}
+				"local"
+				{
+					"gid"		"979792060345189221"
+					"size"		"250958830"
+					"download"		"106807728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"drm-free"
+				{
+					"gid"		"97A46C93B3868DA74E737F3FF3D332E3"
+					"size"		"4B82A05B8496FE9C9CC2DCD41C9C3D72"
+					"download"		"9765B1CA1B4095D9CC2A5C4C3A3157A3"
+				}
+				"partners"
+				{
+					"gid"		"EC418BD0A942D61DFC080BD667AE9110"
+					"size"		"684381824EC38E32D982D568FFE6656A"
+					"download"		"D8ABC4454E520ACD140963F727B4830F"
+				}
+				"reviewers"
+				{
+					"gid"		"E761E4FC26912727DEF28281C36DBABD"
+					"size"		"2A0E8F890C43BC49F7FE16FD710529C9"
+					"download"		"1F1F06F03216659650BB37DD9B778455"
+				}
+				"testing"
+				{
+					"gid"		"63EA9F44A5F3DFA4B3258A207BF9812A"
+					"size"		"2DD183158DF74C299B4E46E0DF512EED"
+					"download"		"BF08067EA83CDF88B5F0E9CC606D8557"
+				}
+			}
+		}
+		"319243"
+		{
+			"dlcappid"		"319240"
+			"config"
+			{
+				"oslist"		"linux"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3325525"
+				"timeupdated"		"1542757436"
+			}
+			"ambassadors"
+			{
+				"buildid"		"523137"
+				"pwdrequired"		"1"
+			}
+			"beta"
+			{
+				"buildid"		"384078"
+				"pwdrequired"		"1"
+			}
+			"devs"
+			{
+				"buildid"		"3898053"
+				"pwdrequired"		"1"
+				"timeupdated"		"1559914133"
+			}
+			"drm-free"
+			{
+				"buildid"		"640518"
+				"pwdrequired"		"1"
+			}
+			"local"
+			{
+				"buildid"		"1059192"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1459890628"
+			}
+			"partners"
+			{
+				"buildid"		"909494"
+				"pwdrequired"		"1"
+			}
+			"reviewers"
+			{
+				"buildid"		"1020937"
+				"pwdrequired"		"1"
+				"timeupdated"		"1458339182"
+			}
+			"testing"
+			{
+				"buildid"		"1059208"
+				"pwdrequired"		"1"
+				"timeupdated"		"1459891004"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"MacAppSupport"
+				"path"		"unity.Camouflaj.République/{Steam3AccountID}/Save/"
+				"pattern"		"*.save"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Camouflaj/R__publique/{Steam3AccountID}/Save/"
+				"pattern"		"*.save"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}

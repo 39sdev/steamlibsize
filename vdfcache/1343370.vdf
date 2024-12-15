@@ -1,0 +1,459 @@
+"1343370"
+{
+	"common"
+	{
+		"name"		"Old School RuneScape"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"logo"		"a8643e1d8fb5e6d6419fddcfea0e2b19f9aecb18"
+		"logo_small"		"a8643e1d8fb5e6d6419fddcfea0e2b19f9aecb18_thumb"
+		"icon"		"6f3b359a68383291bcd2ab49aac079c13c02d8bb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1343370_eula_1"
+				"name"		"Old School RuneScape EULA"
+				"url"		"https://store.steampowered.com//eula/1343370_eula_1"
+			}
+		}
+		"clienticon"		"b83e3bc2c54c5453ab467f89187389a6af25f93a"
+		"clienttga"		"556e514fe58143bd04c51d57510dce2abff45a10"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1645142400"
+			"tested_build_id"		"7882025"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"21.890832096259487"
+				"height_pct"		"36.20000883741711"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"21.890832096259487"
+					"height_pct"		"36.20000883741711"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1614944641"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jagex Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jagex Ltd"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"29"
+			"2"		"3"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1361520000"
+		"steam_release_date"		"1614182040"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1343370"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"1754"
+			"1"		"113"
+			"2"		"14720"
+			"3"		"21"
+			"4"		"1684"
+			"5"		"1742"
+			"6"		"128"
+			"7"		"122"
+			"8"		"3859"
+			"9"		"4747"
+			"10"		"1697"
+			"11"		"6730"
+			"12"		"1695"
+			"13"		"3916"
+			"14"		"1775"
+			"15"		"1756"
+			"16"		"1693"
+			"17"		"3834"
+			"18"		"7782"
+			"19"		"3854"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Jagex Ltd"
+		"publisher"		"Jagex Ltd"
+		"homepage"		"https://oldschool.runescape.com/"
+		"isfreeapp"		"1"
+		"aliases"		"runescape"
+		"listofdlc"		"1401460,1401461,1401462,1474630"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Old School RuneScape"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin/win64/oslaunch.exe"
+				"workingdir"		"bin/win64/"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"BetaKey"		"internal"
+				}
+				"description_loc"
+				{
+					"english"		"Run Internal Launcher"
+				}
+				"description"		"Run Internal Launcher"
+			}
+			"1"
+			{
+				"executable"		"bin/win64/osclient.exe"
+				"workingdir"		"bin/win64/"
+				"description"		"Play Old School RuneScape"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"bin/osx/oslaunch.app"
+				"workingdir"		"bin/osx/"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"BetaKey"		"internal"
+				}
+				"description_loc"
+				{
+					"english"		"Run Internal Launcher"
+				}
+				"description"		"Run Internal Launcher"
+			}
+			"3"
+			{
+				"executable"		"bin/osx/osclient.app"
+				"workingdir"		"bin/osx/"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Play Old School RuneScape"
+				}
+				"description"		"Play Old School RuneScape"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1343371"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7069184952153038428"
+					"size"		"17685096"
+					"download"		"5489168"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"CAB433D77429DE0F902D3AA584E0C889"
+					"size"		"F95AA3CC4CDD7CBBC041898A1447187B"
+					"download"		"9728F86A3EC13D1392755C5AF84647E4"
+				}
+				"mac_test"
+				{
+					"gid"		"98D38C29842B4C7917BE67140C3500F9"
+					"size"		"6CC0122E111963A9653D144AA7A76002"
+					"download"		"2610DDD0B84DE31B8D6DF2D4EFA31088"
+				}
+				"rc_build"
+				{
+					"gid"		"B0200A7B8C918B61C1931761BD3C47AA"
+					"size"		"6DCF6EB210D2D0DEA28A685A725DFF7A"
+					"download"		"950C4A153BE8A3A32B633EC01D400FD7"
+				}
+			}
+		}
+		"1343374"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5221417173062573867"
+					"size"		"17821151"
+					"download"		"5702400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"7E0608CB02DE0E516612DE3ED7759657"
+					"size"		"8B7D3B539FAE14DF3A8BFE2553B192A8"
+					"download"		"B769CBE12F6C08F35AA2A287B8AAB4C7"
+				}
+				"mac_test"
+				{
+					"gid"		"ABD2034A1F3F842802F1AB7CAF33E3BC"
+					"size"		"D65ABA1F22DA243360D7F4DD04A06162"
+					"download"		"0EB2939DD7CCF524ADB63428E99274AB"
+				}
+				"rc_build"
+				{
+					"gid"		"2F6FFCC20058DA15E8ECE4ED643D680C"
+					"size"		"C31E6938126E47CBEF4B6D858A7E7BC7"
+					"download"		"40712A9F4C9A20C2B2227182766011DA"
+				}
+			}
+		}
+		"1343372"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"A8485E1846D1705103B226FE1B9EAE77"
+					"size"		"E960CCB80F716F47572717F926A1C299"
+					"download"		"DD5CB64702C4D38CF213F0F5D1108CE2"
+				}
+			}
+		}
+		"1343375"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"B89C22EC6D76460B40762B37276BF1A3"
+					"size"		"B09BDA25934F81B16D0494F8D912B9F5"
+					"download"		"2DD2606C416A2CE1D083169B36149A18"
+				}
+			}
+		}
+		"1343373"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"D4D48116207D68739D590335FE06136A"
+					"size"		"9DC831AB72AE505969A210D229D1F489"
+					"download"		"252639A24EBC5BC95882917544B50168"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16657909"
+				"timeupdated"		"1733740282"
+			}
+			"internal"
+			{
+				"buildid"		"8125822"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643731747"
+			}
+			"mac_test"
+			{
+				"buildid"		"6946101"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624903063"
+			}
+			"rc_build"
+			{
+				"buildid"		"16725100"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734026779"
+			}
+		}
+	}
+}

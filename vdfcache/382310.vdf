@@ -1,0 +1,259 @@
+"382310"
+{
+	"common"
+	{
+		"name"		"Eco"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"logo"		"dfc81262b1d51398f005d9497407571530adca3a"
+		"logo_small"		"dfc81262b1d51398f005d9497407571530adca3a_thumb"
+		"icon"		"a96eb4bd8b20008867c38bbc400d79003c32d6cf"
+		"clienttga"		"fe408f32222401bff4eb9ef104af39f7c549a8c5"
+		"clienticns"		"543b2652ba9f39125512eb1be31168174a16831a"
+		"linuxclienticon"		"20a8e877a3769f2df5b6c40919135e6b6b90d6ec"
+		"clienticon"		"3d05e5e79485472dd30737faaf4bae29ed03ee02"
+		"releasestate"		"released"
+		"osarch"		"64"
+		"exfgls"		"1"
+		"osextended"		"macos64"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"382310_eula_0"
+				"name"		"Eco EULA"
+				"url"		"https://store.steampowered.com//eula/382310_eula_0"
+				"version"		"2"
+			}
+			"1"
+			{
+				"id"		"382310_eula_1"
+				"name"		"Eco EULA"
+				"url"		"https://store.steampowered.com//eula/382310_eula_1"
+				"version"		"3"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1648857600"
+			"tested_build_id"		"8134530"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"16.18437688034291"
+				"height_pct"		"98.26388888888889"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"16.18437688034291"
+					"height_pct"		"98.26388888888889"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1722897289"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Strange Loop Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Strange Loop Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_2"		"1"
+			"category_48"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1517939940"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"382310"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"1643"
+			"2"		"3810"
+			"3"		"4695"
+			"4"		"1100689"
+			"5"		"9204"
+			"6"		"30358"
+			"7"		"3859"
+			"8"		"1695"
+			"9"		"7332"
+			"10"		"1702"
+			"11"		"4202"
+			"12"		"10383"
+			"13"		"5794"
+			"14"		"1036"
+			"15"		"8945"
+			"16"		"26921"
+			"17"		"1662"
+			"18"		"4252"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+}

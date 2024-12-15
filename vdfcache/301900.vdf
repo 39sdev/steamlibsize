@@ -1,0 +1,102 @@
+"301900"
+{
+	"common"
+	{
+		"name"		"Zombie Driver HD Brutal Car Skins"
+		"type"		"DLC"
+		"parent"		"220820"
+		"releasestate"		"released"
+		"icon"		"e5a5a49326a94322d804cc9192ec6785ca6b5858"
+		"logo"		"e35a4253a82774ed671f782be97d798eca493328"
+		"logo_small"		"e35a4253a82774ed671f782be97d798eca493328_thumb"
+		"metacritic_name"		"Zombie Driver HD Brutal Car Skins"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"fe263734221877168b12192bb0f85bf8a60f7005/capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_edcfe0c1f4b63b3e6c8a8c1b93f58af3cd4284d4.jpg"
+		"store_asset_mtime"		"1726648622"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Exor Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Exor Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_29"		"1"
+			"category_28"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1409148008"
+		"gameid"		"301900"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"19"
+			"2"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"dlcforappid"		"220820"
+		"mustownapptopurchase"		"220820"
+		"developer"		"Exor Studios"
+		"publisher"		"Exor Studios"
+		"homepage"		"http://www.zombiedriver.com"
+		"dlcavailableonstore"		"1"
+	}
+}

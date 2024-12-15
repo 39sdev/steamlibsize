@@ -1,0 +1,187 @@
+"355880"
+{
+	"common"
+	{
+		"name"		"The Witcher 3: Wild Hunt - Expansion Pass"
+		"type"		"DLC"
+		"parent"		"292030"
+		"releasestate"		"released"
+		"logo"		"10ac25cae78c8aebe97c016a00278281bb210de5"
+		"logo_small"		"10ac25cae78c8aebe97c016a00278281bb210de5_thumb"
+		"icon"		"3a2e9489f99b78c40559855c667aef45869538ed"
+		"name_localized"
+		{
+			"ukrainian"		"Відьмак 3: Дикий гін – Перепустка до вмісту"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"metacritic_name"		"Witcher 3: Wild Hunt - Expansion Pass"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_f0c1b0b1cae3b85dd4db7950363dea19060d9a52.jpg"
+		"store_asset_mtime"		"1462975212"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CD PROJEKT RED"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CD PROJEKT RED"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1432065600"
+		"gameid"		"355880"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"1742"
+			"2"		"1695"
+			"3"		"4166"
+			"4"		"1684"
+			"5"		"21"
+			"6"		"4182"
+			"7"		"5611"
+			"8"		"1697"
+			"9"		"19"
+			"10"		"6650"
+			"11"		"1756"
+			"12"		"4604"
+			"13"		"6426"
+			"14"		"3965"
+			"15"		"12095"
+			"16"		"4057"
+			"17"		"3834"
+			"18"		"4345"
+			"19"		"3859"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"dlcforappid"		"292030"
+		"mustownapptopurchase"		"292030"
+		"developer"		"CD PROJEKT RED"
+		"publisher"		"CD PROJEKT RED"
+		"homepage"		"http://www.thewitcher.com"
+		"dlcavailableonstore"		"1"
+	}
+}

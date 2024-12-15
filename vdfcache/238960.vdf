@@ -1,0 +1,467 @@
+"238960"
+{
+	"common"
+	{
+		"name"		"Path of Exile"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows,macos"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"238960_eula_1"
+				"name"		"Path of Exile EULA"
+				"url"		"https://store.steampowered.com//eula/238960_eula_1"
+				"version"		"1"
+			}
+		}
+		"logo"		"7184323d9ddc32f178832cd97d024f0f8882f854"
+		"logo_small"		"7184323d9ddc32f178832cd97d024f0f8882f854_thumb"
+		"icon"		"1110764aac57ac28d7ffd8c43071c75d5482a9c9"
+		"clienticon"		"ccabb5a034c0e3ed54f9ce0e5def91302a492850"
+		"clienttga"		"4cd1f508d5aa6577980f6fb76ea7daaa9e533a59"
+		"clienticns"		"c3b7f831e7c42147c902f5a5580f437d5bfd42b5"
+		"linuxclienticon"		"bdc5f7ec601cbda8d47068c5fcf1e74c44f0673d"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+		}
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1654128000"
+			"tested_build_id"		"8833106"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"market_presence"		"1"
+		"metacritic_name"		"Path of Exile"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"37.12441933899129"
+				"height_pct"		"92.32923368022705"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"37.12441933899129"
+					"height_pct"		"92.32923368022705"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1721339019"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Grinding Gear Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Grinding Gear Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"29"
+			"4"		"3"
+			"5"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_9"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_36"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_42"		"1"
+			"category_28"		"1"
+			"category_38"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1382547600"
+		"metacritic_score"		"86"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/path-of-exile?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"238960"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4604"
+			"2"		"4231"
+			"3"		"1646"
+			"4"		"4236"
+			"5"		"1754"
+			"6"		"3859"
+			"7"		"1720"
+			"8"		"5851"
+			"9"		"4747"
+			"10"		"122"
+			"11"		"6276"
+			"12"		"3843"
+			"13"		"4182"
+			"14"		"19"
+			"15"		"1775"
+			"16"		"1667"
+			"17"		"128"
+			"18"		"1684"
+			"19"		"21"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"Grinding Gear Games"
+		"gamedir"		"ValveTestApp238960"
+		"homepage"		"http://www.pathofexile.com"
+		"icon"		""
+		"isfreeapp"		"1"
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"AllowPurchaseFromRestrictedCountries"		"0"
+		"PurchaseRestrictedCountries"		"CN KR VN TW HK"
+		"disable_shader_precaching"		"1"
+		"disableshaderreporting"		"1"
+		"publisher"		"Grinding Gear Games"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"checkforupdatesbeforelaunch"		"1"
+		"installdir"		"Path of Exile"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PathOfExileSteam.exe"
+				"arguments"		"--nopatch"
+				"description"		"Play Path of Exile"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"PathOfExileClient.app"
+				"arguments"		"--steam"
+				"description"		"Play Path of Exile"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2131679776"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"depotdeltapatches"		"1"
+		"overridescddb"		"1"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"238961"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7266238049038619496"
+					"size"		"47898284911"
+					"download"		"47229325776"
+				}
+				"local"
+				{
+					"gid"		"5835722125312717334"
+					"size"		"4280422222"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B03D1B2AECD74F963BA40AE5FCB07363"
+					"size"		"A8E141584D8247A6C1A85D4626A4E27D"
+					"download"		"FD4B3B819D809FE263C3A2B30959ED8F"
+				}
+			}
+		}
+		"238962"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2842364871436408926"
+					"size"		"96401320"
+					"download"		"29644000"
+				}
+			}
+		}
+		"238963"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1636899617196394532"
+					"size"		"101861868"
+					"download"		"27063408"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16620523"
+				"timeupdated"		"1733348381"
+			}
+			"beta"
+			{
+				"buildid"		"5528345"
+				"pwdrequired"		"1"
+				"timeupdated"		"1599770845"
+			}
+			"local"
+			{
+				"buildid"		"120055"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"25"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/Path of Exile"
+				"pattern"		"*.filter"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}

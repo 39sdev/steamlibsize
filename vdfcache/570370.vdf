@@ -1,0 +1,98 @@
+"570370"
+{
+	"common"
+	{
+		"name"		"Revolution 25th Anniversary Documentary"
+		"type"		"Series"
+		"oslist"		"windows,macos,linux"
+		"releasestate"		"released"
+		"seasons"
+		{
+			"1"
+			{
+				"name"		"#Series_Content"
+				"displayorder"		"1"
+			}
+		}
+		"icon"		"8fbf980d5c1d97ae01afed2d06cfdd7f6ca46fb4"
+		"logo"		"5e8533443b9086e12abfd4bcd47a553ca4071f9e"
+		"logo_small"		"5e8533443b9086e12abfd4bcd47a553ca4071f9e_thumb"
+		"clienticon"		"157c1c332891cb39aed31ddef0a8f5ec9255f5f7"
+		"clienttga"		"4f206b98ddf7b20fdcba6511bb2c6943739e0b02"
+		"app_retired_publisher_request"		"1"
+		"metacritic_name"		"Revolution 25th Anniversary Documentary"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_cde1edc7066a06dd59f8f2cdc800058d028e3749.jpg"
+		"store_asset_mtime"		"1484127073"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Revolution Software Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Revolution Software Ltd"
+			}
+		}
+		"primary_genre"		"0"
+		"genres"
+		{
+			"0"		"81"
+		}
+		"category"
+		{
+			"category_13"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1489177747"
+		"community_hub_visible"		"1"
+		"gameid"		"570370"
+		"store_tags"
+		{
+			"0"		"15339"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Revolution Software Ltd"
+		"publisher"		"Revolution Software Ltd"
+		"homepage"		"https://revolution.co.uk/"
+	}
+}

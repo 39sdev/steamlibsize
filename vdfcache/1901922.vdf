@@ -1,0 +1,139 @@
+"1901922"
+{
+	"common"
+	{
+		"name"		"Golf With Your Friends - Bouncy Castle Course"
+		"type"		"DLC"
+		"parent"		"431240"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienttga"		"0a2786d3d087de8aac6c2bbcc51774b2c4db96e4"
+		"clienticon"		"ddb9ee8cf316e018b3bb4d816e094128556d1f0b"
+		"icon"		"59783797543490f4718605b3f6d24362f2b84820"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_6fcf39657374412de0fbd0c8a492050f957edca6.jpg"
+		"store_asset_mtime"		"1655826225"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Blacklight Interactive"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Team17"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Team17"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"18"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_36"		"1"
+			"category_15"		"1"
+			"category_2"		"1"
+			"category_30"		"1"
+			"category_17"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_18"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1655816358"
+		"gameid"		"1901922"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"701"
+		}
+		"review_score"		"5"
+		"review_percentage"		"51"
+	}
+	"extended"
+	{
+		"dlcforappid"		"431240"
+		"mustownapptopurchase"		"431240"
+		"developer"		"Blacklight Interactive"
+		"publisher"		"Team17"
+		"homepage"		"https://www.team17.com/games/golf-with-your-friends/"
+		"dlcavailableonstore"		"1"
+	}
+}

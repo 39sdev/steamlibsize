@@ -1,0 +1,1125 @@
+"254700"
+{
+	"common"
+	{
+		"name"		"Resident Evil 4 (2005)"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"icon"		"535bfea3332662271f1e3a972832bc0b4aba5a38"
+		"clienttga"		"d78b731469a63d6220802a0bc781670d294a461e"
+		"clienticon"		"28b23882858e646f2180eb0258e0181d4e5ea635"
+		"logo"		"532d72710af44f29cc123c5796e95e0382461ee5"
+		"logo_small"		"532d72710af44f29cc123c5796e95e0382461ee5_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"254700_eula_1"
+				"name"		"Resident Evil 4 (2005) EULA"
+				"url"		"https://store.steampowered.com//eula/254700_eula_1"
+				"version"		"1"
+			}
+		}
+		"name_localized"
+		{
+			"japanese"		"Biohazard 4 (2005)"
+			"koreana"		"Biohazard 4 (2005)"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1730505600"
+			"tested_build_id"		"10112090"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-9.0-3RC"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+				"hdr_support"		"0"
+			}
+		}
+		"metacritic_name"		"Resident Evil 4: Ultimate HD Edition"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja,ko"
+			"library_hero"		"en"
+			"library_logo"		"en,ja,ko"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"21.7209737620354"
+				"height_pct"		"54.067052235074364"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+					"japanese"		"library_600x900_japanese.jpg"
+					"koreana"		"library_600x900_koreana.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+					"japanese"		"library_600x900_japanese_2x.jpg"
+					"koreana"		"library_600x900_koreana_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"21.7209737620354"
+					"height_pct"		"54.067052235074364"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+					"japanese"		"logo_japanese.png"
+					"koreana"		"logo_koreana.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+					"japanese"		"logo_japanese_2x.png"
+					"koreana"		"logo_koreana_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1677549393"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Capcom"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Capcom"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Resident Evil"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_13"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_25"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"german"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1393563600"
+		"metacritic_score"		"79"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/resident-evil-4-ultimate-hd-edition?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"254700"
+		"store_tags"
+		{
+			"0"		"6276"
+			"1"		"3978"
+			"2"		"19"
+			"3"		"1659"
+			"4"		"1667"
+			"5"		"3814"
+			"6"		"4182"
+			"7"		"21"
+			"8"		"1693"
+			"9"		"1697"
+			"10"		"4559"
+			"11"		"4166"
+			"12"		"1662"
+			"13"		"1774"
+			"14"		"4345"
+			"15"		"4711"
+			"16"		"1756"
+			"17"		"5708"
+			"18"		"4026"
+			"19"		"21978"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Capcom"
+		"publisher"		"Capcom"
+		"homepage"		"http://www.residentevil.com"
+		"listofdlc"		"272260,272261"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Resident Evil 4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bin32/bio4.exe"
+				"description"		"Launch"
+				"workingdir"		"BIO4"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"baselanguages"		"english,german,french,italian,spanish,schinese,tchinese"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"254702"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7568911904646837022"
+					"size"		"11890989716"
+					"download"		"9677680320"
+				}
+				"ver"
+				{
+					"gid"		"7293836897684220286"
+					"size"		"11883915350"
+					"download"		"9672810624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"4D7453F13B678691A6F641A110F95F9B"
+					"size"		"99F94BF2A29C7691654B4F8CD4437B25"
+					"download"		"9FC49C3A03223CFBA9B2F4AC72599228"
+				}
+				"beta_test"
+				{
+					"gid"		"E8FDFEB845ABFBD31356FBAA81C70689"
+					"size"		"AD3301686B1BEA5EB3AD296AECDDA181"
+					"download"		"A13FC308692C221B25A35662008DC84F"
+				}
+				"beta_test_v102"
+				{
+					"gid"		"76C34000D692AA859E920EF93AE7A497"
+					"size"		"7EFE464750E0DCC2CD12445789CF1F25"
+					"download"		"CD8223D4A8A78685B4EDEDE530C293EB"
+				}
+				"exa_db"
+				{
+					"gid"		"363BC144420173EE9C8E22632BCD9BE9"
+					"size"		"ABA60E7A9E1CDBBD885499E1767D23E9"
+					"download"		"4691182967F230A5C5E15C97B26D366D"
+				}
+				"exa_ndb"
+				{
+					"gid"		"AEFCBEF9FBAB4C0BA8678B5CB6A47F8D"
+					"size"		"22C51D1BF3076DE4EF19AFCA8AE4A3B8"
+					"download"		"65609594CED7349D8DE5BD922B1D3D3A"
+				}
+				"exa_t"
+				{
+					"gid"		"6B72A5B56E3B7759CEC74F44523D1AE0"
+					"size"		"DF870DBB38623E1D2A2682AA1D255063"
+					"download"		"83BBD9AF1BB7BB26EE70328EB942E802"
+				}
+				"german"
+				{
+					"gid"		"A5324EB4D76EC1E122246D577979A040"
+					"size"		"66CB8089A873E83FF72EF58E478DAFD0"
+					"download"		"8498A7F7C920EB5CAB88626190A613B7"
+				}
+				"german_test"
+				{
+					"gid"		"3138EBAE86F1940BFDF4C74D0111D5B2"
+					"size"		"D61E822C7BA48B81458C6D07370F4F88"
+					"download"		"6E39DF95CD7D632B8EA40EFE65615CFA"
+				}
+				"internal"
+				{
+					"gid"		"EBDDFAF5D7BFA6CFE21696FC833386A8"
+					"size"		"B6B95963FF1FED95FD705F4B2BB8C5C9"
+					"download"		"F2C8A2A5839CA3C223C8DFA0AF8285B2"
+				}
+				"dzhjhsjezw6r"
+				{
+					"gid"		"DB5639DDF76EBFB5573952F118F1C1C5"
+					"size"		"C2EBE369FEC010D257FA2EBCA1225572"
+					"download"		"E8C87C32F5B7D7746D6C277F11BA6DDA"
+				}
+				"hhzj4qhzepsp"
+				{
+					"gid"		"F1FDECA81B5FFB9C1E16333D550C134E"
+					"size"		"24EC2E4B4E5B26869C26EC46D0BF0EFC"
+					"download"		"F29FB1AE0C1B9264834BAF3EABE90C06"
+				}
+				"hj8jb3gy4y5t"
+				{
+					"gid"		"033BD8978FE2AD51957D9C66069AB854"
+					"size"		"90E6A875597CFC343363ADD8181C65F7"
+					"download"		"39DB96D5E66F68D8E65F1334385FAF50"
+				}
+				"hlzpp36dtdyu"
+				{
+					"gid"		"DB6FEC9D248C2F37ECBB34133D1BC530"
+					"size"		"69329279EFCCA503591DE14577BF1794"
+					"download"		"03A32041D1FAA602A064CE893D5B949A"
+				}
+				"ho4wjircgzxz"
+				{
+					"gid"		"6242C39D2A172F66C5BBB526CBCFB7A6"
+					"size"		"14D393862B9D93360336A6524FDBAB80"
+					"download"		"B629F6A8B0BF5D64E0A3C5E207FF2F0D"
+				}
+				"lruf7npdhilt"
+				{
+					"gid"		"2E1556D85CC56E67DE0D9CBD9E03901A"
+					"size"		"E34AFBF142C7C4045C958E6166DC3438"
+					"download"		"6DB765CBA4121474198D3828DF7FFFCC"
+				}
+				"mjcpxju5qqd6"
+				{
+					"gid"		"A376B45C428BD9FCEF206634BCE9A2BE"
+					"size"		"5A2A070C0915BDD90DCC0CB707ED2625"
+					"download"		"BB81C258472A2EE60C19F0BC231CC9A6"
+				}
+				"tfuu6cpezmxd"
+				{
+					"gid"		"0BF11DBF3AD90FDD10646E67631809AE"
+					"size"		"0D74E43EF08AA1DAF4CDBA8FCC36BA5C"
+					"download"		"34B0AA8BD3A4B8386FC76A663DD6B033"
+				}
+			}
+		}
+		"254703"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3343076949474248393"
+					"size"		"11890986652"
+					"download"		"9653005728"
+				}
+				"ver"
+				{
+					"gid"		"5927089437874872221"
+					"size"		"11883913814"
+					"download"		"9648136400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"47B0D8F8911AD0D9C01C1DF5EA874523"
+					"size"		"4A47D27BEA0B7E41CAD1A7AED6E0FC2A"
+					"download"		"9FC49C3A03223CFBA9B2F4AC72599228"
+				}
+				"beta_test"
+				{
+					"gid"		"E766CCF63A725E0D3CC6C767BAB10A32"
+					"size"		"7BD9740D712E222B84911D1B2C2C36A5"
+					"download"		"08D3C3EDC543233E2F017C9A6AC91287"
+				}
+				"beta_test_v102"
+				{
+					"gid"		"D931F9096848586AC6DFFC1459FEBEB2"
+					"size"		"CE13C073D2F6A76D56DCDC79C2099A9A"
+					"download"		"72A937CCFE0633496BEA1EB591F7925B"
+				}
+				"exa_db"
+				{
+					"gid"		"F717204B877BB83A01E9DD5FA53F3A8B"
+					"size"		"DCEBBA3C2B40EFDFCE6957D6E0A1CA1D"
+					"download"		"4691182967F230A5C5E15C97B26D366D"
+				}
+				"exa_ndb"
+				{
+					"gid"		"8DA8DF55A4FA75B1A114EED15174BF02"
+					"size"		"EC6F4A31592BEDA2F70F5B628B0F3232"
+					"download"		"65609594CED7349D8DE5BD922B1D3D3A"
+				}
+				"exa_t"
+				{
+					"gid"		"E21F93224867CABB5AEB19F963A02822"
+					"size"		"D9263180EE480BC18992C5B47B9124BF"
+					"download"		"83BBD9AF1BB7BB26EE70328EB942E802"
+				}
+				"german"
+				{
+					"gid"		"CDC50204B3A56221FAAEFA38D6614DF9"
+					"size"		"677D39925B8D2725373CF847B7035FED"
+					"download"		"8498A7F7C920EB5CAB88626190A613B7"
+				}
+				"german_test"
+				{
+					"gid"		"889E1C7C053BB92F7370391D4C16BD27"
+					"size"		"F8A39A92C2BFA6D55F583D713DC671EE"
+					"download"		"6E39DF95CD7D632B8EA40EFE65615CFA"
+				}
+				"internal"
+				{
+					"gid"		"36B7742E21BA104F5942BD9BA5739995"
+					"size"		"B38203BEA3AD0EB87011050D68C702D3"
+					"download"		"F2C8A2A5839CA3C223C8DFA0AF8285B2"
+				}
+				"dzhjhsjezw6r"
+				{
+					"gid"		"E1F292474E39B08A3C8C857038C8C384"
+					"size"		"D2E918BB74BB9707FAC3E0CD24E864C9"
+					"download"		"5415BC1DB145CE5FE9ED9A80B023CBDF"
+				}
+				"hhzj4qhzepsp"
+				{
+					"gid"		"69E29CD2D63E333ABF3252DFF7374699"
+					"size"		"24EC2E4B4E5B26869C26EC46D0BF0EFC"
+					"download"		"880593AE7709E7FA53900B8ACD5C2E11"
+				}
+				"hj8jb3gy4y5t"
+				{
+					"gid"		"26A516208161A070DCDE1FCB3BBC4A14"
+					"size"		"90E6A875597CFC343363ADD8181C65F7"
+					"download"		"D9EF490E414909C5065FB6E2A1B767C3"
+				}
+				"hlzpp36dtdyu"
+				{
+					"gid"		"FA60D974F886790D5F6E41C25391E061"
+					"size"		"69329279EFCCA503591DE14577BF1794"
+					"download"		"B96FE29BED97C59AEDCE109D9CC40E60"
+				}
+				"ho4wjircgzxz"
+				{
+					"gid"		"415ABE3E06EAD4F40D8325B24D51DE08"
+					"size"		"1D4975A06EB2D629F8C99E4CD1BCB495"
+					"download"		"D4F4997D79C761CDBAB9271D76BABD87"
+				}
+				"lruf7npdhilt"
+				{
+					"gid"		"6119C6D00F2C53762EF0242C39312EDF"
+					"size"		"85B8D933C7FF2DC8F8C1D7C5BDE8B3EE"
+					"download"		"0084B5EE651CF4CC690834BDF575318C"
+				}
+				"mjcpxju5qqd6"
+				{
+					"gid"		"0941A46F050E1B79729E26C52D1B61E8"
+					"size"		"2CBA4BFA501341D82220530B973A497B"
+					"download"		"7983BD5C4057482CD757C68EC6725AAB"
+				}
+				"tfuu6cpezmxd"
+				{
+					"gid"		"861E322D5AFC4D8D8989032DCF694051"
+					"size"		"02BACC79606864DECC134F192A41459B"
+					"download"		"4A211645E0B358564AB9B292BF61F592"
+				}
+			}
+		}
+		"254701"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6999377187357974260"
+					"size"		"11890989716"
+					"download"		"9681127936"
+				}
+				"ver"
+				{
+					"gid"		"322836045299912797"
+					"size"		"11883915350"
+					"download"		"9676258688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DC27299B4987E5F798FF34914442E4F6"
+					"size"		"99F94BF2A29C7691654B4F8CD4437B25"
+					"download"		"9FC49C3A03223CFBA9B2F4AC72599228"
+				}
+				"beta_test"
+				{
+					"gid"		"0A34C71D30068E16CAC43C4F3DC11494"
+					"size"		"AD3301686B1BEA5EB3AD296AECDDA181"
+					"download"		"7C92BE88017A0ECEFE7989AC325488B3"
+				}
+				"beta_test_v102"
+				{
+					"gid"		"3D5CB5D34FC25EE5AFC60A73F54CE80E"
+					"size"		"7EFE464750E0DCC2CD12445789CF1F25"
+					"download"		"870FBA452C5B0464A8887E1E7934B00B"
+				}
+				"exa_db"
+				{
+					"gid"		"87E81F80C9D7827CB82B52D086B95A68"
+					"size"		"ABA60E7A9E1CDBBD885499E1767D23E9"
+					"download"		"4691182967F230A5C5E15C97B26D366D"
+				}
+				"exa_ndb"
+				{
+					"gid"		"D50FAB7492070586DA3A1B6A41EF2447"
+					"size"		"22C51D1BF3076DE4EF19AFCA8AE4A3B8"
+					"download"		"65609594CED7349D8DE5BD922B1D3D3A"
+				}
+				"exa_t"
+				{
+					"gid"		"F97F22DE2ECAD010E5BF41385AB9AB41"
+					"size"		"DF870DBB38623E1D2A2682AA1D255063"
+					"download"		"83BBD9AF1BB7BB26EE70328EB942E802"
+				}
+				"german"
+				{
+					"gid"		"04C82E4FB429625BFC98AC8A5ED31120"
+					"size"		"9386E64D6B6EA45C367E6BF9F1C9A4AF"
+					"download"		"8498A7F7C920EB5CAB88626190A613B7"
+				}
+				"german_test"
+				{
+					"gid"		"FCE1B673EF1E29B55972C6C010774D93"
+					"size"		"FEA63F2735E8F23AC468CAA88A94429E"
+					"download"		"6E39DF95CD7D632B8EA40EFE65615CFA"
+				}
+				"internal"
+				{
+					"gid"		"A2EBED5353161791E550A212A157BD7E"
+					"size"		"B6B95963FF1FED95FD705F4B2BB8C5C9"
+					"download"		"F2C8A2A5839CA3C223C8DFA0AF8285B2"
+				}
+				"dzhjhsjezw6r"
+				{
+					"gid"		"BB931335D0DD269F51B7977A549A7BCF"
+					"size"		"C2EBE369FEC010D257FA2EBCA1225572"
+					"download"		"189E6B71426ECBDEAC2DCD9493CD4116"
+				}
+				"hhzj4qhzepsp"
+				{
+					"gid"		"EE39A8B2D78CA5DAEAB12FB1339E69B4"
+					"size"		"24EC2E4B4E5B26869C26EC46D0BF0EFC"
+					"download"		"DCBABA2C6959D7B27EDC76A08B1D9D0B"
+				}
+				"hj8jb3gy4y5t"
+				{
+					"gid"		"D8B80FBE6CF6E648A05AE5BF2614ECF0"
+					"size"		"90E6A875597CFC343363ADD8181C65F7"
+					"download"		"1F0A97850E942B22CD541887A73D0CC4"
+				}
+				"hlzpp36dtdyu"
+				{
+					"gid"		"81E6B84F86553B086360042BCF6E7B4B"
+					"size"		"69329279EFCCA503591DE14577BF1794"
+					"download"		"0188AD279505E9D296B0FD90A88209BD"
+				}
+				"ho4wjircgzxz"
+				{
+					"gid"		"FB0D5FAB5813736A66D33BEED5839EED"
+					"size"		"14D393862B9D93360336A6524FDBAB80"
+					"download"		"F9DF777C69C50A90602FB82322027D87"
+				}
+				"lruf7npdhilt"
+				{
+					"gid"		"AAC07E6462A8CA8452B31AEE93D5C07F"
+					"size"		"E34AFBF142C7C4045C958E6166DC3438"
+					"download"		"B3A4730CB8CE485837E2FF46688D9623"
+				}
+				"mjcpxju5qqd6"
+				{
+					"gid"		"0CFAE53BE3CB687932639C70800F3A83"
+					"size"		"5A2A070C0915BDD90DCC0CB707ED2625"
+					"download"		"DD505989EFD6031CF886E46DB49B08E2"
+				}
+				"tfuu6cpezmxd"
+				{
+					"gid"		"91ED77325BBE2D98492D927E257151E8"
+					"size"		"0D74E43EF08AA1DAF4CDBA8FCC36BA5C"
+					"download"		"4442615E248DC575523EDACA83CF421E"
+				}
+			}
+		}
+		"272261"
+		{
+			"dlcappid"		"272261"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4849919482799769104"
+					"size"		"285207900"
+					"download"		"0"
+				}
+				"ver"
+				{
+					"gid"		"4849919482799769104"
+					"size"		"285207900"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_test"
+				{
+					"gid"		"C51EC9166CFC052A55E509239A05F640"
+					"size"		"060A593958A75E9F4B8364F75C0F28A7"
+					"download"		"9E713912EE69FD36E0FCE11F87467B10"
+				}
+				"beta_test_v102"
+				{
+					"gid"		"D10A5D5DACA174F941941B1EDD06C1CA"
+					"size"		"1E61FA788DF3065F53D7CF59BC89DC0D"
+					"download"		"4D1BFD13CEA12F34B054CBE74CED8CF8"
+				}
+				"exa_db"
+				{
+					"gid"		"EDA978D6E11FD49C69347CAE9222FD2D"
+					"size"		"A01ADFC0D14915B7D57605A4C73DFE35"
+					"download"		"4691182967F230A5C5E15C97B26D366D"
+				}
+				"exa_ndb"
+				{
+					"gid"		"C6406489A81961C7B3FDCE64912505D8"
+					"size"		"52EA7FE28BFF83DFB3D331215BF10295"
+					"download"		"65609594CED7349D8DE5BD922B1D3D3A"
+				}
+				"exa_t"
+				{
+					"gid"		"3B05D440BD1B89CDCF9466A06A5D2697"
+					"size"		"96254FC9C9AEFF57B02098288F0DAF5D"
+					"download"		"83BBD9AF1BB7BB26EE70328EB942E802"
+				}
+				"german"
+				{
+					"gid"		"72D17599C687389B1CB1E442B544C344"
+					"size"		"92822750A646FD61612BE777E1A7FC9F"
+					"download"		"8498A7F7C920EB5CAB88626190A613B7"
+				}
+				"german_test"
+				{
+					"gid"		"0AE851A8BDD3D6E24C051C98EA18A5E7"
+					"size"		"0EFFD65400970DC82E8DE4792EF4CA0F"
+					"download"		"6E39DF95CD7D632B8EA40EFE65615CFA"
+				}
+				"dzhjhsjezw6r"
+				{
+					"gid"		"75D628CFFB22339ADA8F8028AF427605"
+					"size"		"C0324107697C354D16C9F8780B4264C2"
+					"download"		"586B791AADE5C0DB4302BC2491DB268B"
+				}
+				"hhzj4qhzepsp"
+				{
+					"gid"		"CD21BC4822B1D003CD0A1F199072E928"
+					"size"		"384B0D8120324CE3CB2AE85526DE1904"
+					"download"		"030900A9F92687EFB8DD02DD9B54A3DC"
+				}
+				"hj8jb3gy4y5t"
+				{
+					"gid"		"035B702493478EAC8AAF392F925668F8"
+					"size"		"5FC93CBF0C4F9605A62460B9745A73BB"
+					"download"		"160BDF075B8722C4EB5E26AD7CC57290"
+				}
+				"hlzpp36dtdyu"
+				{
+					"gid"		"932C54B4FA701488485511E6ECF74481"
+					"size"		"53EB22CB8ABA31EBF487B913115A8C8A"
+					"download"		"7DE11E8DF14C0F7F82E0A0ED6889FE04"
+				}
+				"ho4wjircgzxz"
+				{
+					"gid"		"EA6DD80F38BBD30A084F66FC25969DFE"
+					"size"		"93CF818E4ED42CC94734C905E2114BE6"
+					"download"		"78486CB646F570278C5C3CDA86E88C00"
+				}
+				"lruf7npdhilt"
+				{
+					"gid"		"71F6DB274882D75CEA27FAFAEB467756"
+					"size"		"B5A62DB554550D352CDE6237EF631B74"
+					"download"		"CDA1A26E2B736B2E95FAA517EC288F9C"
+				}
+				"mjcpxju5qqd6"
+				{
+					"gid"		"BFFB8D8A0CF416F6A9C1BF6EC3AD0272"
+					"size"		"57F2A66D4E614ACD1912DB25666348D0"
+					"download"		"2A585400FC844677D26F30B4F4417DA1"
+				}
+				"tfuu6cpezmxd"
+				{
+					"gid"		"DC5BC69195BF98475A631A14F3408A9C"
+					"size"		"DFA6B864A17C40C36C486B0508D4E460"
+					"download"		"3F99F21AEA0CDFD2FBE8B04DB850B32B"
+				}
+			}
+		}
+		"272260"
+		{
+			"dlcappid"		"272260"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8170509752846139490"
+					"size"		"334315892"
+					"download"		"0"
+				}
+				"ver"
+				{
+					"gid"		"8170509752846139490"
+					"size"		"334315892"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_test"
+				{
+					"gid"		"10C3AB4ED7645003CBD1B10A09B874C4"
+					"size"		"7F9984203168B024EF498D0E45D86A70"
+					"download"		"9E713912EE69FD36E0FCE11F87467B10"
+				}
+				"beta_test_v102"
+				{
+					"gid"		"332011173BE7643CDE1360E62C504826"
+					"size"		"456B08A69296A0A98988B5B86C395187"
+					"download"		"4D1BFD13CEA12F34B054CBE74CED8CF8"
+				}
+				"exa_db"
+				{
+					"gid"		"93F583BD494BEFBF784F175A79B58F2E"
+					"size"		"2896A28C8C6D3B9CCA51902618DB9DB1"
+					"download"		"4691182967F230A5C5E15C97B26D366D"
+				}
+				"exa_ndb"
+				{
+					"gid"		"AD43B43D35D60BCDDA2BA73C4099F6BA"
+					"size"		"2F5AA5A53A56A4BAAD7BB724F73AB8AE"
+					"download"		"65609594CED7349D8DE5BD922B1D3D3A"
+				}
+				"exa_t"
+				{
+					"gid"		"D3184BA97057904B0466A30AEBAFF129"
+					"size"		"9E426C86E751274235C0E2FC4F515C66"
+					"download"		"83BBD9AF1BB7BB26EE70328EB942E802"
+				}
+				"german"
+				{
+					"gid"		"DB89FD9760AFBC1E38AB38C3EB969273"
+					"size"		"4F6FC65C3AFB2ACF45C8484F8F29EF8C"
+					"download"		"8498A7F7C920EB5CAB88626190A613B7"
+				}
+				"german_test"
+				{
+					"gid"		"1BD96AE94B0D814FFBE48B377D3994D2"
+					"size"		"B25661AF9BFAB899291AA405610FE610"
+					"download"		"6E39DF95CD7D632B8EA40EFE65615CFA"
+				}
+				"dzhjhsjezw6r"
+				{
+					"gid"		"92C4E6E47542DE997BAF8FF757565895"
+					"size"		"EFAB43DD9D62C1EC7FE4C7D6DF8979B1"
+					"download"		"586B791AADE5C0DB4302BC2491DB268B"
+				}
+				"hhzj4qhzepsp"
+				{
+					"gid"		"932ED897FF2E807F65FBF55D681E6F71"
+					"size"		"E45FFD4A97FDDA6A490B65E6EE2175B9"
+					"download"		"030900A9F92687EFB8DD02DD9B54A3DC"
+				}
+				"hj8jb3gy4y5t"
+				{
+					"gid"		"7BA67FA8ECF062ED02684E0B0B473A07"
+					"size"		"40680457325C7320C346321B27BA50E8"
+					"download"		"160BDF075B8722C4EB5E26AD7CC57290"
+				}
+				"hlzpp36dtdyu"
+				{
+					"gid"		"31C3F39EFA2E0492F0E8061358720022"
+					"size"		"6528E00A50B7726D533DFAF35C655586"
+					"download"		"7DE11E8DF14C0F7F82E0A0ED6889FE04"
+				}
+				"ho4wjircgzxz"
+				{
+					"gid"		"7E1444A9B5CEA32EAC0316506B7E567B"
+					"size"		"A89ACF7CBB5A2653E4CB0919EC1E70E6"
+					"download"		"78486CB646F570278C5C3CDA86E88C00"
+				}
+				"lruf7npdhilt"
+				{
+					"gid"		"2BFC324118E000247F39F2DA0837E66D"
+					"size"		"4AD268C50F91F5BAA87DF973AF9F9F07"
+					"download"		"CDA1A26E2B736B2E95FAA517EC288F9C"
+				}
+				"mjcpxju5qqd6"
+				{
+					"gid"		"D552D85CC7C148DC8F277D3D8FDA93E2"
+					"size"		"ACC1C050A66A3AD5BEBEBB7BF60CD647"
+					"download"		"2A585400FC844677D26F30B4F4417DA1"
+				}
+				"tfuu6cpezmxd"
+				{
+					"gid"		"5B2670CA9B7539FD49C02413CFAEAF64"
+					"size"		"31CD7965A11E3203E3A136D53D5CC046"
+					"download"		"3F99F21AEA0CDFD2FBE8B04DB850B32B"
+				}
+			}
+		}
+		"254704"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7927591321049438693"
+					"size"		"13905876112"
+					"download"		"9677402592"
+				}
+				"ver"
+				{
+					"gid"		"2404253433725521524"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_test"
+				{
+					"gid"		"A5A6B4A0F0DDD5353B7A3C7440BEEF47"
+					"size"		"517085DB8F104F28C2C8F576CF865174"
+					"download"		"9C082F4BFD2D98AB364C7BEDAEB7BD83"
+				}
+				"beta_test_v102"
+				{
+					"gid"		"9E5310C9209781D8E99FA044F761A018"
+					"size"		"4D1BFD13CEA12F34B054CBE74CED8CF8"
+					"download"		"4D1BFD13CEA12F34B054CBE74CED8CF8"
+				}
+				"exa_db"
+				{
+					"gid"		"F1068FA25BF88F5B4F5FD3D62D6AEC33"
+					"size"		"7AF1BB0F96D8A4D5E5C602EE871E56CF"
+					"download"		"7E999172EEB8E21C82E63FDE62916C70"
+				}
+				"exa_ndb"
+				{
+					"gid"		"D8A72829835CD629F75CD4870DBA7E2C"
+					"size"		"B02884821AD0417275B55A134A3DE74C"
+					"download"		"77DE731C7C5AC76FDF5C1F99AD6A0C71"
+				}
+				"exa_t"
+				{
+					"gid"		"CD0DF8E341AC543DEA589C3A99164A91"
+					"size"		"0E40EBA924823CD7AD261A27C736FD07"
+					"download"		"F2C5F639AF462F303F27AC6C300F27A6"
+				}
+				"dzhjhsjezw6r"
+				{
+					"gid"		"669A74CD4C958F7317F405E34B5F4E95"
+					"size"		"0A46D4E68EB8850D9468ECB8823DDFB8"
+					"download"		"BD08C11B6E4BBCF8F33F635595277258"
+				}
+				"hhzj4qhzepsp"
+				{
+					"gid"		"197612057DC3B4F15F723A833ADD1CBF"
+					"size"		"2DEDA72CC111347FB3E784942BC9293F"
+					"download"		"5EF4339D0BF2B86D235C2DE8648E17D0"
+				}
+				"hj8jb3gy4y5t"
+				{
+					"gid"		"43797B228E69E79736BB2146E55A8BE0"
+					"size"		"160BDF075B8722C4EB5E26AD7CC57290"
+					"download"		"160BDF075B8722C4EB5E26AD7CC57290"
+				}
+				"hlzpp36dtdyu"
+				{
+					"gid"		"466091777EA19B963528E2C7F32E680A"
+					"size"		"8A76175C1A82B2A3CF036756F9CC2063"
+					"download"		"10B8E82CF24354C3485AF08FB573CF4E"
+				}
+				"ho4wjircgzxz"
+				{
+					"gid"		"C46D0B378C785FFF502253D80111CA90"
+					"size"		"78486CB646F570278C5C3CDA86E88C00"
+					"download"		"78486CB646F570278C5C3CDA86E88C00"
+				}
+				"lruf7npdhilt"
+				{
+					"gid"		"A1E06B2AC86595CB42AA48520AFA4FB0"
+					"size"		"CDA1A26E2B736B2E95FAA517EC288F9C"
+					"download"		"CDA1A26E2B736B2E95FAA517EC288F9C"
+				}
+				"mjcpxju5qqd6"
+				{
+					"gid"		"4D8969CDF3E10A1C8BC6A306E83013D9"
+					"size"		"2A585400FC844677D26F30B4F4417DA1"
+					"download"		"2A585400FC844677D26F30B4F4417DA1"
+				}
+				"tfuu6cpezmxd"
+				{
+					"gid"		"280D74420734DBDBF2E9CFAB68E5EB8D"
+					"size"		"22663B2CD9A77779894E87380CA2A21E"
+					"download"		"8AEF439C086E7982DEDCCBC3F7062E79"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10112090"
+				"timeupdated"		"1677548391"
+			}
+			"beta"
+			{
+				"buildid"		"238809"
+				"pwdrequired"		"1"
+			}
+			"beta_test"
+			{
+				"buildid"		"10112090"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670569160"
+			}
+			"beta_test_v102"
+			{
+				"buildid"		"10134530"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670909833"
+			}
+			"exa_db"
+			{
+				"buildid"		"2450900"
+				"pwdrequired"		"1"
+				"timeupdated"		"1516588638"
+			}
+			"exa_ndb"
+			{
+				"buildid"		"2456543"
+				"pwdrequired"		"1"
+				"timeupdated"		"1516588855"
+			}
+			"exa_t"
+			{
+				"buildid"		"2450900"
+				"pwdrequired"		"1"
+				"timeupdated"		"1516350754"
+			}
+			"german"
+			{
+				"buildid"		"1117986"
+				"pwdrequired"		"1"
+				"timeupdated"		"1462831631"
+			}
+			"german_test"
+			{
+				"buildid"		"1118000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1462832006"
+			}
+			"internal"
+			{
+				"buildid"		"238809"
+				"pwdrequired"		"1"
+			}
+			"ver"
+			{
+				"buildid"		"10134530"
+				"description"		"1.0.2"
+				"timeupdated"		"1677548508"
+			}
+			"dzhjhsjezw6r"
+			{
+				"buildid"		"15726582"
+				"pwdrequired"		"1"
+				"timeupdated"		"1726563997"
+			}
+			"hhzj4qhzepsp"
+			{
+				"buildid"		"15818551"
+				"pwdrequired"		"1"
+				"timeupdated"		"1727247498"
+			}
+			"hj8jb3gy4y5t"
+			{
+				"buildid"		"15818653"
+				"pwdrequired"		"1"
+				"timeupdated"		"1727248053"
+			}
+			"hlzpp36dtdyu"
+			{
+				"buildid"		"16248568"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730362992"
+			}
+			"ho4wjircgzxz"
+			{
+				"buildid"		"15818729"
+				"pwdrequired"		"1"
+				"timeupdated"		"1727248414"
+			}
+			"lruf7npdhilt"
+			{
+				"buildid"		"15726995"
+				"pwdrequired"		"1"
+				"timeupdated"		"1726565993"
+			}
+			"mjcpxju5qqd6"
+			{
+				"buildid"		"15727074"
+				"pwdrequired"		"1"
+				"timeupdated"		"1726566415"
+			}
+			"tfuu6cpezmxd"
+			{
+				"buildid"		"16262022"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730448129"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"3"
+	}
+}

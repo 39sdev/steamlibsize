@@ -1,0 +1,92 @@
+"238450"
+{
+	"common"
+	{
+		"name"		"Sword of the Stars: The Pit - Mind Games"
+		"type"		"DLC"
+		"parent"		"233700"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"icon"		"0dd9b49a1c76afecae1c90ff2daa1fea109b99e6"
+		"logo"		"b2718a1aefbee654c0d8e99ee5341164402b344e"
+		"logo_small"		"b2718a1aefbee654c0d8e99ee5341164402b344e_thumb"
+		"osarch"		""
+		"metacritic_name"		"Sword of the Stars: The Pit - Mind Games"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_9dc83e7b102df043e2edacff33acb9702ca8a791.jpg"
+		"store_asset_mtime"		"1458610813"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kerberos Productions Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kerberos Productions Inc."
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+		}
+		"metacritic_score"		"69"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/sword-of-the-stars-the-pit---mind-games?ftag=MCD-06-10aaa1f"
+		"gameid"		"238450"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"122"
+			"2"		"492"
+			"3"		"597"
+			"4"		"1716"
+		}
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"Kerberos Productions Inc."
+		"dlcforappid"		"233700"
+		"gamedir"		"ValveTestApp238450"
+		"homepage"		"http://sots-thepit.com/"
+		"icon"		""
+		"mustownapptopurchase"		"233700"
+		"noservers"		"0"
+		"primarycache"		"7"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Kerberos Productions Inc."
+		"gamemanualurl"		"https://store.steampowered.com/manual/238450/"
+		"dlcavailableonstore"		"1"
+	}
+}

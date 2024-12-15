@@ -1,0 +1,431 @@
+"8500"
+{
+	"common"
+	{
+		"clienticon"		"1bb5c9ef7a88d755abe129a84dd1b8790bd101ea"
+		"clienttga"		"08fb7b103234d39b9823644b26355c6eddae2172"
+		"name"		"EVE Online"
+		"icon"		"884d8c6482487e74b18ceef872ee9543a1c5828d"
+		"logo"		"06cf17c29681c151f4b1df51bb47afee8e354444"
+		"logo_small"		"06cf17c29681c151f4b1df51bb47afee8e354444_thumb"
+		"metacritic_url"		"pc/eveonlineapocrypha"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"8500_eula_0"
+				"name"		"EVE Online EULA"
+				"url"		"https://store.steampowered.com//eula/8500_eula_0"
+				"version"		"1"
+			}
+		}
+		"name_localized"
+		{
+			"koreana"		"이브 온라인"
+		}
+		"type"		"game"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1708041600"
+			"tested_build_id"		"13385886"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
+		"metacritic_name"		"EVE Online: Special Edition"
+		"small_capsule"
+		{
+			"english"		"8cef46cad600556723fa975f6457fd6117cf8245/capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"german"		"header_german.jpg"
+			"french"		"header_french.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"russian"		"header_russian.jpg"
+			"spanish"		"header_spanish.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_hero_blur"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"16.828179470960563"
+				"height_pct"		"28.530751776541976"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"28aa78d06d8bd9a0bf8dbfa098f06d2f174edd5a/library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"28aa78d06d8bd9a0bf8dbfa098f06d2f174edd5a/library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"4879d4bf68dc4fa89b07f9784b3f52434ff210e9/library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"4879d4bf68dc4fa89b07f9784b3f52434ff210e9/library_hero_2x.jpg"
+				}
+			}
+			"library_hero_blur"
+			{
+				"image"
+				{
+					"english"		"4879d4bf68dc4fa89b07f9784b3f52434ff210e9/library_hero_blur.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"16.828179470960563"
+					"height_pct"		"28.530751776541976"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1731510069"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CCP"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CCP"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"29"
+			"2"		"3"
+			"3"		"2"
+			"4"		"37"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_29"		"1"
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_38"		"1"
+			"category_9"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1052204400"
+		"steam_release_date"		"1292467920"
+		"metacritic_score"		"88"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/eve-online-special-edition?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"8500"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"1755"
+			"1"		"113"
+			"2"		"1695"
+			"3"		"128"
+			"4"		"122"
+			"5"		"3859"
+			"6"		"3942"
+			"7"		"4695"
+			"8"		"3810"
+			"9"		"1775"
+			"10"		"9"
+			"11"		"19"
+			"12"		"4747"
+			"13"		"1754"
+			"14"		"4291"
+			"15"		"3834"
+			"16"		"1678"
+			"17"		"6730"
+			"18"		"4754"
+			"19"		"3854"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"CCP"
+		"gamedir"		"Eve Online"
+		"homepage"		"http://www.eveonline.com"
+		"icon"		"steam/games/icon_EVE Online"
+		"inhibitautoversionroll"		"1"
+		"installscriptosx"		"EVE Online.app/installscript_osx.vdf"
+		"installscript_macos"		"EVE Online.app/installscript_osx.vdf"
+		"noservers"		"1"
+		"order"		"1"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"validoslist"		"macos,windows"
+		"visibleonlywhensubscribed"		"1"
+		"developer_url"		"http://www.ccpgames.com"
+		"publisher"		"CCP"
+		"isfreeapp"		"1"
+		"listofdlc"		"235883,235884,320550,320551,320552,320553,320554,320555,323110,369320,369321,369322,369324,369325,629790,629791,629792,629793,629794,629795,629796,659290,695740,695741,695742,695743,743620,748100,748101,748102,766710,766711,766712,1063450,1088740,1125050,1155450,1190010,1190011,1190012,1190013,1222280,1230480,1230481,1230482,1230483,1308110,1345930,1396360,1427220,1427221,1465270,1465271,1465272,1537550,1610800,1610801,1676120,1759020,1759021,1759022,1759170,1792090,1832020"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Eve Online"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Launcher\\evelauncher.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"EVE Online.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"noupdatesafterinstall"		"1"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8782296191957114623"
+					"size"		"29759921"
+					"download"		"23045488"
+				}
+			}
+			"depotfromapp"		"228980"
+		}
+		"8503"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"677277794837890079"
+					"size"		"559319162"
+					"download"		"210746896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"60CA7A99EBEE167C3DBD7E53ABB6FE4A"
+					"size"		"BDB71AB8837C2A3F67E3B65CC63EDF0C"
+					"download"		"F15B01C0D259552B7BFDA39B571189EA"
+				}
+				"development"
+				{
+					"gid"		"2ADA5C55B1F9850D4C6C621BB0683758"
+					"size"		"5C08CC67A92E202754D5AB1C70FF23C1"
+					"download"		"755E77CD22BD8F23C5F387B20EF7031E"
+				}
+			}
+		}
+		"8501"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2514044245081174579"
+					"size"		"369246908"
+					"download"		"154763392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"9A08129CFA60B1AA5C1B89779F000961"
+					"size"		"E08FA135979A20096B0FC445556BE10F"
+					"download"		"ADEF68C73FBC2F5CBDA27840DDDBE5EE"
+				}
+				"development"
+				{
+					"gid"		"17B658A1B5F1A6443B83B8A3D82F3DB9"
+					"size"		"AB38429AA0F1DB506088DE7DAD41554D"
+					"download"		"B1E9155BE17BBBE15AC4187392587160"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16657747"
+				"timeupdated"		"1733495582"
+			}
+			"beta"
+			{
+				"buildid"		"16657747"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733495610"
+			}
+			"development"
+			{
+				"buildid"		"16657747"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733495601"
+			}
+		}
+	}
+}

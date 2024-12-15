@@ -1,0 +1,184 @@
+"446770"
+{
+	"common"
+	{
+		"name"		"Skeet: VR Target Shooting"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+			"seated"		"1"
+		}
+		"oslist"		"windows"
+		"logo"		"158d61748a44f148415441e59565d6c576ceb1f4"
+		"logo_small"		"158d61748a44f148415441e59565d6c576ceb1f4_thumb"
+		"icon"		"9646832e5ff8b33c38a14e855cdf1bd351c66386"
+		"clienticon"		"06fe84c88916e7e3a2fcb1d7668c094c65cf46d3"
+		"clienttga"		"7b034c3318ef8e79c24dbbbe4011fba187ecac4e"
+		"ReleaseState"		"released"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"restricted_countries"		"DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1662595200"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Skeet: VR Target Shooting"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_2ea10ba868c9561cf8dcb0c05c413f401b7f7175.jpg"
+		"store_asset_mtime"		"1459005853"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Flatbox Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Flatbox Studios LLC"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_29"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1459856880"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"446770"
+		"exfgls"		"3"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"599"
+			"2"		"21978"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"Flatbox Studios"
+		"publisher"		"Flatbox Studios LLC"
+		"isfreeapp"		"1"
+		"listofdlc"		"567420,567421,567422"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Skeet VR Target Shooting"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Skeet.exe"
+				"arguments"		"-OpenVR"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Skeet.exe"
+				"arguments"		"-Oculus"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"446771"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8911305774377720509"
+					"size"		"457834253"
+					"download"		"179499648"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2223892"
+				"timeupdated"		"1508809969"
+			}
+		}
+	}
+}

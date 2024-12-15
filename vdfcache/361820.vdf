@@ -1,0 +1,105 @@
+"361820"
+{
+	"common"
+	{
+		"name"		"Car Mechanic Simulator 2015 - Youngtimer"
+		"type"		"DLC"
+		"parent"		"320300"
+		"releasestate"		"released"
+		"logo"		"defd5cd3a177355d95d737391b1724c1eececb8b"
+		"logo_small"		"defd5cd3a177355d95d737391b1724c1eececb8b_thumb"
+		"icon"		"643af62a4b74134b28f3f639ad80d4e1f6a09db4"
+		"oslist"		"windows,macos"
+		"metacritic_name"		"Car Mechanic Simulator 2015 - Youngtimer"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_83a422018666e3f0023f9367c4979bca4d9ab893.jpg"
+		"store_asset_mtime"		"1430454635"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Red Dot Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"9"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1430611560"
+		"gameid"		"361820"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"699"
+			"2"		"3839"
+			"3"		"4182"
+			"4"		"4166"
+			"5"		"4175"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"dlcforappid"		"320300"
+		"mustownapptopurchase"		"320300"
+		"developer"		"Red Dot Games"
+		"publisher"		"PlayWay S.A."
+		"dlcavailableonstore"		"1"
+	}
+}

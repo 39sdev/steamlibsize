@@ -1,0 +1,477 @@
+"366420"
+{
+	"common"
+	{
+		"name"		"UBERMOSH: Original Soundtrack"
+		"type"		"DLC"
+		"parent"		"357070"
+		"releasestate"		"released"
+		"logo"		"cbf7d631b82b16ed5f7c7dfbe8aee205a3aafe6b"
+		"logo_small"		"cbf7d631b82b16ed5f7c7dfbe8aee205a3aafe6b_thumb"
+		"icon"		"35ceefb6c2076d4eba81f052afcfedc530dca6b4"
+		"oslist"		"windows,linux"
+		"metacritic_name"		"UBERMOSH: Original Soundtrack"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_8ed64d7943e0970ab2fc114a9b2c8a179ec7d034.jpg"
+		"store_asset_mtime"		"1509932710"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Walter Machado"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"afrikaans"
+			{
+				"supported"		"true"
+			}
+			"albanian"
+			{
+				"supported"		"true"
+			}
+			"amharic"
+			{
+				"supported"		"true"
+			}
+			"armenian"
+			{
+				"supported"		"true"
+			}
+			"assamese"
+			{
+				"supported"		"true"
+			}
+			"azerbaijani"
+			{
+				"supported"		"true"
+			}
+			"basque"
+			{
+				"supported"		"true"
+			}
+			"bangla"
+			{
+				"supported"		"true"
+			}
+			"belarusian"
+			{
+				"supported"		"true"
+			}
+			"bosnian"
+			{
+				"supported"		"true"
+			}
+			"kannada"
+			{
+				"supported"		"true"
+			}
+			"catalan"
+			{
+				"supported"		"true"
+			}
+			"kazakh"
+			{
+				"supported"		"true"
+			}
+			"cherokee"
+			{
+				"supported"		"true"
+			}
+			"sinhala"
+			{
+				"supported"		"true"
+			}
+			"konkani"
+			{
+				"supported"		"true"
+			}
+			"croatian"
+			{
+				"supported"		"true"
+			}
+			"dari"
+			{
+				"supported"		"true"
+			}
+			"slovak"
+			{
+				"supported"		"true"
+			}
+			"slovenian"
+			{
+				"supported"		"true"
+			}
+			"estonian"
+			{
+				"supported"		"true"
+			}
+			"filipino"
+			{
+				"supported"		"true"
+			}
+			"galician"
+			{
+				"supported"		"true"
+			}
+			"welsh"
+			{
+				"supported"		"true"
+			}
+			"georgian"
+			{
+				"supported"		"true"
+			}
+			"gujarati"
+			{
+				"supported"		"true"
+			}
+			"hausa"
+			{
+				"supported"		"true"
+			}
+			"hebrew"
+			{
+				"supported"		"true"
+			}
+			"hindi"
+			{
+				"supported"		"true"
+			}
+			"igbo"
+			{
+				"supported"		"true"
+			}
+			"yoruba"
+			{
+				"supported"		"true"
+			}
+			"irish"
+			{
+				"supported"		"true"
+			}
+			"icelandic"
+			{
+				"supported"		"true"
+			}
+			"khmer"
+			{
+				"supported"		"true"
+			}
+			"latvian"
+			{
+				"supported"		"true"
+			}
+			"lithuanian"
+			{
+				"supported"		"true"
+			}
+			"luxembourgish"
+			{
+				"supported"		"true"
+			}
+			"macedonian"
+			{
+				"supported"		"true"
+			}
+			"malayalam"
+			{
+				"supported"		"true"
+			}
+			"malay"
+			{
+				"supported"		"true"
+			}
+			"maltese"
+			{
+				"supported"		"true"
+			}
+			"maori"
+			{
+				"supported"		"true"
+			}
+			"marathi"
+			{
+				"supported"		"true"
+			}
+			"mongolian"
+			{
+				"supported"		"true"
+			}
+			"nepali"
+			{
+				"supported"		"true"
+			}
+			"odia"
+			{
+				"supported"		"true"
+			}
+			"gurmukhi"
+			{
+				"supported"		"true"
+			}
+			"shahmukhi"
+			{
+				"supported"		"true"
+			}
+			"persian"
+			{
+				"supported"		"true"
+			}
+			"kiche"
+			{
+				"supported"		"true"
+			}
+			"kinyarwanda"
+			{
+				"supported"		"true"
+			}
+			"kyrgyz"
+			{
+				"supported"		"true"
+			}
+			"quechua"
+			{
+				"supported"		"true"
+			}
+			"sotho"
+			{
+				"supported"		"true"
+			}
+			"sindhi"
+			{
+				"supported"		"true"
+			}
+			"sorani"
+			{
+				"supported"		"true"
+			}
+			"swahili"
+			{
+				"supported"		"true"
+			}
+			"serbian"
+			{
+				"supported"		"true"
+			}
+			"tajik"
+			{
+				"supported"		"true"
+			}
+			"tigrinya"
+			{
+				"supported"		"true"
+			}
+			"tswana"
+			{
+				"supported"		"true"
+			}
+			"turkmen"
+			{
+				"supported"		"true"
+			}
+			"tatar"
+			{
+				"supported"		"true"
+			}
+			"tamil"
+			{
+				"supported"		"true"
+			}
+			"telugu"
+			{
+				"supported"		"true"
+			}
+			"uyghur"
+			{
+				"supported"		"true"
+			}
+			"wolof"
+			{
+				"supported"		"true"
+			}
+			"urdu"
+			{
+				"supported"		"true"
+			}
+			"uzbek"
+			{
+				"supported"		"true"
+			}
+			"valencian"
+			{
+				"supported"		"true"
+			}
+			"xhosa"
+			{
+				"supported"		"true"
+			}
+			"zulu"
+			{
+				"supported"		"true"
+			}
+			"scots"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1429818841"
+		"gameid"		"366420"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"1756"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"dlcforappid"		"357070"
+		"mustownapptopurchase"		"357070"
+		"developer"		"Walter Machado"
+		"homepage"		"http://www.ubermosh.com"
+		"dlcavailableonstore"		"1"
+	}
+}

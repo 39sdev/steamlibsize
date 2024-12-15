@@ -1,0 +1,442 @@
+"235980"
+{
+	"common"
+	{
+		"name"		"Tetrobot and Co."
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"b897da73713d37ef6c80797cdfa4c2f3b2638b41"
+		"logo_small"		"b897da73713d37ef6c80797cdfa4c2f3b2638b41_thumb"
+		"icon"		"caaeccda0ef1675e1ba851bb2bbf442eccbdc360"
+		"clienttga"		"253fdcfdb55129015d93d6fbc37e3922dcbf3ac7"
+		"clienticon"		"ebf191dc03be840707fa1634b316f6163543f3a1"
+		"clienticns"		"a8432991faf127a0a64c8221e63475869f67ddd8"
+		"linuxclienticon"		"7a52e6979d633e11776eb6e47c025ddc742a512a"
+		"requireskbmouse"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1668556800"
+			"tested_build_id"		"197487"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Tetrobot and Co."
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomCenter"
+					"width_pct"		"50"
+					"height_pct"		"50"
+				}
+			}
+		}
+		"store_asset_mtime"		"1666984135"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Swing Swing Submarine"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Swing Swing Submarine"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_28"		"1"
+			"category_43"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+			}
+			"french"
+			{
+				"supported"		"1"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1381856580"
+		"metacritic_score"		"72"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/tetrobot-and-co?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"235980"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"492"
+			"2"		"597"
+			"3"		"5752"
+			"4"		"4026"
+			"5"		"5537"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"Swing Swing Submarine"
+		"gamedir"		"ValveTestApp235980"
+		"homepage"		"http://www.swingswingsubmarine.com"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Swing Swing Submarine"
+		"listofdlc"		"258470"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Tetrobot and Co"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tetrobot and Co.exe"
+				"description"		"Default Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Tetrobot and Co.app"
+				"description"		"Default Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Tetrobot and Co.x86"
+				"description"		"Default Launch"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"235981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3186665734237210558"
+					"size"		"542744660"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"0959C4CCC6C8CE31E1BB8CB7DDE0B987"
+					"size"		"1E214D8798E55FD881EA7A412447EF32"
+					"download"		"7DDD68BE2F0340628280CB844F2ADAF7"
+				}
+				"language_preview"
+				{
+					"gid"		"290B8DD1BE783CB3CF5863D97DC74914"
+					"size"		"D22A5EE76F1FE22DCF3F7498CF04D4DD"
+					"download"		"DAD16B32731A7EA0E7B0215EF71B24BD"
+				}
+				"preview"
+				{
+					"gid"		"80B31358B02F6DB8B68626A8A4E5B8D1"
+					"size"		"51F9D44FBCC0527EB94C3591AF781074"
+					"download"		"E2F650C8A7D1F4A65F1EE1E78DD658E9"
+				}
+				"windowsonly"
+				{
+					"gid"		"DB987DA0DA3E47F64E2283CC348366FA"
+					"size"		"01AC0ADB050964E7FFB865B26096B2C3"
+					"download"		"469620456D9700A5153FE81B6E6DBC1E"
+				}
+			}
+		}
+		"235982"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4023096710379832874"
+					"size"		"564357949"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"E95F8E6F8C34FA2385357CA14FB801DD"
+					"size"		"8A3BFABCDC53C14EEC4212B9A9E19380"
+					"download"		"7DDD68BE2F0340628280CB844F2ADAF7"
+				}
+				"language_preview"
+				{
+					"gid"		"BC58896F1368D73E9E5D29F09FE1FC2E"
+					"size"		"52D5A6537313F6D93E41C2C9CE050F2F"
+					"download"		"DAD16B32731A7EA0E7B0215EF71B24BD"
+				}
+				"preview"
+				{
+					"gid"		"163DECC47D10FE92158C3A224B5824F2"
+					"size"		"977C340988D1C340CF043BE2BF7DE3EF"
+					"download"		"E2F650C8A7D1F4A65F1EE1E78DD658E9"
+				}
+				"windowsonly"
+				{
+					"gid"		"0C0E059CA1480D3AE0C17AFADE3196A9"
+					"size"		"DB525B9EFB6EFF66EFDFF0450B56C348"
+					"download"		"469620456D9700A5153FE81B6E6DBC1E"
+				}
+			}
+		}
+		"235983"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7012424606980731007"
+					"size"		"550110265"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"72F63BF0FCDED65A1784A7ACCEF81EEE"
+					"size"		"0158EE46F279C34C060B2411E1AC0A8C"
+					"download"		"7DDD68BE2F0340628280CB844F2ADAF7"
+				}
+				"language_preview"
+				{
+					"gid"		"208FF3A9C3D8A64D42F276EE6BCCF67B"
+					"size"		"9BE76055797C4EB005691716DFDBF238"
+					"download"		"DAD16B32731A7EA0E7B0215EF71B24BD"
+				}
+				"preview"
+				{
+					"gid"		"2B7D0764BCC5714959E52AA3BDE86A46"
+					"size"		"90B315A6C08F729A0D7BBDD7024C9D84"
+					"download"		"E2F650C8A7D1F4A65F1EE1E78DD658E9"
+				}
+				"windowsonly"
+				{
+					"gid"		"5623E2CADCEA0AF3B1CEA36831152BD3"
+					"size"		"69DA10974784E83AD30842D49507CEA1"
+					"download"		"469620456D9700A5153FE81B6E6DBC1E"
+				}
+			}
+		}
+		"258470"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3225509812334629824"
+					"size"		"251531987"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"language_preview"
+				{
+					"gid"		"5CAED131E8529A8A0F0C13D3DBEA955D"
+					"size"		"149E00DAAFBF9B605BCD2514D5A0C74F"
+					"download"		"DAD16B32731A7EA0E7B0215EF71B24BD"
+				}
+				"preview"
+				{
+					"gid"		"6A6B3EC62F5CAFA450FDB6C832926C5D"
+					"size"		"0F217F36112F40A22F8B226F4C6DB973"
+					"download"		"E2F650C8A7D1F4A65F1EE1E78DD658E9"
+				}
+				"windowsonly"
+				{
+					"gid"		"CC7721F93B748C4CB207868B32378DE4"
+					"size"		"06D84D5630B234A3E26D48EF5E2ABF62"
+					"download"		"469620456D9700A5153FE81B6E6DBC1E"
+				}
+			}
+			"dlcappid"		"258470"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"197487"
+			}
+			"internal"
+			{
+				"buildid"		"217447"
+				"pwdrequired"		"1"
+			}
+			"language_preview"
+			{
+				"buildid"		"217688"
+				"pwdrequired"		"1"
+			}
+			"preview"
+			{
+				"buildid"		"197487"
+				"pwdrequired"		"1"
+			}
+			"windowsonly"
+			{
+				"buildid"		"173432"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+	}
+}

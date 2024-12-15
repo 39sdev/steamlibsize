@@ -1,0 +1,196 @@
+"287371"
+{
+	"common"
+	{
+		"name"		"COH2 - The Western Front Armies: Oberkommando West"
+		"type"		"DLC"
+		"parent"		"231430"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"2aff035b83d1c5218f1b1162c348c4494df2ce64"
+		"logo_small"		"2aff035b83d1c5218f1b1162c348c4494df2ce64_thumb"
+		"icon"		"5e7e1866fb4f33a17393b0441cd1c750dbd91c5f"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"metacritic_name"		"Company of Heroes 2 - Oberkommando West"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"24.168793535860218"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"UpperCenter"
+					"width_pct"		"24.168793535860218"
+					"height_pct"		"100"
+				}
+			}
+		}
+		"store_asset_mtime"		"1573829973"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Relic Entertainment"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Feral Interactive (Mac)"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Feral Interactive (Linux)"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"Feral Interactive (Mac)"
+			}
+			"5"
+			{
+				"type"		"publisher"
+				"name"		"Feral Interactive (Linux)"
+			}
+			"6"
+			{
+				"type"		"franchise"
+				"name"		"Company of Heroes"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_23"		"1"
+			"category_30"		"1"
+			"category_17"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1403546400"
+		"gameid"		"287371"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"4150"
+			"2"		"3859"
+			"3"		"4182"
+			"4"		"1676"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"dlcforappid"		"231430"
+		"mustownapptopurchase"		"231430"
+		"developer"		"Relic Entertainment"
+		"publisher"		"SEGA"
+		"homepage"		"http://www.companyofheroes.com/"
+		"gamemanualurl"		"https://store.steampowered.com/manual/287371/"
+		"dlcavailableonstore"		"1"
+	}
+}

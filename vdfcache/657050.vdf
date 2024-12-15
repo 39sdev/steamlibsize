@@ -1,0 +1,498 @@
+"657050"
+{
+	"common"
+	{
+		"name"		"Humanity Must Perish"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"bbf08a3c01407dd134ddaaebc3e6a6c6e59e1d0c"
+		"logo_small"		"bbf08a3c01407dd134ddaaebc3e6a6c6e59e1d0c_thumb"
+		"clienticon"		"cd13aec9cc3d91c12466d8b1aedceb40ac3c393b"
+		"clienttga"		"7513d34ed65c06bbeabedc9f3514d56a34c32506"
+		"icon"		"7d18dbc3aeee84fe034b3f3cdf4845508232649f"
+		"clienticns"		"0654059e3e1e4cc727f80b46f08176b5e573db1d"
+		"linuxclienticon"		"6c91e5d63a90b68e61861a16f40a95aa650c5d61"
+		"ReleaseState"		"released"
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1661817600"
+			"tested_build_id"		"8784535"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Humanity Must Perish"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"UpperCenter"
+					"width_pct"		"50"
+					"height_pct"		"50"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1648266908"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Zetsubou"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Zetsubou"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Zetsubou"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1506362655"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"657050"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"597"
+			"3"		"599"
+			"4"		"3799"
+			"5"		"4085"
+			"6"		"1719"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Zetsubou"
+		"publisher"		"Zetsubou"
+		"homepage"		"https://zetsubou.games/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Humanity Must Perish"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HumanityMustPerish.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"HumanityMustPerish.sh"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"HumanityMustPerish.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"HumanityMustPerish-32.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"657121"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5927750251259851899"
+					"size"		"0"
+					"download"		"0"
+				}
+				"oldstable"
+				{
+					"gid"		"5927750251259851899"
+					"size"		"0"
+					"download"		"0"
+				}
+				"testing"
+				{
+					"gid"		"5927750251259851899"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"657122"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1581952688736984919"
+					"size"		"0"
+					"download"		"0"
+				}
+				"oldstable"
+				{
+					"gid"		"1581952688736984919"
+					"size"		"0"
+					"download"		"0"
+				}
+				"testing"
+				{
+					"gid"		"1581952688736984919"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"657123"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2258409182313425469"
+					"size"		"69502602"
+					"download"		"42720640"
+				}
+				"oldstable"
+				{
+					"gid"		"5170885665259738297"
+					"size"		"69344943"
+					"download"		"42707888"
+				}
+				"testing"
+				{
+					"gid"		"2258409182313425469"
+					"size"		"69502602"
+					"download"		"42720640"
+				}
+			}
+		}
+		"657181"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1014202580804117824"
+					"size"		"0"
+					"download"		"0"
+				}
+				"oldstable"
+				{
+					"gid"		"1014202580804117824"
+					"size"		"0"
+					"download"		"0"
+				}
+				"testing"
+				{
+					"gid"		"1014202580804117824"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"657201"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1856513681951323925"
+					"size"		"81068772"
+					"download"		"46318288"
+				}
+				"oldstable"
+				{
+					"gid"		"5348407195126390640"
+					"size"		"80911113"
+					"download"		"46305536"
+				}
+				"testing"
+				{
+					"gid"		"1856513681951323925"
+					"size"		"81068772"
+					"download"		"46318288"
+				}
+			}
+		}
+		"657411"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6776926016409238017"
+					"size"		"72877441"
+					"download"		"43377776"
+				}
+				"oldstable"
+				{
+					"gid"		"9052081221302106796"
+					"size"		"72719782"
+					"download"		"43365024"
+				}
+				"testing"
+				{
+					"gid"		"6776926016409238017"
+					"size"		"72877441"
+					"download"		"43377776"
+				}
+			}
+		}
+		"657441"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"804860492059106129"
+					"size"		"81144078"
+					"download"		"46518640"
+				}
+				"oldstable"
+				{
+					"gid"		"9014390100873279006"
+					"size"		"80986419"
+					"download"		"46505888"
+				}
+				"testing"
+				{
+					"gid"		"804860492059106129"
+					"size"		"81144078"
+					"download"		"46518640"
+				}
+			}
+		}
+		"657442"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7636514683348508612"
+					"size"		"71727452"
+					"download"		"43374608"
+				}
+				"oldstable"
+				{
+					"gid"		"1947268215951219506"
+					"size"		"71569793"
+					"download"		"43361856"
+				}
+				"testing"
+				{
+					"gid"		"7636514683348508612"
+					"size"		"71727452"
+					"download"		"43374608"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10235706"
+				"timeupdated"		"1672463892"
+			}
+			"oldstable"
+			{
+				"buildid"		"9631375"
+				"description"		"old stable branch"
+				"timeupdated"		"1672463870"
+			}
+			"testing"
+			{
+				"buildid"		"10235706"
+				"description"		"testing branch"
+				"timeupdated"		"1672462102"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves/"
+				"pattern"		"*"
+			}
+		}
+	}
+}

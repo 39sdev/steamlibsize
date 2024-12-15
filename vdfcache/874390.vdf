@@ -1,0 +1,575 @@
+"874390"
+{
+	"common"
+	{
+		"name"		"The Battle of Polytopia"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"9ae4d35a431384902795621e2f54fe166814025f"
+		"logo_small"		"9ae4d35a431384902795621e2f54fe166814025f_thumb"
+		"icon"		"3c42fb05071ce609b6098fe57e55118c1b7daa0e"
+		"clienticon"		"800aa22ad662dd32b27cc9326f30c91d5662d74c"
+		"clienttga"		"e131ac67b65d95febc34be9352016066533425bb"
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1663632000"
+			"tested_build_id"		"9031519"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"The Battle of Polytopia"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_hero_blur"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"13.470124889450943"
+				"height_pct"		"27.634990797310024"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"ad6d6f03ecacf471ee9ec0717ca6d17c1d628510/library_hero.jpg"
+				}
+			}
+			"library_hero_blur"
+			{
+				"image"
+				{
+					"english"		"ad6d6f03ecacf471ee9ec0717ca6d17c1d628510/library_hero_blur.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"UpperCenter"
+					"width_pct"		"13.470124889450943"
+					"height_pct"		"27.634990797310024"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1732808889"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Midjiwan AB"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Midjiwan AB"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"28"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_49"		"1"
+			"category_32"		"1"
+			"category_18"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1596524400"
+		"steam_release_date"		"1596560400"
+		"metacritic_score"		"72"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/the-battle-of-polytopia?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"874390"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1677"
+			"2"		"3859"
+			"3"		"1741"
+			"4"		"4182"
+			"5"		"1670"
+			"6"		"14139"
+			"7"		"4305"
+			"8"		"4094"
+			"9"		"1643"
+			"10"		"1678"
+			"11"		"5851"
+			"12"		"1775"
+			"13"		"6310"
+			"14"		"599"
+			"15"		"4726"
+			"16"		"4695"
+			"17"		"1723"
+			"18"		"3813"
+			"19"		"5350"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Midjiwan AB"
+		"publisher"		"Midjiwan AB"
+		"homepage"		"https://www.polytopia.io"
+		"listofdlc"		"982200,982201,1237430,1529660,2186650,2350830,2438450,2736400,2943450,3255910"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Battle of Polytopia"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Polytopia.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Polytopia.app\\Contents\\MacOS\\Polytopia"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Polytopia.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"874391"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7468442206236659165"
+					"size"		"266759631"
+					"download"		"110113648"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"8326D0912D4634154E12B16A9DDC5ACC"
+					"size"		"659804C2A36A0C371979339A8123E936"
+					"download"		"C17A7CEEA597538A3FA29B93EA52A559"
+				}
+				"beta"
+				{
+					"gid"		"3C8320923652D244F3A0D7EAC66C25F6"
+					"size"		"F66839B2770A03FF6F72863975C1F7F8"
+					"download"		"059FDF7772691F12B3616A03F6F3DBEA"
+				}
+				"brenton"
+				{
+					"gid"		"2E6CC3E8A09BD224D6A6A16600793CB0"
+					"size"		"EB7BD3941045545A31D0F595DC2B6462"
+					"download"		"E4C185DBDFAF416DE2A7AA04728E7B8E"
+				}
+				"internal"
+				{
+					"gid"		"C4DE5307FFD10B54F7953C364D94293C"
+					"size"		"8F254C0CF94E7C0352E35B999D7FAFF8"
+					"download"		"E0CBC7712DBB814D014DA1F0D872EE94"
+				}
+				"nightly"
+				{
+					"gid"		"F54F5961BB550E38B6B20DC47E798896"
+					"size"		"270ED6680F6802DD427B81C5588AF266"
+					"download"		"9E67E95AF8F7281274F899D7056DE15F"
+				}
+				"pending-alpha"
+				{
+					"gid"		"62FCA5475C6DB2EBA406C49807F7E6B3"
+					"size"		"E2E1688BE957C1EC9A06799A2DBC3E1B"
+					"download"		"83DD6D875889E8373BB7456B2B362144"
+				}
+				"pending-beta"
+				{
+					"gid"		"E7411BC3ED7BB16437FA0873363B41C6"
+					"size"		"CD1D9E66F9094A3A6833ED621FD55F27"
+					"download"		"5A49C55197DDC56B285A941951849774"
+				}
+				"pending-release"
+				{
+					"gid"		"6534C025300ECFF6C8150D28C78B2417"
+					"size"		"23D8C207903C95A35C7177F5300E0F86"
+					"download"		"9578BFF0867E16DBE07BAE28488D3077"
+				}
+			}
+		}
+		"874392"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"741142225578712216"
+					"size"		"174718950"
+					"download"		"88845696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"15B03834F165E7AC35CD7121D60AF295"
+					"size"		"2336F93E219F1F2C53B1179C7150FCEC"
+					"download"		"4AE240E6B56F715BA63132C147FD7ABF"
+				}
+				"beta"
+				{
+					"gid"		"CD9756659A9782DFEA64214112BDDF7A"
+					"size"		"B292721FF68A2B810C999B405C321E03"
+					"download"		"482FF3BD0BC28D05E8EA4103FE1AE20F"
+				}
+				"brenton"
+				{
+					"gid"		"32E2BFD0B9C993CA7315B7C70D7EC282"
+					"size"		"A3852DC3A5123262EDE118B7626CCCF7"
+					"download"		"49AA0DBDEB346764B23DFAC5758F65E6"
+				}
+				"internal"
+				{
+					"gid"		"D3D23469E5B5B51CB3388FD1D374E604"
+					"size"		"C35B4059BF1CF359CE32A7CE6973B095"
+					"download"		"1D038E31BB5F6CE77B1D8D125CAC553E"
+				}
+				"nightly"
+				{
+					"gid"		"317B530D6B031F369DD4F41F955DEDFF"
+					"size"		"522CF8BCAA7AF43C8E9D4F8EE7DD1370"
+					"download"		"A6D02C7E2023026D70B6A4E6564C1850"
+				}
+				"pending-alpha"
+				{
+					"gid"		"D61820108860B4F2B754306EBF8703BF"
+					"size"		"A73D8E80967E0DB37750B5AD647B7A94"
+					"download"		"5C4A048CFD104F61E9AD989F5225CA51"
+				}
+				"pending-beta"
+				{
+					"gid"		"CD8660308E5136E2C0F7023457655A23"
+					"size"		"1BA5DA7A5244EA879ED8DCA03B1BC123"
+					"download"		"23ACF411305CBFBE1B78C2083D3D04D8"
+				}
+				"pending-release"
+				{
+					"gid"		"DC0CE95323E5A972B1E8AC4F866BBFAA"
+					"size"		"2D28B85B2D7071BA12BE44B6E3699714"
+					"download"		"3F7282B543A621C2EEA5E64805A342E7"
+				}
+			}
+		}
+		"874393"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4709541387702056614"
+					"size"		"209592656"
+					"download"		"92077664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"799DC2AB5216CF881657C5987B009268"
+					"size"		"901D29CE0A50776E0482F60E2C5E667D"
+					"download"		"731C653F47750CAC6F4C66BF565E7D38"
+				}
+				"beta"
+				{
+					"gid"		"E60B23F17273BCB7B0C9247EFD60C2CF"
+					"size"		"DEE2EF0D8682F3EC050716ADE5AEB441"
+					"download"		"F5A70F7978F79532BAC4F7A9FF34EA73"
+				}
+				"brenton"
+				{
+					"gid"		"BBCB0EC61301D88974B02CDDA02DC7F8"
+					"size"		"B4AADA1CD13DC4E6637EB0A11437AF18"
+					"download"		"96EEF1E33884541A079409003A086B3B"
+				}
+				"internal"
+				{
+					"gid"		"296941B94B09BDD6D4D2EA7BB8CCC09D"
+					"size"		"B19B06B9D815DDD46662C295E365AEF2"
+					"download"		"5ED6A4BDA37A6D021FCDAD9D22586906"
+				}
+				"nightly"
+				{
+					"gid"		"1FDB2B93062366947E260617BC0B86EB"
+					"size"		"9A80833BA4B1544E2C687FDCCC0832F0"
+					"download"		"7A80084AF2973EC08A117F235C1833C7"
+				}
+				"pending-alpha"
+				{
+					"gid"		"19EA736B7D4583DCD5E5F8BC1E26B249"
+					"size"		"F965185C1402D07D9A29DF4955C29F7B"
+					"download"		"087F347E3F2BEAC0642A0424B8ECAF7B"
+				}
+				"pending-beta"
+				{
+					"gid"		"BE8C5EA89FAB802BA601146D75FC8DC7"
+					"size"		"10C2BEF2D80887510978A91D067C0427"
+					"download"		"F12F96CFE1546FC38409E65FC588B901"
+				}
+				"pending-release"
+				{
+					"gid"		"28A04048B5CBB7043BF57F4F5AF6C443"
+					"size"		"B55EA1630DBAAE1B62C19B165E2B87C7"
+					"download"		"50C863746846D9BFD365AF3D759FF08C"
+				}
+			}
+		}
+		"982200"
+		{
+			"dlcappid"		"982200"
+		}
+		"982201"
+		{
+			"dlcappid"		"982201"
+		}
+		"1237430"
+		{
+			"dlcappid"		"1237430"
+		}
+		"2186650"
+		{
+			"dlcappid"		"2186650"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16394433"
+				"timeupdated"		"1731588551"
+			}
+			"alpha"
+			{
+				"buildid"		"16136307"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729600433"
+			}
+			"beta"
+			{
+				"buildid"		"16394433"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731587602"
+			}
+			"brenton"
+			{
+				"buildid"		"16147912"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729671588"
+			}
+			"internal"
+			{
+				"buildid"		"15769847"
+				"pwdrequired"		"1"
+				"timeupdated"		"1726831527"
+			}
+			"nightly"
+			{
+				"buildid"		"16038516"
+				"pwdrequired"		"1"
+				"timeupdated"		"1728919436"
+			}
+			"pending-alpha"
+			{
+				"buildid"		"15852174"
+				"pwdrequired"		"1"
+				"timeupdated"		"1727448991"
+			}
+			"pending-beta"
+			{
+				"buildid"		"16394433"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731512802"
+			}
+			"pending-release"
+			{
+				"buildid"		"12993100"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702931570"
+			}
+		}
+	}
+}

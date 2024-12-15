@@ -1,0 +1,346 @@
+"443110"
+{
+	"common"
+	{
+		"name"		"Armored Warfare"
+		"type"		"Game"
+		"oslist"		"windows"
+		"icon"		"573bfcb7cbd827c1fb2ba8932fd2ed6bb66bb97a"
+		"clienticon"		"587f5798f90d3a7de019f6bf84fff54abaccf0bb"
+		"clienttga"		"df30e66a95f1e513f80bfb84f1c4047a8c9baa1a"
+		"logo"		"b1881a1d7ae863958886c81a43b0a973323f7fc7"
+		"logo_small"		"b1881a1d7ae863958886c81a43b0a973323f7fc7_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"443110_eula_0"
+				"name"		"Armored Warfare EULA"
+				"url"		"http://store.steampowered.com//eula/443110_eula_0"
+				"version"		"3"
+			}
+		}
+		"ReleaseState"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1654041600"
+			"tested_build_id"		"6418716"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"french"		"header_french.jpg"
+			"german"		"header_german.jpg"
+			"russian"		"header_russian.jpg"
+			"polish"		"header_polish.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en,fr,de,pl,ru"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"24.94677972176534"
+				"height_pct"		"43.074654416429794"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"24.94677972176534"
+					"height_pct"		"43.074654416429794"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"library_header.jpg"
+					"french"		"library_header_french.jpg"
+					"german"		"library_header_german.jpg"
+					"polish"		"library_header_polish.jpg"
+					"russian"		"library_header_russian.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1733405053"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Obsidian Entertainment"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Wishlist Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Wishlist Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Armored Warfare"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"29"
+			"2"		"28"
+			"3"		"2"
+			"4"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_9"		"1"
+			"category_35"		"1"
+			"category_32"		"1"
+			"category_38"		"1"
+			"category_36"		"1"
+			"category_29"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1444287600"
+		"steam_release_date"		"1510956960"
+		"community_hub_visible"		"1"
+		"gameid"		"443110"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"4175"
+			"1"		"1774"
+			"2"		"4598"
+			"3"		"1678"
+			"4"		"3843"
+			"5"		"9"
+			"6"		"4845"
+			"7"		"5363"
+			"8"		"5673"
+			"9"		"4508"
+			"10"		"5030"
+			"11"		"113"
+			"12"		"13276"
+			"13"		"6730"
+			"14"		"11104"
+			"15"		"19"
+			"16"		"1775"
+			"17"		"4168"
+			"18"		"1708"
+			"19"		"5711"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"Obsidian Entertainment"
+		"publisher"		"Wishlist Games"
+		"homepage"		"https://armoredwarfare.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"747430,753460,753470,753480,753500,753510,753520,825640,825650,825660,825670,825680,825690,825700,825710,826960,826980,826990,827030,827070,827080,827090,827150,827160,827180,827680,827690,827700,827710,827720,828830,828840,975380,988690,1102360,1827620,1827621,1827622,1830420,1830421,1830422,1830423,1830424,1830425,1830426,1830427,1830428"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Armored Warfare"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ArmoredWarfareMycomSteamLoader.exe"
+				"arguments"		"-FromSteam"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"443111"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5090709026828832007"
+					"size"		"65461159022"
+					"download"		"60429870320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testdl"
+				{
+					"gid"		"B4B73BAB3128685A75C5D3B90F53A812"
+					"size"		"4DB2616CCE7C43831236D2F80CB4A51E"
+					"download"		"29FA20152BA67B3EFC6DAC7ADC32DA9D"
+				}
+				"fx_test"
+				{
+					"gid"		"59DC7E8102CEADF8BC9FD9700B27204C"
+					"size"		"4810B1AADD30CCF128BE3AB814D6A924"
+					"download"		"6E4657612962F177291F159B7EDC4649"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16677515"
+				"timeupdated"		"1733818023"
+			}
+			"testdl"
+			{
+				"buildid"		"11326288"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685106518"
+			}
+			"fx_test"
+			{
+				"buildid"		"16677515"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733729874"
+			}
+		}
+	}
+}

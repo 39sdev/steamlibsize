@@ -1,0 +1,77 @@
+"749610"
+{
+	"common"
+	{
+		"name"		"SWARMRIDER OMEGA OST"
+		"type"		"DLC"
+		"parent"		"714240"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"icon"		"79c6645c0d22d808cde8cff954450c72571da5e1"
+		"logo"		"86c71d7c9524490f5ff3cb12d38722dcbe2482da"
+		"logo_small"		"86c71d7c9524490f5ff3cb12d38722dcbe2482da_thumb"
+		"clienticon"		"f63099d8920f4ef0b781ae5c162094b63359d96d"
+		"clienttga"		"d69881467b94695d50995adc0775b88d982f6328"
+		"metacritic_name"		"SWARMRIDER OMEGA OST"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_8bb009a72588640449d6e7ee6656d6b5e04942b7.jpg"
+		"store_asset_mtime"		"1510097043"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Walter Machado"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Walter Machado"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1510146100"
+		"gameid"		"749610"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+		}
+	}
+	"extended"
+	{
+		"dlcforappid"		"714240"
+		"mustownapptopurchase"		"714240"
+		"developer"		"Walter Machado"
+		"publisher"		"Walter Machado"
+		"dlcavailableonstore"		"1"
+	}
+}

@@ -1,0 +1,137 @@
+"213370"
+{
+	"common"
+	{
+		"name"		"Max Payne 3 Season Pass"
+		"type"		"DLC"
+		"parent"		"204100"
+		"oslist"		"windows,macos"
+		"icon"		"71692c5004040d77997705ff700f5b1940681486"
+		"logo"		"c5c21d873d7114b04798d1fa5ca3b8985969e35c"
+		"logo_small"		"c5c21d873d7114b04798d1fa5ca3b8985969e35c_thumb"
+		"app_retired_publisher_request"		"1"
+		"metacritic_name"		"Max Payne 3 Rockstar Pass"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_84fc2ba217ce04ec4b782f9f5ccc09d20980f220.jpg"
+		"store_asset_mtime"		"1364160853"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rockstar Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rockstar Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"gameid"		"213370"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"19"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Rockstar Studios"
+		"dlcforappid"		"204100"
+		"gamedir"		"Max Payne 3"
+		"homepage"		"http://www.rockstargames.com/maxpayne3"
+		"icon"		""
+		"legacykeyregistrationmethod"		"registry"
+		"legacykeyregistrylocation"		"HKEY_CURRENT_USER\\Software\\Rockstar Games\\213370"
+		"mustownapptopurchase"		"204100"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"7"
+		"serverbrowsername"		""
+		"showcdkeyonlaunch"		"1"
+		"state"		"eStateAvailable"
+		"supportscdkeycopytoclipboard"		"1"
+		"validoslist"		"windows,macos"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Rockstar Games"
+		"dlcavailableonstore"		"1"
+	}
+}

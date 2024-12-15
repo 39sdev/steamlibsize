@@ -1,0 +1,597 @@
+"1105350"
+{
+	"common"
+	{
+		"name"		"Hentai Zodiac Puzzle - Even More Girls Pack"
+		"type"		"DLC"
+		"parent"		"1073310"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"7b90a604e061e5f4357e27115994e22e3f20d470"
+		"clienttga"		"837e076c01d07d3cfcd203db4eba77fd4f986811"
+		"icon"		"c60af965ac9984bcb843b04a648ef65a64709ee8"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"restricted_countries"		"CN,DE"
+		"metacritic_name"		"Hentai Zodiac Puzzle - Even More Girls Pack"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_99590b97c256ed650b65f9fa29c2f1a748bb8cbd.jpg"
+		"store_asset_mtime"		"1560448827"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Zodiacus Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"azerbaijani"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"albanian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"amharic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"armenian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"assamese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"afrikaans"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"basque"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"belarusian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"bangla"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"bosnian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"valencian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"welsh"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"wolof"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"galician"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"georgian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"gujarati"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dari"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"zulu"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hebrew"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"igbo"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"irish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"icelandic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"yoruba"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"kazakh"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"kannada"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"catalan"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"quechua"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"kinyarwanda"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"kiche"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"konkani"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"xhosa"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"khmer"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"kyrgyz"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latvian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"lithuanian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"luxembourgish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"macedonian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"malay"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"malayalam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"maltese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"maori"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"marathi"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"mongolian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"nepali"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"odia"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"gurmukhi"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"shahmukhi"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"persian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"serbian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"sotho"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"sinhala"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"sindhi"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"slovak"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"slovenian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"sorani"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"swahili"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tajik"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tamil"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tatar"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"telugu"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tigrinya"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tswana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkmen"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"uzbek"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"uyghur"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"urdu"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"filipino"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hausa"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hindi"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"croatian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"cherokee"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"scots"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"estonian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1560787208"
+		"gameid"		"1105350"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"6650"
+			"3"		"12095"
+		}
+	}
+	"extended"
+	{
+		"dlcforappid"		"1073310"
+		"mustownapptopurchase"		"1073310"
+		"developer"		"Zodiacus Games"
+		"isfreeapp"		"1"
+		"dlcavailableonstore"		"1"
+	}
+	"depots"
+	{
+		"1105351"
+		{
+			"dlcappid"		"1105350"
+		}
+	}
+}

@@ -1,0 +1,200 @@
+"787750"
+{
+	"common"
+	{
+		"name"		"Blazing Core (beta)"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"a18615a1569c0f46176b56eb85558815a45d8a6e"
+		"logo_small"		"a18615a1569c0f46176b56eb85558815a45d8a6e_thumb"
+		"icon"		"f5ff753197309cb232980c29f24a371a3f9f9b50"
+		"clienticon"		"0e9c879259f22cdc95b389877a0557fe89b5b06a"
+		"clienttga"		"ef12984b79cc6143dfbd6df4dd184c8224690153"
+		"ReleaseState"		"released"
+		"metacritic_name"		"Blazing Core"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"russian"		"header_russian.jpg"
+		}
+		"store_screenshot"		"ss_f5633af79306003c63fba5bc4089d34d9dda344b.jpg"
+		"store_asset_mtime"		"1538053460"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"OctoBox Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"OctoBox Interactive"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"29"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1536314710"
+		"community_hub_visible"		"1"
+		"gameid"		"787750"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"128"
+			"2"		"1708"
+			"3"		"4821"
+			"4"		"1774"
+			"5"		"5711"
+			"6"		"5752"
+			"7"		"1775"
+			"8"		"3942"
+			"9"		"4085"
+		}
+		"review_score"		"5"
+		"review_percentage"		"58"
+	}
+	"extended"
+	{
+		"developer"		"OctoBox Interactive"
+		"publisher"		"OctoBox Interactive"
+		"homepage"		"http://blazing-core.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Blazing Core (beta)"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EchoClient.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamconfigurator3rdpartynative"		"7"
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"787751"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1595177406421476567"
+					"size"		"2592885357"
+					"download"		"2382028880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"461FDCA839B2C572CA3895A2DA96B3A6"
+					"size"		"1FCD320758DB33469E03538149A4F28C"
+					"download"		"428D7F742303114D91CB2932EBEA0677"
+				}
+			}
+		}
+		"787752"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"baselanguages"		"english,russian"
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3250832"
+				"timeupdated"		"1540569615"
+			}
+			"beta"
+			{
+				"buildid"		"3250832"
+				"pwdrequired"		"1"
+				"timeupdated"		"1540569605"
+			}
+		}
+	}
+}

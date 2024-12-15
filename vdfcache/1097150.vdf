@@ -1,0 +1,536 @@
+"1097150"
+{
+	"common"
+	{
+		"name"		"Fall Guys"
+		"type"		"Game"
+		"logo"		"7c57bd2ea67fdf3267677abecab79d6f62c67f7d"
+		"logo_small"		"7c57bd2ea67fdf3267677abecab79d6f62c67f7d_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"14b00cca56782d93f4f60d6f10124fbbd7f5dc28"
+		"clienttga"		"44a4fbb8867bfdcf58aefe4eff5bcc74e8aac516"
+		"icon"		"6c027709b9eb1417c993bc7d513b97b232002368"
+		"releasestate"		"released"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"brazilian"		"1"
+		}
+		"exfgls"		"1"
+		"name_localized"
+		{
+			"schinese"		"糖豆人"
+			"tchinese"		"糖豆人"
+		}
+		"app_retired_publisher_request"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1680652800"
+			"tested_build_id"		"75555088"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Fall Guys: Ultimate Knockout"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"100"
+					"height_pct"		"100"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1698763089"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mediatonic"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"29"
+			"4"		"18"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_20"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1596524340"
+		"metacritic_score"		"80"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/fall-guys-ultimate-knockout?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1097150"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"7178"
+			"2"		"5350"
+			"3"		"176981"
+			"4"		"128"
+			"5"		"1625"
+			"6"		"4726"
+			"7"		"4136"
+			"8"		"1775"
+			"9"		"5395"
+			"10"		"7481"
+			"11"		"597"
+			"12"		"4305"
+			"13"		"19"
+			"14"		"3843"
+			"15"		"1685"
+			"16"		"1719"
+			"17"		"3968"
+			"18"		"492"
+			"19"		"4026"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"additional_dependencies"
+		{
+			"0"
+			{
+				"src_os"		"windows"
+				"dest_os"		"linux"
+				"appid"		"1826330"
+				"comment"		"EAC runtime"
+			}
+		}
+		"developer"		"Mediatonic"
+		"homepage"		"http://fallguys.com"
+		"listofdlc"		"1261620,1343612,1362660,1426910,1481570,1532290,1569400,1570380,1570390,1622930,1677990,1677991"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Fall Guys"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"FallGuys_client.exe"
+				"description"		"Fall Guys Release Build"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"matchmaking_uptodate"		"1"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2193647932"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1097151"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6997704982161685131"
+					"size"		"7516899311"
+					"download"		"6153766640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fqa_submission_1"
+				{
+					"gid"		"AB73F418A9AD221D84E6D532FF0F272D"
+					"size"		"70AD110F3C5A488FFA15FC0D5199F52F"
+					"download"		"F8B8DA5601ECF7F6A03A4A57EC523F2D"
+				}
+				"fqa_submission_2"
+				{
+					"gid"		"34259C1EB88ABDBB8490355B0873BDBE"
+					"size"		"24A8414621D51ABA417670042D3483AE"
+					"download"		"3B108A670BA71A2369D153468FF33FEC"
+				}
+				"internal_qa_4"
+				{
+					"gid"		"C700FDF8F824431DAA63DE0087A9D737"
+					"size"		"081768A45DFFFF700D9F90D7D538553D"
+					"download"		"62F9D34F96FEFC46A3E9A1AD04FB6E56"
+				}
+				"internal_qa_5"
+				{
+					"gid"		"C46A498881618DB766A1E3AEF6CA04EF"
+					"size"		"CF1C77E5688B7D81269C73AE801E7CBF"
+					"download"		"900F724D5E1EF0963E07B60F4C720635"
+				}
+				"audio"
+				{
+					"gid"		"AFB6FCC19BE3699AF594A24D4A60DA38"
+					"size"		"0E74EF5B0E4D88A5DA5093E237FAF68E"
+					"download"		"EAB6E369872C265E268A8E2A9AE11A1F"
+				}
+				"content"
+				{
+					"gid"		"CE240B8E20A346851DCB5BA1319282E9"
+					"size"		"0E44DF8FCB9F58E73EBE945632BC84FD"
+					"download"		"48F539252F60D9D151E1B5C9A8532B3F"
+				}
+				"engine"
+				{
+					"gid"		"9B5BF4B8B4E5CC2ECB016FB980F9539B"
+					"size"		"9A90F358325FB889233E2A37176ACAAE"
+					"download"		"C02AA60A216CA0617BE3B6F99778F331"
+				}
+				"gameplay"
+				{
+					"gid"		"7F786514E029B4A3A26C4F67A5EC90AD"
+					"size"		"E68DC85C18FA89B95F7E1A9285C01332"
+					"download"		"18D95A8EBE91117B11A55D2EDFCB6572"
+				}
+				"internal_qa_0"
+				{
+					"gid"		"798F2AAA232C038CD2941583A94C642A"
+					"size"		"4292BF3F4A09AD7A844A5540013719B5"
+					"download"		"E27A1960FD42B16694C05404BD2F8B8E"
+				}
+				"internal_qa_1"
+				{
+					"gid"		"C8C09D6000ABCF1E648F0CF9DE77F633"
+					"size"		"355D4528E5C4D6BA14BE1B4016654A91"
+					"download"		"039D94BB10F7C318FAF1F738864952BA"
+				}
+				"internal_qa_2"
+				{
+					"gid"		"7685B4DA68A6B57EAC4FD3A60A6836CD"
+					"size"		"CAC962091F2CB3AA9827540A75D20A50"
+					"download"		"FA8ADD807956A6D545C5824D48DA2DEC"
+				}
+				"internal_qa_3"
+				{
+					"gid"		"E2B421BB57C51631A22103B931DF7E7A"
+					"size"		"BC1179A08A3D17AF7C0C5DAE1ACC6C4D"
+					"download"		"EA309A16C67794AE0063A317645D78BC"
+				}
+				"internal_qa_current"
+				{
+					"gid"		"C93B622101F96F07DABFE555921055A5"
+					"size"		"3C640834044661079C0F1BAFE946AC31"
+					"download"		"0167E7453C4A972FE753F11A6AE33C9B"
+				}
+				"internal_qa_next"
+				{
+					"gid"		"CA16D3F33006CBAF8D1CAA14CB63C7B8"
+					"size"		"9F5FF24934D455A703D53426EB8E4707"
+					"download"		"A905F8C7CEC27188AB4C64B8888D3DE1"
+				}
+				"mainline_a"
+				{
+					"gid"		"8AFC5C13D829BBCDCB6DFC49816AD60A"
+					"size"		"6A7EE8EB22AE4456E043D3BB0352A489"
+					"download"		"6E6E97B1987232C00AD40A38B7E083E3"
+				}
+				"mainline_b"
+				{
+					"gid"		"FA5D8638CCEF9E335B1FAFAC30E99128"
+					"size"		"8A242E76811A87A103D4A77194D29ED2"
+					"download"		"A8980B017A003CC31870EA0863C27CBE"
+				}
+				"staging"
+				{
+					"gid"		"4C60839D3E37F5FA38C33F4F2D6AE506"
+					"size"		"609392965740E0FE0E5ECA9A75CB4979"
+					"download"		"05421E1A4F84FAC51A0EF6D477290A6E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16529811"
+				"timeupdated"		"1733825403"
+			}
+			"fqa_submission_1"
+			{
+				"buildid"		"11591802"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688121401"
+			}
+			"fqa_submission_2"
+			{
+				"buildid"		"12764162"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700645389"
+			}
+			"internal_qa_4"
+			{
+				"buildid"		"12538146"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698306004"
+			}
+			"internal_qa_5"
+			{
+				"buildid"		"13706995"
+				"pwdrequired"		"1"
+				"timeupdated"		"1710232464"
+			}
+			"audio"
+			{
+				"buildid"		"15163713"
+				"pwdrequired"		"1"
+				"timeupdated"		"1722005819"
+			}
+			"content"
+			{
+				"buildid"		"15419588"
+				"pwdrequired"		"1"
+				"timeupdated"		"1724081492"
+			}
+			"engine"
+			{
+				"buildid"		"16664824"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733754895"
+			}
+			"gameplay"
+			{
+				"buildid"		"15397801"
+				"pwdrequired"		"1"
+				"timeupdated"		"1723883499"
+			}
+			"internal_qa_0"
+			{
+				"buildid"		"16168901"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729849617"
+			}
+			"internal_qa_1"
+			{
+				"buildid"		"16171259"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729872913"
+			}
+			"internal_qa_2"
+			{
+				"buildid"		"16173407"
+				"pwdrequired"		"1"
+				"timeupdated"		"1729872729"
+			}
+			"internal_qa_3"
+			{
+				"buildid"		"16305421"
+				"pwdrequired"		"1"
+				"timeupdated"		"1730888047"
+			}
+			"internal_qa_current"
+			{
+				"buildid"		"16584248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733935464"
+			}
+			"internal_qa_next"
+			{
+				"buildid"		"16727969"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734079394"
+			}
+			"mainline_a"
+			{
+				"buildid"		"16729118"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734079434"
+			}
+			"mainline_b"
+			{
+				"buildid"		"16003749"
+				"pwdrequired"		"1"
+				"timeupdated"		"1728654944"
+			}
+			"staging"
+			{
+				"buildid"		"16529811"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732620705"
+			}
+		}
+	}
+}

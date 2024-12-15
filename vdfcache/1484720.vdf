@@ -1,0 +1,311 @@
+"1484720"
+{
+	"common"
+	{
+		"name"		"Dead Estate"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"288427afd7b62f9d1f6acf56275c140425ed2f37"
+		"logo"		"b8e60459e5742e85baa34b089305120ccc9b72b8"
+		"logo_small"		"b8e60459e5742e85baa34b089305120ccc9b72b8_thumb"
+		"clienticon"		"c2d35d88b907900729b932ca8c05c6fb376c777d"
+		"clienttga"		"5f9753a8edc3f78bc45bb9de91dfc27bdfeebf44"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1643932800"
+			"tested_build_id"		"7850320"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.367289005349946"
+				"height_pct"		"68.36651698554613"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"44.367289005349946"
+					"height_pct"		"68.36651698554613"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1730134003"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Milkbar Lads"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"2 Left Thumbs"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Dead Estate"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1634662802"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1484720"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"4758"
+			"2"		"1667"
+			"3"		"4255"
+			"4"		"4711"
+			"5"		"1716"
+			"6"		"4026"
+			"7"		"1720"
+			"8"		"1759"
+			"9"		"19"
+			"10"		"1774"
+			"11"		"5851"
+			"12"		"9541"
+			"13"		"3964"
+			"14"		"1659"
+			"15"		"5125"
+			"16"		"12095"
+			"17"		"4345"
+			"18"		"4182"
+			"19"		"4085"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Milkbar Lads"
+		"publisher"		"2 Left Thumbs"
+		"homepage"		"https://2leftthumbs.manakeep.com/dead-estate"
+	}
+	"config"
+	{
+		"installdir"		"Dead Estate"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dead Estate.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1484721"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5249436330363578997"
+					"size"		"808086609"
+					"download"		"695132064"
+				}
+				"pre-swap-exploit"
+				{
+					"gid"		"4130680966262699774"
+					"size"		"256248392"
+					"download"		"202975168"
+				}
+				"public_beta"
+				{
+					"gid"		"5249436330363578997"
+					"size"		"808086609"
+					"download"		"695132064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pre-roadmap"
+				{
+					"gid"		"54365BD079C5E30F727F626399C8D41E"
+					"size"		"E58FB86B0308871BACAA6ACEF852A872"
+					"download"		"954DAC5E1D1772245BC4986CC3A54E73"
+				}
+				"beta"
+				{
+					"gid"		"96D851903A240D1325139995F4E0CC5F"
+					"size"		"878F499CBE8271199615F41C650A9969"
+					"download"		"0BD5B1997FC256734475C7B2AFD698BD"
+				}
+				"update_prerelease"
+				{
+					"gid"		"CEFA52059E2F39973716F7F95AF64D8B"
+					"size"		"CE35C0966E7117DCC1E1F34CF2028B0B"
+					"download"		"47C3041DAA03C49C149C45DB697698D3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16359800"
+				"timeupdated"		"1731276190"
+			}
+			"pre-roadmap"
+			{
+				"buildid"		"8283010"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689273847"
+			}
+			"pre-swap-exploit"
+			{
+				"buildid"		"11185114"
+				"description"		"A branch for speedrunners"
+				"timeupdated"		"1703175696"
+			}
+			"beta"
+			{
+				"buildid"		"16359800"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731276104"
+			}
+			"public_beta"
+			{
+				"buildid"		"16359800"
+				"description"		"Public beta"
+				"timeupdated"		"1731276118"
+			}
+			"update_prerelease"
+			{
+				"buildid"		"16359800"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731276127"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+	}
+}

@@ -1,0 +1,152 @@
+"287370"
+{
+	"common"
+	{
+		"name"		"COH2 - The Western Front Armies: US Forces"
+		"type"		"DLC"
+		"parent"		"231430"
+		"releasestate"		"released"
+		"logo"		"93b8aba5cb27b9a07c6fc745e59bcc0a28540880"
+		"logo_small"		"93b8aba5cb27b9a07c6fc745e59bcc0a28540880_thumb"
+		"icon"		"5e7e1866fb4f33a17393b0441cd1c750dbd91c5f"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"metacritic_name"		"Company of Heroes 2 - Upcoming DLC1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_2baa878910f20ed3bb0f5bf4e20d3c836877c65a.jpg"
+		"store_asset_mtime"		"1573835856"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Relic Entertainment"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Feral Interactive (Mac)"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Feral Interactive (Linux)"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"Feral Interactive (Mac)"
+			}
+			"5"
+			{
+				"type"		"publisher"
+				"name"		"Feral Interactive (Linux)"
+			}
+			"6"
+			{
+				"type"		"franchise"
+				"name"		"Company of Heroes"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_23"		"1"
+			"category_30"		"1"
+			"category_17"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1403546400"
+		"gameid"		"287370"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"4150"
+			"2"		"1676"
+			"3"		"3859"
+			"4"		"4182"
+			"5"		"19"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"dlcforappid"		"231430"
+		"mustownapptopurchase"		"231430"
+		"developer"		"Relic Entertainment"
+		"publisher"		"SEGA"
+		"homepage"		"http://www.companyofheroes.com/"
+		"gamemanualurl"		"https://store.steampowered.com/manual/287370/"
+		"dlcavailableonstore"		"1"
+	}
+}

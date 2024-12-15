@@ -1,0 +1,1239 @@
+"1147550"
+{
+	"common"
+	{
+		"name"		"Not For Broadcast"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"aafda03da6e3dd163b22dd6a181ce327139fe58c"
+		"logo_small"		"aafda03da6e3dd163b22dd6a181ce327139fe58c_thumb"
+		"clienticon"		"4760953b6ae6c3427078d60d5e7c15ed1d81f435"
+		"clienttga"		"41b1bcd3f4cb903d9b7deed3ef29973d0065f059"
+		"icon"		"3dce2a893a46d945bae982d94920069dea4d1f02"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"不予播出 ( Not For Broadcast )"
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1669334400"
+			"tested_build_id"		"8315338"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Not For Broadcast"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"russian"		"header_russian.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,ru"
+			"library_hero"		"en,zh-cn,ru"
+			"library_logo"		"en,zh-cn,ru"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"59.11456539229883"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+					"schinese"		"library_600x900_schinese.jpg"
+					"russian"		"library_600x900_russian.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+					"schinese"		"library_600x900_schinese_2x.jpg"
+					"russian"		"library_600x900_russian_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+					"schinese"		"library_hero_schinese.jpg"
+					"russian"		"library_hero_russian.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+					"schinese"		"logo_schinese.png"
+					"russian"		"logo_russian.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"59.11456539229883"
+					"height_pct"		"100"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+					"schinese"		"logo_schinese_2x.png"
+					"russian"		"logo_russian_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1723560746"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NotGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"tinyBuild"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"tinyBuild"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Not For Broadcast"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_13"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1643133621"
+		"metacritic_score"		"82"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/not-for-broadcast?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1147550"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"7743"
+			"2"		"6426"
+			"3"		"5030"
+			"4"		"599"
+			"5"		"19995"
+			"6"		"18594"
+			"7"		"1742"
+			"8"		"6971"
+			"9"		"11014"
+			"10"		"12472"
+			"11"		"26921"
+			"12"		"4486"
+			"13"		"4853"
+			"14"		"4166"
+			"15"		"1698"
+			"16"		"4598"
+			"17"		"3839"
+			"18"		"4182"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"NotGames"
+		"publisher"		"tinyBuild"
+		"homepage"		"https://www.notforbroadcastgame.com/"
+		"listofdlc"		"2199310,2303600,2303601,2303602"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Not For Broadcast"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NotForBroadcast.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1147551"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4179142375280234066"
+					"size"		"54808234187"
+					"download"		"42381433888"
+				}
+				"experimental2"
+				{
+					"gid"		"1135589908830303268"
+					"size"		"49060425672"
+					"download"		"38726906928"
+				}
+				"alternatevideo"
+				{
+					"gid"		"8234968903744517217"
+					"size"		"57494160387"
+					"download"		"40295559424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"boyltesting"
+				{
+					"gid"		"3F5CDA5067EEE845F552322A992CE805"
+					"size"		"08DFDB6769BBECC5E388A30389F5B41D"
+					"download"		"24E49232CD56C4098F776375D88841BC"
+				}
+				"boyltestingavpro"
+				{
+					"gid"		"31B9504D57A60C8CE8C0FCD94D23F5C4"
+					"size"		"2CB2E3B3F9BD659677DC7F4CD33196E8"
+					"download"		"978EC92446FCEA5A6B613C37CAD1D146"
+				}
+				"boyltestingtb"
+				{
+					"gid"		"F00BDEC70C4F208882451B0E35859B3B"
+					"size"		"11C1F218CB758C6951021DE5ED8A120D"
+					"download"		"1CBE3F27332A6B272249BFC515203FFF"
+				}
+				"dlctesting"
+				{
+					"gid"		"65DF51A07D6CCB18098A5F929D95E5A2"
+					"size"		"CEC81189F66BDC169ABFD1E091D2562B"
+					"download"		"EFB64393B7303177978C21AADDF1A5F4"
+				}
+				"dlctestingavpro"
+				{
+					"gid"		"4B016121C6CB12C83E6E21DDA750ED1E"
+					"size"		"45A41F79D7E80E702DE9A55590BCC5EA"
+					"download"		"51DE42C70050D870672A8852A67F4F9F"
+				}
+				"dlctestingdev"
+				{
+					"gid"		"30020DC5AB53E012CBA96BEE2F17E13C"
+					"size"		"08D5B42AE6F27F03E5A11691E24ECE86"
+					"download"		"5F9B0C187718D7E0090ED138804B6B87"
+				}
+				"dlctestingstable"
+				{
+					"gid"		"2489547E14D7D3B10D58CB0EB6FE8D3B"
+					"size"		"318B60621C8979D367150957BA688D37"
+					"download"		"C2DA32CAE3A131781CAD196485C6F332"
+				}
+				"dlctestingvp8"
+				{
+					"gid"		"72479AB20E73D3A59AF041AF81578337"
+					"size"		"DF61B3EA80D68BFCD194CACF9A81DE50"
+					"download"		"A68A2C16396D68C61FD943AE97F9FCB0"
+				}
+				"drmfree"
+				{
+					"gid"		"A005660D3CC1E77158B3D28A2A798705"
+					"size"		"06D713D504D0D8E32B258B79C8BC1C52"
+					"download"		"E471B79073AEB315B8EEBEBD334E303C"
+				}
+				"steamwithconsoles"
+				{
+					"gid"		"887A22AB18D166A1C6E5040201C387D1"
+					"size"		"4F1DBA7E371E2270DB39F40BAFB509DB"
+					"download"		"EED7AE3A802667E5E84E6DF06901A4D2"
+				}
+				"testing"
+				{
+					"gid"		"8EA13FFC174FEF9812224196945FF303"
+					"size"		"E42D5358203EF13AE5FCD10F86E0BF8C"
+					"download"		"662B9D3FAC7B8101D41783F517C2DC5F"
+				}
+				"testingavpro"
+				{
+					"gid"		"A7F9A2E2AF3316EDF7317C2487F96CC0"
+					"size"		"B6C2E777B4978099319CFCFE3ADBC2DD"
+					"download"		"AB0516C2C7EF8212B0D7DB6A4EF87F8D"
+				}
+				"tlgitmerge"
+				{
+					"gid"		"DBDEB2B1C52A8530B1D5BA9C8193595E"
+					"size"		"05E14EDCAEA3A24CBE15FE44BB93BAA4"
+					"download"		"2F2A1BCAABD891F147488CE022020E63"
+				}
+				"thetimeloopreview"
+				{
+					"gid"		"05A1CFAB40094BC2FA2DF7589287FEAF"
+					"size"		"F7CF86FBA1F9D72B39C621EA37C62A3E"
+					"download"		"9E1C027D6BA5CC3CA1DFCB5CECFA756E"
+				}
+				"thetimelooptesting"
+				{
+					"gid"		"1D7DA036155D8B56A3DEF5F51A068E1A"
+					"size"		"4EF4E584E506A84C0AD18F808E8ED53A"
+					"download"		"F416A75D031B0D0525A02DA39D53A21D"
+				}
+				"thetimelooptestingavpro"
+				{
+					"gid"		"A72C6A977D0FCF64C76A7FF96F66BE5F"
+					"size"		"7C24AE34FB240CA0106CAB3233C20340"
+					"download"		"B177FD2538D70BF504DF0C83ECF663A5"
+				}
+				"thetimelooptestingdev"
+				{
+					"gid"		"AA0EC2221CDCED61CA74589431B0C17B"
+					"size"		"709D5D8FBCB38E7E2BFD547BCB2B2C5D"
+					"download"		"AA669AB0791722D855AB0031A1C180DC"
+				}
+				"thetimelooptestingrc"
+				{
+					"gid"		"F85EB70264F679DD4002189CFB3CA323"
+					"size"		"E73338C9DAA0350D98F8B9C6CD426BD5"
+					"download"		"A8AA969B6FAAE1A6DB40DCD447369E26"
+				}
+			}
+		}
+		"1147552"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8364623276885752920"
+					"size"		"1676007318"
+					"download"		"1698859648"
+				}
+				"experimental2"
+				{
+					"gid"		"26253684667128343"
+					"size"		"1592881491"
+					"download"		"1614602816"
+				}
+				"alternatevideo"
+				{
+					"gid"		"8364623276885752920"
+					"size"		"1676007318"
+					"download"		"1698859648"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"boyltesting"
+				{
+					"gid"		"27A4C07DC27EEB661F01EA8AFD1914C0"
+					"size"		"BDE4979007177D7D6CEC9ADC61DBF700"
+					"download"		"58B7A4B3F15B6CC3E58ECC1586FABF38"
+				}
+				"boyltestingavpro"
+				{
+					"gid"		"6B945008BB4EC7860B67E5906DCC313B"
+					"size"		"F93872025A00381E9D8E97808E7008CD"
+					"download"		"04BC94217D46684AE00774E23907F59A"
+				}
+				"boyltestingtb"
+				{
+					"gid"		"6E276F728A094315DC50998BDE93C605"
+					"size"		"B2AA7B1B6377F9A77EB39FA1F72C7918"
+					"download"		"4DB227C276421F82E967146CAB1D2368"
+				}
+				"dlctesting"
+				{
+					"gid"		"7593B6CA2E8FFF751CEDDA4D937F3DCB"
+					"size"		"392A1F13B5969FE1C785025F345178EC"
+					"download"		"8F1D726D20CAD41F5E59198642AEE850"
+				}
+				"dlctestingavpro"
+				{
+					"gid"		"D4541BBF04957C38E406C1E329EF2E98"
+					"size"		"F50E5618F91626E5F344508B4E34EFA7"
+					"download"		"1427BC4B057C5E35D5E3DFF5428A06AE"
+				}
+				"dlctestingdev"
+				{
+					"gid"		"F4125C81F4625EC9EB67F762BB398585"
+					"size"		"7309FE0CB993C390ECE64114269F05E3"
+					"download"		"45C6A115B3A6BD167BF6AB4C29C36309"
+				}
+				"dlctestingstable"
+				{
+					"gid"		"EAB1CC50451E450D53666DBABF390010"
+					"size"		"60A006106BBA75DE8686AC4B7ED1424D"
+					"download"		"E85BA24546F6A2EB5C87C5ECF70CC2CC"
+				}
+				"dlctestingvp8"
+				{
+					"gid"		"76C2220D349351BF2792C52286F092E9"
+					"size"		"9469B74E8DCE8DA53BAE77392DF3D00C"
+					"download"		"6ABE203B2720E3B0A231C4DCA3D1D118"
+				}
+				"drmfree"
+				{
+					"gid"		"B296E9F10FAEA543E3463DA549ADBB43"
+					"size"		"CFF32AC40E089BD5286CD1EE833195EC"
+					"download"		"730EED7029BCBBDB6A6BBC51963293A4"
+				}
+				"steamwithconsoles"
+				{
+					"gid"		"518EFEB7F04DE86633C61794C9578536"
+					"size"		"CAEDE34E4FA74828F25E093552EC82CE"
+					"download"		"74926D7E85AFC832068C865C247F8713"
+				}
+				"testing"
+				{
+					"gid"		"E662C557C7F5564D2652551AF280D5D9"
+					"size"		"244D53E16DD5A213860B3A1DABA53D23"
+					"download"		"DB242C9E4D15EDE0ED289FEA836A65E8"
+				}
+				"testingavpro"
+				{
+					"gid"		"02FBDB815E7A02DB7BAB479461FC7824"
+					"size"		"D94340F46F1F9F0BA30005AF04B9DBDA"
+					"download"		"4A791117D963707DC065810E786A915C"
+				}
+				"tlgitmerge"
+				{
+					"gid"		"30DCF39A5EB5C029AF36EADF86602832"
+					"size"		"43764A9A04C6FF3BEA8C07C0F5BE3C34"
+					"download"		"E51E403342FC6736F5BBB26D31F85133"
+				}
+				"thetimeloopreview"
+				{
+					"gid"		"A4131D78969151BF874DF0B7BADDF92C"
+					"size"		"ED8B11EBB62921AC1F9BE9B0E8FE3093"
+					"download"		"144129F68BB618743FA28E8983AB609E"
+				}
+				"thetimelooptesting"
+				{
+					"gid"		"EE3F45392381D4DBDA1B1E69BF5E3ABC"
+					"size"		"B4BBBFDF1A287ACFCE0CF8400A45C98D"
+					"download"		"13667E7460A012A9DD8EB6D8576232F3"
+				}
+				"thetimelooptestingavpro"
+				{
+					"gid"		"7F8572D0D3D8E05EA2312CA652D4C91B"
+					"size"		"920B053FCC00A9136A419C896FB40159"
+					"download"		"2F86D0E1F858A0AD4C49F15C62BA5416"
+				}
+				"thetimelooptestingdev"
+				{
+					"gid"		"54480FA973C34F1C5BE6AEC0DDDA5FEE"
+					"size"		"CB1484D715A173175237E2C4193AA4BB"
+					"download"		"2979F8B7EC20E42D67222B2C746AD290"
+				}
+				"thetimelooptestingrc"
+				{
+					"gid"		"5D523C866CD778BA8135D18E540E289F"
+					"size"		"1D727F0026292239C5932FCFE6176F3F"
+					"download"		"83F62F17350EE7819CB234799FAA9770"
+				}
+			}
+		}
+		"1147553"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5070434569740297865"
+					"size"		"1769327464"
+					"download"		"1793460560"
+				}
+				"experimental2"
+				{
+					"gid"		"5275633275946916860"
+					"size"		"1750989694"
+					"download"		"1774872464"
+				}
+				"alternatevideo"
+				{
+					"gid"		"5070434569740297865"
+					"size"		"1769327464"
+					"download"		"1793460560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"boyltesting"
+				{
+					"gid"		"C1305EF7D3851051ECE177012223614F"
+					"size"		"0745DB9A55EA9E23CC145E103CFE3D1C"
+					"download"		"5693BDCE36CA89F7AD822516D36B7409"
+				}
+				"boyltestingavpro"
+				{
+					"gid"		"C350BA5102E71681D1323CDF0C7851DE"
+					"size"		"1B1041931B298A9A9550CEFA8E267CF3"
+					"download"		"80F5A6E01A8FE28960AD5C14CA0B90FB"
+				}
+				"boyltestingtb"
+				{
+					"gid"		"03F4355F2A41F8A72056720AC9ECE131"
+					"size"		"70C6F6292C5F74ACE785EE615E507C7C"
+					"download"		"F067A65648100C89510680F3E3E2F1EC"
+				}
+				"dlctesting"
+				{
+					"gid"		"92CDADB31E233D8326CEA0B96B1D6C60"
+					"size"		"F8C27C0026D0519812DEA108AD4DD20D"
+					"download"		"4E2DE87282E7B54CC1580354E4CFFDDE"
+				}
+				"dlctestingavpro"
+				{
+					"gid"		"C6B5D55C1B6DF4F6D6B8A44CB4B9B5EB"
+					"size"		"03779516BC5569F9E413BE04305DD5D1"
+					"download"		"CEAD597EA55745C89F31879902B58A74"
+				}
+				"dlctestingdev"
+				{
+					"gid"		"B5B6AA93D3D14A4283323467414DB050"
+					"size"		"33E7D7463052BFA970EE4E09A9A3E47E"
+					"download"		"07077CA9119F4F7761796E41959F342A"
+				}
+				"dlctestingstable"
+				{
+					"gid"		"FCAF086ECAF31D8E7C8F0794943FEA35"
+					"size"		"998EAF38F5EE6E8E367398CFED49B38D"
+					"download"		"A52CD293FDA19D633BA4486F93A49912"
+				}
+				"dlctestingvp8"
+				{
+					"gid"		"69777D0EA8126A42AE8F57BA7BE0F44B"
+					"size"		"657F8F3E1CB595EAA10C15BA62CAEE3D"
+					"download"		"018F8DE9F69E258446D319077F187748"
+				}
+				"drmfree"
+				{
+					"gid"		"4F48E60E5190612F52E88D2A631D3C67"
+					"size"		"1383205DC26806B443765103ED2C178D"
+					"download"		"191B42BD6067ED74B16E58FD3C31821B"
+				}
+				"steamwithconsoles"
+				{
+					"gid"		"B4BCFC016CA9BF99F6B681148E07F1C1"
+					"size"		"E0080A2CA09CF3F0D90DF2988339DC87"
+					"download"		"EDD1AE78AADEEB4FAAAD85DA56090802"
+				}
+				"testing"
+				{
+					"gid"		"0C3280B85B302EFA385794C4A1CADA0C"
+					"size"		"76F831BD0DD045B201DA11457644F08D"
+					"download"		"34D9732A13F17282E0BB9CE97644A043"
+				}
+				"testingavpro"
+				{
+					"gid"		"C4E6EFADAC083B0CB01F179558E742E5"
+					"size"		"83E982FA2DD455BBD6DD8FF5F241891D"
+					"download"		"B0DBBF160E212537208567DDD574E2D6"
+				}
+				"tlgitmerge"
+				{
+					"gid"		"D910BC2AE52A41A7C5ED0122D6A35ED2"
+					"size"		"0CAC642468F2E757AFE2DB90C1274AB9"
+					"download"		"0E5AF6F58BFA931E617C0A2E7AC225F2"
+				}
+				"thetimeloopreview"
+				{
+					"gid"		"F9111D473EC890B36950A6241F9072A3"
+					"size"		"9FFB06F382B7ADC9D674C4588AB80DEF"
+					"download"		"D5C1A0F1E242C57AE5C12F128ED16E64"
+				}
+				"thetimelooptesting"
+				{
+					"gid"		"1CCCA91F867CCD1CB9FE91CF839F1D28"
+					"size"		"7749444607A0C9613AEA5E993C600879"
+					"download"		"92D6821D861200D19ACCE7DA3919B83A"
+				}
+				"thetimelooptestingavpro"
+				{
+					"gid"		"50778CC2C342AFEC5D866B791B77FB52"
+					"size"		"FDB6B560773337466565BF43F3892076"
+					"download"		"EAD2BEEA52D7D48B4473370515820F58"
+				}
+				"thetimelooptestingdev"
+				{
+					"gid"		"B6FDF7565523630761532935AFADAC30"
+					"size"		"F8F3A562230FAFA2F6BEBFE3BE54FED6"
+					"download"		"327F5BF6D8F4D1B7835D7674E49A7C8C"
+				}
+				"thetimelooptestingrc"
+				{
+					"gid"		"229506CE539F329109F7BE419840F013"
+					"size"		"EE9D0DFEEBD2B15BAF3294C72DD16A63"
+					"download"		"315795EED40F85F746A1222DF24DF3E1"
+				}
+			}
+		}
+		"1147554"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4673560301910716582"
+					"size"		"1668433856"
+					"download"		"1691188848"
+				}
+				"experimental2"
+				{
+					"gid"		"3381650217619069843"
+					"size"		"1651399189"
+					"download"		"1673921424"
+				}
+				"alternatevideo"
+				{
+					"gid"		"4673560301910716582"
+					"size"		"1668433856"
+					"download"		"1691188848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"boyltesting"
+				{
+					"gid"		"7011B3186B366CB2B57DAED3E9A0CA9F"
+					"size"		"82CA1CAD8163F9752449D50F1DAE0C00"
+					"download"		"DBC9DF8C8631F2A8A08C6CE83779C18D"
+				}
+				"boyltestingavpro"
+				{
+					"gid"		"8C2BA685D409F9A3B2BAE6BAC0D9B229"
+					"size"		"FD6F427B5256179B1F267933C7C5A462"
+					"download"		"817EA8B285946EFC51BA5EF7BEEE8AF7"
+				}
+				"boyltestingtb"
+				{
+					"gid"		"57C2467B23C5EA10D223581A7894326A"
+					"size"		"2E26F8577AD760E2A2ECF30F789679A0"
+					"download"		"074BF5C24AEDC1D04AEED7CAC93D673D"
+				}
+				"dlctesting"
+				{
+					"gid"		"7BC80F975A0B26658051362947A059CD"
+					"size"		"FBEC59DCE7613B5D598749B29633A7F6"
+					"download"		"B45EB1A59D12049346C955F47D866AEB"
+				}
+				"dlctestingavpro"
+				{
+					"gid"		"4C4656F6D783B6930BACF853998C92C8"
+					"size"		"3C0BB40CED0A518CDD6AD393B859A420"
+					"download"		"DFB5EE7CA4E4D3E7D2D697DF1F0858AE"
+				}
+				"dlctestingdev"
+				{
+					"gid"		"73F4841AA3BA64F4B7F45CFFBA84CA98"
+					"size"		"90D8887F8E93990A1998181B212AB1A3"
+					"download"		"8DB4C0866E6D7BC5F649DA84A793B846"
+				}
+				"dlctestingstable"
+				{
+					"gid"		"3456F1D75B40CD87B159834F829254A9"
+					"size"		"600A00256F1BFFF6EB2958336C4BDC03"
+					"download"		"F45E88D67C5D41F6EB7C35D8727F666A"
+				}
+				"dlctestingvp8"
+				{
+					"gid"		"42B6BD6D817588DE99D32B2BD89EB584"
+					"size"		"6D0F6BE4353CDDB2ED40714D6BD7A20F"
+					"download"		"3CE41E407FBB4559B945F951657122CE"
+				}
+				"drmfree"
+				{
+					"gid"		"36C22377540C927D508CCD4AF2080FA2"
+					"size"		"855C55A78FE8C30DC59BFD5F7BF5E7E6"
+					"download"		"25CF6A9AF6D1F74BCB089468CFDD8F7B"
+				}
+				"steamwithconsoles"
+				{
+					"gid"		"898B50328C85197C1F48039735C1F386"
+					"size"		"5F9FFA16AC3F78A85D1F89EC52071123"
+					"download"		"85E5FCEFA6A6B9ECFAAA6F0CF8CF41C9"
+				}
+				"testing"
+				{
+					"gid"		"E829C4675BA9B4983E5BAC53EA02C539"
+					"size"		"AB8439EAFDE7B4A1EC7CD95FF394BCE0"
+					"download"		"8E9DA1404E210B11BE5A440312E43961"
+				}
+				"testingavpro"
+				{
+					"gid"		"127011202DDCB668A2057192DABF93B3"
+					"size"		"DF733A72ADA49A829EE080F48A7C4743"
+					"download"		"2EF9D28D46B7F86F36EDE3E7992BF688"
+				}
+				"tlgitmerge"
+				{
+					"gid"		"AC263FDCFE050BA3A9ECADB1D6BE494B"
+					"size"		"56127691C71DD2AD9EBF0376584C03F1"
+					"download"		"1B207DD2DAAF0E435D7E2BCF511A97D6"
+				}
+				"thetimeloopreview"
+				{
+					"gid"		"339FABD0AD6987F0884B0C0F5E8907DA"
+					"size"		"9746DDC0C10C5ED890EF662A7A43A757"
+					"download"		"44E26526476EEDE0A584D2B6AB9143DB"
+				}
+				"thetimelooptesting"
+				{
+					"gid"		"656810E46E71F3D39FFC65BFAAED70B6"
+					"size"		"B4C2BA1B18ECBF69227C3BF333DD33B4"
+					"download"		"7B0825F729D8F63E2B37B3D1F38F5F08"
+				}
+				"thetimelooptestingavpro"
+				{
+					"gid"		"599812FA02DEA455DEEE055701D93B4B"
+					"size"		"E4E0586715970E3C0B5E9ED3DFB2336E"
+					"download"		"9101BE9D2C974F546B52035DAF543991"
+				}
+				"thetimelooptestingdev"
+				{
+					"gid"		"97EA88153705A1D7F5234A9407CE5B00"
+					"size"		"4FD7EA810B003CA8C722EAFA99CA2716"
+					"download"		"0F42E47AC0CBF8043E1F2D3015EB9D6B"
+				}
+				"thetimelooptestingrc"
+				{
+					"gid"		"87726DE0AF8B173B2D5EE6F280A4D045"
+					"size"		"5DA650AC98D4D88F499873CDF734C898"
+					"download"		"7FBCE1730F64FDEF14E942B8BFDF0F73"
+				}
+			}
+		}
+		"2199310"
+		{
+			"dlcappid"		"2199310"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8383074283729566403"
+					"size"		"7434884679"
+					"download"		"7536432672"
+				}
+				"experimental2"
+				{
+					"gid"		"3874529675989095584"
+					"size"		"9742946845"
+					"download"		"9876085856"
+				}
+				"alternatevideo"
+				{
+					"gid"		"5369213046793163967"
+					"size"		"7529366149"
+					"download"		"7413733696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"boyltesting"
+				{
+					"gid"		"0FCAB3EF7C02CB77B9E2320EE74464CB"
+					"size"		"7B496986AA3D948FF2BADB51508038F7"
+					"download"		"D7FFA93052D95BA6EADA0504622F55F1"
+				}
+				"boyltestingavpro"
+				{
+					"gid"		"ACA2CB93FE33E7BBE8B52F9991E6DBB3"
+					"size"		"F5B6F24E137890409C97E249259E467E"
+					"download"		"DA39EFB8ED053077F70466D7A0C99632"
+				}
+				"boyltestingtb"
+				{
+					"gid"		"3E1F9EB77A7A014A2875A3C087B87048"
+					"size"		"425322663140F5FBB5931ED9B1509A70"
+					"download"		"8ED980E02B25CA1C7FBC3A88F9264DC4"
+				}
+				"dlctesting"
+				{
+					"gid"		"AC73A7F9FBF9C55D4FB74F5E279B3761"
+					"size"		"50BCAB1D030A76ABD5F390ABFDB8392B"
+					"download"		"B84D56456B37221421699C59BCAFE9F3"
+				}
+				"dlctestingavpro"
+				{
+					"gid"		"41FDC16C486E8060B360678267247992"
+					"size"		"3985F17B16FA3EED78724F2604ED4932"
+					"download"		"7D67CD2309A2D2B6900F6D8164E76558"
+				}
+				"dlctestingdev"
+				{
+					"gid"		"FBDDDA09BAA3FA4141E29F99C329129F"
+					"size"		"A2A16FAEA6403DFF919720D28A40FD26"
+					"download"		"D046B4457789F714D1FC6CED87ADD039"
+				}
+				"dlctestingstable"
+				{
+					"gid"		"371ADEB7D4C6D218DF005664ABA32417"
+					"size"		"DB2CBDD3C25D2BE3C5CF5D42643AF48F"
+					"download"		"28F781B40A38598899DE40389E2F0A4A"
+				}
+				"dlctestingvp8"
+				{
+					"gid"		"1BF51A86C6C89414E932DA683AE051D1"
+					"size"		"464DD08EA2DF0E4AC47773798EB66D0D"
+					"download"		"99B019EE80A01E43542F312788B6FC70"
+				}
+				"testing"
+				{
+					"gid"		"6C74FBC22E1D892F04F54AF46F5BBCD7"
+					"size"		"65E93CDE69154A5C48C6F0713250C5FB"
+					"download"		"65E93CDE69154A5C48C6F0713250C5FB"
+				}
+				"testingavpro"
+				{
+					"gid"		"1BEBBA0603C12381E5E8AD9509A2F425"
+					"size"		"E6AA3283678B86883DA49856DB92FA15"
+					"download"		"E6AA3283678B86883DA49856DB92FA15"
+				}
+				"tlgitmerge"
+				{
+					"gid"		"B54D1804BCE9A85E67C996DAAC6018CD"
+					"size"		"3C8CF06E45FD5E641EE71C1FF288669D"
+					"download"		"C2D5E38CA01A89D0A128D66484A2BDEA"
+				}
+				"thetimeloopreview"
+				{
+					"gid"		"A75096DEC5A08F0007DE80EEB7BEA602"
+					"size"		"B7F1B068192A7ECFB5EA92EC8D6BB26D"
+					"download"		"3D83D51BEDAA7D0AB01C0C28533E683E"
+				}
+				"thetimelooptesting"
+				{
+					"gid"		"52249206EA90DAA77CCA8CB6B236653D"
+					"size"		"0B83FD00545AE063C66AD81F800A0E4A"
+					"download"		"CE4F56218BD3C75C75F9169A76CBF514"
+				}
+				"thetimelooptestingavpro"
+				{
+					"gid"		"326BDBB588103B221FEE73F309D5F1D9"
+					"size"		"834ED7C4751ECB86E3EB0E1F16CBF341"
+					"download"		"94C6359BC7D7CE32F93951326FED6B2F"
+				}
+				"thetimelooptestingdev"
+				{
+					"gid"		"C37E4CB4D5DE03289A06DE48C639D9DA"
+					"size"		"888F4FCC679E983B37DEA3EEB24066CE"
+					"download"		"3503C31413AF0EEB0B7E334BC482E063"
+				}
+				"thetimelooptestingrc"
+				{
+					"gid"		"8C4C5D9564E4E247EB87B6D02E87C631"
+					"size"		"D25288F7B127D2209250ABAE1E73B39E"
+					"download"		"3B6710C106D56D9463EB77158E4072FF"
+				}
+			}
+		}
+		"2303600"
+		{
+			"dlcappid"		"2303600"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4295815718717691497"
+					"size"		"15994775366"
+					"download"		"16213422560"
+				}
+				"alternatevideo"
+				{
+					"gid"		"5692596630056952835"
+					"size"		"17205521265"
+					"download"		"15969402880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"boyltesting"
+				{
+					"gid"		"39A4629A2CE85B5772257AAAFEDA5B34"
+					"size"		"43AF3DA6912A952026190C4A13DA02B1"
+					"download"		"4F20528280E1B12D3D1FFEAFCC9F1C25"
+				}
+				"boyltestingavpro"
+				{
+					"gid"		"8EF40034E28A2E804B9A3D868B7AD3EB"
+					"size"		"C259BEECD0678D632153C895B0AC9B81"
+					"download"		"9B340139314C34F9CB9282A28D764F32"
+				}
+				"tlgitmerge"
+				{
+					"gid"		"B57C275C7816EC0EA3B3840C70C7E3A0"
+					"size"		"FA304910736D9CD49DBB2D9C09E400A4"
+					"download"		"423F16EA554615E53B17C5F13D78F935"
+				}
+				"thetimeloopreview"
+				{
+					"gid"		"2C8E04DAAEDFD561B86B667D027F1D38"
+					"size"		"D9364728D06C022E3F8A8D32B22AEEAA"
+					"download"		"7F30955C259BE034EEB635929F19042F"
+				}
+				"thetimelooptesting"
+				{
+					"gid"		"FCA5AADA285632E487B81A5BC5F86C10"
+					"size"		"BDC685711AE4DEB2DF546D85806812FE"
+					"download"		"973C9F68C575E632FB5EC07D31780464"
+				}
+				"thetimelooptestingavpro"
+				{
+					"gid"		"6D31F0DC927F48EE4E9EB15E437BA979"
+					"size"		"EE3199C55A0EB9F4B638D9F85EA3BA22"
+					"download"		"BE4467D66BFF08282C29C6D263072760"
+				}
+				"thetimelooptestingdev"
+				{
+					"gid"		"7C335C6B273380FEF5150BCC1CDB5F0C"
+					"size"		"3A6A1AC26BA6615B24D9FEC22B13908F"
+					"download"		"204ABAF3A2DAA5605E00586847797767"
+				}
+				"thetimelooptestingrc"
+				{
+					"gid"		"5C645FE928B1EACF50F59F7590C20E8E"
+					"size"		"D4D273FD5C3B785DD2260CDF055C2A7F"
+					"download"		"B18BA83FBD49A12A078E115931B7A91D"
+				}
+			}
+		}
+		"2303601"
+		{
+			"dlcappid"		"2303601"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"292618191568686625"
+					"size"		"13903035183"
+					"download"		"14093164720"
+				}
+				"alternatevideo"
+				{
+					"gid"		"4513541984541569170"
+					"size"		"14776504789"
+					"download"		"13894059168"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"tlgitmerge"
+				{
+					"gid"		"E7DD7ED225A3CF6A2AB9C547394D7093"
+					"size"		"336124EB28CBF75CEC09DBFA8C5ABE9E"
+					"download"		"3BE344967DCD306B3F19C1EEB0221A7C"
+				}
+				"thetimeloopreview"
+				{
+					"gid"		"5B911872BA062AE3BF28131E00D27938"
+					"size"		"5FF8768FF47F2A94A1603D304C5A895D"
+					"download"		"54F125F7B6CCA06683C69D1995946F50"
+				}
+				"thetimelooptesting"
+				{
+					"gid"		"9375EF79B465D9164667C53651048FE8"
+					"size"		"6C78329566E9B77E65E67F15E955899E"
+					"download"		"197F7C04EF74EA5321A2475D7075666D"
+				}
+				"thetimelooptestingavpro"
+				{
+					"gid"		"6601A90BC2DA651098C5FA896791B946"
+					"size"		"72B73D5850A163C8F84CE42A2683D092"
+					"download"		"A8C8115C4FC02EF404FF438AB17118C6"
+				}
+				"thetimelooptestingdev"
+				{
+					"gid"		"5A6AF9E9A6A18D1F17D676266CDA80C0"
+					"size"		"3A7AD6271F4502F88F855B7FAE37C67F"
+					"download"		"3274A4FDA04CC73B100B6115646F2A45"
+				}
+				"thetimelooptestingrc"
+				{
+					"gid"		"04B0DD86406C99AC00C0E15376639EF2"
+					"size"		"721F982BDDC8FC49F51885A8DCE94E01"
+					"download"		"5995CE068AFB55FA05C8FF4F56505E6D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"15932446"
+				"timeupdated"		"1728064732"
+			}
+			"boyltesting"
+			{
+				"buildid"		"13145473"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704969419"
+			}
+			"boyltestingavpro"
+			{
+				"buildid"		"13145608"
+				"pwdrequired"		"1"
+				"timeupdated"		"1705065757"
+			}
+			"boyltestingtb"
+			{
+				"buildid"		"10683256"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677843518"
+			}
+			"dlctesting"
+			{
+				"buildid"		"11217883"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683893070"
+			}
+			"dlctestingavpro"
+			{
+				"buildid"		"10882954"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680092023"
+			}
+			"dlctestingdev"
+			{
+				"buildid"		"10281875"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673263243"
+			}
+			"dlctestingstable"
+			{
+				"buildid"		"10401425"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674665929"
+			}
+			"dlctestingvp8"
+			{
+				"buildid"		"10879169"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692802703"
+			}
+			"drmfree"
+			{
+				"buildid"		"8333072"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646741379"
+			}
+			"experimental2"
+			{
+				"buildid"		"10879169"
+				"description"		"Build that uses VP8 encoded videos."
+				"timeupdated"		"1680086037"
+			}
+			"steamwithconsoles"
+			{
+				"buildid"		"8377633"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647375486"
+			}
+			"testing"
+			{
+				"buildid"		"10560517"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676491377"
+			}
+			"testingavpro"
+			{
+				"buildid"		"10560564"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676491817"
+			}
+			"tlgitmerge"
+			{
+				"buildid"		"13210223"
+				"pwdrequired"		"1"
+				"timeupdated"		"1705598832"
+			}
+			"alternatevideo"
+			{
+				"buildid"		"15932558"
+				"description"		"Build that uses an alternate internal video player, for people experiencing issues with videos not playing in the primary build."
+				"timeupdated"		"1728064822"
+			}
+			"thetimeloopreview"
+			{
+				"buildid"		"15421310"
+				"pwdrequired"		"1"
+				"timeupdated"		"1724947752"
+			}
+			"thetimelooptesting"
+			{
+				"buildid"		"15213452"
+				"pwdrequired"		"1"
+				"timeupdated"		"1722433370"
+			}
+			"thetimelooptestingavpro"
+			{
+				"buildid"		"15932558"
+				"pwdrequired"		"1"
+				"timeupdated"		"1728059505"
+			}
+			"thetimelooptestingdev"
+			{
+				"buildid"		"15060790"
+				"pwdrequired"		"1"
+				"timeupdated"		"1721216916"
+			}
+			"thetimelooptestingrc"
+			{
+				"buildid"		"15932446"
+				"pwdrequired"		"1"
+				"timeupdated"		"1728058824"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"NotGames/NotForBroadcast/Profiles"
+				"pattern"		"*.json"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"NotGames/NotForBroadcast"
+				"pattern"		"*.dat"
+			}
+		}
+	}
+}

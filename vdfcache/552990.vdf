@@ -1,0 +1,761 @@
+"552990"
+{
+	"common"
+	{
+		"name"		"World of Warships"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"icon"		"023b6bb5bcf82f9222d70cd38fdb18a899bd67e8"
+		"clienticon"		"2de148bfd77fdca5b3d526565d06b3b772bcd356"
+		"clienttga"		"3fffc7c46fb582d1b4de9d001aa79dbfe5b9768a"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"dutch"		"1"
+			"czech"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"ukrainian"		"1"
+			"latam"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"552990_eula_0"
+				"name"		"World of Warships EULA"
+				"url"		"http://store.steampowered.com//eula/552990_eula_0"
+				"version"		"4"
+			}
+		}
+		"logo"		"1cd072d4257e5299368c5efd8754925d0032b0c0"
+		"logo_small"		"1cd072d4257e5299368c5efd8754925d0032b0c0_thumb"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1656028800"
+			"tested_build_id"		"8901766"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"market_presence"		"1"
+		"metacritic_name"		"World of Warships"
+		"small_capsule"
+		{
+			"english"		"fe4d105794fbca3ccf56031da750d9bfbc76a986/capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_hero_blur"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"98.27586206896552"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"72c648cef754bd813aa7927d54fc864d04ee6099/library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"72c648cef754bd813aa7927d54fc864d04ee6099/library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image2x"
+				{
+					"english"		"77de226094a10fc182d8461ea94440ade3694917/library_hero_2x.jpg"
+				}
+				"image"
+				{
+					"english"		"77de226094a10fc182d8461ea94440ade3694917/library_hero.jpg"
+				}
+			}
+			"library_hero_blur"
+			{
+				"image"
+				{
+					"english"		"77de226094a10fc182d8461ea94440ade3694917/library_hero_blur.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"98.27586206896552"
+					"height_pct"		"100"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"8393e7b3422e83700672fbc467f82505da519b02/library_header.jpg"
+				}
+				"image2x"
+				{
+					"english"		"8393e7b3422e83700672fbc467f82505da519b02/library_header_2x.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1733736217"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Wargaming Group Limited"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Wargaming Group Limited"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"29"
+			"2"		"28"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_29"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"latam"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1510733100"
+		"steam_deck_blog_url"		"https://steamcommunity.com/app/552990/discussions/0/3418810907934174423/"
+		"metacritic_score"		"81"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/world-of-warships?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"552990"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"4994"
+			"1"		"113"
+			"2"		"6910"
+			"3"		"4150"
+			"4"		"128"
+			"5"		"3859"
+			"6"		"19"
+			"7"		"1775"
+			"8"		"1708"
+			"9"		"3987"
+			"10"		"4168"
+			"11"		"3843"
+			"12"		"5711"
+			"13"		"599"
+			"14"		"4175"
+			"15"		"1774"
+			"16"		"6730"
+			"17"		"1678"
+			"18"		"3814"
+			"19"		"1685"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"Wargaming Group Limited"
+		"publisher"		"Wargaming Group Limited"
+		"homepage"		"https://steam.worldofwarships.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"844890,845000,845010,845020,872610,891770,891780,934640,934650,934660,934680,934690,952390,980620,1005550,1200170,1200171,1230450,1230451,1230460,1232040,1232041,1326060,1351160,1351161,1414310,1420220,1420221,1453970,1455960,1481800,1546560,1585000,1628280,1628281,1650240,1650241,1690140,1739020,1739021,1753460,1797220,1826360,1826390,1849590,1862570,1880790,1887170,1889260,1890920,1953740,1954810,1954920,1991000,2004190,2004191,2004192,2008020,2008021,2008022,2009370,2060370,2060371,2066700"
+		"DLCAvailableOnStore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"World of Warships"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WorldOfWarships.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2749087993"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,autopatch,local,openssl_test,prerelease_test,publictest,supertest,test_branch,toolsqa"
+				"use_action_block"		"true"
+			}
+			"2753492051"
+			{
+				"controller_type"		"controller_ps5"
+				"enabled_branches"		"default,autopatch,local,openssl_test,prerelease_test,publictest,supertest,test_branch,toolsqa"
+				"use_action_block"		"false"
+			}
+			"2753494203"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,autopatch,local,openssl_test,prerelease_test,publictest,supertest,test_branch,toolsqa"
+				"use_action_block"		"false"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65527"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,dutch,czech,turkish,brazilian,ukrainian,latam"
+		"hasdepotsindlc"		"1"
+		"552993"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1683634873541667340"
+					"size"		"53198918825"
+					"download"		"51497061120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"openssl_test"
+				{
+					"gid"		"E06DEFCC23C531B5A4BA3EDFACE6F260"
+					"size"		"9E7711EDD3170082E985CBCB1AD911AB"
+					"download"		"1CB6A3F3F73479A1422E60E7A414F1D7"
+				}
+				"toolsqa"
+				{
+					"gid"		"BB4F77ECB0EF27EC2E3E33B218AFF128"
+					"size"		"5DDC1D0A7E403E4BD6A514B79A98913C"
+					"download"		"E89C87C330F2879E357F19DB9CF36EBA"
+				}
+				"autopatch"
+				{
+					"gid"		"794B4552B39EFBEAC766129F0D4546A8"
+					"size"		"FE0EBFAAB9FC4B2989BD3A759049153E"
+					"download"		"76FCF1F6A48E30B1079FE50B7455E864"
+				}
+				"prerelease_test"
+				{
+					"gid"		"7AD5C0DE5FAC9A3935AA7193C5F1E548"
+					"size"		"D79A31701D47839465DAE924C45E8877"
+					"download"		"1A5F40379C4E716352B778249393C0C4"
+				}
+				"publictest"
+				{
+					"gid"		"4A50744F776098A0F59C551645A021A6"
+					"size"		"AE3D155D95207D7013E9FED27914F595"
+					"download"		"BEEB957FB8E14D56BCBCF13710E372D8"
+				}
+				"supertest"
+				{
+					"gid"		"4F50FC9601E7526258F68D88F73EC748"
+					"size"		"28455EED98D8FFF42ACC5FCCD9F350F3"
+					"download"		"A5241B2281C340FC36259A40AAEBD26F"
+				}
+				"test_branch"
+				{
+					"gid"		"ABB0A6CF98AF7C5E9E4E5757B0AFEA35"
+					"size"		"DE539E33CF28E099B6B651D98214901D"
+					"download"		"5E0DE6564D6071B1D9A40D9582593AE6"
+				}
+			}
+		}
+		"552991"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6471507754344963259"
+					"size"		"23709221102"
+					"download"		"23000952640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"openssl_test"
+				{
+					"gid"		"A2A633C60F18148EF1DD372045B50207"
+					"size"		"A15A3C4E3C81C4CD78064E5C5957C3AA"
+					"download"		"4A48571E2874AA9C5D53B7FCAED6F337"
+				}
+				"toolsqa"
+				{
+					"gid"		"E1F8B70602481EA7E12A4B1C5D4A6A6F"
+					"size"		"3620EF23B999F42CEDD78103741046CE"
+					"download"		"CC7C0DCF08F591408FF3098D1077E0AD"
+				}
+				"autopatch"
+				{
+					"gid"		"6C1572B072855D3578D6698BDC04D4D9"
+					"size"		"62A9444C71C95875EA8E1B5FBFC44234"
+					"download"		"D51D93393C3DF803C19CA168887C0925"
+				}
+				"prerelease_test"
+				{
+					"gid"		"35E01E7B8EEF74BDA4E88AB7E0096D0D"
+					"size"		"A3D528C9F4A558B47D95C2111C8F3C4F"
+					"download"		"70D8D689938DDD8B3874A40B9AF0CD18"
+				}
+				"publictest"
+				{
+					"gid"		"393FDD5021A689D0C41B4008DB377DC8"
+					"size"		"18EDA51D8459BA464358643EB0A39CD8"
+					"download"		"CF7112F3403918C642D4D30D5E49043D"
+				}
+				"supertest"
+				{
+					"gid"		"2C28BF4EABD78EDD9C7DE5B290DA7082"
+					"size"		"29D5BEB939A69DA57ABCFB7813EA5028"
+					"download"		"C66F8EB75E3B6F46717DFEC9410BB277"
+				}
+				"test_branch"
+				{
+					"gid"		"2E464CEA244CEA45BAC7510A3C79335D"
+					"size"		"07BCB84984E4E30D47B5DF63A2005216"
+					"download"		"F1CFCED988409544AC6C7B24535236BD"
+				}
+			}
+		}
+		"552994"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3977075273017738701"
+					"size"		"225745041"
+					"download"		"37475904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"openssl_test"
+				{
+					"gid"		"23E390FCA7165D1E4D26CFEEE9857F1E"
+					"size"		"6545360E15572490CC762A5B9F0993B6"
+					"download"		"59CF36C99F4EAD2ED09CFACBAC680D25"
+				}
+				"toolsqa"
+				{
+					"gid"		"5A3C4BAB47C7343CCDFAECFD64359A20"
+					"size"		"3FA4B486849A0185D33E99548B3E51D0"
+					"download"		"EDEC21A1D0BB2644D423101D4D8BFA86"
+				}
+				"autopatch"
+				{
+					"gid"		"0307A4DE1D77C592C867CD8D1B63BB89"
+					"size"		"8E028148C137E89A31C20A200D826C57"
+					"download"		"B8182003C76E7A8B889F34043EFEE167"
+				}
+				"prerelease_test"
+				{
+					"gid"		"EC7BB4BE68DEAC1731753EF917D703E8"
+					"size"		"F434ADC3F593F32BC488F8167FE52681"
+					"download"		"42BBE0BD863EDD8C056769FA11C35951"
+				}
+				"publictest"
+				{
+					"gid"		"BE71B2A31F811A7A253A4AA4044470F2"
+					"size"		"F921E79701B90AF063BF71D4BB0561F8"
+					"download"		"9240D793F610D6E2B5867476BDA594C4"
+				}
+				"supertest"
+				{
+					"gid"		"B90C2F2D6544F34BE75FBFA742A28B92"
+					"size"		"CFBEF4DFB87DB02B61B79D987F9BE587"
+					"download"		"26E35C084ECCE489ADE64C7BFE92A9D0"
+				}
+				"test_branch"
+				{
+					"gid"		"3085857B204C406CA05BEE1601F11416"
+					"size"		"FF87886E7F924E58F32D01DFA4498CB1"
+					"download"		"0BC03A8A0BDF6A9860BAD777CC95414C"
+				}
+			}
+		}
+		"552992"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"53635004422444341"
+					"size"		"163"
+					"download"		"160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"openssl_test"
+				{
+					"gid"		"5A25B39DAD6123B445367CDFF5BF3135"
+					"size"		"752AAC96957E449C649BC2766E1B8740"
+					"download"		"F9878A0483C105EE277331E66AFA5FCF"
+				}
+				"toolsqa"
+				{
+					"gid"		"5AD37AE0B03F93E77B0E74EF1E9C1521"
+					"size"		"A59EBEB6D26AB1B3FB5BA004117CF1A4"
+					"download"		"E0B41D215AB5EE4147FBF29C3131FD5E"
+				}
+				"autopatch"
+				{
+					"gid"		"73823879549D41968126767B621BA265"
+					"size"		"0BA66C6733F90C07DC5077E41CE2D641"
+					"download"		"48ACE094128E05ADED8248833442256E"
+				}
+				"prerelease_test"
+				{
+					"gid"		"7BF88F9089D50BEFFF10284D66A4C5BF"
+					"size"		"6778190BD0DCACFB43771E93C3AAF818"
+					"download"		"CF3A78D5A050B41FE5C15965EDB986C6"
+				}
+				"publictest"
+				{
+					"gid"		"5CB3E64AD4FDEE93427481A5CEA3B544"
+					"size"		"8604CF1279FBF16C9747175D326C5239"
+					"download"		"5EE1D9732F8D5D0AD707177808EA729D"
+				}
+				"supertest"
+				{
+					"gid"		"0A5FAC0B5E29D102919FC51E7B405DFD"
+					"size"		"CCC9FDF4E056694975C011DF9FE4B92E"
+					"download"		"17C6A139601F5DDAAD2B08657AF9C275"
+				}
+				"test_branch"
+				{
+					"gid"		"E919A3E9550EA23E2071E3E760BDD052"
+					"size"		"1D876824A00D2AD1886AAFF959A356F5"
+					"download"		"1DB40B6F1D5508B72B3EAFEEDB0E4AC6"
+				}
+			}
+		}
+		"552996"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4635489861143683887"
+					"size"		"2898698"
+					"download"		"2909744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"openssl_test"
+				{
+					"gid"		"7BB18723C726805647E9210F9B2DD2E7"
+					"size"		"9EC1CDA1D5A14513CA94EC4409AF2AC8"
+					"download"		"13557631CE21F9B7D222CE935E14F627"
+				}
+				"autopatch"
+				{
+					"gid"		"C82700D9896CF6BFAD0AEEC4C9E1B354"
+					"size"		"67E217D0975ECFCF4A783C29B7CA9768"
+					"download"		"505815703A38DB2D247BB1DBDFB91FF2"
+				}
+				"prerelease_test"
+				{
+					"gid"		"3BA5442F5C51E82CD9607AA482C16BF1"
+					"size"		"0E2DF76EC7D1987B682323D2748BA082"
+					"download"		"BF1A34D3CC9C0D4C75771D33F8123980"
+				}
+				"publictest"
+				{
+					"gid"		"E3DB831D283C715513C90E0D3E260F42"
+					"size"		"442F2D9099B1F80812BF3F0E848C34D1"
+					"download"		"98C365DBC4A43659408A08B8AE14B168"
+				}
+				"test_branch"
+				{
+					"gid"		"2393F145FC415A19FA5C62F38D354531"
+					"size"		"3D8C47CC626D00F8BE44E9EDDD6C2CAE"
+					"download"		"AABEA64530AF18C58C020F8377986FAE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16488104"
+				"timeupdated"		"1732608271"
+			}
+			"openssl_test"
+			{
+				"buildid"		"10577171"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676647284"
+			}
+			"toolsqa"
+			{
+				"buildid"		"11347879"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685433201"
+			}
+			"autopatch"
+			{
+				"buildid"		"16700860"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733875535"
+			}
+			"prerelease_test"
+			{
+				"buildid"		"16488104"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732201774"
+			}
+			"publictest"
+			{
+				"buildid"		"15152332"
+				"pwdrequired"		"1"
+				"timeupdated"		"1721922148"
+			}
+			"supertest"
+			{
+				"buildid"		"14223080"
+				"pwdrequired"		"1"
+				"timeupdated"		"1714491037"
+			}
+			"test_branch"
+			{
+				"buildid"		"16051931"
+				"pwdrequired"		"1"
+				"timeupdated"		"1728997857"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+		"appidredirect"		"552990"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"/"
+				"pattern"		"currentrealm.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}

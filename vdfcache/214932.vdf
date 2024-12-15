@@ -1,0 +1,150 @@
+"214932"
+{
+	"common"
+	{
+		"name"		"BioShock Infinite: Burial at Sea - Episode 2"
+		"type"		"DLC"
+		"parent"		"8870"
+		"releasestate"		"released"
+		"icon"		"a0f27dc1b1dcde250b4c8b8b7f8c36e4dbf253af"
+		"logo"		"cd783570d5b90bec674e0db9bd7c80a43dee42d0"
+		"logo_small"		"cd783570d5b90bec674e0db9bd7c80a43dee42d0_thumb"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"metacritic_name"		"BioShock Infinite: Burial at Sea - Episode Two"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_2a7d8c51dea40bb6bf36870dd1ffdd84e1323705.jpg"
+		"store_asset_mtime"		"1395335308"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Irrational Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Virtual Programming (Linux)"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"2K"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1395766620"
+		"metacritic_score"		"80"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/bioshock-infinite-burial-at-sea---episode-two?ftag=MCD-06-10aaa1f"
+		"gameid"		"214932"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4166"
+			"2"		"1687"
+			"3"		"1742"
+			"4"		"7208"
+			"5"		"1663"
+			"6"		"4182"
+			"7"		"3839"
+			"8"		"1777"
+			"9"		"1774"
+			"10"		"21"
+			"11"		"3942"
+			"12"		"1667"
+			"13"		"6052"
+			"14"		"1756"
+			"15"		"5611"
+			"16"		"9204"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"Irrational Games"
+		"dlcforappid"		"8870"
+		"gamedir"		"ValveTestApp214932"
+		"homepage"		"http://www.bioshockinfinite.com/"
+		"icon"		""
+		"mustownapptopurchase"		"8870"
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"2K"
+		"dlcavailableonstore"		"1"
+	}
+}

@@ -1,0 +1,1155 @@
+"1158160"
+{
+	"common"
+	{
+		"name"		"Coral Island"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"553361909bfd450790049a871ebf4b0573b365f9"
+		"logo_small"		"553361909bfd450790049a871ebf4b0573b365f9_thumb"
+		"icon"		"5399c1ca458f4d6c8cd5133de6f12e37ade5f194"
+		"clienticon"		"90cb7e862200a91378e8f530e33ee5d74a452fde"
+		"clienttga"		"badc9d92f0d88825a4630004f661888d906aff06"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"indonesian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1687392000"
+			"tested_build_id"		"11484148"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"153ddc8eb755eaa1b94b592b5316a972acb715e5/capsule_231x87.jpg"
+			"thai"		"82c2a50ea408e95a69dcefa29df5ed4d991c2ed9/capsule_231x87_thai.jpg"
+			"schinese"		"e9e6ee4bd2f211341daba32aac9c96236c8d20f0/capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"thai"		"header_thai.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"39.38156359393231"
+				"height_pct"		"47.3402992163382"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+					"schinese"		"library_600x900_schinese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+					"schinese"		"library_600x900_schinese_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+					"schinese"		"library_hero_schinese.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_hero_2x.jpg"
+					"schinese"		"library_hero_schinese_2x.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"logo_position"
+				{
+					"pinned_position"		"BottomLeft"
+					"width_pct"		"39.38156359393231"
+					"height_pct"		"47.3402992163382"
+				}
+				"image"
+				{
+					"english"		"logo.png"
+					"schinese"		"logo_schinese.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+					"schinese"		"logo_schinese_2x.png"
+				}
+			}
+		}
+		"store_asset_mtime"		"1732058286"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Stairway Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Humble Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Humble Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1699974544"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1158160"
+		"store_tags"
+		{
+			"0"		"87918"
+			"1"		"10235"
+			"2"		"1654"
+			"3"		"9551"
+			"4"		"599"
+			"5"		"22602"
+			"6"		"122"
+			"7"		"1702"
+			"8"		"4747"
+			"9"		"4182"
+			"10"		"1643"
+			"11"		"3810"
+			"12"		"1695"
+			"13"		"597"
+			"14"		"21"
+			"15"		"492"
+			"16"		"15564"
+			"17"		"5981"
+			"18"		"4195"
+			"19"		"44868"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Stairway Games"
+		"publisher"		"Humble Games"
+		"homepage"		"https://www.stairwaygames.com/coral-island"
+		"listofdlc"		"2273380,2471180,2537800,2561700,2626420"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Coral Island"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ProjectCoral.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"BetaKey"		"CORALBETA"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"13"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1158161"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"771582970056257684"
+					"size"		"13210072486"
+					"download"		"10220872848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_testing"
+				{
+					"gid"		"580B600C0F5D264B7EE1B9C45A55ABB5"
+					"size"		"B93F22431636FC2C093CA03B00F5383D"
+					"download"		"9A48B8FCF034F26C00DD11366783664E"
+				}
+				"coralpress"
+				{
+					"gid"		"2227859D705CDCC44A842739AA88999B"
+					"size"		"B12752C07BD150E345BAC8EB1C2E08DA"
+					"download"		"3A315B8ED4EE01DA0F48C8675FCFD7F5"
+				}
+				"external_partners"
+				{
+					"gid"		"C4A6C3816FD6EA0E56D40DEB81695348"
+					"size"		"7B07A2096BC6FF3582E3FACA6EBB4971"
+					"download"		"A31A8FF66F58A73F5D475325C4C63755"
+				}
+				"external_reviewer"
+				{
+					"gid"		"6B3ED479DEB1E1C958BBA8E33FF94260"
+					"size"		"772BF0923341FEF63893CCBF9569899C"
+					"download"		"018DEA2836B8318B7BC456ECBCD8F72A"
+				}
+				"finalpatch2"
+				{
+					"gid"		"DEADAB86D98DF4989BC76D4444468009"
+					"size"		"40CB2972A735B189543047560EFF780C"
+					"download"		"8516506EB7A47BD3FFADEBDEC94561C0"
+				}
+				"oodle"
+				{
+					"gid"		"BD308A7B9527CC0D7E48836B22AF390C"
+					"size"		"3F715058FCD60649390B3F64228DBCCC"
+					"download"		"925CADE541439186A46B2388624F218D"
+				}
+				"qaonly"
+				{
+					"gid"		"6BD94BF1F8FD8BEC3D99C2628DDCBFB2"
+					"size"		"D77A24BE55A581D0C0F6589A3E50C095"
+					"download"		"C19B1CE931C5986B68EF8F5016AC3CF0"
+				}
+				"alpha_deploy"
+				{
+					"gid"		"8C79E427AC1F176E6C2E3BE265B5528D"
+					"size"		"B8BFE1461A8A4AD6E485595A7F5AA602"
+					"download"		"29B292874EC5F1FCB296826EECC004F7"
+				}
+				"alpha_testing"
+				{
+					"gid"		"10D74DB350841DCBA7D848107F4453A7"
+					"size"		"83788D06DE3E1532927573153BA83BCA"
+					"download"		"BE2D58FF3C2DCC140317F726589BE25E"
+				}
+				"beta_internal"
+				{
+					"gid"		"195E46C23DC88179A3B2EF00BD000392"
+					"size"		"6BB8EC09E1A3B2ACB300387472A7E70A"
+					"download"		"9E3439D67339765155B042C9B28EE33C"
+				}
+				"beta_internal_testing"
+				{
+					"gid"		"63D2F9F872BB2BDAAFE9F1A616E4794F"
+					"size"		"1335BC52627E5635C96F85F2009A43D1"
+					"download"		"E3C469686CDF64FAE558B782D91E8718"
+				}
+				"beta_playtest"
+				{
+					"gid"		"3F6BA0392A563E8D55B21B6C98415262"
+					"size"		"7CF914781B6CEA0548A46107BA81D009"
+					"download"		"1BD99C4867637A4969B70F9FE2FB66B0"
+				}
+				"main_oto"
+				{
+					"gid"		"94E227B3B53EDCDE9349FA267F5A6008"
+					"size"		"BFA8CD15035C36FA2985FA8F5A26CC00"
+					"download"		"D8D7C83051AD5496459C8E5907BC3F18"
+				}
+				"milestone2024"
+				{
+					"gid"		"19AB4ABF93D4247BA308FE1857FAC93E"
+					"size"		"8881C6691805D037D5FBB43BB8984773"
+					"download"		"84F5D55682044AB2D090F438C8B4E724"
+				}
+				"mp_alpha"
+				{
+					"gid"		"99E72465384B4C946167B6E7F19F1E5A"
+					"size"		"0FBEC37396F47AC710CDCBCEE98CCBB5"
+					"download"		"F697C071471C835D9AD69409B0CD654C"
+				}
+				"mp_alpha_testing"
+				{
+					"gid"		"D503069CFB1E9B3FDFE44C8CC88A88FD"
+					"size"		"E0F88AA549AE9710E056982714E208D1"
+					"download"		"E370ED4CF8C24B5763D7006463BCA89B"
+				}
+				"mp_latest"
+				{
+					"gid"		"FF53D0062D2A370730BFF148AF6E23B1"
+					"size"		"768195ECF2D7FFB0ED66D289EB947DF9"
+					"download"		"3B89F5D3FD8352A2A096EDDB5015F638"
+				}
+				"mp_latest_testing"
+				{
+					"gid"		"4125C74D3FD2CF802C6994B5E11A54A4"
+					"size"		"57E79CF291D8A16D5B3DC3A87A2A0F6B"
+					"download"		"FE72D964DFD63EA8B30C8EC0986AD7CF"
+				}
+				"staging"
+				{
+					"gid"		"564E294F3494568D0E885D37B0529D64"
+					"size"		"5ECD3C39EE66380352F7091C1E5582B9"
+					"download"		"950F0D80F1C7657057FFEFE2C00C1062"
+				}
+				"staging_test"
+				{
+					"gid"		"3B336183DF81F44BAC723ECA81273107"
+					"size"		"474FF9620E37BA8BB29CEA5366B7D035"
+					"download"		"25E16A1B60D363A62789DC31584FF474"
+				}
+				"unreal5"
+				{
+					"gid"		"FA9ABD6428CC9CC11C294578686983BE"
+					"size"		"471780B8B0AB7422AFAA81D67076A3EE"
+					"download"		"012D31FFBA347541B69461972DE4CC4D"
+				}
+			}
+		}
+		"2273380"
+		{
+			"dlcappid"		"2273380"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8577500605315709614"
+					"size"		"9"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"coralpress"
+				{
+					"gid"		"9DD992456759AD002DA9A79D9E6A2D0D"
+					"size"		"0DF30351ED865107B3CDDB62B759CD46"
+					"download"		"2655983061BBABD2E0F913D192DF2414"
+				}
+				"finalpatch2"
+				{
+					"gid"		"8EEDC3481000D07AB89D6AF2631A6173"
+					"size"		"07E1C65A9631973C6F86270C6CDC95C7"
+					"download"		"29997995F2A07EC3EF2746B2050B6DA8"
+				}
+				"oodle"
+				{
+					"gid"		"206E4634F4379C9D0794B75DD1714EF3"
+					"size"		"2BFD9CA88544AEBC592AECA76A182221"
+					"download"		"DEC28D889DDDCE823025E5A1CEE501E5"
+				}
+				"qaonly"
+				{
+					"gid"		"8FCDF8B24E45714DE67FA28DD417BAFB"
+					"size"		"21ECF57F0206B22894577A441CB7F978"
+					"download"		"AC3D90EAC20650DD4BAEBECAE5414C50"
+				}
+				"alpha_deploy"
+				{
+					"gid"		"73235CFB62216D6100AACC04ED7B6E6C"
+					"size"		"9A19233FA149C24799A6025DAEB69E5A"
+					"download"		"05FC0EC6B1CE19446A8C6522BEECFD96"
+				}
+				"alpha_testing"
+				{
+					"gid"		"217A4917391287D62B067EF53AA73D1D"
+					"size"		"20AD96CF471C976EEFAF4822CFE600B2"
+					"download"		"45400BAD7129E750C200F73FB7B120A6"
+				}
+				"beta_internal_testing"
+				{
+					"gid"		"BDCA2C263965B430019424FF6C8A3BE3"
+					"size"		"3C2E04420AD4BED48D9BB1A53C97EAD4"
+					"download"		"AFD2CFEC5874E6D054DC88A34A390C92"
+				}
+				"beta_playtest"
+				{
+					"gid"		"4CBA363B0D607C2115DB0A78246722A5"
+					"size"		"03248E8FF2400FE66A602AC55DE65826"
+					"download"		"5E3B0612B2D5969953155406B2B11A60"
+				}
+				"main_oto"
+				{
+					"gid"		"115BE09BB8D3748DF7658597EBDC351B"
+					"size"		"114221343A5D1FF974F4423FC43C22E5"
+					"download"		"D31FF1B92940FE0A2A987F7F323AD2FD"
+				}
+				"milestone2024"
+				{
+					"gid"		"31590E3D0C1D6900F394E508578F4CA0"
+					"size"		"81AB5D9A9F29A1EF07284B1F8B6B7D6B"
+					"download"		"F5059AE92A67367F4B388051EA1B8854"
+				}
+				"mp_alpha"
+				{
+					"gid"		"5DAE3D0A0CEACC17D7CEDEDB5E709366"
+					"size"		"96D77426875022C5687E0113B231A4BF"
+					"download"		"46B473CF0E6A4ABF75C54D2B7CD419F8"
+				}
+				"mp_alpha_testing"
+				{
+					"gid"		"45C32B60A7391F18A578788722D490E4"
+					"size"		"F417ADF1D7B44208DB03BFEFB569FFF1"
+					"download"		"F5B8B501A5621B52722C1AB8E2D34704"
+				}
+				"mp_latest"
+				{
+					"gid"		"B6C9D35ED956342611D0C879CFE9C5EC"
+					"size"		"B49873716AB193025F0E28503E7F9EF8"
+					"download"		"3ECF41D3E7983B103E478F42778F428E"
+				}
+				"mp_latest_testing"
+				{
+					"gid"		"AFA228D93F251BD44E68A4D63BE54010"
+					"size"		"99330CF262207D1DB65E67E0AAEF5237"
+					"download"		"671AB596A72A67DBE0109C1FBF54FCF1"
+				}
+				"staging"
+				{
+					"gid"		"7A9AB0C05682DCBF62F60A2CC97A0F85"
+					"size"		"B0E6074A426A3E89763150F59CBA052A"
+					"download"		"C2CBDF155790037C43002304BC728898"
+				}
+				"staging_test"
+				{
+					"gid"		"DB63984D8A1D0CABF69BE65B97C25877"
+					"size"		"33AEA1C17D48FCD71E46E56EB632FAE7"
+					"download"		"6A50E6BB9EFD62F614589B0F5CCAD615"
+				}
+				"unreal5"
+				{
+					"gid"		"E85BFAEC7D593317BCEF88160ED3D041"
+					"size"		"E61DFA8C8F696E6DA43E7837196F137F"
+					"download"		"DD038FB0B5FC9AA63E0E2B7648800244"
+				}
+			}
+		}
+		"2471180"
+		{
+			"dlcappid"		"2471180"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1643256457515370317"
+					"size"		"8"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"coralpress"
+				{
+					"gid"		"677C6DBF8582031ACA55FF07862187B5"
+					"size"		"17557AD7696F640CEF3124E6E5135DA9"
+					"download"		"2655983061BBABD2E0F913D192DF2414"
+				}
+				"finalpatch2"
+				{
+					"gid"		"1E034C3E3E92C83AD19BD9ED6D36D2A1"
+					"size"		"69F6DABB259B76DFD71C5A7C2CBC4C96"
+					"download"		"29997995F2A07EC3EF2746B2050B6DA8"
+				}
+				"oodle"
+				{
+					"gid"		"449D824DBA7F6E04D483B9D4A0411672"
+					"size"		"22EF5A085D9C9EAE9DB7ACC48A51A99C"
+					"download"		"DEC28D889DDDCE823025E5A1CEE501E5"
+				}
+				"qaonly"
+				{
+					"gid"		"E5928C3986BEBD0DA7A2549432687F3D"
+					"size"		"A2A643D523F1A1A5EE0919BFB28D149D"
+					"download"		"AC3D90EAC20650DD4BAEBECAE5414C50"
+				}
+				"alpha_deploy"
+				{
+					"gid"		"9AB04CB850B4D4C84D5C820F921F31E1"
+					"size"		"CAC9585C3E417524FA551A47D5FB959C"
+					"download"		"05FC0EC6B1CE19446A8C6522BEECFD96"
+				}
+				"alpha_testing"
+				{
+					"gid"		"9B8D06445BAB68191ED8F2001AE5E1BE"
+					"size"		"A8CB14B7CF69E7EAA2F722E84D0E874B"
+					"download"		"DB7D8625E9DB9D8149969EF3354A78D1"
+				}
+				"beta_internal_testing"
+				{
+					"gid"		"C8F15C94EB3DE25C7E075002337D5E03"
+					"size"		"CB52909C4EA365BE7B926F45D1669D7A"
+					"download"		"AFD2CFEC5874E6D054DC88A34A390C92"
+				}
+				"beta_playtest"
+				{
+					"gid"		"306125BCE47252C6FD8EEEF373D4E433"
+					"size"		"A5FDCEF5688278E089271B2A046D362A"
+					"download"		"5E3B0612B2D5969953155406B2B11A60"
+				}
+				"main_oto"
+				{
+					"gid"		"9A3C668FAD7A9182D2026580E309F738"
+					"size"		"6B4538222CFE5F096412675AFB7DD804"
+					"download"		"D31FF1B92940FE0A2A987F7F323AD2FD"
+				}
+				"milestone2024"
+				{
+					"gid"		"ECD9534978D323F07161E911C43E2DBA"
+					"size"		"03382F4A44A5ADDFE1B805145D4FE077"
+					"download"		"F5059AE92A67367F4B388051EA1B8854"
+				}
+				"mp_alpha"
+				{
+					"gid"		"5A4F3628CC764DF4E01F67FED90313E1"
+					"size"		"4CB92C15637055CBF52A84C5C8F2D624"
+					"download"		"46B473CF0E6A4ABF75C54D2B7CD419F8"
+				}
+				"mp_alpha_testing"
+				{
+					"gid"		"DF9BE2BBC738DFF8106CE1E36E5A4DC3"
+					"size"		"DD7790F671874CF86ECAE9019485E704"
+					"download"		"F5B8B501A5621B52722C1AB8E2D34704"
+				}
+				"mp_latest"
+				{
+					"gid"		"32BBE6246CE8DBEE14A7DD3EB270C4F4"
+					"size"		"2A62BF394C95954FD1D6F3F7C210F1C2"
+					"download"		"3ECF41D3E7983B103E478F42778F428E"
+				}
+				"mp_latest_testing"
+				{
+					"gid"		"CED4685A0BB2092E4E27EA67ABA65B1C"
+					"size"		"4EB9AA5519BB10E6E87FF0B2FAAF2C9A"
+					"download"		"671AB596A72A67DBE0109C1FBF54FCF1"
+				}
+				"staging"
+				{
+					"gid"		"99E1821EA757DB9CFE4014185BE185F7"
+					"size"		"FB98B106761F3E1F7D6225614F62D247"
+					"download"		"C2CBDF155790037C43002304BC728898"
+				}
+				"staging_test"
+				{
+					"gid"		"3A8FA2BC29A43CF2022D21B9BCBF002A"
+					"size"		"474D071A8A770FC0D4B7D28472DA2BA5"
+					"download"		"6A50E6BB9EFD62F614589B0F5CCAD615"
+				}
+				"unreal5"
+				{
+					"gid"		"A66A5CD774797DA7D07127EEE38B3F10"
+					"size"		"DB049AD6DADD652C6365FF36EAF70A31"
+					"download"		"DD038FB0B5FC9AA63E0E2B7648800244"
+				}
+			}
+		}
+		"2537800"
+		{
+			"dlcappid"		"2537800"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9022386239993204092"
+					"size"		"8"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha_deploy"
+				{
+					"gid"		"F795FB739206708DEE4FAE1323FDA924"
+					"size"		"CAC9585C3E417524FA551A47D5FB959C"
+					"download"		"05FC0EC6B1CE19446A8C6522BEECFD96"
+				}
+				"beta_internal_testing"
+				{
+					"gid"		"051FFBE9106B0BB5DC7BCF205DEF825B"
+					"size"		"CB52909C4EA365BE7B926F45D1669D7A"
+					"download"		"AFD2CFEC5874E6D054DC88A34A390C92"
+				}
+				"beta_playtest"
+				{
+					"gid"		"9B8E920DCA4574730CFB36BCC5F6F67B"
+					"size"		"A5FDCEF5688278E089271B2A046D362A"
+					"download"		"5E3B0612B2D5969953155406B2B11A60"
+				}
+				"main_oto"
+				{
+					"gid"		"8066EB73F3897C457BEA3164645BF70B"
+					"size"		"6B4538222CFE5F096412675AFB7DD804"
+					"download"		"D31FF1B92940FE0A2A987F7F323AD2FD"
+				}
+				"milestone2024"
+				{
+					"gid"		"1F9695DB4B6FA26BDA24102A080E4B82"
+					"size"		"03382F4A44A5ADDFE1B805145D4FE077"
+					"download"		"F5059AE92A67367F4B388051EA1B8854"
+				}
+				"mp_alpha"
+				{
+					"gid"		"068EC58ADA994C006B1609F6C1D14A87"
+					"size"		"4CB92C15637055CBF52A84C5C8F2D624"
+					"download"		"46B473CF0E6A4ABF75C54D2B7CD419F8"
+				}
+				"mp_alpha_testing"
+				{
+					"gid"		"5C90AAEDF2531585FA8A089018E28761"
+					"size"		"DD7790F671874CF86ECAE9019485E704"
+					"download"		"F5B8B501A5621B52722C1AB8E2D34704"
+				}
+				"mp_latest"
+				{
+					"gid"		"4E49B1D8B3FEC29CF0264107FAA0FA63"
+					"size"		"2A62BF394C95954FD1D6F3F7C210F1C2"
+					"download"		"3ECF41D3E7983B103E478F42778F428E"
+				}
+				"mp_latest_testing"
+				{
+					"gid"		"7C715A170DF37C6F3BE8CC7F26D12BED"
+					"size"		"4EB9AA5519BB10E6E87FF0B2FAAF2C9A"
+					"download"		"671AB596A72A67DBE0109C1FBF54FCF1"
+				}
+				"staging"
+				{
+					"gid"		"4BC0B2A4615F95F962AB14BBD1F7EB16"
+					"size"		"FB98B106761F3E1F7D6225614F62D247"
+					"download"		"C2CBDF155790037C43002304BC728898"
+				}
+				"staging_test"
+				{
+					"gid"		"51DF0948C98BBB4805A77FA37D4C5AA3"
+					"size"		"474D071A8A770FC0D4B7D28472DA2BA5"
+					"download"		"6A50E6BB9EFD62F614589B0F5CCAD615"
+				}
+				"unreal5"
+				{
+					"gid"		"58876C6D173839AD3E90723804D243F9"
+					"size"		"DB049AD6DADD652C6365FF36EAF70A31"
+					"download"		"DD038FB0B5FC9AA63E0E2B7648800244"
+				}
+			}
+		}
+		"2561700"
+		{
+			"dlcappid"		"2561700"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7174135975303627316"
+					"size"		"8"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"coralpress"
+				{
+					"gid"		"354CE72832FB4C132A60A579CBF63D4D"
+					"size"		"17557AD7696F640CEF3124E6E5135DA9"
+					"download"		"2655983061BBABD2E0F913D192DF2414"
+				}
+				"alpha_deploy"
+				{
+					"gid"		"F540BD8DECB3117D98E28019FB53953D"
+					"size"		"CAC9585C3E417524FA551A47D5FB959C"
+					"download"		"05FC0EC6B1CE19446A8C6522BEECFD96"
+				}
+				"beta_internal_testing"
+				{
+					"gid"		"3F33EE080F037B050CF04624BD1B2735"
+					"size"		"CB52909C4EA365BE7B926F45D1669D7A"
+					"download"		"AFD2CFEC5874E6D054DC88A34A390C92"
+				}
+				"beta_playtest"
+				{
+					"gid"		"440E35BBFEBF2ACB3D87DC00843ADF7D"
+					"size"		"A5FDCEF5688278E089271B2A046D362A"
+					"download"		"5E3B0612B2D5969953155406B2B11A60"
+				}
+				"main_oto"
+				{
+					"gid"		"150608D8EEBCEA49432B3E1F8B6BD7AD"
+					"size"		"6B4538222CFE5F096412675AFB7DD804"
+					"download"		"D31FF1B92940FE0A2A987F7F323AD2FD"
+				}
+				"milestone2024"
+				{
+					"gid"		"2A3BD3FE44C169BACD2AB563E113EAE1"
+					"size"		"03382F4A44A5ADDFE1B805145D4FE077"
+					"download"		"F5059AE92A67367F4B388051EA1B8854"
+				}
+				"mp_alpha"
+				{
+					"gid"		"53C81C4EBC7384A15314638C8CC9C798"
+					"size"		"4CB92C15637055CBF52A84C5C8F2D624"
+					"download"		"46B473CF0E6A4ABF75C54D2B7CD419F8"
+				}
+				"mp_alpha_testing"
+				{
+					"gid"		"EE15FC85A9A941075D085E25EDDE55D6"
+					"size"		"DD7790F671874CF86ECAE9019485E704"
+					"download"		"F5B8B501A5621B52722C1AB8E2D34704"
+				}
+				"mp_latest"
+				{
+					"gid"		"FC7A63D5AC824D3113D0FEC13E747F3A"
+					"size"		"2A62BF394C95954FD1D6F3F7C210F1C2"
+					"download"		"3ECF41D3E7983B103E478F42778F428E"
+				}
+				"mp_latest_testing"
+				{
+					"gid"		"6319EBA91A90449AAFCE5A1535E1496F"
+					"size"		"4EB9AA5519BB10E6E87FF0B2FAAF2C9A"
+					"download"		"671AB596A72A67DBE0109C1FBF54FCF1"
+				}
+				"staging"
+				{
+					"gid"		"2C3FD9B811D93E27978FA289BB97BE8B"
+					"size"		"FB98B106761F3E1F7D6225614F62D247"
+					"download"		"C2CBDF155790037C43002304BC728898"
+				}
+				"staging_test"
+				{
+					"gid"		"CDEE0EBF0E6331F2D56627CF89E1952B"
+					"size"		"474D071A8A770FC0D4B7D28472DA2BA5"
+					"download"		"6A50E6BB9EFD62F614589B0F5CCAD615"
+				}
+				"unreal5"
+				{
+					"gid"		"D2A4D43A06069D476ADC94D54C8920DF"
+					"size"		"DB049AD6DADD652C6365FF36EAF70A31"
+					"download"		"DD038FB0B5FC9AA63E0E2B7648800244"
+				}
+			}
+		}
+		"2626420"
+		{
+			"dlcappid"		"2626420"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6493947519583149268"
+					"size"		"10"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"coralpress"
+				{
+					"gid"		"3A85FED164128ECE2F027DEF1F03C3F8"
+					"size"		"4B8B2257E4E5CD60F03E80BBAB45283B"
+					"download"		"2655983061BBABD2E0F913D192DF2414"
+				}
+				"alpha_deploy"
+				{
+					"gid"		"23A5227BC38840BFE2EEB3D7FD6612F3"
+					"size"		"088A68268237BCCBC4B0019FA088283E"
+					"download"		"05FC0EC6B1CE19446A8C6522BEECFD96"
+				}
+				"beta_internal_testing"
+				{
+					"gid"		"419AF9C6C2CB7BB24679224805A5FBA3"
+					"size"		"FCB4134FAB025B078044A10479D9E03D"
+					"download"		"AFD2CFEC5874E6D054DC88A34A390C92"
+				}
+				"beta_playtest"
+				{
+					"gid"		"FB54E2606F348383A747F0DAF969501E"
+					"size"		"B5B58D6CEC1FBD58DA569F9F813054B2"
+					"download"		"5E3B0612B2D5969953155406B2B11A60"
+				}
+				"main_oto"
+				{
+					"gid"		"EA798DA1B5E4E09E7E2051E3D205D8A3"
+					"size"		"DC94310F32293A7D19C2065F81B6378F"
+					"download"		"D31FF1B92940FE0A2A987F7F323AD2FD"
+				}
+				"milestone2024"
+				{
+					"gid"		"4D86D65CEA111C9D81CD69533FBE4C5C"
+					"size"		"265D394BD6F967D666185F1573149D30"
+					"download"		"F5059AE92A67367F4B388051EA1B8854"
+				}
+				"mp_alpha"
+				{
+					"gid"		"BD774346079BF8FFB04D79E7759835D1"
+					"size"		"2E85AB420CF07150F643C11E1F6E17D6"
+					"download"		"46B473CF0E6A4ABF75C54D2B7CD419F8"
+				}
+				"mp_alpha_testing"
+				{
+					"gid"		"E74F1FC1E288C381C49112DC371EBD75"
+					"size"		"F840D954A689502C9B6EC66058B8637E"
+					"download"		"F5B8B501A5621B52722C1AB8E2D34704"
+				}
+				"mp_latest"
+				{
+					"gid"		"C475B3B9938D6F7379508D132C1028F6"
+					"size"		"3E0CE9BF7925FAF2B41FEBF6A8DE39BF"
+					"download"		"3ECF41D3E7983B103E478F42778F428E"
+				}
+				"mp_latest_testing"
+				{
+					"gid"		"49F9782998D2BA8C465723EFCB42C8CA"
+					"size"		"D310FB4CAE11250D2B5774E723ED0640"
+					"download"		"671AB596A72A67DBE0109C1FBF54FCF1"
+				}
+				"staging"
+				{
+					"gid"		"EE3E4BDFEC23D563D10B427F931516B7"
+					"size"		"C22FBD42917DB86591282B2A45FE0796"
+					"download"		"C2CBDF155790037C43002304BC728898"
+				}
+				"staging_test"
+				{
+					"gid"		"E73A4A739B3AB8DF923FEF73981901DC"
+					"size"		"6509F44CAC2444CB7509D1D14C36950E"
+					"download"		"6A50E6BB9EFD62F614589B0F5CCAD615"
+				}
+				"unreal5"
+				{
+					"gid"		"EDABB8DBE2A36B574829AE98EB7B1AF7"
+					"size"		"FDB6ABCDA4166F36BD6D0C0A72DC94C9"
+					"download"		"DD038FB0B5FC9AA63E0E2B7648800244"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16681864"
+				"timeupdated"		"1733784940"
+			}
+			"beta_testing"
+			{
+				"buildid"		"9468943"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662570739"
+			}
+			"coralpress"
+			{
+				"buildid"		"12592060"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698932439"
+			}
+			"external_partners"
+			{
+				"buildid"		"8512485"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649442320"
+			}
+			"external_reviewer"
+			{
+				"buildid"		"9554181"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663719095"
+			}
+			"finalpatch2"
+			{
+				"buildid"		"12236480"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695217553"
+			}
+			"oodle"
+			{
+				"buildid"		"12039418"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693200852"
+			}
+			"qaonly"
+			{
+				"buildid"		"12603025"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699253850"
+			}
+			"alpha_deploy"
+			{
+				"buildid"		"16388893"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731484687"
+			}
+			"alpha_testing"
+			{
+				"buildid"		"15638440"
+				"pwdrequired"		"1"
+				"timeupdated"		"1725885941"
+			}
+			"beta_internal"
+			{
+				"buildid"		"16745528"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734179171"
+			}
+			"beta_internal_testing"
+			{
+				"buildid"		"16735687"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734095374"
+			}
+			"beta_playtest"
+			{
+				"buildid"		"16652091"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733461494"
+			}
+			"main_oto"
+			{
+				"buildid"		"15414932"
+				"pwdrequired"		"1"
+				"timeupdated"		"1724212547"
+			}
+			"milestone2024"
+			{
+				"buildid"		"16395813"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731539877"
+			}
+			"mp_alpha"
+			{
+				"buildid"		"16716258"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733976012"
+			}
+			"mp_alpha_testing"
+			{
+				"buildid"		"16720111"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734001320"
+			}
+			"mp_latest"
+			{
+				"buildid"		"16592435"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733050099"
+			}
+			"mp_latest_testing"
+			{
+				"buildid"		"16723705"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734019313"
+			}
+			"staging"
+			{
+				"buildid"		"16533127"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732612496"
+			}
+			"staging_test"
+			{
+				"buildid"		"15123470"
+				"pwdrequired"		"1"
+				"timeupdated"		"1721813911"
+			}
+			"unreal5"
+			{
+				"buildid"		"14423577"
+				"pwdrequired"		"1"
+				"timeupdated"		"1716175445"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1500000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ProjectCoral/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}

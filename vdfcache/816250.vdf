@@ -1,0 +1,132 @@
+"816250"
+{
+	"common"
+	{
+		"name"		"JQ: dogs & cats"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"80e852e36335a8efaea8da3bfdc5356f0fa426b4"
+		"logo_small"		"80e852e36335a8efaea8da3bfdc5356f0fa426b4_thumb"
+		"icon"		"0e01bd6386abc2d9073216fc58aebe0febb15f8a"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"eac533563ec654ab2058e205e7bc970e9f1ce4b5"
+		"clienttga"		"a257bce6758ac9f914997a2b36b7edb3a96ce7a2"
+		"metacritic_name"		"JQ: dogs &amp;amp; cats"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_8e05e01a5a321ca4bd8c2d64c64f306e64902834.jpg"
+		"store_asset_mtime"		"1667132312"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Snkl Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Snkl Studio"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"JQ"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1521543763"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"816250"
+		"store_tags"
+		{
+			"0"		"10437"
+			"1"		"1664"
+			"2"		"17894"
+			"3"		"1638"
+			"4"		"1654"
+			"5"		"5350"
+			"6"		"4726"
+			"7"		"4234"
+			"8"		"4182"
+			"9"		"597"
+			"10"		"1036"
+			"11"		"1734"
+			"12"		"4305"
+			"13"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Snkl Studio"
+		"publisher"		"Snkl Studio"
+	}
+	"config"
+	{
+		"installdir"		"JQ dogs & cats"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"JQ dogs & cats.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"816251"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"164944341895555478"
+					"size"		"67083304"
+					"download"		"66256752"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2573447"
+				"timeupdated"		"1520092852"
+			}
+		}
+	}
+}

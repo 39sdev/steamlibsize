@@ -1,0 +1,87 @@
+"451160"
+{
+	"common"
+	{
+		"name"		"Rock 'N' Roll Defense: Soundtrack"
+		"type"		"DLC"
+		"parent"		"438480"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"icon"		"3da7d2f4fe95afac4aff3d3c23f8c6f6389337ae"
+		"metacritic_name"		"Rock 'N' Roll Defense: Soundtrack"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_ab221f33b96754b827f1bbe67eb7148441f127ce.jpg"
+		"store_asset_mtime"		"1604006838"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NukGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NukGames"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1458234720"
+		"gameid"		"451160"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"9"
+			"2"		"19"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"dlcforappid"		"438480"
+		"mustownapptopurchase"		"438480"
+		"developer"		"NukGames"
+		"publisher"		"NukGames"
+		"homepage"		"http://nukgames.com/rocknrolldefense"
+		"isfreeapp"		"1"
+		"dlcavailableonstore"		"1"
+	}
+}
