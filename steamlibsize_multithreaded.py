@@ -164,8 +164,8 @@ if args.delete_cache:
     exit()
 ###
 if args.url:
-    base_url = args.url.rstrip('/')
-    url = f"{base_url}/games?tab=all&xml=1"
+    steamurl = args.url.rstrip('/')
+    url = f"{steamurl}/games?tab=all&xml=1"
     print("calling Steam about provided profile's games...")
 else:
     print("\nNo 64 IDs here! use -u [link] to provide a full profile url instead; --help for a list of additional arguments.\n")
@@ -225,11 +225,11 @@ with ThreadPoolExecutor(max_workers=16) as executor:  # max_workers= max numer o
             print(f"Error processing appid {appid}: {e}")
 
 
-print(":::::::::::::::::::::")
+print(f":::::::::::::::::::::\nResults for: {steamurl}")
 max_size_gib = int(sum(app_sizes)) / (1024 ** 3)
 max_size_gb = int(sum(app_sizes)) / (1000 ** 3)
-print(f"GB: {max_size_gb:.2f}")
-print(f"GiB: {max_size_gib:.2f}")
+print(f"::: {max_size_gb:.2f} GB")
+print(f"or: {max_size_gib:.2f} GiB")
 print(f"for {len(app_sizes)} apps steam provided sizes of.")
 if error_dumping:
     print("some apps failed to provide data. run with flag -r to request them again if needed.\notherwise those apps will return with a size of 0.")

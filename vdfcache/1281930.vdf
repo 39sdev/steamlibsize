@@ -1,0 +1,599 @@
+"1281930"
+{
+	"common"
+	{
+		"name"		"tModLoader"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"icon"		"e8a125078a31b8475994e8ce4d8d6fdd6becc131"
+		"clienttga"		"64e30d58057656b816210d1dbb6e6cdd6152ad47"
+		"clienticon"		"be1d6e0eb00e75822a377651084ac8b3cb019deb"
+		"linuxclienticon"		"efc83c3b5e0ff949681c1d9179cc7ceb9bf4edf5"
+		"clienticns"		"60271616734213a9e182221f0b4780276fe60d96"
+		"logo"		"c03017474a3d86bed22e5937210449c879949395"
+		"logo_small"		"c03017474a3d86bed22e5937210449c879949395_thumb"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"parent"		"105600"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1281930_eula_0"
+				"name"		"tModLoader EULA"
+				"url"		"https://store.steampowered.com//eula/1281930_eula_0"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1643846400"
+			"tested_build_id"		"7244325"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+			}
+		}
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"81.79696616102686"
+				"height_pct"		"78.11550021577966"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"library_hero.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"81.79696616102686"
+					"height_pct"		"78.11550021577966"
+				}
+			}
+		}
+		"store_asset_mtime"		"1590230402"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TML Team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Re-Logic"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"TML Team"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_23"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_49"		"1"
+			"category_30"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1589648363"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1281930"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"113"
+			"2"		"19"
+			"3"		"492"
+			"4"		"122"
+			"5"		"5348"
+			"6"		"3810"
+			"7"		"1669"
+			"8"		"3859"
+			"9"		"3871"
+			"10"		"3964"
+			"11"		"1643"
+			"12"		"1662"
+			"13"		"3843"
+			"14"		"4182"
+			"15"		"1685"
+			"16"		"1756"
+			"17"		"4711"
+			"18"		"1100689"
+			"19"		"4026"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"mustownapptopurchase"		"105600"
+		"developer"		"TML Team"
+		"publisher"		"Re-Logic"
+		"homepage"		"https://tmodloader.net/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"tModLoader"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"tModLoader.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"BetaKey"		"1.3-legacy"
+				}
+				"description_loc"
+				{
+					"english"		"Launch tModLoader 1.3 Legacy"
+				}
+				"description"		"Launch tModLoader 1.3 Legacy"
+			}
+			"1"
+			{
+				"executable"		"tModLoader.app/Contents/MacOS/tModLoader"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"BetaKey"		"1.3-legacy"
+				}
+				"description_loc"
+				{
+					"english"		"Launch tModLoader 1.3 Legacy"
+				}
+				"description"		"Launch tModLoader 1.3 Legacy"
+			}
+			"2"
+			{
+				"executable"		"tModLoader"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"BetaKey"		"1.3-legacy"
+				}
+				"description_loc"
+				{
+					"english"		"Launch tModLoader 1.3 Legacy"
+				}
+				"description"		"Launch tModLoader 1.3 Legacy"
+			}
+			"3"
+			{
+				"executable"		"start-tModLoader.bat"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"4"
+			{
+				"executable"		"start-tModLoader.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"5"
+			{
+				"executable"		"start-tModLoader.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"app_mappings"
+		{
+			"1"
+			{
+				"platform"		"linux"
+				"tool"		"SteamLinuxRuntime_sniper"
+				"branch"		"preview-v2024.11"
+			}
+			"2"
+			{
+				"platform"		"linux"
+				"tool"		"SteamLinuxRuntime_sniper"
+				"branch"		"preview-v2024.12"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229012"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,schinese,polish,brazilian"
+		"hasdepotsindlc"		"0"
+		"1281932"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2072888541310769510"
+					"size"		"191586205"
+					"download"		"73692144"
+				}
+				"1.3-legacy"
+				{
+					"gid"		"6620356507092341162"
+					"size"		"38183679"
+					"download"		"8501760"
+				}
+				"preview-v2024.11"
+				{
+					"gid"		"5071061214011323100"
+					"size"		"191608320"
+					"download"		"73710176"
+				}
+				"1.4.3-legacy"
+				{
+					"gid"		"3146456516058464199"
+					"size"		"145295680"
+					"download"		"59203904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-stable"
+				{
+					"gid"		"5419D34698D59088BE67FCBC6989AA97"
+					"size"		"DCEBFA11780E841C1B3FD0046AEAD335"
+					"download"		"C394CD9BA473E9CF6DFC9479C0037CC1"
+				}
+			}
+		}
+		"1281933"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8981125080363189853"
+					"size"		"158408487"
+					"download"		"40870848"
+				}
+				"1.3-legacy"
+				{
+					"gid"		"7383226383812834694"
+					"size"		"128058568"
+					"download"		"25045808"
+				}
+				"preview-v2024.11"
+				{
+					"gid"		"4682434036063625533"
+					"size"		"158430602"
+					"download"		"40888880"
+				}
+				"1.4.3-legacy"
+				{
+					"gid"		"7398349713440544168"
+					"size"		"112779226"
+					"download"		"27158192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-stable"
+				{
+					"gid"		"A49389C9E8A45DDDCCDD38567BDDCA3D"
+					"size"		"FB897B86437021FEA655302411429C1A"
+					"download"		"7089BCFA4DD163C7D3E795B746A775E0"
+				}
+			}
+		}
+		"1281934"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1438025464802532806"
+					"size"		"158408487"
+					"download"		"40870848"
+				}
+				"1.3-legacy"
+				{
+					"gid"		"6127624075772038047"
+					"size"		"73722572"
+					"download"		"16732896"
+				}
+				"preview-v2024.11"
+				{
+					"gid"		"285629850443460491"
+					"size"		"158430602"
+					"download"		"40888880"
+				}
+				"1.4.3-legacy"
+				{
+					"gid"		"640431220927506339"
+					"size"		"112779226"
+					"download"		"27158192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-stable"
+				{
+					"gid"		"F5184CDDFDD431439519D296353EA566"
+					"size"		"FB897B86437021FEA655302411429C1A"
+					"download"		"7089BCFA4DD163C7D3E795B746A775E0"
+				}
+			}
+		}
+		"1281931"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1779141483676093144"
+					"size"		"0"
+					"download"		"0"
+				}
+				"1.3-legacy"
+				{
+					"gid"		"6097767993870734937"
+					"size"		"7"
+					"download"		"64"
+				}
+				"preview-v2024.11"
+				{
+					"gid"		"1779141483676093144"
+					"size"		"0"
+					"download"		"0"
+				}
+				"1.4.3-legacy"
+				{
+					"gid"		"1779141483676093144"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-stable"
+				{
+					"gid"		"8BA143E546B43090B912D8A52A33AA20"
+					"size"		"FF8989619DD3F915801F28A6E4F0BA55"
+					"download"		"FF8989619DD3F915801F28A6E4F0BA55"
+				}
+			}
+		}
+		"workshopdepot"		"1281930"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16590335"
+				"timeupdated"		"1733020771"
+			}
+			"1.3-legacy"
+			{
+				"buildid"		"8601731"
+				"description"		"Legacy - Stable tModLoader for Terraria v1.3.5.3"
+				"timeupdated"		"1654044734"
+			}
+			"preview-v2024.11"
+			{
+				"buildid"		"16590339"
+				"description"		"The 'NONE' option is 1.4.4. Read the Migration Guide on our wiki to port your mod. Test pre-release API changes and provide feedback on Discord"
+				"timeupdated"		"1733011915"
+			}
+			"1.4.3-legacy"
+			{
+				"buildid"		"12043950"
+				"description"		"Legacy - Stable tModLoader for Terraria v1.4.3"
+				"timeupdated"		"1693155931"
+			}
+			"internal-stable"
+			{
+				"buildid"		"16590335"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733011873"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"10000"
+		"appidredirect"		"105600"
+	}
+}

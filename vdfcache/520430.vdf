@@ -1,0 +1,97 @@
+"520430"
+{
+	"common"
+	{
+		"name"		"Koi-Koi Japan : UKIYOE tours Vol.2"
+		"type"		"DLC"
+		"parent"		"364930"
+		"ReleaseState"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"557abc505c2a7a130b503ba878f1fc1c50261fc8"
+		"logo_small"		"557abc505c2a7a130b503ba878f1fc1c50261fc8_thumb"
+		"icon"		"92e59034a324a562d1f8d419132db343c4fc685f"
+		"metacritic_name"		"Koi-Koi Japan : UKIYOE tours Vol.2"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_9d49f5ba64695091baf35dde16dec41915abdd3e.jpg"
+		"store_asset_mtime"		"1472445443"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Zoo Corporation"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Zoo Corporation"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Zoo Corporation"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_2"		"1"
+			"category_29"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_23"		"1"
+			"category_27"		"1"
+			"category_25"		"1"
+			"category_49"		"1"
+			"category_62"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1472454000"
+		"steam_release_date"		"1472517348"
+		"gameid"		"520430"
+		"store_tags"
+		{
+			"0"		"597"
+		}
+		"review_score"		"5"
+		"review_percentage"		"50"
+	}
+	"extended"
+	{
+		"dlcforappid"		"364930"
+		"mustownapptopurchase"		"364930"
+		"developer"		"Zoo Corporation"
+		"publisher"		"Zoo Corporation"
+		"homepage"		"https://game.zoo.jp/"
+		"dlcavailableonstore"		"1"
+	}
+}

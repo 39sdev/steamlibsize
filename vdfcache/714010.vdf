@@ -1,0 +1,817 @@
+"714010"
+{
+	"common"
+	{
+		"name"		"Aimlabs"
+		"type"		"Game"
+		"ReleaseState"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"bb138e2f1ac2e4e02f420414eb340dffc32bdd0d"
+		"logo_small"		"bb138e2f1ac2e4e02f420414eb340dffc32bdd0d_thumb"
+		"icon"		"15347de11efc127539c388e585af9e92d10d5189"
+		"clienticon"		"b28ac4f62c64f8b22ee08f05165e76afc20bbae0"
+		"clienttga"		"0bb5ad94206e1446ff58d4066037119140197d59"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"714010_eula_0"
+				"name"		"Aim Lab EULA"
+				"url"		"http://store.steampowered.com//eula/714010_eula_0"
+				"version"		"4"
+			}
+		}
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1725667200"
+			"tested_build_id"		"14895136"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"357d48a63421b01245ebdfda99791e5e4cc6140e/capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_hero_blur"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"72.00686106346492"
+				"height_pct"		"100"
+			}
+		}
+		"library_assets_full"
+		{
+			"library_capsule"
+			{
+				"image"
+				{
+					"english"		"d3a27fcb975da6e48c64cb249934485555cf1bb9/library_600x900.jpg"
+				}
+				"image2x"
+				{
+					"english"		"d3a27fcb975da6e48c64cb249934485555cf1bb9/library_600x900_2x.jpg"
+				}
+			}
+			"library_hero"
+			{
+				"image"
+				{
+					"english"		"593e219fd5c12e8ce7d7e5850435a50b7b9d821b/library_hero.jpg"
+				}
+				"image2x"
+				{
+					"english"		"593e219fd5c12e8ce7d7e5850435a50b7b9d821b/library_hero_2x.jpg"
+				}
+			}
+			"library_hero_blur"
+			{
+				"image"
+				{
+					"english"		"593e219fd5c12e8ce7d7e5850435a50b7b9d821b/library_hero_blur.jpg"
+				}
+			}
+			"library_logo"
+			{
+				"image"
+				{
+					"english"		"logo.png"
+				}
+				"image2x"
+				{
+					"english"		"logo_2x.png"
+				}
+				"logo_position"
+				{
+					"pinned_position"		"CenterCenter"
+					"width_pct"		"72.00686106346492"
+					"height_pct"		"100"
+				}
+			}
+			"library_header"
+			{
+				"image"
+				{
+					"english"		"a7b14b5f8f4e8d858f1ca4d474e668cdf48035f5/library_header.jpg"
+				}
+				"image2x"
+				{
+					"english"		"a7b14b5f8f4e8d858f1ca4d474e668cdf48035f5/library_header_2x.jpg"
+				}
+			}
+		}
+		"store_asset_mtime"		"1731528978"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"State Space Labs, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"State Space Labs, Inc."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"28"
+			"5"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_30"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1686960685"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"714010"
+		"exfgls"		"3"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1663"
+			"2"		"1774"
+			"3"		"599"
+			"4"		"3859"
+			"5"		"3839"
+			"6"		"4182"
+			"7"		"19"
+			"8"		"5055"
+			"9"		"3878"
+			"10"		"492"
+			"11"		"7423"
+			"12"		"597"
+			"13"		"1734"
+			"14"		"4026"
+			"15"		"5154"
+			"16"		"493"
+			"17"		"21"
+			"18"		"1708"
+			"19"		"3814"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"State Space Labs, Inc."
+		"publisher"		"State Space Labs, Inc."
+		"homepage"		"https://www.aimlabs.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1122400,1206190,1383420,1417600,1450700,1465850,1896380,1974470,1974480,1992460,2021550,2021560,2253310,2282170"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Aim Lab"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"aimlab_tb.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"AimLab.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"workshopdepot"		"714010"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese"
+		"714011"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2042001388091228472"
+					"size"		"16907189596"
+					"download"		"7512656448"
+				}
+				"beta"
+				{
+					"gid"		"7602989277704181862"
+					"size"		"14623832226"
+					"download"		"6511587024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_internal"
+				{
+					"gid"		"2B78A6FB885268C0BEE2BF21AB0C07B6"
+					"size"		"F959670D7C886F83921F1D55E6CB9EE8"
+					"download"		"A79827158A2A027A68BCD0AB10E09C04"
+				}
+				"mt_sinai"
+				{
+					"gid"		"D11B458348FBB1991F3C2DAECF4AE59F"
+					"size"		"015457EB7B0FB31A582C73963622B7C8"
+					"download"		"AA75B78F88DACC25BD8F37FCE7D86712"
+				}
+				"partner3"
+				{
+					"gid"		"42832CB614D8D8006BF7EC824E1F8802"
+					"size"		"8306F85137FDBF42E0493B87D14B9533"
+					"download"		"F6059E07914265E56DB1CF59689E0204"
+				}
+				"private_internal"
+				{
+					"gid"		"E6956A37CE8CF787CB2169B10272F218"
+					"size"		"C2023215E564E107E3A17E1B93FF4AFA"
+					"download"		"E491832F2F81BCC28BCAF9DE20D8371C"
+				}
+				"zepp"
+				{
+					"gid"		"2A8CFE27428FD7774D368F8B3D6F5310"
+					"size"		"710BBB6E37C6C147F659B4D2EDCAC073"
+					"download"		"F7995942DB4955D22311F7DE4F6E0F93"
+				}
+				"zepp2"
+				{
+					"gid"		"D440339388198C0F2690BCED92E2CFD6"
+					"size"		"B085E3A7EA87F65AC89C91211DD686E3"
+					"download"		"F81EAEF4D48B4A8188396266CD595F08"
+				}
+				"develop_hotfix"
+				{
+					"gid"		"23C013D196ED46064ECC8D95D13FA1A6"
+					"size"		"0FC0EA12CBB28D152420AD7A6FA4655A"
+					"download"		"DD7228EE5A1EA2109B2D6C9ED98D9641"
+				}
+				"develop_nightly"
+				{
+					"gid"		"B3EB239207100747105367DD9449DE9A"
+					"size"		"FC0BDAA6F7D954C888D9AA6BC9D09D68"
+					"download"		"4B09A0430A14097BA818240F86C33A86"
+				}
+				"develop_prerelease"
+				{
+					"gid"		"6DEF6189215CD5B8DE5BD89D89B41DE0"
+					"size"		"D83AF867D0759E2EA8FCE50F1642BC31"
+					"download"		"A7167258B4AC407416ED5548D941A99F"
+				}
+				"devtest1"
+				{
+					"gid"		"FDC61989312492DD73E7C5632CF5155F"
+					"size"		"C645F772FA97B7FD104F0291D30EABC3"
+					"download"		"B06863FB368881D058E809EDFD68A7B7"
+				}
+				"devtest2"
+				{
+					"gid"		"E9EC98CF3C6C3BF3CDBE5D0F8E63D55E"
+					"size"		"3AD15329BAA7629173BB50C56DFCBFE0"
+					"download"		"778FA121A5B2146D41C06EC65EA669F5"
+				}
+				"devtest3"
+				{
+					"gid"		"F15C201ED5C7C1D0FC659E8508E74998"
+					"size"		"5A514F504E09500C13943679DFF7A4FE"
+					"download"		"8FAF57F46AE00929E313B4EEF27179EF"
+				}
+				"devtest4"
+				{
+					"gid"		"DE42C117D36A193212957A20B1CF19C3"
+					"size"		"53ED28DCBFC59456831356C7C638E5FA"
+					"download"		"54A444CBDC4B2C613A89FEC5FAA5428B"
+				}
+				"devtest5"
+				{
+					"gid"		"54630147904AA10B06B63EA0DAC2DAF4"
+					"size"		"95630D42DF43D63D4C58E2D19E62249F"
+					"download"		"A876DA5660F8D21A2FAD878B8FE41680"
+				}
+				"devtest6"
+				{
+					"gid"		"61907072AB36B174FAED31C493EE9997"
+					"size"		"8FCD5D0B7C77AA5392FE1D0FB894116B"
+					"download"		"E861D1FC8B11F32F1E3E184F846E5A2C"
+				}
+				"devtest7"
+				{
+					"gid"		"C804887B5B1CB8DAED9D55E7DFFAF717"
+					"size"		"C59E1C1B603D101B7B1B94BAE20D676B"
+					"download"		"07A26BF49A823FC40C5ABF52723DD8E8"
+				}
+				"partner1"
+				{
+					"gid"		"EF12258C556AA916AE87BFFBD8B53615"
+					"size"		"BBBD5FF35A5F3CF01930CA84BABB76B3"
+					"download"		"38AB6A98970F29434170DEB225E6C8A6"
+				}
+				"partner2"
+				{
+					"gid"		"7FAE82C13159D999101FA0A4931A0CE8"
+					"size"		"AEBB609722804BD45E9968805338C157"
+					"download"		"F3A086762002BE253F75B224F3E62D37"
+				}
+				"previouslive"
+				{
+					"gid"		"9FA9D398AE9A803BF4B6C4BD69524562"
+					"size"		"02D008457762A56FDC343EE5F45C242A"
+					"download"		"2AB031822A8C3691E4C06E146A0351B4"
+				}
+				"qatest1"
+				{
+					"gid"		"DEAA0BEFC69BFCD3BA8E1D543676C6FE"
+					"size"		"5EA4242584F903B613E09860CC901968"
+					"download"		"92C08D68562DE3A179D350EA5CFE854A"
+				}
+				"qatest2"
+				{
+					"gid"		"7ADC38CA2ED814DDF5D0ABC046E6E104"
+					"size"		"B94C23A1FC2CF822E0B66B2E43AFEFFC"
+					"download"		"1437E7F86B2B10C0BCABFBCB0AAFF31B"
+				}
+				"qatest3"
+				{
+					"gid"		"08096CB5BE2ED9ACA87807750FAAB4DF"
+					"size"		"04CFB7DA7E3C36AB190A00C12511C525"
+					"download"		"30EC73E5AAE8FA07A39F2C355AA93C3E"
+				}
+				"qatest4"
+				{
+					"gid"		"1296DC7C638B7EDC6B7529CC0F16CC0F"
+					"size"		"CBB12AFDF3F5B2825FF88BB5533E92E4"
+					"download"		"3F8E7345A54193BC1201F36704E46625"
+				}
+			}
+		}
+		"714013"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6236786288122970659"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"6236786288122970659"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_internal"
+				{
+					"gid"		"43117F69A0121FC4F850D35FEB3E99B2"
+					"size"		"4BEF3096F14E2F89A0C4DC046781538F"
+					"download"		"4BEF3096F14E2F89A0C4DC046781538F"
+				}
+				"mt_sinai"
+				{
+					"gid"		"3DCF3644555FA935D7DDF79DA017FCDA"
+					"size"		"AB14DC3EACD606D0106A4CE53B17069C"
+					"download"		"AB14DC3EACD606D0106A4CE53B17069C"
+				}
+				"partner3"
+				{
+					"gid"		"42B040026A26F05CE64FEEE90FC7EB5E"
+					"size"		"975FDBE6E173FF7373CA1B19DCB22D4D"
+					"download"		"975FDBE6E173FF7373CA1B19DCB22D4D"
+				}
+				"private_internal"
+				{
+					"gid"		"58D6464398854C8217B2F89777826047"
+					"size"		"D68B645B744EDDF8B74D8CF1F07EA2F0"
+					"download"		"D68B645B744EDDF8B74D8CF1F07EA2F0"
+				}
+				"zepp"
+				{
+					"gid"		"997BBEC070C3C7F23CC5A6AB70F53389"
+					"size"		"A38F007C0595300236BCD0654F45EACB"
+					"download"		"A38F007C0595300236BCD0654F45EACB"
+				}
+				"zepp2"
+				{
+					"gid"		"0D3F4E894B1C60CBEEE8EC28264E09D2"
+					"size"		"92798F0A9EA68CFC950650336C6D95FE"
+					"download"		"92798F0A9EA68CFC950650336C6D95FE"
+				}
+				"develop_hotfix"
+				{
+					"gid"		"40A956352869580E44F294DA54164AD5"
+					"size"		"A6492EF99F28514C69D0C40B599F3DC5"
+					"download"		"A6492EF99F28514C69D0C40B599F3DC5"
+				}
+				"develop_nightly"
+				{
+					"gid"		"61915136A2174B069D3C20DD8C6F0BC7"
+					"size"		"4B3D1BA8DB8F5A2ABFBBDFCEF4F9FDCC"
+					"download"		"4B3D1BA8DB8F5A2ABFBBDFCEF4F9FDCC"
+				}
+				"develop_prerelease"
+				{
+					"gid"		"2217C8DE933222E566ED3B8D7F81D946"
+					"size"		"8B01EC298F44ABD146966220DAE9A152"
+					"download"		"8B01EC298F44ABD146966220DAE9A152"
+				}
+				"devtest1"
+				{
+					"gid"		"00A3549017F7CFBD127D66F6557226D6"
+					"size"		"F082C9FA7800F20AF9FD7AD1B13C7D2A"
+					"download"		"F082C9FA7800F20AF9FD7AD1B13C7D2A"
+				}
+				"devtest2"
+				{
+					"gid"		"BFFC056A147475561C4791F9802EE50A"
+					"size"		"B3DE428CF52D96BFDFD87F083E600FBF"
+					"download"		"B3DE428CF52D96BFDFD87F083E600FBF"
+				}
+				"devtest3"
+				{
+					"gid"		"BF073154FE0B3B4CFFAD945B73D36813"
+					"size"		"DDD1EC7BE91419C609257E433BEE876C"
+					"download"		"DDD1EC7BE91419C609257E433BEE876C"
+				}
+				"devtest4"
+				{
+					"gid"		"13D6D2C18C3E002276F27D0866D62B3D"
+					"size"		"81EE304395C853ED05DA2E88E0EE5D0F"
+					"download"		"81EE304395C853ED05DA2E88E0EE5D0F"
+				}
+				"devtest5"
+				{
+					"gid"		"EF9E5267D4795A46A211DD728C0B83F0"
+					"size"		"49814D3D37239807228BD5553B04373A"
+					"download"		"49814D3D37239807228BD5553B04373A"
+				}
+				"devtest6"
+				{
+					"gid"		"C55470E7CDE348177C298B048F0D6383"
+					"size"		"97F2174B1C38437CDFE9C5A8603BB569"
+					"download"		"97F2174B1C38437CDFE9C5A8603BB569"
+				}
+				"devtest7"
+				{
+					"gid"		"47B38BE15D27B64566A3527B50FD7AC2"
+					"size"		"B9787216F209B29CC42EDC3B9F51AC14"
+					"download"		"B9787216F209B29CC42EDC3B9F51AC14"
+				}
+				"partner1"
+				{
+					"gid"		"9EBD38BC2F2678B0D3F62B17C6713DAF"
+					"size"		"113686985ACE5B4E2737EFB3E7E26F44"
+					"download"		"113686985ACE5B4E2737EFB3E7E26F44"
+				}
+				"partner2"
+				{
+					"gid"		"082694174D9881C3C7E6D7B9F3E486C8"
+					"size"		"58291CDD074A8383D115088999FE7666"
+					"download"		"58291CDD074A8383D115088999FE7666"
+				}
+				"previouslive"
+				{
+					"gid"		"B5FE1A42E58995767617503A6C4C0CF4"
+					"size"		"C72323578B2E03F058C12FBE20FC6DCD"
+					"download"		"C72323578B2E03F058C12FBE20FC6DCD"
+				}
+				"qatest1"
+				{
+					"gid"		"3797C7415DC9EACBD682F06BAAAC0AC9"
+					"size"		"0F47F79B63A611DB99D6D8A2C56FDC85"
+					"download"		"0F47F79B63A611DB99D6D8A2C56FDC85"
+				}
+				"qatest2"
+				{
+					"gid"		"4B213E418C784D83436809691065178F"
+					"size"		"C32834693FD99309ED93058E274481DA"
+					"download"		"C32834693FD99309ED93058E274481DA"
+				}
+				"qatest3"
+				{
+					"gid"		"372BB0237A51152AB95143193AD89729"
+					"size"		"76E93E8B0A96D19A6B6CCBF60EF4C0DC"
+					"download"		"76E93E8B0A96D19A6B6CCBF60EF4C0DC"
+				}
+				"qatest4"
+				{
+					"gid"		"A02D7527B7FB1D38EF8404820A8F583C"
+					"size"		"ED1F24DA76EA9384B868616841EF41E2"
+					"download"		"7B128DD425BE088147A730CE11BE60EF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"16739205"
+				"timeupdated"		"1734116408"
+			}
+			"beta"
+			{
+				"buildid"		"13414392"
+				"description"		"beta test branch"
+				"timeupdated"		"1707486440"
+			}
+			"beta_internal"
+			{
+				"buildid"		"7264717"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630112011"
+			}
+			"mt_sinai"
+			{
+				"buildid"		"10519340"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675987852"
+			}
+			"partner3"
+			{
+				"buildid"		"11572057"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687895266"
+			}
+			"private_internal"
+			{
+				"buildid"		"10549467"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676386909"
+			}
+			"zepp"
+			{
+				"buildid"		"12673010"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699632942"
+			}
+			"zepp2"
+			{
+				"buildid"		"11079400"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682363065"
+			}
+			"develop_hotfix"
+			{
+				"buildid"		"16661847"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733520250"
+			}
+			"develop_nightly"
+			{
+				"buildid"		"16749373"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734242544"
+			}
+			"develop_prerelease"
+			{
+				"buildid"		"16739205"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734114764"
+			}
+			"devtest1"
+			{
+				"buildid"		"16577532"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732877523"
+			}
+			"devtest2"
+			{
+				"buildid"		"16629574"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733318523"
+			}
+			"devtest3"
+			{
+				"buildid"		"16659136"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733502275"
+			}
+			"devtest4"
+			{
+				"buildid"		"16710377"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733936242"
+			}
+			"devtest5"
+			{
+				"buildid"		"16660744"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733512245"
+			}
+			"devtest6"
+			{
+				"buildid"		"16411040"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731615604"
+			}
+			"devtest7"
+			{
+				"buildid"		"16705839"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733912150"
+			}
+			"partner1"
+			{
+				"buildid"		"15694535"
+				"pwdrequired"		"1"
+				"timeupdated"		"1726250857"
+			}
+			"partner2"
+			{
+				"buildid"		"15141751"
+				"pwdrequired"		"1"
+				"timeupdated"		"1721852410"
+			}
+			"previouslive"
+			{
+				"buildid"		"16661847"
+				"pwdrequired"		"1"
+				"timeupdated"		"1734115788"
+			}
+			"qatest1"
+			{
+				"buildid"		"16711313"
+				"pwdrequired"		"1"
+				"timeupdated"		"1733941694"
+			}
+			"qatest2"
+			{
+				"buildid"		"16471790"
+				"pwdrequired"		"1"
+				"timeupdated"		"1732103417"
+			}
+			"qatest3"
+			{
+				"buildid"		"16395064"
+				"pwdrequired"		"1"
+				"timeupdated"		"1731516294"
+			}
+			"qatest4"
+			{
+				"buildid"		"15731480"
+				"pwdrequired"		"1"
+				"timeupdated"		"1726590424"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"10000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}

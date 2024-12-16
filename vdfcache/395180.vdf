@@ -1,0 +1,179 @@
+"395180"
+{
+	"common"
+	{
+		"name"		"Arma 3 Apex"
+		"type"		"DLC"
+		"parent"		"107410"
+		"ReleaseState"		"released"
+		"logo"		"e3e844bde0836f532c9dba2c64b6ce8b7340c903"
+		"logo_small"		"e3e844bde0836f532c9dba2c64b6ce8b7340c903_thumb"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"icon"		"bac7b8f9ecf0ca3c37b914226ae83c4be0aa7d3b"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"metacritic_name"		"Arma 3 Apex"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_screenshot"		"ss_703064db5832f0ea95eaa06be64877c6e76750d7.jpg"
+		"store_asset_mtime"		"1635927626"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bohemia Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bohemia Interactive"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_13"		"1"
+			"category_18"		"1"
+			"category_17"		"1"
+			"category_30"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+			"category_48"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1468249200"
+		"metacritic_score"		"74"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/arma-3-apex?ftag=MCD-06-10aaa1f"
+		"gameid"		"395180"
+		"exfgls"		"9"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"19"
+			"2"		"9"
+			"3"		"4168"
+			"4"		"3859"
+			"5"		"1695"
+			"6"		"1663"
+			"7"		"3810"
+			"8"		"1708"
+			"9"		"4175"
+			"10"		"1685"
+			"11"		"1774"
+			"12"		"4182"
+			"13"		"1662"
+			"14"		"3843"
+			"15"		"3839"
+			"16"		"3814"
+			"17"		"4166"
+			"18"		"5900"
+			"19"		"122"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"dlcforappid"		"107410"
+		"mustownapptopurchase"		"107410"
+		"developer"		"Bohemia Interactive"
+		"publisher"		"Bohemia Interactive"
+		"homepage"		"https://arma3.com/apex"
+		"dlcavailableonstore"		"1"
+	}
+}
