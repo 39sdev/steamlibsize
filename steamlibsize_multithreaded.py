@@ -23,6 +23,17 @@ steamcmd_dir = "steamcmd"
 if not os.name == 'nt':
     steamcmd_sh = os.path.join(steamcmd_dir, "steamcmd.sh")
     steamcmd_url = "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz"
+    # traditional approach
+    if not os.path.exists(steamcmd_sh):
+        os.makedirs(steamcmd_dir, exist_ok=True)
+
+        print("\ndownloading and setting up steamcmd...\n")
+        with urllib.request.urlopen(steamcmd_url) as response:
+            with tarfile.open(fileobj=response, mode="r:gz") as tar:
+                tar.extractall(path=steamcmd_dir)
+        time.sleep(3.9)
+        subprocess.run(["steamcmd/steamcmd.sh", "+quit"])
+        print("\ndone.\n")
 else:
     steamcmd_exe = os.path.join(steamcmd_dir, "steamcmd.exe")
     if not os.path.exists(steamcmd_exe):
@@ -32,18 +43,6 @@ else:
         time.sleep(3.9)
         subprocess.run(["steamcmd/steamcmd.exe", "+quit"])
         print("\ndone.\n")
-
-# traditional approach
-if not os.path.exists(steamcmd_sh):
-    os.makedirs(steamcmd_dir, exist_ok=True)
-
-    print("\ndownloading and setting up steamcmd...\n")
-    with urllib.request.urlopen(steamcmd_url) as response:
-        with tarfile.open(fileobj=response, mode="r:gz") as tar:
-            tar.extractall(path=steamcmd_dir)
-    time.sleep(3.9)
-    subprocess.run(["steamcmd/steamcmd.sh", "+quit"])
-    print("\ndone.\n")
 ###end of onboarding handler
 
 def list_empty_vdfs(): #I'm lazy and tried okay, this is for debug purposes 
