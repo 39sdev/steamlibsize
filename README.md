@@ -4,7 +4,12 @@ a Steam library install size calculator.
 Created as a python learning experience \
  & because SteamGauge was down and I couldn't find any other tool for this.
  
- ### Only usable in Linux Environments atm. Windows Support will follow.
+ ### Only usable in Linux Environments atm. 
+ Note: Seems like SteamCMD is currently pretty broken on Windows. \
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Having symptoms simmilar to this [Issue](https://github.com/ValveSoftware/steam-for-linux/issues/9683) just way less predictable \
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;and no workaround; at least none that I could find during testing. \
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;The Script should technically work. Let's hope Valve fixes it one day. \
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Either that or I'll come up with a better solution till then.
  
  ## Usage
 
