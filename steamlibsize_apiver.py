@@ -1,29 +1,52 @@
 import requests 
 import argparse
 import xmltodict
+import shutil
 import json
 import os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
+def autodelete_useless(nosizeapp):
+    os.remove(f"appcache/{nosizeapp}.json")
+
+def delete_cache():
+    really = input("delete cache? (y/N) ")
+    if not really == "y":
+        exit()
+    else:
+        print(f"deleting cache...")
+        shutil.rmtree("appcache/")
+
 
 def dump_appinfo(appid):
-    response = requests.get(f"https://api.steamcmd.net/v1/info/{appid}") 
-    
-    app_json = response.json() 
+    try:
+        response = requests.get(f"https://api.steamcmd.net/v1/info/{appid}") 
+        
+        app_json = response.json() 
+    except:
+        print(f"Error: Received status code {response.status_code}")
 
     os.makedirs("appcache", exist_ok=True)
     with open(f"appcache/{appid}.json", "w") as appfile:
-        json.dump(app_json, appfile)
+        json.dump(app_json, appfile, indent=4)
+    print(f"app dump written: {appid}")
 
-
+#broken_files = []
+nosize = 0
 def get_app_maxsize(appid):
-    
-    response = requests.get(f"https://api.steamcmd.net/v1/info/{appid}") 
-    
-    app_json = response.json() 
+    global nosize
+    #global broken_files
+    #response = requests.get(f"https://api.steamcmd.net/v1/info/{appid}") 
+    #app_json = response.json() 
+    with open(f"appcache/{appid}.json", "r") as appfile:
+        app_json = json.load(appfile)
     try:
         depots = app_json["data"][f"{appid}"]["depots"]
     except: 
-        print(appid)
-        exit()
+        print("Couldn't get size data of", appid)
+        nosize += 1
+        #broken_files.append(appid)
+        return 0
     sizes = []
 
     for depot_id, depot_data in depots.items():
@@ -50,10 +73,16 @@ def get_app_maxsize(appid):
 ### cli argument parser
 cliparser = argparse.ArgumentParser(description="Alternative options.")
 cliparser.add_argument("-u", "--url", type=str, help="Provide full URL of a Profile")
+cliparser.add_argument("-d", "--delete-cache", action="store_true", help="Delete Cache")
 
 
 # parse arguments
 args = cliparser.parse_args()
+
+if args.delete_cache:
+    delete_cache()
+    print("done.")
+    exit()
 
 if args.url:
     steamurl = args.url.rstrip('/')
@@ -92,14 +121,19 @@ else:
 
 
 
-
+nosize_files = []
 app_sizes = []
 for appid in app_ids:
-    if dump_appinfo(appid) is not None:
+    if not os.path.isfile(f"appcache/{appid}.json"):
         dump_appinfo(appid)
-        #get_app_bytesize = get_app_maxsize(appid)
+    
+    get_app_bytesize = int(get_app_maxsize(appid))
+    if get_app_bytesize == 0:
+        nosize_files.append(appid)
+    else:
         #print(get_app_bytesize)
-        #app_sizes.append(get_app_bytesize)
+        app_sizes.append(get_app_bytesize)
+
 
 print(f":::::::::::::::::::::\nResults for: {steamurl}")
 max_size_gib = int(sum(app_sizes)) / (1024 ** 3)
@@ -107,3 +141,9 @@ max_size_gb = int(sum(app_sizes)) / (1000 ** 3)
 print(f"::: {max_size_gb:.2f} GB")
 print(f"or: {max_size_gib:.2f} GiB")
 print(f"for {len(app_sizes)} apps steam provided sizes of.")
+if nosize > 0:
+    print(nosize, " returned no size.")
+    #print(f"Specifically: {nosize_files}")
+    for nosizeapp in nosize_files:
+        autodelete_useless(nosizeapp)
+    print("removed them from cache.")

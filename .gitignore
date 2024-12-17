@@ -2,3 +2,4 @@ __pycache__/
 vdfcache/*
 .venv/
 steamcmd/*
+appcache/*
