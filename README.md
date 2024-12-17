@@ -7,8 +7,9 @@ Created as a python learning experience \
  ### Only usable in Linux Environments atm. Windows Support will follow.
  
  ## Usage
- 
- start `steamlibsize_multithreaded.py` from the command line with the `-u [profileurl]` argument. \
+
+ Don't forget to `pip install -r requirements.txt` \
+ Start `steamlibsize_multithreaded.py` from the command line with the `-u [profileurl]` argument. \
 When no argument is provided, the script will ask you for a Steam Custom URL ID.
  
  Use `--help` to get a list of arguments to manage the local app cache with.
