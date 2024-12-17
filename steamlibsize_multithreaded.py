@@ -14,14 +14,26 @@ import tarfile
 import urllib.request
 import time
 import warnings
+import dload
 
 os.chdir(os.path.dirname(os.path.abspath(__file__))) # make script path agnostic
 warnings.filterwarnings("ignore", category=DeprecationWarning) # we'll bother with this later
 ###start of onboarding handler
 steamcmd_dir = "steamcmd"
-steamcmd_sh = os.path.join(steamcmd_dir, "steamcmd.sh")
-steamcmd_url = "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz"
+if not os.name == 'nt':
+    steamcmd_sh = os.path.join(steamcmd_dir, "steamcmd.sh")
+    steamcmd_url = "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz"
+else:
+    steamcmd_exe = os.path.join(steamcmd_dir, "steamcmd.exe")
+    if not os.path.exists(steamcmd_exe):
+        os.makedirs(steamcmd_dir, exist_ok=True)
+        print("\ndownloading and setting up steamcmd...\n")     # using dload for windows cuz I don't have a test env
+        dload.save_unzip("https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip", steamcmd_dir)
+        time.sleep(3.9)
+        subprocess.run(["steamcmd/steamcmd.exe", "+quit"])
+        print("\ndone.\n")
 
+# traditional approach
 if not os.path.exists(steamcmd_sh):
     os.makedirs(steamcmd_dir, exist_ok=True)
 
@@ -120,8 +132,11 @@ error_dumping = False
 def get_vdf_data(appid):
     def loggedin_get_vdf_data(appid): # some appids require a login -.-
         global error_dumping
-        ln_dirty_vdf_data = subprocess.run(["steamcmd/steamcmd.sh", "+login anonymous", f"+app_info_request {appid}", "+login anonymous", f"+app_info_print {appid}", "+quit"], stdout=subprocess.PIPE, stderr=subprocess.PIPE).stdout.decode()
-        
+        if not os.name == 'nt':
+            ln_dirty_vdf_data = subprocess.run(["steamcmd/steamcmd.sh", "+login anonymous", f"+app_info_request {appid}", "+login anonymous", f"+app_info_print {appid}", "+quit"], stdout=subprocess.PIPE, stderr=subprocess.PIPE).stdout.decode()
+        else:
+            ln_dirty_vdf_data = subprocess.run(["steamcmd/steamcmd.exe", "+login anonymous", f"+app_info_request {appid}", "+login anonymous", f"+app_info_print {appid}", "+quit"], stdout=subprocess.PIPE, stderr=subprocess.PIPE).stdout.decode()
+
         ln_cleaned_vdf_data = mikus.extract_vdf(ln_dirty_vdf_data)
 
         with open(f"vdfcache/{appid}.vdf", "w") as output_vdf_file:
@@ -143,7 +158,10 @@ def get_vdf_data(appid):
     #### explanation for future self:
     #       subsubprocess.PIPE is used to redirect all of steamcmd's output into our variable 
     #       & .stdout.decode() is appended cuz the output gets originally stored in some unparsable shitty encoded format I have no clue about yet.
-    dirty_vdf_data = subprocess.run(["steamcmd/steamcmd.sh", f"+app_info_print {appid}", "+quit"], stdout=subprocess.PIPE, stderr=subprocess.PIPE).stdout.decode()
+    if not os.name == 'nt':
+        dirty_vdf_data = subprocess.run(["steamcmd/steamcmd.sh", f"+app_info_print {appid}", "+quit"], stdout=subprocess.PIPE, stderr=subprocess.PIPE).stdout.decode()
+    else:
+        dirty_vdf_data = subprocess.run(["steamcmd/steamcmd.exe", f"+app_info_print {appid}", "+quit"], stdout=subprocess.PIPE, stderr=subprocess.PIPE).stdout.decode()
     #print("-------------------------------------------------!")
     #print(appid)
 
@@ -174,8 +192,17 @@ args = cliparser.parse_args()
 # if -r is provided, execute the function
 if args.remove_empty:
     delete_empty_vdfs()
-    os.remove(os.path.expanduser("~/.local/share/Steam/appcache/appinfo.vdf"))
-    
+    if not os.name == 'nt':
+        try:
+            os.remove(os.path.expanduser("~/.local/share/Steam/appcache/appinfo.vdf"))
+        except:
+            print("no appinfo.vdf to remove")
+    else:
+        try:
+            os.remove("C:/Program Files (x86)/Steam/appcache/appinfo.vdf")
+        except:
+            print("no appinfo.vdf to remove or Steam not installed in default location C:\nIf you installed Steam elsewhere please remove this file manually\n '/Steam/appcache/appinfo.vdf' as I am too lazy to learn how to check your registry for the correct path.")
+
 if args.list_empty:
     list_empty_vdfs()
     exit()
