@@ -40,6 +40,7 @@ else:
         os.makedirs(steamcmd_dir, exist_ok=True)
         print("\ndownloading and setting up steamcmd...\n")     # using dload for windows cuz I don't have a test env
         dload.save_unzip("https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip", steamcmd_dir)
+        os.remove("steamcmd.zip")
         time.sleep(3.9)
         subprocess.run(["steamcmd/steamcmd.exe", "+quit"])
         print("\ndone.\n")
@@ -200,7 +201,7 @@ if args.remove_empty:
         try:
             os.remove("steamcmd/appcache/appinfo.vdf")
         except:
-            print("no appinfo.vdf to remove or Steam not installed in default location C:\nIf you installed Steam elsewhere please remove this file manually\n '/Steam/appcache/appinfo.vdf' as I am too lazy to learn how to check your registry for the correct path.")
+            print("no appinfo.vdf to remove")
 
 if args.list_empty:
     list_empty_vdfs()
