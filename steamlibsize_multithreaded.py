@@ -134,7 +134,7 @@ def get_vdf_data(appid):
         if not os.name == 'nt':
             ln_dirty_vdf_data = subprocess.run(["steamcmd/steamcmd.sh", "+login anonymous", f"+app_info_request {appid}", "+login anonymous", f"+app_info_print {appid}", "+quit"], stdout=subprocess.PIPE, stderr=subprocess.PIPE).stdout.decode()
         else:
-            ln_dirty_vdf_data = subprocess.run(["steamcmd/steamcmd.exe", "+login anonymous", f"+app_info_request {appid}", "+login anonymous", f"+app_info_print {appid}", "+quit"], stdout=subprocess.PIPE, stderr=subprocess.PIPE).stdout.decode()
+            ln_dirty_vdf_data = subprocess.run(["steamcmd/steamcmd.exe", "+login anonymous", f"+app_info_request {appid}", "+login anonymous", f"+app_info_print {appid}", "+logoff", "+quit"], stdout=subprocess.PIPE, stderr=subprocess.PIPE).stdout.decode()
 
         ln_cleaned_vdf_data = mikus.extract_vdf(ln_dirty_vdf_data)
 
@@ -198,7 +198,7 @@ if args.remove_empty:
             print("no appinfo.vdf to remove")
     else:
         try:
-            os.remove("C:/Program Files (x86)/Steam/appcache/appinfo.vdf")
+            os.remove("steamcmd/appcache/appinfo.vdf")
         except:
             print("no appinfo.vdf to remove or Steam not installed in default location C:\nIf you installed Steam elsewhere please remove this file manually\n '/Steam/appcache/appinfo.vdf' as I am too lazy to learn how to check your registry for the correct path.")
 
